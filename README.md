@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chittoralovesh/Leetcode/tree/master/0001-two-sum) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chittoralovesh/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+## Greedy
+|  |
+| ------- |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+## Sorting
+|  |
+| ------- |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 <!---LeetCode Topics End-->
