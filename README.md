@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chittoralovesh/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/chittoralovesh/Leetcode/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/chittoralovesh/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chittoralovesh/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Search
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/chittoralovesh/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/chittoralovesh/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
 |  |
