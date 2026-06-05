@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/chittoralovesh/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/chittoralovesh/Leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/chittoralovesh/Leetcode/tree/master/0009-palindrome-number) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/chittoralovesh/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Recursion
