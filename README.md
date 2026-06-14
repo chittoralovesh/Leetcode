@@ -129,12 +129,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/chittoralovesh/Leetcode/tree/master/0100-same-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/chittoralovesh/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/chittoralovesh/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/chittoralovesh/Leetcode/tree/master/0100-same-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/chittoralovesh/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Trie
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/chittoralovesh/Leetcode/tree/master/0100-same-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/chittoralovesh/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Bit Manipulation
@@ -175,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/chittoralovesh/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/chittoralovesh/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
