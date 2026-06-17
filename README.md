@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chittoralovesh/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3660-jump-game-ix](https://github.com/chittoralovesh/Leetcode/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/chittoralovesh/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3838-weighted-word-mapping](https://github.com/chittoralovesh/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/chittoralovesh/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0055-jump-game](https://github.com/chittoralovesh/Leetcode/tree/master/0055-jump-game) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3660-jump-game-ix](https://github.com/chittoralovesh/Leetcode/tree/master/3660-jump-game-ix) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/chittoralovesh/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Enumeration
