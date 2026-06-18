@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/chittoralovesh/Leetcode/tree/master/0031-next-permutation) |
 | [0051-n-queens](https://github.com/chittoralovesh/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/chittoralovesh/Leetcode/tree/master/0055-jump-game) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chittoralovesh/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/chittoralovesh/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/chittoralovesh/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/chittoralovesh/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/chittoralovesh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/chittoralovesh/Leetcode/tree/master/0055-jump-game) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chittoralovesh/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chittoralovesh/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/chittoralovesh/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/chittoralovesh/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/chittoralovesh/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/chittoralovesh/Leetcode/tree/master/0018-4sum) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chittoralovesh/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chittoralovesh/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
