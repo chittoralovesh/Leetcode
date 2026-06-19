@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/chittoralovesh/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/chittoralovesh/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/chittoralovesh/Leetcode/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/chittoralovesh/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/chittoralovesh/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/chittoralovesh/Leetcode/tree/master/0055-jump-game) |
 | [1732-find-the-highest-altitude](https://github.com/chittoralovesh/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/chittoralovesh/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/chittoralovesh/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chittoralovesh/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/chittoralovesh/Leetcode/tree/master/0037-sudoku-solver) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/chittoralovesh/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Linked List
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chittoralovesh/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/chittoralovesh/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/chittoralovesh/Leetcode/tree/master/0051-n-queens) |
 ## Depth-First Search
 |  |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/chittoralovesh/Leetcode/tree/master/0100-same-tree) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/chittoralovesh/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
