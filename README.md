@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/chittoralovesh/Leetcode/tree/master/0031-next-permutation) |
 | [0051-n-queens](https://github.com/chittoralovesh/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/chittoralovesh/Leetcode/tree/master/0055-jump-game) |
+| [1732-find-the-highest-altitude](https://github.com/chittoralovesh/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chittoralovesh/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/chittoralovesh/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/chittoralovesh/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/chittoralovesh/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/chittoralovesh/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Tree
 |  |
