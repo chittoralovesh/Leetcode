@@ -1,0 +1,241 @@
+{
+  "3sum": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "3sum-closest": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "4sum": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "add-two-numbers": [
+    "Linked List",
+    "Math",
+    "Recursion"
+  ],
+  "angle-between-hands-of-a-clock": [
+    "Math"
+  ],
+  "container-with-most-water": [
+    "Array",
+    "Two Pointers",
+    "Greedy"
+  ],
+  "create-binary-tree-from-descriptions": [
+    "Array",
+    "Hash Table",
+    "Tree",
+    "Binary Tree"
+  ],
+  "delete-the-middle-node-of-a-linked-list": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "earliest-finish-time-for-land-and-water-rides-i": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Greedy",
+    "Sorting"
+  ],
+  "earliest-finish-time-for-land-and-water-rides-ii": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Greedy",
+    "Sorting"
+  ],
+  "find-the-highest-altitude": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "integer-to-roman": [
+    "Hash Table",
+    "Math",
+    "String"
+  ],
+  "jump-game": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "jump-game-ix": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "left-and-right-sum-differences": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "length-of-last-word": [
+    "String"
+  ],
+  "letter-combinations-of-a-phone-number": [
+    "Hash Table",
+    "String",
+    "Backtracking"
+  ],
+  "longest-common-prefix": [
+    "Array",
+    "String",
+    "Trie"
+  ],
+  "longest-palindromic-substring": [
+    "Two Pointers",
+    "String",
+    "Dynamic Programming"
+  ],
+  "longest-substring-without-repeating-characters": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
+  "maximum-building-height": [
+    "Array",
+    "Math",
+    "Sorting"
+  ],
+  "maximum-ice-cream-bars": [
+    "Array",
+    "Greedy",
+    "Sorting",
+    "Counting Sort"
+  ],
+  "maximum-total-subarray-value-i": [
+    "Array",
+    "Greedy"
+  ],
+  "maximum-total-subarray-value-ii": [
+    "Array",
+    "Greedy",
+    "Segment Tree",
+    "Heap (Priority Queue)"
+  ],
+  "maximum-twin-sum-of-a-linked-list": [
+    "Linked List",
+    "Two Pointers",
+    "Stack"
+  ],
+  "median-of-two-sorted-arrays": [
+    "Array",
+    "Binary Search",
+    "Divide and Conquer"
+  ],
+  "minimum-cost-of-buying-candies-with-discount": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "n-queens": [
+    "Array",
+    "Backtracking"
+  ],
+  "next-permutation": [
+    "Array",
+    "Two Pointers"
+  ],
+  "number-of-ways-to-assign-edge-weights-i": [
+    "Math",
+    "Tree",
+    "Depth-First Search"
+  ],
+  "number-of-ways-to-assign-edge-weights-ii": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Bit Manipulation",
+    "Tree",
+    "Depth-First Search"
+  ],
+  "palindrome-number": [
+    "Math"
+  ],
+  "partition-array-according-to-given-pivot": [
+    "Array",
+    "Two Pointers",
+    "Simulation"
+  ],
+  "permutation-sequence": [
+    "Math",
+    "Recursion"
+  ],
+  "process-string-with-special-operations-i": [
+    "String",
+    "Simulation"
+  ],
+  "process-string-with-special-operations-ii": [
+    "String",
+    "Simulation"
+  ],
+  "regular-expression-matching": [
+    "String",
+    "Dynamic Programming",
+    "Recursion"
+  ],
+  "remove-duplicates-from-sorted-list-ii": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "reverse-integer": [
+    "Math"
+  ],
+  "roman-to-integer": [
+    "Hash Table",
+    "Math",
+    "String"
+  ],
+  "same-tree": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "separate-squares-ii": [
+    "Array",
+    "Binary Search",
+    "Segment Tree",
+    "Sweep Line"
+  ],
+  "string-to-integer-atoi": [
+    "String"
+  ],
+  "sudoku-solver": [
+    "Array",
+    "Hash Table",
+    "Backtracking",
+    "Matrix"
+  ],
+  "total-waviness-of-numbers-in-range-i": [
+    "Math",
+    "Dynamic Programming",
+    "Enumeration"
+  ],
+  "total-waviness-of-numbers-in-range-ii": [
+    "Math",
+    "Dynamic Programming"
+  ],
+  "two-sum": [
+    "Array",
+    "Hash Table"
+  ],
+  "weighted-word-mapping": [
+    "Array",
+    "String",
+    "Simulation"
+  ],
+  "wildcard-matching": [
+    "String",
+    "Dynamic Programming",
+    "Greedy",
+    "Recursion"
+  ],
+  "zigzag-conversion": [
+    "String"
+  ]
+}
