@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-51-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-52-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-12-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-28-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-29-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-11-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-27%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-28%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-21%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-2%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 51 |
+| **Total problems solved** | 52 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (26), `String` (14), `Math` (12), `Two Pointers` (12), `Greedy` (9) |
-| **Last updated** | 2026-06-21 18:12:26 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (27), `String` (14), `Math` (13), `Two Pointers` (12), `Greedy` (9) |
+| **Last updated** | 2026-06-21 18:13:49 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     12  █████░░░░░░░░░░░░░░░   23.5%
-🟡 Medium   28  ███████████░░░░░░░░░   54.9%
-🔴 Hard     11  ████░░░░░░░░░░░░░░░░   21.6%
+🟢 Easy     12  █████░░░░░░░░░░░░░░░   23.1%
+🟡 Medium   29  ███████████░░░░░░░░░   55.8%
+🔴 Hard     11  ████░░░░░░░░░░░░░░░░   21.2%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 26 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 27 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -63,6 +63,7 @@
 | 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
 | 0051 | [N Queens](0051-n-queens) | 🔴 HARD |
 | 0055 | [Jump Game](0055-jump-game) | 🟡 MEDIUM |
+| 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🟡 MEDIUM |
 | 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD |
@@ -105,7 +106,7 @@
 </details>
 
 <details>
-<summary><b>Math</b> &nbsp;·&nbsp; 12 problem(s)</summary>
+<summary><b>Math</b> &nbsp;·&nbsp; 13 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -116,6 +117,7 @@
 | 0012 | [Integer To Roman](0012-integer-to-roman) | 🟡 MEDIUM |
 | 0013 | [Roman To Integer](0013-roman-to-integer) | 🟢 EASY |
 | 0060 | [Permutation Sequence](0060-permutation-sequence) | 🔴 HARD |
+| 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🟡 MEDIUM |
 | 1344 | [Angle Between Hands Of A Clock](1344-angle-between-hands-of-a-clock) | 🟡 MEDIUM |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD |
 | 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
@@ -165,6 +167,23 @@
 </details>
 
 <details>
+<summary><b>Hash Table</b> &nbsp;·&nbsp; 8 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0001 | [Two Sum](0001-two-sum) | 🟢 EASY |
+| 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters) | 🟡 MEDIUM |
+| 0012 | [Integer To Roman](0012-integer-to-roman) | 🟡 MEDIUM |
+| 0013 | [Roman To Integer](0013-roman-to-integer) | 🟢 EASY |
+| 0017 | [Letter Combinations Of A Phone Number](0017-letter-combinations-of-a-phone-number) | 🟡 MEDIUM |
+| 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
+| 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🟡 MEDIUM |
+| 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 8 problem(s)</summary>
 
 
@@ -195,22 +214,6 @@
 | 2144 | [Minimum Cost Of Buying Candies With Discount](2144-minimum-cost-of-buying-candies-with-discount) | 🟢 EASY |
 | 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
 | 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Hash Table</b> &nbsp;·&nbsp; 7 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0001 | [Two Sum](0001-two-sum) | 🟢 EASY |
-| 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters) | 🟡 MEDIUM |
-| 0012 | [Integer To Roman](0012-integer-to-roman) | 🟡 MEDIUM |
-| 0013 | [Roman To Integer](0013-roman-to-integer) | 🟢 EASY |
-| 0017 | [Letter Combinations Of A Phone Number](0017-letter-combinations-of-a-phone-number) | 🟡 MEDIUM |
-| 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
-| 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
 
 </details>
 
@@ -387,6 +390,16 @@
 </details>
 
 <details>
+<summary><b>Geometry</b> &nbsp;·&nbsp; 1 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Database</b> &nbsp;·&nbsp; 1 problem(s)</summary>
 
 
@@ -490,6 +503,7 @@
 | 0060 | [Permutation Sequence](0060-permutation-sequence) | 🔴 HARD | Math, Recursion | PY |
 | 0082 | [Remove Duplicates From Sorted List Ii](0082-remove-duplicates-from-sorted-list-ii) | 🟡 MEDIUM | Linked List, Two Pointers | PY |
 | 0100 | [Same Tree](0100-same-tree) | 🟢 EASY | Tree, Depth-First Search, Breadth-First Search +1 | CPP |
+| 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🟡 MEDIUM | Array, Hash Table, Math +1 | PY |
 | 0183 | [Customers Who Never Order](0183-customers-who-never-order) | 🟢 EASY | Database | — |
 | 1344 | [Angle Between Hands Of A Clock](1344-angle-between-hands-of-a-clock) | 🟡 MEDIUM | Math | PY |
 | 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY | Array, Prefix Sum | PY |
@@ -526,26 +540,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-06-21 18:12:26 UTC_
+_Generated on 2026-06-21 18:13:49 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0149-max-points-on-a-line](https://github.com/chittoralovesh/Leetcode/tree/master/0149-max-points-on-a-line) |
-## Hash Table
-|  |
-| ------- |
-| [0149-max-points-on-a-line](https://github.com/chittoralovesh/Leetcode/tree/master/0149-max-points-on-a-line) |
-## Math
-|  |
-| ------- |
-| [0149-max-points-on-a-line](https://github.com/chittoralovesh/Leetcode/tree/master/0149-max-points-on-a-line) |
-## Geometry
-|  |
-| ------- |
-| [0149-max-points-on-a-line](https://github.com/chittoralovesh/Leetcode/tree/master/0149-max-points-on-a-line) |
-<!---LeetCode Topics End-->

@@ -99,6 +99,12 @@
     "String",
     "Sliding Window"
   ],
+  "max-points-on-a-line": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Geometry"
+  ],
   "maximum-building-height": [
     "Array",
     "Math",
