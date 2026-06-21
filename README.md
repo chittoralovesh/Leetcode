@@ -564,3 +564,11 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-06-21 19:22:16 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Dynamic Programming
+|  |
+| ------- |
+| [0576-out-of-boundary-paths](https://github.com/chittoralovesh/Leetcode/tree/master/0576-out-of-boundary-paths) |
+<!---LeetCode Topics End-->
