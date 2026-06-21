@@ -5,11 +5,16 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-![Total Solved](https://img.shields.io/badge/Total%20Solved-50-5865F2?style=for-the-badge) ![Easy](https://img.shields.io/badge/Easy-11-2ECC71?style=for-the-badge) ![Medium](https://img.shields.io/badge/Medium-28-F1C40F?style=for-the-badge) ![Hard](https://img.shields.io/badge/Hard-11-E74C3C?style=for-the-badge)
+<img src="https://img.shields.io/badge/Total%20Solved-50-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Easy-11-2ECC71?style=for-the-badge" alt="Easy" />
+<img src="https://img.shields.io/badge/Medium-28-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Hard-11-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-![PY](https://img.shields.io/badge/PY-27%20solved-3776AB?style=for-the-badge) ![CPP](https://img.shields.io/badge/CPP-21%20solved-00599C?style=for-the-badge) ![JAVA](https://img.shields.io/badge/JAVA-2%20solved-ED8B00?style=for-the-badge)
+<img src="https://img.shields.io/badge/PY-27%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/CPP-21%20solved-00599C?style=for-the-badge" alt="CPP" />
+<img src="https://img.shields.io/badge/JAVA-2%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
 
 
@@ -24,7 +29,7 @@
 | **Total problems solved** | 50 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (26), `String` (14), `Math` (12), `Two Pointers` (12), `Greedy` (9) |
-| **Last updated** | 2026-06-21 12:21:48 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-06-21 12:56:21 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
@@ -510,6 +515,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-06-21 12:21:48 UTC_
+_Generated on 2026-06-21 12:56:21 UTC_
 
 </div>
