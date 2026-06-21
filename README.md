@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/chittoralovesh/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/chittoralovesh/Leetcode/tree/master/0055-jump-game) |
 | [1732-find-the-highest-altitude](https://github.com/chittoralovesh/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/chittoralovesh/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/chittoralovesh/Leetcode/tree/master/1840-maximum-building-height) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chittoralovesh/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/chittoralovesh/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/chittoralovesh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/chittoralovesh/Leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/chittoralovesh/Leetcode/tree/master/0055-jump-game) |
+| [1833-maximum-ice-cream-bars](https://github.com/chittoralovesh/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chittoralovesh/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chittoralovesh/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/chittoralovesh/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/chittoralovesh/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/chittoralovesh/Leetcode/tree/master/0018-4sum) |
+| [1833-maximum-ice-cream-bars](https://github.com/chittoralovesh/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/chittoralovesh/Leetcode/tree/master/1840-maximum-building-height) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chittoralovesh/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chittoralovesh/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -222,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/chittoralovesh/Leetcode/tree/master/0037-sudoku-solver) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/chittoralovesh/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
