@@ -22,6 +22,10 @@
   "angle-between-hands-of-a-clock": [
     "Math"
   ],
+  "coin-change-ii": [
+    "Array",
+    "Dynamic Programming"
+  ],
   "container-with-most-water": [
     "Array",
     "Two Pointers",

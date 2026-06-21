@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-54-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-55-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-13-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-29-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-30-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-12-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-30%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-31%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-21%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-2%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 54 |
+| **Total problems solved** | 55 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (27), `String` (15), `Math` (13), `Two Pointers` (12), `Greedy` (10) |
-| **Last updated** | 2026-06-21 19:20:24 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (28), `String` (15), `Math` (13), `Two Pointers` (12), `Greedy` (10) |
+| **Last updated** | 2026-06-21 19:21:18 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     13  █████░░░░░░░░░░░░░░░   24.1%
-🟡 Medium   29  ███████████░░░░░░░░░   53.7%
-🔴 Hard     12  ████░░░░░░░░░░░░░░░░   22.2%
+🟢 Easy     13  █████░░░░░░░░░░░░░░░   23.6%
+🟡 Medium   30  ███████████░░░░░░░░░   54.5%
+🔴 Hard     12  ████░░░░░░░░░░░░░░░░   21.8%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 27 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 28 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -64,6 +64,7 @@
 | 0051 | [N Queens](0051-n-queens) | 🔴 HARD |
 | 0055 | [Jump Game](0055-jump-game) | 🟡 MEDIUM |
 | 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
+| 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM |
 | 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD |
@@ -187,7 +188,7 @@
 </details>
 
 <details>
-<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 8 problem(s)</summary>
+<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 9 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -196,6 +197,7 @@
 | 0010 | [Regular Expression Matching](0010-regular-expression-matching) | 🔴 HARD |
 | 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD |
 | 0055 | [Jump Game](0055-jump-game) | 🟡 MEDIUM |
+| 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
 | 3660 | [Jump Game Ix](3660-jump-game-ix) | 🟡 MEDIUM |
 | 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM |
@@ -521,6 +523,7 @@
 | 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM | Stack, Design | PY |
 | 0183 | [Customers Who Never Order](0183-customers-who-never-order) | 🟢 EASY | Database | — |
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY | Hash Table, String, Greedy | PY |
+| 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM | Array, Dynamic Programming | PY |
 | 1344 | [Angle Between Hands Of A Clock](1344-angle-between-hands-of-a-clock) | 🟡 MEDIUM | Math | PY |
 | 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY | Array, Prefix Sum | PY |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM | Array, Greedy, Sorting +1 | PY |
@@ -556,18 +559,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-06-21 19:20:24 UTC_
+_Generated on 2026-06-21 19:21:18 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0518-coin-change-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0518-coin-change-ii) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0518-coin-change-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0518-coin-change-ii) |
-<!---LeetCode Topics End-->
