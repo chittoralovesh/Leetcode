@@ -108,6 +108,9 @@
     "String",
     "Sliding Window"
   ],
+  "managers-with-at-least-5-direct-reports": [
+    "Database"
+  ],
   "max-points-on-a-line": [
     "Array",
     "Hash Table",
