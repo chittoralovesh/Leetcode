@@ -562,3 +562,11 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-06-21 19:21:18 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/chittoralovesh/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
+<!---LeetCode Topics End-->
