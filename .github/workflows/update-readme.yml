@@ -12,14 +12,25 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-      - run: python scripts/generate_readme.py
-      - run: |
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate README stats
+        run: python scripts/generate_readme.py
+
+      - name: Commit and push changes
+        run: |
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
-          git add README.md
-          git diff --cached --quiet || (git commit -m "📊 Auto-update README [skip ci]" && git push)
+          git add README.md topics_cache.json
+          git diff --cached --quiet || (git commit -m "Auto-update README with LeetCode stats [skip ci]" && git push)
