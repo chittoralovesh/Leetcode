@@ -566,3 +566,15 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-06-21 19:22:59 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/chittoralovesh/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
+## Simulation
+|  |
+| ------- |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/chittoralovesh/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
+<!---LeetCode Topics End-->
