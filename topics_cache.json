@@ -178,6 +178,9 @@
     "Tree",
     "Depth-First Search"
   ],
+  "out-of-boundary-paths": [
+    "Dynamic Programming"
+  ],
   "palindrome-number": [
     "Math"
   ],
