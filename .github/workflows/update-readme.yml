@@ -1,0 +1,46 @@
+name: Update README with LeetCode Stats
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '*/README.md'
+      - 'stats.json'
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install requests pyyaml
+
+      - name: Generate README stats
+        run: python scripts/generate_readme.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "📊 Update README with latest LeetCode stats [skip ci]"
+            git push
