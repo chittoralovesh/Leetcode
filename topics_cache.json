@@ -58,6 +58,10 @@
     "Greedy",
     "Sorting"
   ],
+  "execution-of-all-suffix-instructions-staying-in-a-grid": [
+    "String",
+    "Simulation"
+  ],
   "find-the-highest-altitude": [
     "Array",
     "Prefix Sum"

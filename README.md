@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-57-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-58-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-13-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-32-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-33-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-12-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-32%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-33%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-21%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-2%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 57 |
+| **Total problems solved** | 58 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (28), `String` (15), `Math` (13), `Two Pointers` (12), `Dynamic Programming` (10) |
-| **Last updated** | 2026-06-21 19:22:59 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (28), `String` (16), `Math` (13), `Two Pointers` (12), `Dynamic Programming` (10) |
+| **Last updated** | 2026-06-21 19:23:53 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     13  █████░░░░░░░░░░░░░░░   22.8%
-🟡 Medium   32  ███████████░░░░░░░░░   56.1%
-🔴 Hard     12  ████░░░░░░░░░░░░░░░░   21.1%
+🟢 Easy     13  ████░░░░░░░░░░░░░░░░   22.4%
+🟡 Medium   33  ███████████░░░░░░░░░   56.9%
+🔴 Hard     12  ████░░░░░░░░░░░░░░░░   20.7%
 ```
 
 
@@ -84,7 +84,7 @@
 </details>
 
 <details>
-<summary><b>String</b> &nbsp;·&nbsp; 15 problem(s)</summary>
+<summary><b>String</b> &nbsp;·&nbsp; 16 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -101,6 +101,7 @@
 | 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD |
 | 0058 | [Length Of Last Word](0058-length-of-last-word) | 🟢 EASY |
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
+| 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM |
 | 3612 | [Process String With Special Operations I](3612-process-string-with-special-operations-i) | 🟡 MEDIUM |
 | 3614 | [Process String With Special Operations Ii](3614-process-string-with-special-operations-ii) | 🔴 HARD |
 | 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY |
@@ -224,6 +225,20 @@
 </details>
 
 <details>
+<summary><b>Simulation</b> &nbsp;·&nbsp; 5 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM |
+| 2161 | [Partition Array According To Given Pivot](2161-partition-array-according-to-given-pivot) | 🟡 MEDIUM |
+| 3612 | [Process String With Special Operations I](3612-process-string-with-special-operations-i) | 🟡 MEDIUM |
+| 3614 | [Process String With Special Operations Ii](3614-process-string-with-special-operations-ii) | 🔴 HARD |
+| 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY |
+
+</details>
+
+<details>
 <summary><b>Linked List</b> &nbsp;·&nbsp; 4 problem(s)</summary>
 
 
@@ -272,19 +287,6 @@
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
 | 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Simulation</b> &nbsp;·&nbsp; 4 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 2161 | [Partition Array According To Given Pivot](2161-partition-array-according-to-given-pivot) | 🟡 MEDIUM |
-| 3612 | [Process String With Special Operations I](3612-process-string-with-special-operations-i) | 🟡 MEDIUM |
-| 3614 | [Process String With Special Operations Ii](3614-process-string-with-special-operations-ii) | 🔴 HARD |
-| 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY |
 
 </details>
 
@@ -533,6 +535,7 @@
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM | Array, Greedy, Sorting +1 | PY |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD | Array, Math, Sorting | PY |
 | 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM | Linked List, Two Pointers | PY |
+| 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM | String, Simulation | PY |
 | 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM | Linked List, Two Pointers, Stack | CPP |
 | 2144 | [Minimum Cost Of Buying Candies With Discount](2144-minimum-cost-of-buying-candies-with-discount) | 🟢 EASY | Array, Greedy, Sorting | PY |
 | 2161 | [Partition Array According To Given Pivot](2161-partition-array-according-to-given-pivot) | 🟡 MEDIUM | Array, Two Pointers, Simulation | PY |
@@ -563,18 +566,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-06-21 19:22:59 UTC_
+_Generated on 2026-06-21 19:23:53 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/chittoralovesh/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
-## Simulation
-|  |
-| ------- |
-| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/chittoralovesh/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
-<!---LeetCode Topics End-->
