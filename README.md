@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-52-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-53-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-12-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-29-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-11-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-12-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-28%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-29%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-21%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-2%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 52 |
+| **Total problems solved** | 53 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (27), `String` (14), `Math` (13), `Two Pointers` (12), `Greedy` (9) |
-| **Last updated** | 2026-06-21 18:13:49 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-06-21 19:19:00 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     12  █████░░░░░░░░░░░░░░░   23.1%
-🟡 Medium   29  ███████████░░░░░░░░░   55.8%
-🔴 Hard     11  ████░░░░░░░░░░░░░░░░   21.2%
+🟢 Easy     12  █████░░░░░░░░░░░░░░░   22.6%
+🟡 Medium   29  ███████████░░░░░░░░░   54.7%
+🔴 Hard     12  █████░░░░░░░░░░░░░░░   22.6%
 ```
 
 
@@ -63,7 +63,7 @@
 | 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
 | 0051 | [N Queens](0051-n-queens) | 🔴 HARD |
 | 0055 | [Jump Game](0055-jump-game) | 🟡 MEDIUM |
-| 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🟡 MEDIUM |
+| 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
 | 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD |
@@ -117,7 +117,7 @@
 | 0012 | [Integer To Roman](0012-integer-to-roman) | 🟡 MEDIUM |
 | 0013 | [Roman To Integer](0013-roman-to-integer) | 🟢 EASY |
 | 0060 | [Permutation Sequence](0060-permutation-sequence) | 🔴 HARD |
-| 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🟡 MEDIUM |
+| 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
 | 1344 | [Angle Between Hands Of A Clock](1344-angle-between-hands-of-a-clock) | 🟡 MEDIUM |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD |
 | 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
@@ -178,7 +178,7 @@
 | 0013 | [Roman To Integer](0013-roman-to-integer) | 🟢 EASY |
 | 0017 | [Letter Combinations Of A Phone Number](0017-letter-combinations-of-a-phone-number) | 🟡 MEDIUM |
 | 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
-| 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🟡 MEDIUM |
+| 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
 
 </details>
@@ -318,6 +318,17 @@
 </details>
 
 <details>
+<summary><b>Stack</b> &nbsp;·&nbsp; 2 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM |
+| 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Prefix Sum</b> &nbsp;·&nbsp; 2 problem(s)</summary>
 
 
@@ -395,7 +406,17 @@
 
 | # | Problem | Difficulty |
 |---|---|---|
-| 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🟡 MEDIUM |
+| 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
+
+</details>
+
+<details>
+<summary><b>Design</b> &nbsp;·&nbsp; 1 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM |
 
 </details>
 
@@ -416,16 +437,6 @@
 | # | Problem | Difficulty |
 |---|---|---|
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Stack</b> &nbsp;·&nbsp; 1 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
 
 </details>
 
@@ -503,7 +514,8 @@
 | 0060 | [Permutation Sequence](0060-permutation-sequence) | 🔴 HARD | Math, Recursion | PY |
 | 0082 | [Remove Duplicates From Sorted List Ii](0082-remove-duplicates-from-sorted-list-ii) | 🟡 MEDIUM | Linked List, Two Pointers | PY |
 | 0100 | [Same Tree](0100-same-tree) | 🟢 EASY | Tree, Depth-First Search, Breadth-First Search +1 | CPP |
-| 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🟡 MEDIUM | Array, Hash Table, Math +1 | PY |
+| 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD | Array, Hash Table, Math +1 | PY |
+| 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM | Stack, Design | PY |
 | 0183 | [Customers Who Never Order](0183-customers-who-never-order) | 🟢 EASY | Database | — |
 | 1344 | [Angle Between Hands Of A Clock](1344-angle-between-hands-of-a-clock) | 🟡 MEDIUM | Math | PY |
 | 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY | Array, Prefix Sum | PY |
@@ -540,18 +552,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-06-21 18:13:49 UTC_
+_Generated on 2026-06-21 19:19:00 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Stack
-|  |
-| ------- |
-| [0155-min-stack](https://github.com/chittoralovesh/Leetcode/tree/master/0155-min-stack) |
-## Design
-|  |
-| ------- |
-| [0155-min-stack](https://github.com/chittoralovesh/Leetcode/tree/master/0155-min-stack) |
-<!---LeetCode Topics End-->

@@ -136,6 +136,10 @@
     "Binary Search",
     "Divide and Conquer"
   ],
+  "min-stack": [
+    "Stack",
+    "Design"
+  ],
   "minimum-cost-of-buying-candies-with-discount": [
     "Array",
     "Greedy",
