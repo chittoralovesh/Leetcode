@@ -89,6 +89,11 @@
     "String",
     "Trie"
   ],
+  "longest-palindrome": [
+    "Hash Table",
+    "String",
+    "Greedy"
+  ],
   "longest-palindromic-substring": [
     "Two Pointers",
     "String",
