@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""
-Generate interactive README with LeetCode stats
-Parses problem directories and creates formatted output
-"""
-
 import os
 import json
 import re
@@ -11,58 +6,64 @@ from datetime import datetime
 from collections import defaultdict
 from pathlib import Path
 
-# Get repo root
 REPO_ROOT = Path(__file__).parent.parent
 PROBLEMS_DIR = REPO_ROOT
 
 def load_stats():
-    """Load stats.json if it exists"""
+    """Load stats.json"""
     stats_file = REPO_ROOT / "stats.json"
     if stats_file.exists():
         with open(stats_file, 'r') as f:
             return json.load(f)
-    return {}
+    return {'leetcode': {'easy': 0, 'medium': 0, 'hard': 0, 'shas': {}}}
 
 def parse_problems():
-    """Parse problem directories and extract metadata"""
+    """Parse problem directories"""
     problems = []
     stats_data = load_stats()
-    leetcode_stats = stats_data.get('leetcode', {})
-    shas = leetcode_stats.get('shas', {})
+    shas = stats_data.get('leetcode', {}).get('shas', {})
     
-    for item in sorted(PROBLEMS_DIR.iterdir()):
-        if item.is_dir() and re.match(r'^\d{4}-', item.name):
+    try:
+        for item in sorted(PROBLEMS_DIR.iterdir()):
+            if not item.is_dir():
+                continue
+            if not re.match(r'^\d{4}-', item.name):
+                continue
+                
             problem_name = item.name
             readme_path = item / "README.md"
             
-            # Get difficulty from stats.json
+            if not readme_path.exists():
+                continue
+            
             problem_stats = shas.get(problem_name, {})
             difficulty = problem_stats.get('difficulty', 'medium').upper()
-            
-            # Parse problem title from folder name
             title = problem_name.split('-', 1)[1].replace('-', ' ').title()
             
-            # Find solution file
             solution_file = None
-            for file in item.iterdir():
-                if file.name.endswith(('.cpp', '.java', '.py', '.js', '.go')):
-                    solution_file = file.name
-                    break
+            try:
+                for file in item.iterdir():
+                    if file.is_file() and file.name.endswith(('.cpp', '.java', '.py', '.js', '.go')):
+                        solution_file = file.name
+                        break
+            except:
+                pass
             
-            if readme_path.exists():
-                problems.append({
-                    'id': problem_name.split('-')[0],
-                    'folder': problem_name,
-                    'title': title,
-                    'difficulty': difficulty,
-                    'solution': solution_file or 'N/A',
-                    'language': solution_file.split('.')[-1] if solution_file else 'N/A'
-                })
+            problems.append({
+                'id': problem_name.split('-')[0],
+                'folder': problem_name,
+                'title': title,
+                'difficulty': difficulty,
+                'solution': solution_file or 'N/A',
+                'language': solution_file.split('.')[-1].upper() if solution_file else '—'
+            })
+    except Exception as e:
+        print(f"Error parsing problems: {e}")
     
     return sorted(problems, key=lambda x: int(x['id']))
 
 def calculate_stats(problems):
-    """Calculate problem statistics"""
+    """Calculate stats"""
     stats = {
         'total': len(problems),
         'easy': len([p for p in problems if p['difficulty'] == 'EASY']),
@@ -72,39 +73,32 @@ def calculate_stats(problems):
     }
     
     for problem in problems:
-        if problem['language'] != 'N/A':
-            stats['languages'][problem['language']] += 1
+        if problem['language'] != '—':
+            lang_key = problem['language'].lower()
+            stats['languages'][lang_key] += 1
     
     return stats
 
-def get_difficulty_color(difficulty):
-    """Get emoji for difficulty"""
-    colors = {
-        'EASY': '🟢',
-        'MEDIUM': '🟡',
-        'HARD': '🔴'
-    }
-    return colors.get(difficulty, '⚪')
-
 def generate_problems_table(problems):
-    """Generate markdown table for problems"""
+    """Generate markdown table"""
+    if not problems:
+        return "No problems found yet.\n"
+    
     table = "| # | Title | Difficulty | Language | Solution |\n"
     table += "|---|-------|-----------|----------|----------|\n"
     
     for p in problems:
-        difficulty_emoji = get_difficulty_color(p['difficulty'])
+        diff_emoji = '🟢' if p['difficulty'] == 'EASY' else ('🟡' if p['difficulty'] == 'MEDIUM' else '🔴')
         link = f"[{p['folder']}]({p['folder']})"
-        lang = p['language'].upper() if p['language'] != 'N/A' else '—'
         sol_link = f"[{p['solution']}]({p['folder']}/{p['solution']})" if p['solution'] != 'N/A' else 'N/A'
-        
-        table += f"| {p['id']} | {link} | {difficulty_emoji} {p['difficulty']} | {lang} | {sol_link} |\n"
+        table += f"| {p['id']} | {link} | {diff_emoji} {p['difficulty']} | {p['language']} | {sol_link} |\n"
     
     return table
 
 def generate_language_stats(stats):
     """Generate language distribution"""
     if not stats['languages']:
-        return "No language data available."
+        return "### 💻 Language Distribution\n\nNo language data yet.\n\n"
     
     total = sum(stats['languages'].values())
     output = "### 💻 Language Distribution\n\n"
@@ -121,18 +115,21 @@ def generate_language_stats(stats):
     return output
 
 def generate_difficulty_distribution(stats):
-    """Generate difficulty distribution"""
+    """Generate difficulty breakdown"""
     total = stats['total']
+    if total == 0:
+        return "### 📊 Difficulty Breakdown\n\nNo problems solved yet.\n\n"
+    
     output = "### 📊 Difficulty Breakdown\n\n"
     output += f"```\n"
-    output += f"  Easy   {stats['easy']:3d}  {'█' * (stats['easy'] // 2)}  ({stats['easy']/total*100:.1f}%)\n"
-    output += f"  Medium {stats['medium']:3d}  {'█' * (stats['medium'] // 2)}  ({stats['medium']/total*100:.1f}%)\n"
-    output += f"  Hard   {stats['hard']:3d}  {'█' * (stats['hard'] // 2)}  ({stats['hard']/total*100:.1f}%)\n"
+    output += f"  Easy   {stats['easy']:3d}  {'█' * max(1, stats['easy'] // 2)}  ({stats['easy']/total*100:.1f}%)\n"
+    output += f"  Medium {stats['medium']:3d}  {'█' * max(1, stats['medium'] // 2)}  ({stats['medium']/total*100:.1f}%)\n"
+    output += f"  Hard   {stats['hard']:3d}  {'█' * max(1, stats['hard'] // 2)}  ({stats['hard']/total*100:.1f}%)\n"
     output += f"```\n\n"
     return output
 
 def generate_stats_badges(stats):
-    """Generate attractive stat badges"""
+    """Generate badges"""
     badges = f"![Problems Solved](https://img.shields.io/badge/Problems%20Solved-{stats['total']}-blue?style=for-the-badge)\n"
     badges += f"![Easy](https://img.shields.io/badge/Easy-{stats['easy']}-green?style=for-the-badge)\n"
     badges += f"![Medium](https://img.shields.io/badge/Medium-{stats['medium']}-yellow?style=for-the-badge)\n"
@@ -140,11 +137,16 @@ def generate_stats_badges(stats):
     return badges
 
 def generate_quick_stats(stats):
-    """Generate quick stats section"""
+    """Generate quick stats"""
     total = stats['total']
-    easy_pct = (stats['easy'] / total * 100) if total > 0 else 0
-    medium_pct = (stats['medium'] / total * 100) if total > 0 else 0
-    hard_pct = (stats['hard'] / total * 100) if total > 0 else 0
+    if total == 0:
+        easy_pct = medium_pct = hard_pct = 0
+    else:
+        easy_pct = (stats['easy'] / total * 100)
+        medium_pct = (stats['medium'] / total * 100)
+        hard_pct = (stats['hard'] / total * 100)
+    
+    langs = ', '.join(map(str.upper, stats['languages'].keys())) if stats['languages'] else 'N/A'
     
     output = "## 📈 Quick Stats\n\n"
     output += f"| Metric | Value |\n"
@@ -153,13 +155,13 @@ def generate_quick_stats(stats):
     output += f"| **Easy** | {stats['easy']} ({easy_pct:.1f}%) |\n"
     output += f"| **Medium** | {stats['medium']} ({medium_pct:.1f}%) |\n"
     output += f"| **Hard** | {stats['hard']} ({hard_pct:.1f}%) |\n"
-    output += f"| **Languages Used** | {', '.join(map(str.upper, stats['languages'].keys()))} |\n"
+    output += f"| **Languages Used** | {langs} |\n"
     output += f"| **Last Updated** | {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC |\n\n"
     
     return output
 
 def generate_readme(problems, stats):
-    """Generate complete README content"""
+    """Generate complete README"""
     readme = """# 💻 LeetCode Solutions
 
 > A comprehensive collection of LeetCode problems solved across multiple programming languages.  
@@ -169,23 +171,13 @@ def generate_readme(problems, stats):
 
 """
     
-    # Add badges
     readme += generate_stats_badges(stats)
-    
-    # Add quick stats
     readme += generate_quick_stats(stats)
-    
-    # Add difficulty breakdown
     readme += generate_difficulty_distribution(stats)
-    
-    # Add language stats
     readme += generate_language_stats(stats)
-    
-    # Add problems table
     readme += "## 📚 Problem Solutions\n\n"
     readme += generate_problems_table(problems)
     
-    # Add footer
     readme += f"""
 ---
 
@@ -217,25 +209,21 @@ This repository is auto-updated using **GitHub Actions**. Every time a new probl
     return readme
 
 def main():
-    """Main execution"""
     print("🔍 Parsing LeetCode problems...")
     problems = parse_problems()
-    
     print(f"📊 Found {len(problems)} problems")
+    
     stats = calculate_stats(problems)
+    print(f"✅ Easy: {stats['easy']}, Medium: {stats['medium']}, Hard: {stats['hard']}")
     
     print("✍️  Generating README...")
     readme_content = generate_readme(problems, stats)
     
-    # Write README
     readme_path = REPO_ROOT / "README.md"
     with open(readme_path, 'w') as f:
         f.write(readme_content)
     
-    print(f"✅ README updated successfully!")
-    print(f"   - {stats['total']} problems documented")
-    print(f"   - {stats['easy']} Easy, {stats['medium']} Medium, {stats['hard']} Hard")
-    print(f"   - Languages: {', '.join(map(str.upper, stats['languages'].keys()))}")
+    print("✅ README updated successfully!")
 
 if __name__ == "__main__":
     main()
