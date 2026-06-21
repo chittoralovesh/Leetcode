@@ -5,8 +5,8 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-50-5865F2?style=for-the-badge" alt="Total Solved" />
-<img src="https://img.shields.io/badge/Easy-11-2ECC71?style=for-the-badge" alt="Easy" />
+<img src="https://img.shields.io/badge/Total%20Solved-51-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Easy-12-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-28-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-11-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 50 |
+| **Total problems solved** | 51 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (26), `String` (14), `Math` (12), `Two Pointers` (12), `Greedy` (9) |
-| **Last updated** | 2026-06-21 12:56:21 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-06-21 18:12:10 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     11  ████░░░░░░░░░░░░░░░░   22.0%
-🟡 Medium   28  ███████████░░░░░░░░░   56.0%
-🔴 Hard     11  ████░░░░░░░░░░░░░░░░   22.0%
+🟢 Easy     12  █████░░░░░░░░░░░░░░░   23.5%
+🟡 Medium   28  ███████████░░░░░░░░░   54.9%
+🔴 Hard     11  ████░░░░░░░░░░░░░░░░   21.6%
 ```
 
 
@@ -387,6 +387,16 @@
 </details>
 
 <details>
+<summary><b>Database</b> &nbsp;·&nbsp; 1 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0183 | [Customers Who Never Order](0183-customers-who-never-order) | 🟢 EASY |
+
+</details>
+
+<details>
 <summary><b>Counting Sort</b> &nbsp;·&nbsp; 1 problem(s)</summary>
 
 
@@ -480,6 +490,7 @@
 | 0060 | [Permutation Sequence](0060-permutation-sequence) | 🔴 HARD | Math, Recursion | PY |
 | 0082 | [Remove Duplicates From Sorted List Ii](0082-remove-duplicates-from-sorted-list-ii) | 🟡 MEDIUM | Linked List, Two Pointers | PY |
 | 0100 | [Same Tree](0100-same-tree) | 🟢 EASY | Tree, Depth-First Search, Breadth-First Search +1 | CPP |
+| 0183 | [Customers Who Never Order](0183-customers-who-never-order) | 🟢 EASY | Database | — |
 | 1344 | [Angle Between Hands Of A Clock](1344-angle-between-hands-of-a-clock) | 🟡 MEDIUM | Math | PY |
 | 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY | Array, Prefix Sum | PY |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM | Array, Greedy, Sorting +1 | PY |
@@ -515,14 +526,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-06-21 12:56:21 UTC_
+_Generated on 2026-06-21 18:12:10 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0183-customers-who-never-order](https://github.com/chittoralovesh/Leetcode/tree/master/0183-customers-who-never-order) |
-<!---LeetCode Topics End-->

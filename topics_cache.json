@@ -33,6 +33,9 @@
     "Tree",
     "Binary Tree"
   ],
+  "customers-who-never-order": [
+    "Database"
+  ],
   "delete-the-middle-node-of-a-linked-list": [
     "Linked List",
     "Two Pointers"
