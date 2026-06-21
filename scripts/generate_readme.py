@@ -168,7 +168,11 @@ LANG_BADGE_COLOR = {
 def shield(label, value, color):
     label_enc = label.replace(" ", "%20")
     value_enc = str(value).replace(" ", "%20")
-    return f"![{label}](https://img.shields.io/badge/{label_enc}-{value_enc}-{color}?style=for-the-badge)"
+    return (
+        f'<img src="https://img.shields.io/badge/'
+        f'{label_enc}-{value_enc}-{color}?style=for-the-badge" '
+        f'alt="{label}" />'
+    )
 
 
 def render_badges(stats):
@@ -178,17 +182,24 @@ def render_badges(stats):
         shield("Medium", stats["medium"], "F1C40F"),
         shield("Hard", stats["hard"], "E74C3C"),
     ]
-    return "<p align=\"center\">\n" + " ".join(badges) + "\n</p>\n"
+    return '<p align="center">\n' + "\n".join(badges) + "\n</p>\n"
 
 
 def render_lang_badges(stats):
     if not stats["languages"]:
         return ""
+
     badges = []
-    for lang, count in sorted(stats["languages"].items(), key=lambda x: -x[1]):
+    for lang, count in sorted(
+        stats["languages"].items(),
+        key=lambda x: -x[1]
+    ):
         color = LANG_BADGE_COLOR.get(lang.upper(), "777777")
-        badges.append(shield(lang.upper(), f"{count} solved", color))
-    return "<p align=\"center\">\n" + " ".join(badges) + "\n</p>\n"
+        badges.append(
+            shield(lang.upper(), f"{count} solved", color)
+        )
+
+    return '<p align="center">\n' + "\n".join(badges) + "\n</p>\n"
 
 
 def render_difficulty_bars(stats):
