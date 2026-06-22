@@ -132,6 +132,11 @@
     "Sorting",
     "Counting Sort"
   ],
+  "maximum-number-of-balloons": [
+    "Hash Table",
+    "String",
+    "Counting"
+  ],
   "maximum-total-subarray-value-i": [
     "Array",
     "Greedy"
