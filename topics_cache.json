@@ -191,6 +191,10 @@
     "Tree",
     "Depth-First Search"
   ],
+  "number-of-zigzag-arrays-i": [
+    "Dynamic Programming",
+    "Prefix Sum"
+  ],
   "out-of-boundary-paths": [
     "Dynamic Programming"
   ],
