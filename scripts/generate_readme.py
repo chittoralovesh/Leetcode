@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=LeetCode+Journey+%F0%9F%9A%80;50%2B+Problems+Solved;Python+%7C+C%2B%2B+%7C+Java;Preparing+for+SDE+Internships" />
-
-</div>
-
 #!/usr/bin/env python3
 """
 Generate an attractive, auto-updating README for the LeetCode repo.
