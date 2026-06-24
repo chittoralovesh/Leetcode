@@ -5,15 +5,15 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-61-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-62-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-14-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-34-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-13-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-14-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/PY-36%20solved-3776AB?style=for-the-badge" alt="PY" />
-<img src="https://img.shields.io/badge/CPP-21%20solved-00599C?style=for-the-badge" alt="CPP" />
+<img src="https://img.shields.io/badge/CPP-22%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-2%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
 
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 61 |
+| **Total problems solved** | 62 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (29), `String` (17), `Math` (13), `Two Pointers` (12), `Dynamic Programming` (12) |
-| **Last updated** | 2026-06-24 05:49:10 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (29), `String` (17), `Math` (14), `Dynamic Programming` (13), `Two Pointers` (12) |
+| **Last updated** | 2026-06-24 05:54:16 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     14  █████░░░░░░░░░░░░░░░   23.0%
-🟡 Medium   34  ███████████░░░░░░░░░   55.7%
-🔴 Hard     13  ████░░░░░░░░░░░░░░░░   21.3%
+🟢 Easy     14  █████░░░░░░░░░░░░░░░   22.6%
+🟡 Medium   34  ███████████░░░░░░░░░   54.8%
+🔴 Hard     14  █████░░░░░░░░░░░░░░░   22.6%
 ```
 
 
@@ -111,7 +111,7 @@
 </details>
 
 <details>
-<summary><b>Math</b> &nbsp;·&nbsp; 13 problem(s)</summary>
+<summary><b>Math</b> &nbsp;·&nbsp; 14 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -127,6 +127,29 @@
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD |
 | 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
+| 3700 | [Number Of Zigzag Arrays Ii](3700-number-of-zigzag-arrays-ii) | 🔴 HARD |
+| 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM |
+| 3753 | [Total Waviness Of Numbers In Range Ii](3753-total-waviness-of-numbers-in-range-ii) | 🔴 HARD |
+
+</details>
+
+<details>
+<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 13 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring) | 🟡 MEDIUM |
+| 0010 | [Regular Expression Matching](0010-regular-expression-matching) | 🔴 HARD |
+| 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD |
+| 0055 | [Jump Game](0055-jump-game) | 🟡 MEDIUM |
+| 0123 | [Best Time To Buy And Sell Stock Iii](0123-best-time-to-buy-and-sell-stock-iii) | 🔴 HARD |
+| 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM |
+| 0576 | [Out Of Boundary Paths](0576-out-of-boundary-paths) | 🟡 MEDIUM |
+| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
+| 3660 | [Jump Game Ix](3660-jump-game-ix) | 🟡 MEDIUM |
+| 3699 | [Number Of Zigzag Arrays I](3699-number-of-zigzag-arrays-i) | 🟡 MEDIUM |
+| 3700 | [Number Of Zigzag Arrays Ii](3700-number-of-zigzag-arrays-ii) | 🔴 HARD |
 | 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM |
 | 3753 | [Total Waviness Of Numbers In Range Ii](3753-total-waviness-of-numbers-in-range-ii) | 🔴 HARD |
 
@@ -150,27 +173,6 @@
 | 2161 | [Partition Array According To Given Pivot](2161-partition-array-according-to-given-pivot) | 🟡 MEDIUM |
 | 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
 | 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 12 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring) | 🟡 MEDIUM |
-| 0010 | [Regular Expression Matching](0010-regular-expression-matching) | 🔴 HARD |
-| 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD |
-| 0055 | [Jump Game](0055-jump-game) | 🟡 MEDIUM |
-| 0123 | [Best Time To Buy And Sell Stock Iii](0123-best-time-to-buy-and-sell-stock-iii) | 🔴 HARD |
-| 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM |
-| 0576 | [Out Of Boundary Paths](0576-out-of-boundary-paths) | 🟡 MEDIUM |
-| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
-| 3660 | [Jump Game Ix](3660-jump-game-ix) | 🟡 MEDIUM |
-| 3699 | [Number Of Zigzag Arrays I](3699-number-of-zigzag-arrays-i) | 🟡 MEDIUM |
-| 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM |
-| 3753 | [Total Waviness Of Numbers In Range Ii](3753-total-waviness-of-numbers-in-range-ii) | 🔴 HARD |
 
 </details>
 
@@ -570,6 +572,7 @@
 | 3689 | [Maximum Total Subarray Value I](3689-maximum-total-subarray-value-i) | 🟡 MEDIUM | Array, Greedy | PY |
 | 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM | Array, Greedy, Segment Tree +1 | PY |
 | 3699 | [Number Of Zigzag Arrays I](3699-number-of-zigzag-arrays-i) | 🟡 MEDIUM | Dynamic Programming, Prefix Sum | PY |
+| 3700 | [Number Of Zigzag Arrays Ii](3700-number-of-zigzag-arrays-ii) | 🔴 HARD | Math, Dynamic Programming | CPP |
 | 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM | Math, Dynamic Programming, Enumeration | CPP |
 | 3753 | [Total Waviness Of Numbers In Range Ii](3753-total-waviness-of-numbers-in-range-ii) | 🔴 HARD | Math, Dynamic Programming | CPP |
 | 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY | Array, String, Simulation | CPP |
@@ -585,18 +588,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-06-24 05:49:10 UTC_
+_Generated on 2026-06-24 05:54:16 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [3700-number-of-zigzag-arrays-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
-## Dynamic Programming
-|  |
-| ------- |
-| [3700-number-of-zigzag-arrays-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
-<!---LeetCode Topics End-->
