@@ -30,7 +30,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config user.email "action@github.com"
-          git config user.name "GitHub Action"
+          git config user.email "281591568+chittoralovesh@users.noreply.github.com"
+          git config user.name "Lovesh Chittora"
           git add README.md topics_cache.json
           git diff --cached --quiet || (git commit -m "Auto-update README with LeetCode stats [skip ci]" && git push)
