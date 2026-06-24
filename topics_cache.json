@@ -62,6 +62,9 @@
     "Greedy",
     "Sorting"
   ],
+  "employees-earning-more-than-their-managers": [
+    "Database"
+  ],
   "execution-of-all-suffix-instructions-staying-in-a-grid": [
     "String",
     "Simulation"

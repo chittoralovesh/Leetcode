@@ -5,9 +5,9 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-62-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-63-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-14-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-34-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-35-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-14-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 62 |
+| **Total problems solved** | 63 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (29), `String` (17), `Math` (14), `Dynamic Programming` (13), `Two Pointers` (12) |
-| **Last updated** | 2026-06-24 05:54:16 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-06-24 18:19:41 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     14  █████░░░░░░░░░░░░░░░   22.6%
-🟡 Medium   34  ███████████░░░░░░░░░   54.8%
-🔴 Hard     14  █████░░░░░░░░░░░░░░░   22.6%
+🟢 Easy     14  ████░░░░░░░░░░░░░░░░   22.2%
+🟡 Medium   35  ███████████░░░░░░░░░   55.6%
+🔴 Hard     14  ████░░░░░░░░░░░░░░░░   22.2%
 ```
 
 
@@ -322,6 +322,18 @@
 </details>
 
 <details>
+<summary><b>Database</b> &nbsp;·&nbsp; 3 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0181 | [Employees Earning More Than Their Managers](0181-employees-earning-more-than-their-managers) | 🟡 MEDIUM |
+| 0183 | [Customers Who Never Order](0183-customers-who-never-order) | 🟢 EASY |
+| 0570 | [Managers With At Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Prefix Sum</b> &nbsp;·&nbsp; 3 problem(s)</summary>
 
 
@@ -352,17 +364,6 @@
 |---|---|---|
 | 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM |
 | 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Database</b> &nbsp;·&nbsp; 2 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0183 | [Customers Who Never Order](0183-customers-who-never-order) | 🟢 EASY |
-| 0570 | [Managers With At Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 MEDIUM |
 
 </details>
 
@@ -544,6 +545,7 @@
 | 0123 | [Best Time To Buy And Sell Stock Iii](0123-best-time-to-buy-and-sell-stock-iii) | 🔴 HARD | Array, Dynamic Programming | PY |
 | 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD | Array, Hash Table, Math +1 | PY |
 | 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM | Stack, Design | PY |
+| 0181 | [Employees Earning More Than Their Managers](0181-employees-earning-more-than-their-managers) | 🟡 MEDIUM | Database | — |
 | 0183 | [Customers Who Never Order](0183-customers-who-never-order) | 🟢 EASY | Database | — |
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY | Hash Table, String, Greedy | PY |
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM | Array, Dynamic Programming | PY |
@@ -588,14 +590,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-06-24 05:54:16 UTC_
+_Generated on 2026-06-24 18:19:41 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0181-employees-earning-more-than-their-managers](https://github.com/chittoralovesh/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
-<!---LeetCode Topics End-->
