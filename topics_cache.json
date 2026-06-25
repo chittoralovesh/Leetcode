@@ -35,6 +35,15 @@
     "Two Pointers",
     "Greedy"
   ],
+  "count-subarrays-with-majority-element-i": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Segment Tree",
+    "Merge Sort",
+    "Counting",
+    "Prefix Sum"
+  ],
   "create-binary-tree-from-descriptions": [
     "Array",
     "Hash Table",
