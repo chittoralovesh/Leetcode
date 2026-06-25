@@ -616,3 +616,19 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-06-25 07:33:15 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/chittoralovesh/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+## Greedy
+|  |
+| ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/chittoralovesh/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+## Sorting
+|  |
+| ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/chittoralovesh/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+<!---LeetCode Topics End-->
