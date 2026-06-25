@@ -635,3 +635,11 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-06-25 18:52:52 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/chittoralovesh/Leetcode/tree/master/0328-odd-even-linked-list) |
+<!---LeetCode Topics End-->
