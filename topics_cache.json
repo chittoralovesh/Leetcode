@@ -287,6 +287,13 @@
     "Greedy",
     "Recursion"
   ],
+  "word-search-ii": [
+    "Array",
+    "String",
+    "Backtracking",
+    "Trie",
+    "Matrix"
+  ],
   "zigzag-conversion": [
     "String"
   ]
