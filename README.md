@@ -642,3 +642,31 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-06-25 18:57:32 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0839-similar-string-groups](https://github.com/chittoralovesh/Leetcode/tree/master/0839-similar-string-groups) |
+## Hash Table
+|  |
+| ------- |
+| [0839-similar-string-groups](https://github.com/chittoralovesh/Leetcode/tree/master/0839-similar-string-groups) |
+## String
+|  |
+| ------- |
+| [0839-similar-string-groups](https://github.com/chittoralovesh/Leetcode/tree/master/0839-similar-string-groups) |
+## Depth-First Search
+|  |
+| ------- |
+| [0839-similar-string-groups](https://github.com/chittoralovesh/Leetcode/tree/master/0839-similar-string-groups) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0839-similar-string-groups](https://github.com/chittoralovesh/Leetcode/tree/master/0839-similar-string-groups) |
+## Union-Find
+|  |
+| ------- |
+| [0839-similar-string-groups](https://github.com/chittoralovesh/Leetcode/tree/master/0839-similar-string-groups) |
+<!---LeetCode Topics End-->
