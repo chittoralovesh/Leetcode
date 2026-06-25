@@ -284,6 +284,14 @@
     "Segment Tree",
     "Sweep Line"
   ],
+  "similar-string-groups": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find"
+  ],
   "string-to-integer-atoi": [
     "String"
   ],
