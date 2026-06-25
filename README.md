@@ -5,15 +5,15 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-66-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-67-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-15-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-35-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-36-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-16-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/PY-39%20solved-3776AB?style=for-the-badge" alt="PY" />
-<img src="https://img.shields.io/badge/CPP-22%20solved-00599C?style=for-the-badge" alt="CPP" />
+<img src="https://img.shields.io/badge/CPP-23%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-2%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
 
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 66 |
+| **Total problems solved** | 67 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (32), `String` (18), `Math` (14), `Dynamic Programming` (13), `Two Pointers` (12) |
-| **Last updated** | 2026-06-25 07:34:43 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (33), `String` (18), `Math` (14), `Dynamic Programming` (13), `Two Pointers` (12) |
+| **Last updated** | 2026-06-25 18:52:52 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     15  █████░░░░░░░░░░░░░░░   22.7%
-🟡 Medium   35  ███████████░░░░░░░░░   53.0%
-🔴 Hard     16  █████░░░░░░░░░░░░░░░   24.2%
+🟢 Easy     15  ████░░░░░░░░░░░░░░░░   22.4%
+🟡 Medium   36  ███████████░░░░░░░░░   53.7%
+🔴 Hard     16  █████░░░░░░░░░░░░░░░   23.9%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 32 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 33 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -65,6 +65,7 @@
 | 0055 | [Jump Game](0055-jump-game) | 🟡 MEDIUM |
 | 0123 | [Best Time To Buy And Sell Stock Iii](0123-best-time-to-buy-and-sell-stock-iii) | 🔴 HARD |
 | 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
+| 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
 | 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM |
 | 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD |
@@ -318,6 +319,19 @@
 </details>
 
 <details>
+<summary><b>Depth-First Search</b> &nbsp;·&nbsp; 4 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
+| 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
+| 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
+| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Prefix Sum</b> &nbsp;·&nbsp; 4 problem(s)</summary>
 
 
@@ -331,14 +345,14 @@
 </details>
 
 <details>
-<summary><b>Depth-First Search</b> &nbsp;·&nbsp; 3 problem(s)</summary>
+<summary><b>Matrix</b> &nbsp;·&nbsp; 3 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
 |---|---|---|
-| 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
-| 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
-| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
+| 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
+| 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
+| 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
 
 </details>
 
@@ -389,13 +403,13 @@
 </details>
 
 <details>
-<summary><b>Matrix</b> &nbsp;·&nbsp; 2 problem(s)</summary>
+<summary><b>Breadth-First Search</b> &nbsp;·&nbsp; 2 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
 |---|---|---|
-| 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
-| 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
+| 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
+| 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
 
 </details>
 
@@ -443,16 +457,6 @@
 </details>
 
 <details>
-<summary><b>Breadth-First Search</b> &nbsp;·&nbsp; 1 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
-
-</details>
-
-<details>
 <summary><b>Geometry</b> &nbsp;·&nbsp; 1 problem(s)</summary>
 
 
@@ -469,6 +473,16 @@
 | # | Problem | Difficulty |
 |---|---|---|
 | 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM |
+
+</details>
+
+<details>
+<summary><b>Union-Find</b> &nbsp;·&nbsp; 1 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
 
 </details>
 
@@ -571,6 +585,7 @@
 | 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM | Stack, Design | PY |
 | 0181 | [Employees Earning More Than Their Managers](0181-employees-earning-more-than-their-managers) | 🟢 EASY | Database | — |
 | 0183 | [Customers Who Never Order](0183-customers-who-never-order) | 🟢 EASY | Database | — |
+| 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM | Array, Depth-First Search, Breadth-First Search +2 | CPP |
 | 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD | Array, String, Backtracking +2 | PY |
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY | Hash Table, String, Greedy | PY |
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM | Array, Dynamic Programming | PY |
@@ -617,30 +632,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-06-25 07:34:43 UTC_
+_Generated on 2026-06-25 18:52:52 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0200-number-of-islands](https://github.com/chittoralovesh/Leetcode/tree/master/0200-number-of-islands) |
-## Depth-First Search
-|  |
-| ------- |
-| [0200-number-of-islands](https://github.com/chittoralovesh/Leetcode/tree/master/0200-number-of-islands) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0200-number-of-islands](https://github.com/chittoralovesh/Leetcode/tree/master/0200-number-of-islands) |
-## Union-Find
-|  |
-| ------- |
-| [0200-number-of-islands](https://github.com/chittoralovesh/Leetcode/tree/master/0200-number-of-islands) |
-## Matrix
-|  |
-| ------- |
-| [0200-number-of-islands](https://github.com/chittoralovesh/Leetcode/tree/master/0200-number-of-islands) |
-<!---LeetCode Topics End-->
