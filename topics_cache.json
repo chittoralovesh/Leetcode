@@ -182,6 +182,11 @@
     "Greedy",
     "Sorting"
   ],
+  "minimum-initial-energy-to-finish-tasks": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
   "n-queens": [
     "Array",
     "Backtracking"
