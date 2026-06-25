@@ -87,6 +87,12 @@
     "Math",
     "String"
   ],
+  "ipo": [
+    "Array",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
   "jump-game": [
     "Array",
     "Dynamic Programming",
