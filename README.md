@@ -637,3 +637,23 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-06-25 18:56:09 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0502-ipo](https://github.com/chittoralovesh/Leetcode/tree/master/0502-ipo) |
+## Greedy
+|  |
+| ------- |
+| [0502-ipo](https://github.com/chittoralovesh/Leetcode/tree/master/0502-ipo) |
+## Sorting
+|  |
+| ------- |
+| [0502-ipo](https://github.com/chittoralovesh/Leetcode/tree/master/0502-ipo) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/chittoralovesh/Leetcode/tree/master/0502-ipo) |
+<!---LeetCode Topics End-->
