@@ -5,16 +5,16 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-70-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-71-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-15-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-38-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-17-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Medium-37-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Hard-19-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/PY-39%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-23%20solved-00599C?style=for-the-badge" alt="CPP" />
-<img src="https://img.shields.io/badge/JAVA-5%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
+<img src="https://img.shields.io/badge/JAVA-6%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
 
 
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 70 |
+| **Total problems solved** | 71 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (35), `String` (19), `Math` (14), `Dynamic Programming` (13), `Hash Table` (12) |
-| **Last updated** | 2026-06-26 04:10:19 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (36), `String` (19), `Math` (14), `Hash Table` (13), `Dynamic Programming` (13) |
+| **Last updated** | 2026-06-26 17:47:57 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     15  ████░░░░░░░░░░░░░░░░   21.4%
-🟡 Medium   38  ███████████░░░░░░░░░   54.3%
-🔴 Hard     17  █████░░░░░░░░░░░░░░░   24.3%
+🟢 Easy     15  ████░░░░░░░░░░░░░░░░   21.1%
+🟡 Medium   37  ██████████░░░░░░░░░░   52.1%
+🔴 Hard     19  █████░░░░░░░░░░░░░░░   26.8%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 35 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 36 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -69,7 +69,7 @@
 | 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD |
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM |
-| 0839 | [Similar String Groups](0839-similar-string-groups) | 🟡 MEDIUM |
+| 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 | 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD |
 | 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM |
@@ -86,6 +86,7 @@
 | 3689 | [Maximum Total Subarray Value I](3689-maximum-total-subarray-value-i) | 🟡 MEDIUM |
 | 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
 | 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
+| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
 | 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY |
 
 </details>
@@ -109,7 +110,7 @@
 | 0058 | [Length Of Last Word](0058-length-of-last-word) | 🟢 EASY |
 | 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
-| 0839 | [Similar String Groups](0839-similar-string-groups) | 🟡 MEDIUM |
+| 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
 | 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM |
 | 3612 | [Process String With Special Operations I](3612-process-string-with-special-operations-i) | 🟡 MEDIUM |
@@ -142,6 +143,28 @@
 </details>
 
 <details>
+<summary><b>Hash Table</b> &nbsp;·&nbsp; 13 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0001 | [Two Sum](0001-two-sum) | 🟢 EASY |
+| 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters) | 🟡 MEDIUM |
+| 0012 | [Integer To Roman](0012-integer-to-roman) | 🟡 MEDIUM |
+| 0013 | [Roman To Integer](0013-roman-to-integer) | 🟢 EASY |
+| 0017 | [Letter Combinations Of A Phone Number](0017-letter-combinations-of-a-phone-number) | 🟡 MEDIUM |
+| 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
+| 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
+| 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
+| 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
+| 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
+| 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
+| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
+| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 13 problem(s)</summary>
 
 
@@ -160,27 +183,6 @@
 | 3700 | [Number Of Zigzag Arrays Ii](3700-number-of-zigzag-arrays-ii) | 🔴 HARD |
 | 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM |
 | 3753 | [Total Waviness Of Numbers In Range Ii](3753-total-waviness-of-numbers-in-range-ii) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Hash Table</b> &nbsp;·&nbsp; 12 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0001 | [Two Sum](0001-two-sum) | 🟢 EASY |
-| 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters) | 🟡 MEDIUM |
-| 0012 | [Integer To Roman](0012-integer-to-roman) | 🟡 MEDIUM |
-| 0013 | [Roman To Integer](0013-roman-to-integer) | 🟢 EASY |
-| 0017 | [Letter Combinations Of A Phone Number](0017-letter-combinations-of-a-phone-number) | 🟡 MEDIUM |
-| 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
-| 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
-| 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
-| 0839 | [Similar String Groups](0839-similar-string-groups) | 🟡 MEDIUM |
-| 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
-| 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
-| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
 
 </details>
 
@@ -267,9 +269,23 @@
 |---|---|---|
 | 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
 | 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
-| 0839 | [Similar String Groups](0839-similar-string-groups) | 🟡 MEDIUM |
+| 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 | 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
+
+</details>
+
+<details>
+<summary><b>Prefix Sum</b> &nbsp;·&nbsp; 5 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY |
+| 2574 | [Left And Right Sum Differences](2574-left-and-right-sum-differences) | 🟢 EASY |
+| 3699 | [Number Of Zigzag Arrays I](3699-number-of-zigzag-arrays-i) | 🟡 MEDIUM |
+| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
+| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
 
 </details>
 
@@ -340,15 +356,27 @@
 </details>
 
 <details>
-<summary><b>Prefix Sum</b> &nbsp;·&nbsp; 4 problem(s)</summary>
+<summary><b>Segment Tree</b> &nbsp;·&nbsp; 4 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
 |---|---|---|
-| 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY |
-| 2574 | [Left And Right Sum Differences](2574-left-and-right-sum-differences) | 🟢 EASY |
-| 3699 | [Number Of Zigzag Arrays I](3699-number-of-zigzag-arrays-i) | 🟡 MEDIUM |
+| 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD |
+| 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
 | 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
+| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
+
+</details>
+
+<details>
+<summary><b>Divide and Conquer</b> &nbsp;·&nbsp; 3 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0004 | [Median Of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 HARD |
+| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
+| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
 
 </details>
 
@@ -372,7 +400,7 @@
 |---|---|---|
 | 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
 | 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
-| 0839 | [Similar String Groups](0839-similar-string-groups) | 🟡 MEDIUM |
+| 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 
 </details>
 
@@ -385,29 +413,6 @@
 | 0181 | [Employees Earning More Than Their Managers](0181-employees-earning-more-than-their-managers) | 🟢 EASY |
 | 0183 | [Customers Who Never Order](0183-customers-who-never-order) | 🟢 EASY |
 | 0570 | [Managers With At Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Segment Tree</b> &nbsp;·&nbsp; 3 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD |
-| 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
-| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Divide and Conquer</b> &nbsp;·&nbsp; 2 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0004 | [Median Of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 HARD |
-| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
 
 </details>
 
@@ -451,7 +456,7 @@
 | # | Problem | Difficulty |
 |---|---|---|
 | 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
-| 0839 | [Similar String Groups](0839-similar-string-groups) | 🟡 MEDIUM |
+| 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 
 </details>
 
@@ -474,6 +479,17 @@
 |---|---|---|
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
 | 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
+
+</details>
+
+<details>
+<summary><b>Merge Sort</b> &nbsp;·&nbsp; 2 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
+| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
 
 </details>
 
@@ -538,16 +554,6 @@
 </details>
 
 <details>
-<summary><b>Merge Sort</b> &nbsp;·&nbsp; 1 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
-
-</details>
-
-<details>
 <summary><b>Enumeration</b> &nbsp;·&nbsp; 1 problem(s)</summary>
 
 
@@ -604,7 +610,7 @@
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM | Array, Dynamic Programming | PY |
 | 0570 | [Managers With At Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 MEDIUM | Database | — |
 | 0576 | [Out Of Boundary Paths](0576-out-of-boundary-paths) | 🟡 MEDIUM | Dynamic Programming | PY |
-| 0839 | [Similar String Groups](0839-similar-string-groups) | 🟡 MEDIUM | Array, Hash Table, String +3 | JAVA |
+| 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD | Array, Hash Table, String +3 | JAVA |
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY | Hash Table, String, Counting | PY |
 | 1344 | [Angle Between Hands Of A Clock](1344-angle-between-hands-of-a-clock) | 🟡 MEDIUM | Math | PY |
 | 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD | Array, Greedy, Sorting | PY |
@@ -631,6 +637,7 @@
 | 3699 | [Number Of Zigzag Arrays I](3699-number-of-zigzag-arrays-i) | 🟡 MEDIUM | Dynamic Programming, Prefix Sum | PY |
 | 3700 | [Number Of Zigzag Arrays Ii](3700-number-of-zigzag-arrays-ii) | 🔴 HARD | Math, Dynamic Programming | CPP |
 | 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM | Array, Hash Table, Divide and Conquer +4 | PY |
+| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD | Array, Hash Table, Divide and Conquer +3 | JAVA |
 | 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM | Math, Dynamic Programming, Enumeration | CPP |
 | 3753 | [Total Waviness Of Numbers In Range Ii](3753-total-waviness-of-numbers-in-range-ii) | 🔴 HARD | Math, Dynamic Programming | CPP |
 | 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY | Array, String, Simulation | CPP |
@@ -646,34 +653,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-06-26 04:10:19 UTC_
+_Generated on 2026-06-26 17:47:57 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3739-count-subarrays-with-majority-element-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
-## Hash Table
-|  |
-| ------- |
-| [3739-count-subarrays-with-majority-element-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
-## Divide and Conquer
-|  |
-| ------- |
-| [3739-count-subarrays-with-majority-element-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
-## Segment Tree
-|  |
-| ------- |
-| [3739-count-subarrays-with-majority-element-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
-## Merge Sort
-|  |
-| ------- |
-| [3739-count-subarrays-with-majority-element-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
-## Prefix Sum
-|  |
-| ------- |
-| [3739-count-subarrays-with-majority-element-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
-<!---LeetCode Topics End-->

@@ -44,6 +44,14 @@
     "Counting",
     "Prefix Sum"
   ],
+  "count-subarrays-with-majority-element-ii": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Segment Tree",
+    "Merge Sort",
+    "Prefix Sum"
+  ],
   "create-binary-tree-from-descriptions": [
     "Array",
     "Hash Table",
