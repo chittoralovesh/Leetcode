@@ -5,16 +5,16 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-71-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-72-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-15-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-37-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-38-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-19-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/PY-39%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-23%20solved-00599C?style=for-the-badge" alt="CPP" />
-<img src="https://img.shields.io/badge/JAVA-6%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
+<img src="https://img.shields.io/badge/JAVA-7%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
 
 
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 71 |
+| **Total problems solved** | 72 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (36), `String` (19), `Math` (14), `Hash Table` (13), `Dynamic Programming` (13) |
-| **Last updated** | 2026-06-27 03:56:21 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (37), `String` (19), `Hash Table` (14), `Math` (14), `Dynamic Programming` (13) |
+| **Last updated** | 2026-06-27 19:45:04 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     15  ████░░░░░░░░░░░░░░░░   21.1%
-🟡 Medium   37  ██████████░░░░░░░░░░   52.1%
-🔴 Hard     19  █████░░░░░░░░░░░░░░░   26.8%
+🟢 Easy     15  ████░░░░░░░░░░░░░░░░   20.8%
+🟡 Medium   38  ███████████░░░░░░░░░   52.8%
+🔴 Hard     19  █████░░░░░░░░░░░░░░░   26.4%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 36 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 37 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -78,6 +78,7 @@
 | 2161 | [Partition Array According To Given Pivot](2161-partition-array-according-to-given-pivot) | 🟡 MEDIUM |
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
 | 2574 | [Left And Right Sum Differences](2574-left-and-right-sum-differences) | 🟢 EASY |
+| 3020 | [Find The Maximum Number Of Elements In Subset](3020-find-the-maximum-number-of-elements-in-subset) | 🟡 MEDIUM |
 | 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
 | 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
@@ -120,6 +121,29 @@
 </details>
 
 <details>
+<summary><b>Hash Table</b> &nbsp;·&nbsp; 14 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0001 | [Two Sum](0001-two-sum) | 🟢 EASY |
+| 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters) | 🟡 MEDIUM |
+| 0012 | [Integer To Roman](0012-integer-to-roman) | 🟡 MEDIUM |
+| 0013 | [Roman To Integer](0013-roman-to-integer) | 🟢 EASY |
+| 0017 | [Letter Combinations Of A Phone Number](0017-letter-combinations-of-a-phone-number) | 🟡 MEDIUM |
+| 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
+| 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
+| 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
+| 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
+| 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
+| 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
+| 3020 | [Find The Maximum Number Of Elements In Subset](3020-find-the-maximum-number-of-elements-in-subset) | 🟡 MEDIUM |
+| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
+| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Math</b> &nbsp;·&nbsp; 14 problem(s)</summary>
 
 
@@ -139,28 +163,6 @@
 | 3700 | [Number Of Zigzag Arrays Ii](3700-number-of-zigzag-arrays-ii) | 🔴 HARD |
 | 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM |
 | 3753 | [Total Waviness Of Numbers In Range Ii](3753-total-waviness-of-numbers-in-range-ii) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Hash Table</b> &nbsp;·&nbsp; 13 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0001 | [Two Sum](0001-two-sum) | 🟢 EASY |
-| 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters) | 🟡 MEDIUM |
-| 0012 | [Integer To Roman](0012-integer-to-roman) | 🟡 MEDIUM |
-| 0013 | [Roman To Integer](0013-roman-to-integer) | 🟢 EASY |
-| 0017 | [Letter Combinations Of A Phone Number](0017-letter-combinations-of-a-phone-number) | 🟡 MEDIUM |
-| 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
-| 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
-| 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
-| 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
-| 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
-| 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
-| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
-| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
 
 </details>
 
@@ -483,6 +485,17 @@
 </details>
 
 <details>
+<summary><b>Enumeration</b> &nbsp;·&nbsp; 2 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 3020 | [Find The Maximum Number Of Elements In Subset](3020-find-the-maximum-number-of-elements-in-subset) | 🟡 MEDIUM |
+| 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Merge Sort</b> &nbsp;·&nbsp; 2 problem(s)</summary>
 
 
@@ -553,16 +566,6 @@
 
 </details>
 
-<details>
-<summary><b>Enumeration</b> &nbsp;·&nbsp; 1 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM |
-
-</details>
-
 
 ---
 
@@ -624,6 +627,7 @@
 | 2161 | [Partition Array According To Given Pivot](2161-partition-array-according-to-given-pivot) | 🟡 MEDIUM | Array, Two Pointers, Simulation | PY |
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM | Array, Hash Table, Tree +1 | CPP |
 | 2574 | [Left And Right Sum Differences](2574-left-and-right-sum-differences) | 🟢 EASY | Array, Prefix Sum | CPP |
+| 3020 | [Find The Maximum Number Of Elements In Subset](3020-find-the-maximum-number-of-elements-in-subset) | 🟡 MEDIUM | Array, Hash Table, Enumeration | JAVA |
 | 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD | Array, Binary Search, Segment Tree +1 | CPP |
 | 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM | Math, Tree, Depth-First Search | CPP |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD | Array, Math, Dynamic Programming +3 | CPP |
@@ -653,22 +657,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-06-27 03:56:21 UTC_
+_Generated on 2026-06-27 19:45:04 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/chittoralovesh/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
-## Hash Table
-|  |
-| ------- |
-| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/chittoralovesh/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
-## Enumeration
-|  |
-| ------- |
-| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/chittoralovesh/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
-<!---LeetCode Topics End-->

@@ -90,6 +90,11 @@
     "Array",
     "Prefix Sum"
   ],
+  "find-the-maximum-number-of-elements-in-subset": [
+    "Array",
+    "Hash Table",
+    "Enumeration"
+  ],
   "integer-to-roman": [
     "Hash Table",
     "Math",
