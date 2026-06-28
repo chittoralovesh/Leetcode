@@ -705,3 +705,23 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-06-28 18:19:42 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1187-make-array-strictly-increasing](https://github.com/chittoralovesh/Leetcode/tree/master/1187-make-array-strictly-increasing) |
+## Binary Search
+|  |
+| ------- |
+| [1187-make-array-strictly-increasing](https://github.com/chittoralovesh/Leetcode/tree/master/1187-make-array-strictly-increasing) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1187-make-array-strictly-increasing](https://github.com/chittoralovesh/Leetcode/tree/master/1187-make-array-strictly-increasing) |
+## Sorting
+|  |
+| ------- |
+| [1187-make-array-strictly-increasing](https://github.com/chittoralovesh/Leetcode/tree/master/1187-make-array-strictly-increasing) |
+<!---LeetCode Topics End-->
