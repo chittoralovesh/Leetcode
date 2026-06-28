@@ -159,6 +159,12 @@
     "String",
     "Sliding Window"
   ],
+  "make-array-strictly-increasing": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Sorting"
+  ],
   "managers-with-at-least-5-direct-reports": [
     "Database"
   ],
