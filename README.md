@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-73-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-74-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-15-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-39-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-19-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-20-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-39%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-40%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-23%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-8%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 73 |
+| **Total problems solved** | 74 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (38), `String` (19), `Hash Table` (14), `Math` (14), `Dynamic Programming` (13) |
-| **Last updated** | 2026-06-28 12:42:06 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (39), `String` (19), `Hash Table` (14), `Math` (14), `Dynamic Programming` (14) |
+| **Last updated** | 2026-06-28 18:14:52 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     15  ████░░░░░░░░░░░░░░░░   20.5%
-🟡 Medium   39  ███████████░░░░░░░░░   53.4%
-🔴 Hard     19  █████░░░░░░░░░░░░░░░   26.0%
+🟢 Easy     15  ████░░░░░░░░░░░░░░░░   20.3%
+🟡 Medium   39  ███████████░░░░░░░░░   52.7%
+🔴 Hard     20  █████░░░░░░░░░░░░░░░   27.0%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 38 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 39 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -67,6 +67,7 @@
 | 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
 | 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
 | 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
+| 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD |
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD |
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
@@ -168,7 +169,7 @@
 </details>
 
 <details>
-<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 13 problem(s)</summary>
+<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 14 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -178,6 +179,7 @@
 | 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD |
 | 0055 | [Jump Game](0055-jump-game) | 🟡 MEDIUM |
 | 0123 | [Best Time To Buy And Sell Stock Iii](0123-best-time-to-buy-and-sell-stock-iii) | 🔴 HARD |
+| 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD |
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM |
 | 0576 | [Out Of Boundary Paths](0576-out-of-boundary-paths) | 🟡 MEDIUM |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
@@ -612,6 +614,7 @@
 | 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD | Array, String, Backtracking +2 | PY |
 | 0328 | [Odd Even Linked List](0328-odd-even-linked-list) | 🟡 MEDIUM | Linked List | JAVA |
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY | Hash Table, String, Greedy | PY |
+| 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD | Array, Dynamic Programming | PY |
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD | Array, Greedy, Sorting +1 | JAVA |
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM | Array, Dynamic Programming | PY |
 | 0570 | [Managers With At Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 MEDIUM | Database | — |
@@ -661,18 +664,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-06-28 12:42:06 UTC_
+_Generated on 2026-06-28 18:14:52 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0446-arithmetic-slices-ii-subsequence](https://github.com/chittoralovesh/Leetcode/tree/master/0446-arithmetic-slices-ii-subsequence) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0446-arithmetic-slices-ii-subsequence](https://github.com/chittoralovesh/Leetcode/tree/master/0446-arithmetic-slices-ii-subsequence) |
-<!---LeetCode Topics End-->
