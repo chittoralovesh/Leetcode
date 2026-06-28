@@ -710,3 +710,19 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-06-28 18:35:13 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chittoralovesh/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Greedy
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chittoralovesh/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Sorting
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chittoralovesh/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+<!---LeetCode Topics End-->
