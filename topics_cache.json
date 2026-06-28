@@ -161,6 +161,11 @@
     "Math",
     "Sorting"
   ],
+  "maximum-element-after-decreasing-and-rearranging": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
   "maximum-ice-cream-bars": [
     "Array",
     "Greedy",
