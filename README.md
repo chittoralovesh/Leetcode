@@ -29,7 +29,7 @@
 | **Total problems solved** | 77 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (40), `String` (20), `Dynamic Programming` (17), `Math` (15), `Hash Table` (14) |
-| **Last updated** | 2026-06-28 18:37:05 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-06-28 18:38:15 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
@@ -707,22 +707,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-06-28 18:37:05 UTC_
+_Generated on 2026-06-28 18:38:15 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chittoralovesh/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
-## Greedy
-|  |
-| ------- |
-| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chittoralovesh/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
-## Sorting
-|  |
-| ------- |
-| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chittoralovesh/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
-<!---LeetCode Topics End-->
