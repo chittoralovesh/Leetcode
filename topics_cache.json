@@ -366,6 +366,11 @@
     "Greedy",
     "Recursion"
   ],
+  "word-ladder": [
+    "Hash Table",
+    "String",
+    "Breadth-First Search"
+  ],
   "word-search-ii": [
     "Array",
     "String",
