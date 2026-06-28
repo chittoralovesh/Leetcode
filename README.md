@@ -671,3 +671,31 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-06-28 18:18:16 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/chittoralovesh/Leetcode/tree/master/0464-can-i-win) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/chittoralovesh/Leetcode/tree/master/0464-can-i-win) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/chittoralovesh/Leetcode/tree/master/0464-can-i-win) |
+## Memoization
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/chittoralovesh/Leetcode/tree/master/0464-can-i-win) |
+## Game Theory
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/chittoralovesh/Leetcode/tree/master/0464-can-i-win) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/chittoralovesh/Leetcode/tree/master/0464-can-i-win) |
+<!---LeetCode Topics End-->
