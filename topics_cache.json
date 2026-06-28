@@ -260,6 +260,11 @@
   "palindrome-number": [
     "Math"
   ],
+  "palindromic-substrings": [
+    "Two Pointers",
+    "String",
+    "Dynamic Programming"
+  ],
   "partition-array-according-to-given-pivot": [
     "Array",
     "Two Pointers",

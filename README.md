@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-74-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-75-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-15-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-39-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-40-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-20-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-40%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-41%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-23%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-8%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 74 |
+| **Total problems solved** | 75 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (39), `String` (19), `Hash Table` (14), `Math` (14), `Dynamic Programming` (14) |
-| **Last updated** | 2026-06-28 18:14:52 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (39), `String` (20), `Dynamic Programming` (15), `Hash Table` (14), `Math` (14) |
+| **Last updated** | 2026-06-28 18:18:16 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     15  ████░░░░░░░░░░░░░░░░   20.3%
-🟡 Medium   39  ███████████░░░░░░░░░   52.7%
-🔴 Hard     20  █████░░░░░░░░░░░░░░░   27.0%
+🟢 Easy     15  ████░░░░░░░░░░░░░░░░   20.0%
+🟡 Medium   40  ███████████░░░░░░░░░   53.3%
+🔴 Hard     20  █████░░░░░░░░░░░░░░░   26.7%
 ```
 
 
@@ -95,7 +95,7 @@
 </details>
 
 <details>
-<summary><b>String</b> &nbsp;·&nbsp; 19 problem(s)</summary>
+<summary><b>String</b> &nbsp;·&nbsp; 20 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -113,12 +113,37 @@
 | 0058 | [Length Of Last Word](0058-length-of-last-word) | 🟢 EASY |
 | 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
+| 0647 | [Palindromic Substrings](0647-palindromic-substrings) | 🟡 MEDIUM |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
 | 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM |
 | 3612 | [Process String With Special Operations I](3612-process-string-with-special-operations-i) | 🟡 MEDIUM |
 | 3614 | [Process String With Special Operations Ii](3614-process-string-with-special-operations-ii) | 🔴 HARD |
 | 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY |
+
+</details>
+
+<details>
+<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 15 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring) | 🟡 MEDIUM |
+| 0010 | [Regular Expression Matching](0010-regular-expression-matching) | 🔴 HARD |
+| 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD |
+| 0055 | [Jump Game](0055-jump-game) | 🟡 MEDIUM |
+| 0123 | [Best Time To Buy And Sell Stock Iii](0123-best-time-to-buy-and-sell-stock-iii) | 🔴 HARD |
+| 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD |
+| 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM |
+| 0576 | [Out Of Boundary Paths](0576-out-of-boundary-paths) | 🟡 MEDIUM |
+| 0647 | [Palindromic Substrings](0647-palindromic-substrings) | 🟡 MEDIUM |
+| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
+| 3660 | [Jump Game Ix](3660-jump-game-ix) | 🟡 MEDIUM |
+| 3699 | [Number Of Zigzag Arrays I](3699-number-of-zigzag-arrays-i) | 🟡 MEDIUM |
+| 3700 | [Number Of Zigzag Arrays Ii](3700-number-of-zigzag-arrays-ii) | 🔴 HARD |
+| 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM |
+| 3753 | [Total Waviness Of Numbers In Range Ii](3753-total-waviness-of-numbers-in-range-ii) | 🔴 HARD |
 
 </details>
 
@@ -169,25 +194,24 @@
 </details>
 
 <details>
-<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 14 problem(s)</summary>
+<summary><b>Two Pointers</b> &nbsp;·&nbsp; 13 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
 |---|---|---|
 | 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring) | 🟡 MEDIUM |
-| 0010 | [Regular Expression Matching](0010-regular-expression-matching) | 🔴 HARD |
-| 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD |
-| 0055 | [Jump Game](0055-jump-game) | 🟡 MEDIUM |
-| 0123 | [Best Time To Buy And Sell Stock Iii](0123-best-time-to-buy-and-sell-stock-iii) | 🔴 HARD |
-| 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD |
-| 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM |
-| 0576 | [Out Of Boundary Paths](0576-out-of-boundary-paths) | 🟡 MEDIUM |
-| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
-| 3660 | [Jump Game Ix](3660-jump-game-ix) | 🟡 MEDIUM |
-| 3699 | [Number Of Zigzag Arrays I](3699-number-of-zigzag-arrays-i) | 🟡 MEDIUM |
-| 3700 | [Number Of Zigzag Arrays Ii](3700-number-of-zigzag-arrays-ii) | 🔴 HARD |
-| 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM |
-| 3753 | [Total Waviness Of Numbers In Range Ii](3753-total-waviness-of-numbers-in-range-ii) | 🔴 HARD |
+| 0011 | [Container With Most Water](0011-container-with-most-water) | 🟡 MEDIUM |
+| 0015 | [3Sum](0015-3sum) | 🟡 MEDIUM |
+| 0016 | [3Sum Closest](0016-3sum-closest) | 🟡 MEDIUM |
+| 0018 | [4Sum](0018-4sum) | 🟡 MEDIUM |
+| 0031 | [Next Permutation](0031-next-permutation) | 🟡 MEDIUM |
+| 0082 | [Remove Duplicates From Sorted List Ii](0082-remove-duplicates-from-sorted-list-ii) | 🟡 MEDIUM |
+| 0647 | [Palindromic Substrings](0647-palindromic-substrings) | 🟡 MEDIUM |
+| 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM |
+| 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
+| 2161 | [Partition Array According To Given Pivot](2161-partition-array-according-to-given-pivot) | 🟡 MEDIUM |
+| 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
+| 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
 
 </details>
 
@@ -210,27 +234,6 @@
 | 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
 | 3689 | [Maximum Total Subarray Value I](3689-maximum-total-subarray-value-i) | 🟡 MEDIUM |
 | 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Two Pointers</b> &nbsp;·&nbsp; 12 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring) | 🟡 MEDIUM |
-| 0011 | [Container With Most Water](0011-container-with-most-water) | 🟡 MEDIUM |
-| 0015 | [3Sum](0015-3sum) | 🟡 MEDIUM |
-| 0016 | [3Sum Closest](0016-3sum-closest) | 🟡 MEDIUM |
-| 0018 | [4Sum](0018-4sum) | 🟡 MEDIUM |
-| 0031 | [Next Permutation](0031-next-permutation) | 🟡 MEDIUM |
-| 0082 | [Remove Duplicates From Sorted List Ii](0082-remove-duplicates-from-sorted-list-ii) | 🟡 MEDIUM |
-| 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM |
-| 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
-| 2161 | [Partition Array According To Given Pivot](2161-partition-array-according-to-given-pivot) | 🟡 MEDIUM |
-| 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
-| 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
 
 </details>
 
@@ -619,6 +622,7 @@
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM | Array, Dynamic Programming | PY |
 | 0570 | [Managers With At Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 MEDIUM | Database | — |
 | 0576 | [Out Of Boundary Paths](0576-out-of-boundary-paths) | 🟡 MEDIUM | Dynamic Programming | PY |
+| 0647 | [Palindromic Substrings](0647-palindromic-substrings) | 🟡 MEDIUM | Two Pointers, String, Dynamic Programming | PY |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD | Array, Hash Table, String +3 | JAVA |
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY | Hash Table, String, Counting | PY |
 | 1344 | [Angle Between Hands Of A Clock](1344-angle-between-hands-of-a-clock) | 🟡 MEDIUM | Math | PY |
@@ -664,22 +668,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-06-28 18:14:52 UTC_
+_Generated on 2026-06-28 18:18:16 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [0647-palindromic-substrings](https://github.com/chittoralovesh/Leetcode/tree/master/0647-palindromic-substrings) |
-## String
-|  |
-| ------- |
-| [0647-palindromic-substrings](https://github.com/chittoralovesh/Leetcode/tree/master/0647-palindromic-substrings) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0647-palindromic-substrings](https://github.com/chittoralovesh/Leetcode/tree/master/0647-palindromic-substrings) |
-<!---LeetCode Topics End-->
