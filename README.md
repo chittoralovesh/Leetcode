@@ -29,7 +29,7 @@
 | **Total problems solved** | 77 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (40), `String` (20), `Dynamic Programming` (17), `Math` (15), `Hash Table` (14) |
-| **Last updated** | 2026-06-28 18:20:41 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-06-28 18:35:13 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
@@ -707,30 +707,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-06-28 18:20:41 UTC_
+_Generated on 2026-06-28 18:35:13 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chittoralovesh/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
-## Two Pointers
-|  |
-| ------- |
-| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chittoralovesh/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
-## Binary Search
-|  |
-| ------- |
-| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chittoralovesh/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
-## Greedy
-|  |
-| ------- |
-| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chittoralovesh/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
-## Sorting
-|  |
-| ------- |
-| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chittoralovesh/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
-<!---LeetCode Topics End-->
