@@ -5,16 +5,16 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-78-5865F2?style=for-the-badge" alt="Total Solved" />
-<img src="https://img.shields.io/badge/Easy-15-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-42-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-21-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Total%20Solved-79-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Easy-16-2ECC71?style=for-the-badge" alt="Easy" />
+<img src="https://img.shields.io/badge/Medium-41-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Hard-22-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/PY-44%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-23%20solved-00599C?style=for-the-badge" alt="CPP" />
-<img src="https://img.shields.io/badge/JAVA-8%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
+<img src="https://img.shields.io/badge/JAVA-9%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
 
 
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 78 |
+| **Total problems solved** | 79 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (40), `String` (21), `Dynamic Programming` (17), `Hash Table` (15), `Math` (15) |
-| **Last updated** | 2026-06-29 04:25:21 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (41), `String` (22), `Dynamic Programming` (17), `Hash Table` (15), `Math` (15) |
+| **Last updated** | 2026-06-29 10:00:59 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     15  ████░░░░░░░░░░░░░░░░   19.2%
-🟡 Medium   42  ███████████░░░░░░░░░   53.8%
-🔴 Hard     21  █████░░░░░░░░░░░░░░░   26.9%
+🟢 Easy     16  ████░░░░░░░░░░░░░░░░   20.3%
+🟡 Medium   41  ██████████░░░░░░░░░░   51.9%
+🔴 Hard     22  ██████░░░░░░░░░░░░░░   27.8%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 40 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 41 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -77,6 +77,7 @@
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD |
 | 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM |
+| 1967 | [Number Of Strings That Appear As Substrings In Word](1967-number-of-strings-that-appear-as-substrings-in-word) | 🟢 EASY |
 | 2144 | [Minimum Cost Of Buying Candies With Discount](2144-minimum-cost-of-buying-candies-with-discount) | 🟢 EASY |
 | 2161 | [Partition Array According To Given Pivot](2161-partition-array-according-to-given-pivot) | 🟡 MEDIUM |
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
@@ -96,7 +97,7 @@
 </details>
 
 <details>
-<summary><b>String</b> &nbsp;·&nbsp; 21 problem(s)</summary>
+<summary><b>String</b> &nbsp;·&nbsp; 22 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -112,12 +113,13 @@
 | 0017 | [Letter Combinations Of A Phone Number](0017-letter-combinations-of-a-phone-number) | 🟡 MEDIUM |
 | 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD |
 | 0058 | [Length Of Last Word](0058-length-of-last-word) | 🟢 EASY |
-| 0127 | [Word Ladder](0127-word-ladder) | 🟡 MEDIUM |
+| 0127 | [Word Ladder](0127-word-ladder) | 🔴 HARD |
 | 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings) | 🟡 MEDIUM |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
+| 1967 | [Number Of Strings That Appear As Substrings In Word](1967-number-of-strings-that-appear-as-substrings-in-word) | 🟢 EASY |
 | 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM |
 | 3612 | [Process String With Special Operations I](3612-process-string-with-special-operations-i) | 🟡 MEDIUM |
 | 3614 | [Process String With Special Operations Ii](3614-process-string-with-special-operations-ii) | 🔴 HARD |
@@ -163,7 +165,7 @@
 | 0013 | [Roman To Integer](0013-roman-to-integer) | 🟢 EASY |
 | 0017 | [Letter Combinations Of A Phone Number](0017-letter-combinations-of-a-phone-number) | 🟡 MEDIUM |
 | 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
-| 0127 | [Word Ladder](0127-word-ladder) | 🟡 MEDIUM |
+| 0127 | [Word Ladder](0127-word-ladder) | 🔴 HARD |
 | 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
@@ -380,7 +382,7 @@
 | # | Problem | Difficulty |
 |---|---|---|
 | 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
-| 0127 | [Word Ladder](0127-word-ladder) | 🟡 MEDIUM |
+| 0127 | [Word Ladder](0127-word-ladder) | 🔴 HARD |
 | 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 
@@ -649,7 +651,7 @@
 | 0082 | [Remove Duplicates From Sorted List Ii](0082-remove-duplicates-from-sorted-list-ii) | 🟡 MEDIUM | Linked List, Two Pointers | PY |
 | 0100 | [Same Tree](0100-same-tree) | 🟢 EASY | Tree, Depth-First Search, Breadth-First Search +1 | CPP |
 | 0123 | [Best Time To Buy And Sell Stock Iii](0123-best-time-to-buy-and-sell-stock-iii) | 🔴 HARD | Array, Dynamic Programming | PY |
-| 0127 | [Word Ladder](0127-word-ladder) | 🟡 MEDIUM | Hash Table, String, Breadth-First Search | PY |
+| 0127 | [Word Ladder](0127-word-ladder) | 🔴 HARD | Hash Table, String, Breadth-First Search | PY |
 | 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD | Array, Hash Table, Math +1 | PY |
 | 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM | Stack, Design | PY |
 | 0181 | [Employees Earning More Than Their Managers](0181-employees-earning-more-than-their-managers) | 🟢 EASY | Database | — |
@@ -674,6 +676,7 @@
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM | Array, Greedy, Sorting +1 | PY |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD | Array, Math, Sorting | PY |
 | 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM | Array, Greedy, Sorting | JAVA |
+| 1967 | [Number Of Strings That Appear As Substrings In Word](1967-number-of-strings-that-appear-as-substrings-in-word) | 🟢 EASY | Array, String | JAVA |
 | 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM | Linked List, Two Pointers | PY |
 | 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM | String, Simulation | PY |
 | 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM | Linked List, Two Pointers, Stack | CPP |
@@ -711,18 +714,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-06-29 04:25:21 UTC_
+_Generated on 2026-06-29 10:00:59 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chittoralovesh/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
-## String
-|  |
-| ------- |
-| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chittoralovesh/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
-<!---LeetCode Topics End-->
