@@ -5,16 +5,16 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-79-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-80-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-16-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-41-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-22-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-23-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/PY-44%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-23%20solved-00599C?style=for-the-badge" alt="CPP" />
-<img src="https://img.shields.io/badge/JAVA-9%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
+<img src="https://img.shields.io/badge/JAVA-10%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
 
 
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 79 |
+| **Total problems solved** | 80 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (41), `String` (22), `Dynamic Programming` (17), `Hash Table` (15), `Math` (15) |
-| **Last updated** | 2026-06-29 10:00:59 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (42), `String` (22), `Dynamic Programming` (18), `Hash Table` (15), `Math` (15) |
+| **Last updated** | 2026-06-29 10:03:12 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     16  ████░░░░░░░░░░░░░░░░   20.3%
-🟡 Medium   41  ██████████░░░░░░░░░░   51.9%
-🔴 Hard     22  ██████░░░░░░░░░░░░░░   27.8%
+🟢 Easy     16  ████░░░░░░░░░░░░░░░░   20.0%
+🟡 Medium   41  ██████████░░░░░░░░░░   51.2%
+🔴 Hard     23  ██████░░░░░░░░░░░░░░   28.7%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 41 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 42 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -63,6 +63,7 @@
 | 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
 | 0051 | [N Queens](0051-n-queens) | 🔴 HARD |
 | 0055 | [Jump Game](0055-jump-game) | 🟡 MEDIUM |
+| 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
 | 0123 | [Best Time To Buy And Sell Stock Iii](0123-best-time-to-buy-and-sell-stock-iii) | 🔴 HARD |
 | 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
 | 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
@@ -128,7 +129,7 @@
 </details>
 
 <details>
-<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 17 problem(s)</summary>
+<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 18 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -137,6 +138,7 @@
 | 0010 | [Regular Expression Matching](0010-regular-expression-matching) | 🔴 HARD |
 | 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD |
 | 0055 | [Jump Game](0055-jump-game) | 🟡 MEDIUM |
+| 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
 | 0123 | [Best Time To Buy And Sell Stock Iii](0123-best-time-to-buy-and-sell-stock-iii) | 🔴 HARD |
 | 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD |
 | 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
@@ -363,6 +365,19 @@
 </details>
 
 <details>
+<summary><b>Matrix</b> &nbsp;·&nbsp; 4 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
+| 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
+| 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
+| 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Tree</b> &nbsp;·&nbsp; 4 problem(s)</summary>
 
 
@@ -414,14 +429,14 @@
 </details>
 
 <details>
-<summary><b>Matrix</b> &nbsp;·&nbsp; 3 problem(s)</summary>
+<summary><b>Stack</b> &nbsp;·&nbsp; 3 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
 |---|---|---|
-| 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
-| 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
-| 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
+| 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
+| 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM |
+| 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
 
 </details>
 
@@ -456,17 +471,6 @@
 |---|---|---|
 | 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Stack</b> &nbsp;·&nbsp; 2 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM |
-| 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
 
 </details>
 
@@ -543,6 +547,16 @@
 | # | Problem | Difficulty |
 |---|---|---|
 | 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters) | 🟡 MEDIUM |
+
+</details>
+
+<details>
+<summary><b>Monotonic Stack</b> &nbsp;·&nbsp; 1 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
 
 </details>
 
@@ -649,6 +663,7 @@
 | 0058 | [Length Of Last Word](0058-length-of-last-word) | 🟢 EASY | String | PY |
 | 0060 | [Permutation Sequence](0060-permutation-sequence) | 🔴 HARD | Math, Recursion | PY |
 | 0082 | [Remove Duplicates From Sorted List Ii](0082-remove-duplicates-from-sorted-list-ii) | 🟡 MEDIUM | Linked List, Two Pointers | PY |
+| 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD | Array, Dynamic Programming, Stack +2 | JAVA |
 | 0100 | [Same Tree](0100-same-tree) | 🟢 EASY | Tree, Depth-First Search, Breadth-First Search +1 | CPP |
 | 0123 | [Best Time To Buy And Sell Stock Iii](0123-best-time-to-buy-and-sell-stock-iii) | 🔴 HARD | Array, Dynamic Programming | PY |
 | 0127 | [Word Ladder](0127-word-ladder) | 🔴 HARD | Hash Table, String, Breadth-First Search | PY |
@@ -714,30 +729,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-06-29 10:00:59 UTC_
+_Generated on 2026-06-29 10:03:12 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0085-maximal-rectangle](https://github.com/chittoralovesh/Leetcode/tree/master/0085-maximal-rectangle) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0085-maximal-rectangle](https://github.com/chittoralovesh/Leetcode/tree/master/0085-maximal-rectangle) |
-## Stack
-|  |
-| ------- |
-| [0085-maximal-rectangle](https://github.com/chittoralovesh/Leetcode/tree/master/0085-maximal-rectangle) |
-## Matrix
-|  |
-| ------- |
-| [0085-maximal-rectangle](https://github.com/chittoralovesh/Leetcode/tree/master/0085-maximal-rectangle) |
-## Monotonic Stack
-|  |
-| ------- |
-| [0085-maximal-rectangle](https://github.com/chittoralovesh/Leetcode/tree/master/0085-maximal-rectangle) |
-<!---LeetCode Topics End-->
