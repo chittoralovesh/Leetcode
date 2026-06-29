@@ -5,16 +5,16 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-80-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-81-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-16-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-41-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-23-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-24-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/PY-44%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-23%20solved-00599C?style=for-the-badge" alt="CPP" />
-<img src="https://img.shields.io/badge/JAVA-10%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
+<img src="https://img.shields.io/badge/JAVA-11%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
 
 
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 80 |
+| **Total problems solved** | 81 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (42), `String` (22), `Dynamic Programming` (18), `Hash Table` (15), `Math` (15) |
-| **Last updated** | 2026-06-29 10:03:12 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (42), `String` (23), `Dynamic Programming` (19), `Hash Table` (15), `Math` (15) |
+| **Last updated** | 2026-06-29 10:04:57 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     16  ████░░░░░░░░░░░░░░░░   20.0%
-🟡 Medium   41  ██████████░░░░░░░░░░   51.2%
-🔴 Hard     23  ██████░░░░░░░░░░░░░░   28.7%
+🟢 Easy     16  ████░░░░░░░░░░░░░░░░   19.8%
+🟡 Medium   41  ██████████░░░░░░░░░░   50.6%
+🔴 Hard     24  ██████░░░░░░░░░░░░░░   29.6%
 ```
 
 
@@ -98,7 +98,7 @@
 </details>
 
 <details>
-<summary><b>String</b> &nbsp;·&nbsp; 22 problem(s)</summary>
+<summary><b>String</b> &nbsp;·&nbsp; 23 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -115,6 +115,7 @@
 | 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD |
 | 0058 | [Length Of Last Word](0058-length-of-last-word) | 🟢 EASY |
 | 0127 | [Word Ladder](0127-word-ladder) | 🔴 HARD |
+| 0132 | [Palindrome Partitioning Ii](0132-palindrome-partitioning-ii) | 🔴 HARD |
 | 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings) | 🟡 MEDIUM |
@@ -129,7 +130,7 @@
 </details>
 
 <details>
-<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 18 problem(s)</summary>
+<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 19 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -140,6 +141,7 @@
 | 0055 | [Jump Game](0055-jump-game) | 🟡 MEDIUM |
 | 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
 | 0123 | [Best Time To Buy And Sell Stock Iii](0123-best-time-to-buy-and-sell-stock-iii) | 🔴 HARD |
+| 0132 | [Palindrome Partitioning Ii](0132-palindrome-partitioning-ii) | 🔴 HARD |
 | 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD |
 | 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM |
@@ -667,6 +669,7 @@
 | 0100 | [Same Tree](0100-same-tree) | 🟢 EASY | Tree, Depth-First Search, Breadth-First Search +1 | CPP |
 | 0123 | [Best Time To Buy And Sell Stock Iii](0123-best-time-to-buy-and-sell-stock-iii) | 🔴 HARD | Array, Dynamic Programming | PY |
 | 0127 | [Word Ladder](0127-word-ladder) | 🔴 HARD | Hash Table, String, Breadth-First Search | PY |
+| 0132 | [Palindrome Partitioning Ii](0132-palindrome-partitioning-ii) | 🔴 HARD | String, Dynamic Programming | JAVA |
 | 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD | Array, Hash Table, Math +1 | PY |
 | 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM | Stack, Design | PY |
 | 0181 | [Employees Earning More Than Their Managers](0181-employees-earning-more-than-their-managers) | 🟢 EASY | Database | — |
@@ -729,18 +732,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-06-29 10:03:12 UTC_
+_Generated on 2026-06-29 10:04:57 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0132-palindrome-partitioning-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0132-palindrome-partitioning-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
-<!---LeetCode Topics End-->

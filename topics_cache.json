@@ -285,6 +285,10 @@
   "palindrome-number": [
     "Math"
   ],
+  "palindrome-partitioning-ii": [
+    "String",
+    "Dynamic Programming"
+  ],
   "palindromic-substrings": [
     "Two Pointers",
     "String",
