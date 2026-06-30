@@ -743,3 +743,19 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-06-30 12:30:49 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/chittoralovesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/chittoralovesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/chittoralovesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+<!---LeetCode Topics End-->
