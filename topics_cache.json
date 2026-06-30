@@ -144,6 +144,11 @@
     "String",
     "Trie"
   ],
+  "longest-increasing-subsequence": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming"
+  ],
   "longest-palindrome": [
     "Hash Table",
     "String",
