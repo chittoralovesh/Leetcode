@@ -5,16 +5,16 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-81-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-82-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-16-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-41-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-42-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-24-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/PY-44%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-23%20solved-00599C?style=for-the-badge" alt="CPP" />
-<img src="https://img.shields.io/badge/JAVA-11%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
+<img src="https://img.shields.io/badge/JAVA-12%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
 
 
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 81 |
+| **Total problems solved** | 82 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (42), `String` (23), `Dynamic Programming` (19), `Hash Table` (15), `Math` (15) |
-| **Last updated** | 2026-06-30 04:05:04 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (42), `String` (24), `Dynamic Programming` (19), `Hash Table` (16), `Math` (15) |
+| **Last updated** | 2026-06-30 04:45:13 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     16  ████░░░░░░░░░░░░░░░░   19.8%
-🟡 Medium   41  ██████████░░░░░░░░░░   50.6%
-🔴 Hard     24  ██████░░░░░░░░░░░░░░   29.6%
+🟢 Easy     16  ████░░░░░░░░░░░░░░░░   19.5%
+🟡 Medium   42  ██████████░░░░░░░░░░   51.2%
+🔴 Hard     24  ██████░░░░░░░░░░░░░░   29.3%
 ```
 
 
@@ -98,7 +98,7 @@
 </details>
 
 <details>
-<summary><b>String</b> &nbsp;·&nbsp; 23 problem(s)</summary>
+<summary><b>String</b> &nbsp;·&nbsp; 24 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -121,6 +121,7 @@
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings) | 🟡 MEDIUM |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
+| 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM |
 | 1967 | [Number Of Strings That Appear As Substrings In Word](1967-number-of-strings-that-appear-as-substrings-in-word) | 🟢 EASY |
 | 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM |
 | 3612 | [Process String With Special Operations I](3612-process-string-with-special-operations-i) | 🟡 MEDIUM |
@@ -158,7 +159,7 @@
 </details>
 
 <details>
-<summary><b>Hash Table</b> &nbsp;·&nbsp; 15 problem(s)</summary>
+<summary><b>Hash Table</b> &nbsp;·&nbsp; 16 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -174,6 +175,7 @@
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
+| 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM |
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
 | 3020 | [Find The Maximum Number Of Elements In Subset](3020-find-the-maximum-number-of-elements-in-subset) | 🟡 MEDIUM |
 | 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
@@ -455,6 +457,17 @@
 </details>
 
 <details>
+<summary><b>Sliding Window</b> &nbsp;·&nbsp; 2 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters) | 🟡 MEDIUM |
+| 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Trie</b> &nbsp;·&nbsp; 2 problem(s)</summary>
 
 
@@ -539,16 +552,6 @@
 |---|---|---|
 | 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
 | 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Sliding Window</b> &nbsp;·&nbsp; 1 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters) | 🟡 MEDIUM |
 
 </details>
 
@@ -689,6 +692,7 @@
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD | Array, Binary Search, Dynamic Programming +1 | PY |
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY | Hash Table, String, Counting | PY |
 | 1344 | [Angle Between Hands Of A Clock](1344-angle-between-hands-of-a-clock) | 🟡 MEDIUM | Math | PY |
+| 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM | Hash Table, String, Sliding Window | JAVA |
 | 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD | Array, Greedy, Sorting | PY |
 | 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY | Array, Prefix Sum | PY |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM | Array, Greedy, Sorting +1 | PY |
@@ -732,22 +736,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-06-30 04:05:04 UTC_
+_Generated on 2026-06-30 04:45:13 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [1358-number-of-substrings-containing-all-three-characters](https://github.com/chittoralovesh/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
-## String
-|  |
-| ------- |
-| [1358-number-of-substrings-containing-all-three-characters](https://github.com/chittoralovesh/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
-## Sliding Window
-|  |
-| ------- |
-| [1358-number-of-substrings-containing-all-three-characters](https://github.com/chittoralovesh/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
-<!---LeetCode Topics End-->

@@ -255,6 +255,11 @@
     "Array",
     "String"
   ],
+  "number-of-substrings-containing-all-three-characters": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
   "number-of-ways-to-assign-edge-weights-i": [
     "Math",
     "Tree",
