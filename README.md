@@ -29,7 +29,7 @@
 | **Total problems solved** | 83 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (43), `String` (24), `Dynamic Programming` (20), `Hash Table` (16), `Math` (15) |
-| **Last updated** | 2026-06-30 12:30:49 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-06-30 13:16:45 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
@@ -740,22 +740,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-06-30 12:30:49 UTC_
+_Generated on 2026-06-30 13:16:45 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0300-longest-increasing-subsequence](https://github.com/chittoralovesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
-## Binary Search
-|  |
-| ------- |
-| [0300-longest-increasing-subsequence](https://github.com/chittoralovesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0300-longest-increasing-subsequence](https://github.com/chittoralovesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
-<!---LeetCode Topics End-->
