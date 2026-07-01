@@ -107,6 +107,14 @@
     "Hash Table",
     "Enumeration"
   ],
+  "find-the-safest-path-in-a-grid": [
+    "Array",
+    "Binary Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Heap (Priority Queue)",
+    "Matrix"
+  ],
   "integer-to-roman": [
     "Hash Table",
     "Math",
