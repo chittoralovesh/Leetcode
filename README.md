@@ -828,4 +828,24 @@ _Generated on 2026-07-02 20:15:34 UTC_
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/chittoralovesh/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Array
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/chittoralovesh/Leetcode/tree/master/0391-perfect-rectangle) |
+## Hash Table
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/chittoralovesh/Leetcode/tree/master/0391-perfect-rectangle) |
+## Math
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/chittoralovesh/Leetcode/tree/master/0391-perfect-rectangle) |
+## Geometry
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/chittoralovesh/Leetcode/tree/master/0391-perfect-rectangle) |
+## Sweep Line
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/chittoralovesh/Leetcode/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
