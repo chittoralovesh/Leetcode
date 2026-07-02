@@ -123,6 +123,10 @@
     "Heap (Priority Queue)",
     "Matrix"
   ],
+  "guess-number-higher-or-lower": [
+    "Binary Search",
+    "Interactive"
+  ],
   "integer-to-roman": [
     "Hash Table",
     "Math",
@@ -331,6 +335,13 @@
     "Array",
     "Two Pointers",
     "Simulation"
+  ],
+  "perfect-rectangle": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Geometry",
+    "Sweep Line"
   ],
   "permutation-sequence": [
     "Math",

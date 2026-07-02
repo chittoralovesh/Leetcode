@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-89-5865F2?style=for-the-badge" alt="Total Solved" />
-<img src="https://img.shields.io/badge/Easy-16-2ECC71?style=for-the-badge" alt="Easy" />
+<img src="https://img.shields.io/badge/Total%20Solved-91-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Easy-17-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-48-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-25-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-26-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-49%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-51%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-24%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-13%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 89 |
+| **Total problems solved** | 91 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (49), `String` (26), `Dynamic Programming` (21), `Hash Table` (18), `Math` (16) |
-| **Last updated** | 2026-07-02 20:15:34 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (50), `String` (26), `Dynamic Programming` (21), `Hash Table` (19), `Math` (17) |
+| **Last updated** | 2026-07-02 20:17:37 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     16  ████░░░░░░░░░░░░░░░░   18.0%
-🟡 Medium   48  ███████████░░░░░░░░░   53.9%
-🔴 Hard     25  ██████░░░░░░░░░░░░░░   28.1%
+🟢 Easy     17  ████░░░░░░░░░░░░░░░░   18.7%
+🟡 Medium   48  ███████████░░░░░░░░░   52.7%
+🔴 Hard     26  ██████░░░░░░░░░░░░░░   28.6%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 49 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 50 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -72,6 +72,7 @@
 | 0238 | [Product Of Array Except Self](0238-product-of-array-except-self) | 🟡 MEDIUM |
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence) | 🟡 MEDIUM |
 | 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
+| 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
 | 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD |
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD |
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM |
@@ -170,7 +171,7 @@
 </details>
 
 <details>
-<summary><b>Hash Table</b> &nbsp;·&nbsp; 18 problem(s)</summary>
+<summary><b>Hash Table</b> &nbsp;·&nbsp; 19 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -184,6 +185,7 @@
 | 0127 | [Word Ladder](0127-word-ladder) | 🔴 HARD |
 | 0139 | [Word Break](0139-word-break) | 🟡 MEDIUM |
 | 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
+| 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
@@ -197,7 +199,7 @@
 </details>
 
 <details>
-<summary><b>Math</b> &nbsp;·&nbsp; 16 problem(s)</summary>
+<summary><b>Math</b> &nbsp;·&nbsp; 17 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -209,6 +211,7 @@
 | 0013 | [Roman To Integer](0013-roman-to-integer) | 🟢 EASY |
 | 0060 | [Permutation Sequence](0060-permutation-sequence) | 🔴 HARD |
 | 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
+| 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
 | 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
 | 1344 | [Angle Between Hands Of A Clock](1344-angle-between-hands-of-a-clock) | 🟡 MEDIUM |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD |
@@ -288,13 +291,14 @@
 </details>
 
 <details>
-<summary><b>Binary Search</b> &nbsp;·&nbsp; 7 problem(s)</summary>
+<summary><b>Binary Search</b> &nbsp;·&nbsp; 8 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
 |---|---|---|
 | 0004 | [Median Of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 HARD |
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence) | 🟡 MEDIUM |
+| 0374 | [Guess Number Higher Or Lower](0374-guess-number-higher-or-lower) | 🟢 EASY |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
 | 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
 | 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD |
@@ -552,6 +556,17 @@
 </details>
 
 <details>
+<summary><b>Geometry</b> &nbsp;·&nbsp; 2 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
+| 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Graph Theory</b> &nbsp;·&nbsp; 2 problem(s)</summary>
 
 
@@ -559,6 +574,17 @@
 |---|---|---|
 | 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
+
+</details>
+
+<details>
+<summary><b>Sweep Line</b> &nbsp;·&nbsp; 2 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
+| 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD |
 
 </details>
 
@@ -617,16 +643,6 @@
 </details>
 
 <details>
-<summary><b>Geometry</b> &nbsp;·&nbsp; 1 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
-
-</details>
-
-<details>
 <summary><b>Design</b> &nbsp;·&nbsp; 1 problem(s)</summary>
 
 
@@ -643,6 +659,16 @@
 | # | Problem | Difficulty |
 |---|---|---|
 | 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
+
+</details>
+
+<details>
+<summary><b>Interactive</b> &nbsp;·&nbsp; 1 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0374 | [Guess Number Higher Or Lower](0374-guess-number-higher-or-lower) | 🟢 EASY |
 
 </details>
 
@@ -683,16 +709,6 @@
 | # | Problem | Difficulty |
 |---|---|---|
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Sweep Line</b> &nbsp;·&nbsp; 1 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD |
 
 </details>
 
@@ -755,6 +771,8 @@
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence) | 🟡 MEDIUM | Array, Binary Search, Dynamic Programming | JAVA |
 | 0328 | [Odd Even Linked List](0328-odd-even-linked-list) | 🟡 MEDIUM | Linked List | JAVA |
 | 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD | Array, String, Depth-First Search +4 | PY |
+| 0374 | [Guess Number Higher Or Lower](0374-guess-number-higher-or-lower) | 🟢 EASY | Binary Search, Interactive | PY |
+| 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD | Array, Hash Table, Math +2 | PY |
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY | Hash Table, String, Greedy | PY |
 | 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD | Array, Dynamic Programming | PY |
 | 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM | Math, Dynamic Programming, Bit Manipulation +3 | PY |
@@ -814,38 +832,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-02 20:15:34 UTC_
+_Generated on 2026-07-02 20:17:37 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Binary Search
-|  |
-| ------- |
-| [0374-guess-number-higher-or-lower](https://github.com/chittoralovesh/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
-## Interactive
-|  |
-| ------- |
-| [0374-guess-number-higher-or-lower](https://github.com/chittoralovesh/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
-## Array
-|  |
-| ------- |
-| [0391-perfect-rectangle](https://github.com/chittoralovesh/Leetcode/tree/master/0391-perfect-rectangle) |
-## Hash Table
-|  |
-| ------- |
-| [0391-perfect-rectangle](https://github.com/chittoralovesh/Leetcode/tree/master/0391-perfect-rectangle) |
-## Math
-|  |
-| ------- |
-| [0391-perfect-rectangle](https://github.com/chittoralovesh/Leetcode/tree/master/0391-perfect-rectangle) |
-## Geometry
-|  |
-| ------- |
-| [0391-perfect-rectangle](https://github.com/chittoralovesh/Leetcode/tree/master/0391-perfect-rectangle) |
-## Sweep Line
-|  |
-| ------- |
-| [0391-perfect-rectangle](https://github.com/chittoralovesh/Leetcode/tree/master/0391-perfect-rectangle) |
-<!---LeetCode Topics End-->
