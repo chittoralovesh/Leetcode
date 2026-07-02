@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-92-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-93-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-17-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-49-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-26-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-27-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-52%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-53%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-24%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-13%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 92 |
+| **Total problems solved** | 93 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (50), `String` (26), `Dynamic Programming` (21), `Hash Table` (19), `Math` (17) |
-| **Last updated** | 2026-07-02 20:21:42 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (50), `String` (26), `Dynamic Programming` (22), `Hash Table` (19), `Math` (18) |
+| **Last updated** | 2026-07-02 20:23:40 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     17  ████░░░░░░░░░░░░░░░░   18.5%
-🟡 Medium   49  ███████████░░░░░░░░░   53.3%
-🔴 Hard     26  ██████░░░░░░░░░░░░░░   28.3%
+🟢 Easy     17  ████░░░░░░░░░░░░░░░░   18.3%
+🟡 Medium   49  ███████████░░░░░░░░░   52.7%
+🔴 Hard     27  ██████░░░░░░░░░░░░░░   29.0%
 ```
 
 
@@ -141,7 +141,7 @@
 </details>
 
 <details>
-<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 21 problem(s)</summary>
+<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 22 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -154,6 +154,7 @@
 | 0123 | [Best Time To Buy And Sell Stock Iii](0123-best-time-to-buy-and-sell-stock-iii) | 🔴 HARD |
 | 0132 | [Palindrome Partitioning Ii](0132-palindrome-partitioning-ii) | 🔴 HARD |
 | 0139 | [Word Break](0139-word-break) | 🟡 MEDIUM |
+| 0233 | [Number Of Digit One](0233-number-of-digit-one) | 🔴 HARD |
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence) | 🟡 MEDIUM |
 | 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD |
 | 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
@@ -199,7 +200,7 @@
 </details>
 
 <details>
-<summary><b>Math</b> &nbsp;·&nbsp; 17 problem(s)</summary>
+<summary><b>Math</b> &nbsp;·&nbsp; 18 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -211,6 +212,7 @@
 | 0013 | [Roman To Integer](0013-roman-to-integer) | 🟢 EASY |
 | 0060 | [Permutation Sequence](0060-permutation-sequence) | 🔴 HARD |
 | 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
+| 0233 | [Number Of Digit One](0233-number-of-digit-one) | 🔴 HARD |
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
 | 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
 | 1344 | [Angle Between Hands Of A Clock](1344-angle-between-hands-of-a-clock) | 🟡 MEDIUM |
@@ -384,6 +386,20 @@
 </details>
 
 <details>
+<summary><b>Recursion</b> &nbsp;·&nbsp; 5 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0002 | [Add Two Numbers](0002-add-two-numbers) | 🟡 MEDIUM |
+| 0010 | [Regular Expression Matching](0010-regular-expression-matching) | 🔴 HARD |
+| 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD |
+| 0060 | [Permutation Sequence](0060-permutation-sequence) | 🔴 HARD |
+| 0233 | [Number Of Digit One](0233-number-of-digit-one) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Tree</b> &nbsp;·&nbsp; 5 problem(s)</summary>
 
 
@@ -422,19 +438,6 @@
 | 3612 | [Process String With Special Operations I](3612-process-string-with-special-operations-i) | 🟡 MEDIUM |
 | 3614 | [Process String With Special Operations Ii](3614-process-string-with-special-operations-ii) | 🔴 HARD |
 | 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY |
-
-</details>
-
-<details>
-<summary><b>Recursion</b> &nbsp;·&nbsp; 4 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0002 | [Add Two Numbers](0002-add-two-numbers) | 🟡 MEDIUM |
-| 0010 | [Regular Expression Matching](0010-regular-expression-matching) | 🔴 HARD |
-| 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD |
-| 0060 | [Permutation Sequence](0060-permutation-sequence) | 🔴 HARD |
 
 </details>
 
@@ -781,6 +784,7 @@
 | 0183 | [Customers Who Never Order](0183-customers-who-never-order) | 🟢 EASY | Database | — |
 | 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM | Array, Depth-First Search, Breadth-First Search +2 | CPP |
 | 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD | Array, String, Backtracking +2 | PY |
+| 0233 | [Number Of Digit One](0233-number-of-digit-one) | 🔴 HARD | Math, Dynamic Programming, Recursion | PY |
 | 0238 | [Product Of Array Except Self](0238-product-of-array-except-self) | 🟡 MEDIUM | Array, Prefix Sum | PY |
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence) | 🟡 MEDIUM | Array, Binary Search, Dynamic Programming | JAVA |
 | 0328 | [Odd Even Linked List](0328-odd-even-linked-list) | 🟡 MEDIUM | Linked List | JAVA |
@@ -846,22 +850,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-02 20:21:42 UTC_
+_Generated on 2026-07-02 20:23:40 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0233-number-of-digit-one](https://github.com/chittoralovesh/Leetcode/tree/master/0233-number-of-digit-one) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0233-number-of-digit-one](https://github.com/chittoralovesh/Leetcode/tree/master/0233-number-of-digit-one) |
-## Recursion
-|  |
-| ------- |
-| [0233-number-of-digit-one](https://github.com/chittoralovesh/Leetcode/tree/master/0233-number-of-digit-one) |
-<!---LeetCode Topics End-->

@@ -276,6 +276,11 @@
     "Array",
     "Two Pointers"
   ],
+  "number-of-digit-one": [
+    "Math",
+    "Dynamic Programming",
+    "Recursion"
+  ],
   "number-of-islands": [
     "Array",
     "Depth-First Search",
