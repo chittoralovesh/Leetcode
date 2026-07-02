@@ -257,6 +257,13 @@
     "Greedy",
     "Sorting"
   ],
+  "minimum-jumps-to-reach-end-via-prime-teleportation": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Breadth-First Search",
+    "Number Theory"
+  ],
   "n-queens": [
     "Array",
     "Backtracking"
