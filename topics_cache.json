@@ -427,6 +427,12 @@
     "Array",
     "Hash Table"
   ],
+  "validate-binary-search-tree": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
   "weighted-word-mapping": [
     "Array",
     "String",
