@@ -348,6 +348,15 @@
     "Array",
     "Prefix Sum"
   ],
+  "reconstruct-itinerary": [
+    "Array",
+    "String",
+    "Depth-First Search",
+    "Graph Theory",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Eulerian Circuit"
+  ],
   "regular-expression-matching": [
     "String",
     "Dynamic Programming",

@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-88-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-89-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-16-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-48-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-24-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-25-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-48%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-49%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-24%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-13%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 88 |
+| **Total problems solved** | 89 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (48), `String` (25), `Dynamic Programming` (21), `Hash Table` (18), `Math` (16) |
-| **Last updated** | 2026-07-02 19:49:04 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (49), `String` (26), `Dynamic Programming` (21), `Hash Table` (18), `Math` (16) |
+| **Last updated** | 2026-07-02 20:15:34 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     16  ████░░░░░░░░░░░░░░░░   18.2%
-🟡 Medium   48  ███████████░░░░░░░░░   54.5%
-🔴 Hard     24  █████░░░░░░░░░░░░░░░   27.3%
+🟢 Easy     16  ████░░░░░░░░░░░░░░░░   18.0%
+🟡 Medium   48  ███████████░░░░░░░░░   53.9%
+🔴 Hard     25  ██████░░░░░░░░░░░░░░   28.1%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 48 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 49 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -71,6 +71,7 @@
 | 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
 | 0238 | [Product Of Array Except Self](0238-product-of-array-except-self) | 🟡 MEDIUM |
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence) | 🟡 MEDIUM |
+| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
 | 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD |
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD |
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM |
@@ -104,7 +105,7 @@
 </details>
 
 <details>
-<summary><b>String</b> &nbsp;·&nbsp; 25 problem(s)</summary>
+<summary><b>String</b> &nbsp;·&nbsp; 26 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -124,6 +125,7 @@
 | 0132 | [Palindrome Partitioning Ii](0132-palindrome-partitioning-ii) | 🔴 HARD |
 | 0139 | [Word Break](0139-word-break) | 🟡 MEDIUM |
 | 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
+| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings) | 🟡 MEDIUM |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
@@ -264,7 +266,7 @@
 </details>
 
 <details>
-<summary><b>Sorting</b> &nbsp;·&nbsp; 12 problem(s)</summary>
+<summary><b>Sorting</b> &nbsp;·&nbsp; 13 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -272,6 +274,7 @@
 | 0015 | [3Sum](0015-3sum) | 🟡 MEDIUM |
 | 0016 | [3Sum Closest](0016-3sum-closest) | 🟡 MEDIUM |
 | 0018 | [4Sum](0018-4sum) | 🟡 MEDIUM |
+| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
 | 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD |
@@ -332,6 +335,21 @@
 </details>
 
 <details>
+<summary><b>Depth-First Search</b> &nbsp;·&nbsp; 6 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
+| 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
+| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
+| 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
+| 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
+| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Prefix Sum</b> &nbsp;·&nbsp; 6 problem(s)</summary>
 
 
@@ -361,16 +379,16 @@
 </details>
 
 <details>
-<summary><b>Depth-First Search</b> &nbsp;·&nbsp; 5 problem(s)</summary>
+<summary><b>Heap (Priority Queue)</b> &nbsp;·&nbsp; 5 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
 |---|---|---|
-| 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
-| 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
-| 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
-| 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
-| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
+| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
+| 0502 | [Ipo](0502-ipo) | 🔴 HARD |
+| 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
+| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
+| 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
 
 </details>
 
@@ -424,19 +442,6 @@
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
 | 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Heap (Priority Queue)</b> &nbsp;·&nbsp; 4 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0502 | [Ipo](0502-ipo) | 🔴 HARD |
-| 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
-| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
-| 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
 
 </details>
 
@@ -547,6 +552,17 @@
 </details>
 
 <details>
+<summary><b>Graph Theory</b> &nbsp;·&nbsp; 2 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
+| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Bit Manipulation</b> &nbsp;·&nbsp; 2 problem(s)</summary>
 
 
@@ -621,6 +637,16 @@
 </details>
 
 <details>
+<summary><b>Eulerian Circuit</b> &nbsp;·&nbsp; 1 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Game Theory</b> &nbsp;·&nbsp; 1 problem(s)</summary>
 
 
@@ -647,16 +673,6 @@
 | # | Problem | Difficulty |
 |---|---|---|
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Graph Theory</b> &nbsp;·&nbsp; 1 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
 
 </details>
 
@@ -738,6 +754,7 @@
 | 0238 | [Product Of Array Except Self](0238-product-of-array-except-self) | 🟡 MEDIUM | Array, Prefix Sum | PY |
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence) | 🟡 MEDIUM | Array, Binary Search, Dynamic Programming | JAVA |
 | 0328 | [Odd Even Linked List](0328-odd-even-linked-list) | 🟡 MEDIUM | Linked List | JAVA |
+| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD | Array, String, Depth-First Search +4 | PY |
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY | Hash Table, String, Greedy | PY |
 | 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD | Array, Dynamic Programming | PY |
 | 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM | Math, Dynamic Programming, Bit Manipulation +3 | PY |
@@ -797,38 +814,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-02 19:49:04 UTC_
+_Generated on 2026-07-02 20:15:34 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0332-reconstruct-itinerary](https://github.com/chittoralovesh/Leetcode/tree/master/0332-reconstruct-itinerary) |
-## String
-|  |
-| ------- |
-| [0332-reconstruct-itinerary](https://github.com/chittoralovesh/Leetcode/tree/master/0332-reconstruct-itinerary) |
-## Depth-First Search
-|  |
-| ------- |
-| [0332-reconstruct-itinerary](https://github.com/chittoralovesh/Leetcode/tree/master/0332-reconstruct-itinerary) |
-## Graph Theory
-|  |
-| ------- |
-| [0332-reconstruct-itinerary](https://github.com/chittoralovesh/Leetcode/tree/master/0332-reconstruct-itinerary) |
-## Sorting
-|  |
-| ------- |
-| [0332-reconstruct-itinerary](https://github.com/chittoralovesh/Leetcode/tree/master/0332-reconstruct-itinerary) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0332-reconstruct-itinerary](https://github.com/chittoralovesh/Leetcode/tree/master/0332-reconstruct-itinerary) |
-## Eulerian Circuit
-|  |
-| ------- |
-| [0332-reconstruct-itinerary](https://github.com/chittoralovesh/Leetcode/tree/master/0332-reconstruct-itinerary) |
-<!---LeetCode Topics End-->
