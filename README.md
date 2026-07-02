@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-86-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-87-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-16-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-46-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-47-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-24-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-46%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-47%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-24%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-13%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 86 |
+| **Total problems solved** | 87 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (46), `String` (24), `Dynamic Programming` (20), `Hash Table` (17), `Math` (16) |
-| **Last updated** | 2026-07-02 11:01:04 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (47), `String` (24), `Dynamic Programming` (20), `Hash Table` (17), `Math` (16) |
+| **Last updated** | 2026-07-02 19:40:32 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     16  ████░░░░░░░░░░░░░░░░   18.6%
-🟡 Medium   46  ███████████░░░░░░░░░   53.5%
-🔴 Hard     24  ██████░░░░░░░░░░░░░░   27.9%
+🟢 Easy     16  ████░░░░░░░░░░░░░░░░   18.4%
+🟡 Medium   47  ███████████░░░░░░░░░   54.0%
+🔴 Hard     24  ██████░░░░░░░░░░░░░░   27.6%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 46 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 47 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -68,6 +68,7 @@
 | 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
 | 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
 | 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
+| 0238 | [Product Of Array Except Self](0238-product-of-array-except-self) | 🟡 MEDIUM |
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence) | 🟡 MEDIUM |
 | 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD |
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD |
@@ -327,6 +328,21 @@
 </details>
 
 <details>
+<summary><b>Prefix Sum</b> &nbsp;·&nbsp; 6 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0238 | [Product Of Array Except Self](0238-product-of-array-except-self) | 🟡 MEDIUM |
+| 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY |
+| 2574 | [Left And Right Sum Differences](2574-left-and-right-sum-differences) | 🟢 EASY |
+| 3699 | [Number Of Zigzag Arrays I](3699-number-of-zigzag-arrays-i) | 🟡 MEDIUM |
+| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
+| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Linked List</b> &nbsp;·&nbsp; 5 problem(s)</summary>
 
 
@@ -351,20 +367,6 @@
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 | 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Prefix Sum</b> &nbsp;·&nbsp; 5 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY |
-| 2574 | [Left And Right Sum Differences](2574-left-and-right-sum-differences) | 🟢 EASY |
-| 3699 | [Number Of Zigzag Arrays I](3699-number-of-zigzag-arrays-i) | 🟡 MEDIUM |
-| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
-| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
 
 </details>
 
@@ -726,6 +728,7 @@
 | 0183 | [Customers Who Never Order](0183-customers-who-never-order) | 🟢 EASY | Database | — |
 | 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM | Array, Depth-First Search, Breadth-First Search +2 | CPP |
 | 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD | Array, String, Backtracking +2 | PY |
+| 0238 | [Product Of Array Except Self](0238-product-of-array-except-self) | 🟡 MEDIUM | Array, Prefix Sum | PY |
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence) | 🟡 MEDIUM | Array, Binary Search, Dynamic Programming | JAVA |
 | 0328 | [Odd Even Linked List](0328-odd-even-linked-list) | 🟡 MEDIUM | Linked List | JAVA |
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY | Hash Table, String, Greedy | PY |
@@ -787,18 +790,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-02 11:01:04 UTC_
+_Generated on 2026-07-02 19:40:32 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0238-product-of-array-except-self](https://github.com/chittoralovesh/Leetcode/tree/master/0238-product-of-array-except-self) |
-## Prefix Sum
-|  |
-| ------- |
-| [0238-product-of-array-except-self](https://github.com/chittoralovesh/Leetcode/tree/master/0238-product-of-array-except-self) |
-<!---LeetCode Topics End-->
