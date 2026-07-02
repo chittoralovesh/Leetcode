@@ -98,6 +98,14 @@
     "String",
     "Simulation"
   ],
+  "find-a-safe-walk-through-a-grid": [
+    "Array",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Matrix",
+    "Shortest Path"
+  ],
   "find-the-highest-altitude": [
     "Array",
     "Prefix Sum"
