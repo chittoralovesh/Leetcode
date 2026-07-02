@@ -418,6 +418,14 @@
     "Greedy",
     "Recursion"
   ],
+  "word-break": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Dynamic Programming",
+    "Trie",
+    "Memoization"
+  ],
   "word-ladder": [
     "Hash Table",
     "String",
