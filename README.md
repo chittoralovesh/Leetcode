@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-94-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-95-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-17-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-50-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-27-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-28-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-53%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-54%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-25%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-13%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 94 |
+| **Total problems solved** | 95 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (51), `String` (26), `Dynamic Programming` (23), `Hash Table` (19), `Math` (18) |
-| **Last updated** | 2026-07-03 20:24:53 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (51), `String` (26), `Dynamic Programming` (23), `Hash Table` (19), `Math` (19) |
+| **Last updated** | 2026-07-03 20:26:01 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     17  ████░░░░░░░░░░░░░░░░   18.1%
-🟡 Medium   50  ███████████░░░░░░░░░   53.2%
-🔴 Hard     27  ██████░░░░░░░░░░░░░░   28.7%
+🟢 Easy     17  ████░░░░░░░░░░░░░░░░   17.9%
+🟡 Medium   50  ███████████░░░░░░░░░   52.6%
+🔴 Hard     28  ██████░░░░░░░░░░░░░░   29.5%
 ```
 
 
@@ -93,7 +93,7 @@
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
 | 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
-| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🟡 MEDIUM |
+| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
 | 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM |
 | 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
 | 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
@@ -164,7 +164,7 @@
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings) | 🟡 MEDIUM |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
-| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🟡 MEDIUM |
+| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
 | 3660 | [Jump Game Ix](3660-jump-game-ix) | 🟡 MEDIUM |
 | 3699 | [Number Of Zigzag Arrays I](3699-number-of-zigzag-arrays-i) | 🟡 MEDIUM |
 | 3700 | [Number Of Zigzag Arrays Ii](3700-number-of-zigzag-arrays-ii) | 🔴 HARD |
@@ -202,7 +202,7 @@
 </details>
 
 <details>
-<summary><b>Math</b> &nbsp;·&nbsp; 18 problem(s)</summary>
+<summary><b>Math</b> &nbsp;·&nbsp; 19 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -215,6 +215,7 @@
 | 0060 | [Permutation Sequence](0060-permutation-sequence) | 🔴 HARD |
 | 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
 | 0233 | [Number Of Digit One](0233-number-of-digit-one) | 🔴 HARD |
+| 0382 | [Linked List Random Node](0382-linked-list-random-node) | 🟡 MEDIUM |
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
 | 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
 | 1344 | [Angle Between Hands Of A Clock](1344-angle-between-hands-of-a-clock) | 🟡 MEDIUM |
@@ -306,7 +307,7 @@
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
 | 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
 | 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD |
-| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🟡 MEDIUM |
+| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
 | 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
 | 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
 
@@ -341,6 +342,21 @@
 | 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
 | 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM |
+
+</details>
+
+<details>
+<summary><b>Linked List</b> &nbsp;·&nbsp; 6 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0002 | [Add Two Numbers](0002-add-two-numbers) | 🟡 MEDIUM |
+| 0082 | [Remove Duplicates From Sorted List Ii](0082-remove-duplicates-from-sorted-list-ii) | 🟡 MEDIUM |
+| 0328 | [Odd Even Linked List](0328-odd-even-linked-list) | 🟡 MEDIUM |
+| 0382 | [Linked List Random Node](0382-linked-list-random-node) | 🟡 MEDIUM |
+| 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM |
+| 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
 
 </details>
 
@@ -384,22 +400,8 @@
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD |
 | 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
-| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🟡 MEDIUM |
+| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
 | 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Linked List</b> &nbsp;·&nbsp; 5 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0002 | [Add Two Numbers](0002-add-two-numbers) | 🟡 MEDIUM |
-| 0082 | [Remove Duplicates From Sorted List Ii](0082-remove-duplicates-from-sorted-list-ii) | 🟡 MEDIUM |
-| 0328 | [Odd Even Linked List](0328-odd-even-linked-list) | 🟡 MEDIUM |
-| 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM |
-| 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
 
 </details>
 
@@ -551,7 +553,7 @@
 |---|---|---|
 | 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
-| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🟡 MEDIUM |
+| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
 
 </details>
 
@@ -639,7 +641,7 @@
 | # | Problem | Difficulty |
 |---|---|---|
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
-| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🟡 MEDIUM |
+| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
 
 </details>
 
@@ -705,6 +707,26 @@
 </details>
 
 <details>
+<summary><b>Reservoir Sampling</b> &nbsp;·&nbsp; 1 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0382 | [Linked List Random Node](0382-linked-list-random-node) | 🟡 MEDIUM |
+
+</details>
+
+<details>
+<summary><b>Randomized</b> &nbsp;·&nbsp; 1 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0382 | [Linked List Random Node](0382-linked-list-random-node) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Game Theory</b> &nbsp;·&nbsp; 1 problem(s)</summary>
 
 
@@ -740,7 +762,7 @@
 
 | # | Problem | Difficulty |
 |---|---|---|
-| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🟡 MEDIUM |
+| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
 
 </details>
 
@@ -806,6 +828,7 @@
 | 0328 | [Odd Even Linked List](0328-odd-even-linked-list) | 🟡 MEDIUM | Linked List | JAVA |
 | 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD | Array, String, Depth-First Search +4 | PY |
 | 0374 | [Guess Number Higher Or Lower](0374-guess-number-higher-or-lower) | 🟢 EASY | Binary Search, Interactive | PY |
+| 0382 | [Linked List Random Node](0382-linked-list-random-node) | 🟡 MEDIUM | Linked List, Math, Reservoir Sampling +1 | PY |
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD | Array, Hash Table, Math +2 | PY |
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY | Hash Table, String, Greedy | PY |
 | 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD | Array, Dynamic Programming | PY |
@@ -841,7 +864,7 @@
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD | Array, Math, Dynamic Programming +3 | CPP |
 | 3612 | [Process String With Special Operations I](3612-process-string-with-special-operations-i) | 🟡 MEDIUM | String, Simulation | PY |
 | 3614 | [Process String With Special Operations Ii](3614-process-string-with-special-operations-ii) | 🔴 HARD | String, Simulation | CPP |
-| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🟡 MEDIUM | Array, Binary Search, Dynamic Programming +4 | CPP |
+| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD | Array, Binary Search, Dynamic Programming +4 | CPP |
 | 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM | Array, Hash Table, Math +2 | PY |
 | 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY | Array, Two Pointers, Binary Search +2 | CPP |
 | 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM | Array, Two Pointers, Binary Search +2 | CPP |
@@ -867,26 +890,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-03 20:24:53 UTC_
+_Generated on 2026-07-03 20:26:01 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [0382-linked-list-random-node](https://github.com/chittoralovesh/Leetcode/tree/master/0382-linked-list-random-node) |
-## Math
-|  |
-| ------- |
-| [0382-linked-list-random-node](https://github.com/chittoralovesh/Leetcode/tree/master/0382-linked-list-random-node) |
-## Reservoir Sampling
-|  |
-| ------- |
-| [0382-linked-list-random-node](https://github.com/chittoralovesh/Leetcode/tree/master/0382-linked-list-random-node) |
-## Randomized
-|  |
-| ------- |
-| [0382-linked-list-random-node](https://github.com/chittoralovesh/Leetcode/tree/master/0382-linked-list-random-node) |
-<!---LeetCode Topics End-->
