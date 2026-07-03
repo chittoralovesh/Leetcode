@@ -5,8 +5,8 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-95-5865F2?style=for-the-badge" alt="Total Solved" />
-<img src="https://img.shields.io/badge/Easy-17-2ECC71?style=for-the-badge" alt="Easy" />
+<img src="https://img.shields.io/badge/Total%20Solved-96-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Easy-18-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-50-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-28-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 95 |
+| **Total problems solved** | 96 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (51), `String` (26), `Dynamic Programming` (23), `Hash Table` (19), `Math` (19) |
-| **Last updated** | 2026-07-03 20:26:01 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-07-03 20:26:47 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     17  ████░░░░░░░░░░░░░░░░   17.9%
-🟡 Medium   50  ███████████░░░░░░░░░   52.6%
-🔴 Hard     28  ██████░░░░░░░░░░░░░░   29.5%
+🟢 Easy     18  ████░░░░░░░░░░░░░░░░   18.8%
+🟡 Medium   50  ██████████░░░░░░░░░░   52.1%
+🔴 Hard     28  ██████░░░░░░░░░░░░░░   29.2%
 ```
 
 
@@ -461,6 +461,19 @@
 </details>
 
 <details>
+<summary><b>Database</b> &nbsp;·&nbsp; 4 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0181 | [Employees Earning More Than Their Managers](0181-employees-earning-more-than-their-managers) | 🟢 EASY |
+| 0183 | [Customers Who Never Order](0183-customers-who-never-order) | 🟢 EASY |
+| 0570 | [Managers With At Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 MEDIUM |
+| 0595 | [Big Countries](0595-big-countries) | 🟢 EASY |
+
+</details>
+
+<details>
 <summary><b>Segment Tree</b> &nbsp;·&nbsp; 4 problem(s)</summary>
 
 
@@ -518,18 +531,6 @@
 | 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree) | 🟡 MEDIUM |
 | 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Database</b> &nbsp;·&nbsp; 3 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0181 | [Employees Earning More Than Their Managers](0181-employees-earning-more-than-their-managers) | 🟢 EASY |
-| 0183 | [Customers Who Never Order](0183-customers-who-never-order) | 🟢 EASY |
-| 0570 | [Managers With At Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 MEDIUM |
 
 </details>
 
@@ -837,6 +838,7 @@
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM | Array, Dynamic Programming | PY |
 | 0570 | [Managers With At Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 MEDIUM | Database | — |
 | 0576 | [Out Of Boundary Paths](0576-out-of-boundary-paths) | 🟡 MEDIUM | Dynamic Programming | PY |
+| 0595 | [Big Countries](0595-big-countries) | 🟢 EASY | Database | — |
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings) | 🟡 MEDIUM | Two Pointers, String, Dynamic Programming | PY |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD | Array, Hash Table, String +3 | JAVA |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD | Array, Binary Search, Dynamic Programming +1 | PY |
@@ -890,14 +892,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-03 20:26:01 UTC_
+_Generated on 2026-07-03 20:26:47 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0595-big-countries](https://github.com/chittoralovesh/Leetcode/tree/master/0595-big-countries) |
-<!---LeetCode Topics End-->
