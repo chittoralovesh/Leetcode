@@ -5,15 +5,15 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-93-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-94-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-17-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-49-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-50-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-27-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/PY-53%20solved-3776AB?style=for-the-badge" alt="PY" />
-<img src="https://img.shields.io/badge/CPP-24%20solved-00599C?style=for-the-badge" alt="CPP" />
+<img src="https://img.shields.io/badge/CPP-25%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-13%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
 
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 93 |
+| **Total problems solved** | 94 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (50), `String` (26), `Dynamic Programming` (22), `Hash Table` (19), `Math` (18) |
-| **Last updated** | 2026-07-03 03:45:15 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (51), `String` (26), `Dynamic Programming` (23), `Hash Table` (19), `Math` (18) |
+| **Last updated** | 2026-07-03 20:24:53 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     17  ████░░░░░░░░░░░░░░░░   18.3%
-🟡 Medium   49  ███████████░░░░░░░░░   52.7%
-🔴 Hard     27  ██████░░░░░░░░░░░░░░   29.0%
+🟢 Easy     17  ████░░░░░░░░░░░░░░░░   18.1%
+🟡 Medium   50  ███████████░░░░░░░░░   53.2%
+🔴 Hard     27  ██████░░░░░░░░░░░░░░   28.7%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 50 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 51 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -93,6 +93,7 @@
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
 | 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
+| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🟡 MEDIUM |
 | 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM |
 | 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
 | 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
@@ -141,7 +142,7 @@
 </details>
 
 <details>
-<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 22 problem(s)</summary>
+<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 23 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -163,6 +164,7 @@
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings) | 🟡 MEDIUM |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
+| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🟡 MEDIUM |
 | 3660 | [Jump Game Ix](3660-jump-game-ix) | 🟡 MEDIUM |
 | 3699 | [Number Of Zigzag Arrays I](3699-number-of-zigzag-arrays-i) | 🟡 MEDIUM |
 | 3700 | [Number Of Zigzag Arrays Ii](3700-number-of-zigzag-arrays-ii) | 🔴 HARD |
@@ -293,7 +295,7 @@
 </details>
 
 <details>
-<summary><b>Binary Search</b> &nbsp;·&nbsp; 8 problem(s)</summary>
+<summary><b>Binary Search</b> &nbsp;·&nbsp; 9 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -304,6 +306,7 @@
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
 | 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
 | 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD |
+| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🟡 MEDIUM |
 | 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
 | 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
 
@@ -372,6 +375,21 @@
 </details>
 
 <details>
+<summary><b>Heap (Priority Queue)</b> &nbsp;·&nbsp; 6 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
+| 0502 | [Ipo](0502-ipo) | 🔴 HARD |
+| 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
+| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
+| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🟡 MEDIUM |
+| 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Linked List</b> &nbsp;·&nbsp; 5 problem(s)</summary>
 
 
@@ -410,20 +428,6 @@
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
 | 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Heap (Priority Queue)</b> &nbsp;·&nbsp; 5 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
-| 0502 | [Ipo](0502-ipo) | 🔴 HARD |
-| 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
-| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
-| 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
 
 </details>
 
@@ -540,6 +544,18 @@
 </details>
 
 <details>
+<summary><b>Graph Theory</b> &nbsp;·&nbsp; 3 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
+| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
+| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Sliding Window</b> &nbsp;·&nbsp; 2 problem(s)</summary>
 
 
@@ -569,17 +585,6 @@
 |---|---|---|
 | 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Graph Theory</b> &nbsp;·&nbsp; 2 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
-| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
 
 </details>
 
@@ -624,6 +629,17 @@
 |---|---|---|
 | 3020 | [Find The Maximum Number Of Elements In Subset](3020-find-the-maximum-number-of-elements-in-subset) | 🟡 MEDIUM |
 | 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM |
+
+</details>
+
+<details>
+<summary><b>Shortest Path</b> &nbsp;·&nbsp; 2 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
+| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🟡 MEDIUM |
 
 </details>
 
@@ -719,12 +735,12 @@
 </details>
 
 <details>
-<summary><b>Shortest Path</b> &nbsp;·&nbsp; 1 problem(s)</summary>
+<summary><b>Topological Sort</b> &nbsp;·&nbsp; 1 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
 |---|---|---|
-| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
+| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🟡 MEDIUM |
 
 </details>
 
@@ -825,6 +841,7 @@
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD | Array, Math, Dynamic Programming +3 | CPP |
 | 3612 | [Process String With Special Operations I](3612-process-string-with-special-operations-i) | 🟡 MEDIUM | String, Simulation | PY |
 | 3614 | [Process String With Special Operations Ii](3614-process-string-with-special-operations-ii) | 🔴 HARD | String, Simulation | CPP |
+| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🟡 MEDIUM | Array, Binary Search, Dynamic Programming +4 | CPP |
 | 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM | Array, Hash Table, Math +2 | PY |
 | 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY | Array, Two Pointers, Binary Search +2 | CPP |
 | 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM | Array, Two Pointers, Binary Search +2 | CPP |
@@ -850,38 +867,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-03 03:45:15 UTC_
+_Generated on 2026-07-03 20:24:53 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3620-network-recovery-pathways](https://github.com/chittoralovesh/Leetcode/tree/master/3620-network-recovery-pathways) |
-## Binary Search
-|  |
-| ------- |
-| [3620-network-recovery-pathways](https://github.com/chittoralovesh/Leetcode/tree/master/3620-network-recovery-pathways) |
-## Dynamic Programming
-|  |
-| ------- |
-| [3620-network-recovery-pathways](https://github.com/chittoralovesh/Leetcode/tree/master/3620-network-recovery-pathways) |
-## Graph Theory
-|  |
-| ------- |
-| [3620-network-recovery-pathways](https://github.com/chittoralovesh/Leetcode/tree/master/3620-network-recovery-pathways) |
-## Topological Sort
-|  |
-| ------- |
-| [3620-network-recovery-pathways](https://github.com/chittoralovesh/Leetcode/tree/master/3620-network-recovery-pathways) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [3620-network-recovery-pathways](https://github.com/chittoralovesh/Leetcode/tree/master/3620-network-recovery-pathways) |
-## Shortest Path
-|  |
-| ------- |
-| [3620-network-recovery-pathways](https://github.com/chittoralovesh/Leetcode/tree/master/3620-network-recovery-pathways) |
-<!---LeetCode Topics End-->

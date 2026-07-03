@@ -272,6 +272,15 @@
     "Array",
     "Backtracking"
   ],
+  "network-recovery-pathways": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Graph Theory",
+    "Topological Sort",
+    "Heap (Priority Queue)",
+    "Shortest Path"
+  ],
   "next-permutation": [
     "Array",
     "Two Pointers"
