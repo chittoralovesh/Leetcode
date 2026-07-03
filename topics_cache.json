@@ -385,6 +385,10 @@
     "Array",
     "Prefix Sum"
   ],
+  "range-addition-ii": [
+    "Array",
+    "Math"
+  ],
   "reconstruct-itinerary": [
     "Array",
     "String",

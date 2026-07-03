@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-97-5865F2?style=for-the-badge" alt="Total Solved" />
-<img src="https://img.shields.io/badge/Easy-18-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-51-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Total%20Solved-98-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Easy-20-2ECC71?style=for-the-badge" alt="Easy" />
+<img src="https://img.shields.io/badge/Medium-50-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-28-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-54%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-55%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-25%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-13%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 97 |
+| **Total problems solved** | 98 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (51), `String` (26), `Dynamic Programming` (23), `Hash Table` (19), `Math` (19) |
-| **Last updated** | 2026-07-03 20:27:22 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (52), `String` (26), `Dynamic Programming` (23), `Math` (20), `Hash Table` (19) |
+| **Last updated** | 2026-07-03 20:28:09 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     18  ████░░░░░░░░░░░░░░░░   18.6%
-🟡 Medium   51  ███████████░░░░░░░░░   52.6%
-🔴 Hard     28  ██████░░░░░░░░░░░░░░   28.9%
+🟢 Easy     20  ████░░░░░░░░░░░░░░░░   20.4%
+🟡 Medium   50  ██████████░░░░░░░░░░   51.0%
+🔴 Hard     28  ██████░░░░░░░░░░░░░░   28.6%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 51 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 52 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -76,6 +76,7 @@
 | 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD |
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD |
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM |
+| 0598 | [Range Addition Ii](0598-range-addition-ii) | 🟢 EASY |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
 | 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD |
@@ -174,6 +175,35 @@
 </details>
 
 <details>
+<summary><b>Math</b> &nbsp;·&nbsp; 20 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0002 | [Add Two Numbers](0002-add-two-numbers) | 🟡 MEDIUM |
+| 0007 | [Reverse Integer](0007-reverse-integer) | 🟡 MEDIUM |
+| 0009 | [Palindrome Number](0009-palindrome-number) | 🟢 EASY |
+| 0012 | [Integer To Roman](0012-integer-to-roman) | 🟡 MEDIUM |
+| 0013 | [Roman To Integer](0013-roman-to-integer) | 🟢 EASY |
+| 0060 | [Permutation Sequence](0060-permutation-sequence) | 🔴 HARD |
+| 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
+| 0233 | [Number Of Digit One](0233-number-of-digit-one) | 🔴 HARD |
+| 0382 | [Linked List Random Node](0382-linked-list-random-node) | 🟡 MEDIUM |
+| 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
+| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
+| 0598 | [Range Addition Ii](0598-range-addition-ii) | 🟢 EASY |
+| 1344 | [Angle Between Hands Of A Clock](1344-angle-between-hands-of-a-clock) | 🟡 MEDIUM |
+| 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD |
+| 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
+| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
+| 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM |
+| 3700 | [Number Of Zigzag Arrays Ii](3700-number-of-zigzag-arrays-ii) | 🔴 HARD |
+| 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM |
+| 3753 | [Total Waviness Of Numbers In Range Ii](3753-total-waviness-of-numbers-in-range-ii) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Hash Table</b> &nbsp;·&nbsp; 19 problem(s)</summary>
 
 
@@ -198,34 +228,6 @@
 | 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM |
 | 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
 | 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Math</b> &nbsp;·&nbsp; 19 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0002 | [Add Two Numbers](0002-add-two-numbers) | 🟡 MEDIUM |
-| 0007 | [Reverse Integer](0007-reverse-integer) | 🟡 MEDIUM |
-| 0009 | [Palindrome Number](0009-palindrome-number) | 🟢 EASY |
-| 0012 | [Integer To Roman](0012-integer-to-roman) | 🟡 MEDIUM |
-| 0013 | [Roman To Integer](0013-roman-to-integer) | 🟢 EASY |
-| 0060 | [Permutation Sequence](0060-permutation-sequence) | 🔴 HARD |
-| 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
-| 0233 | [Number Of Digit One](0233-number-of-digit-one) | 🔴 HARD |
-| 0382 | [Linked List Random Node](0382-linked-list-random-node) | 🟡 MEDIUM |
-| 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
-| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
-| 1344 | [Angle Between Hands Of A Clock](1344-angle-between-hands-of-a-clock) | 🟡 MEDIUM |
-| 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD |
-| 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
-| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
-| 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM |
-| 3700 | [Number Of Zigzag Arrays Ii](3700-number-of-zigzag-arrays-ii) | 🔴 HARD |
-| 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM |
-| 3753 | [Total Waviness Of Numbers In Range Ii](3753-total-waviness-of-numbers-in-range-ii) | 🔴 HARD |
 
 </details>
 
@@ -443,7 +445,7 @@
 | 0183 | [Customers Who Never Order](0183-customers-who-never-order) | 🟢 EASY |
 | 0570 | [Managers With At Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 MEDIUM |
 | 0595 | [Big Countries](0595-big-countries) | 🟢 EASY |
-| 0596 | [Classes With At Least 5 Students](0596-classes-with-at-least-5-students) | 🟡 MEDIUM |
+| 0596 | [Classes With At Least 5 Students](0596-classes-with-at-least-5-students) | 🟢 EASY |
 
 </details>
 
@@ -840,7 +842,8 @@
 | 0570 | [Managers With At Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 MEDIUM | Database | — |
 | 0576 | [Out Of Boundary Paths](0576-out-of-boundary-paths) | 🟡 MEDIUM | Dynamic Programming | PY |
 | 0595 | [Big Countries](0595-big-countries) | 🟢 EASY | Database | — |
-| 0596 | [Classes With At Least 5 Students](0596-classes-with-at-least-5-students) | 🟡 MEDIUM | Database | — |
+| 0596 | [Classes With At Least 5 Students](0596-classes-with-at-least-5-students) | 🟢 EASY | Database | — |
+| 0598 | [Range Addition Ii](0598-range-addition-ii) | 🟢 EASY | Array, Math | PY |
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings) | 🟡 MEDIUM | Two Pointers, String, Dynamic Programming | PY |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD | Array, Hash Table, String +3 | JAVA |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD | Array, Binary Search, Dynamic Programming +1 | PY |
@@ -894,18 +897,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-03 20:27:22 UTC_
+_Generated on 2026-07-03 20:28:09 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0598-range-addition-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0598-range-addition-ii) |
-## Math
-|  |
-| ------- |
-| [0598-range-addition-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0598-range-addition-ii) |
-<!---LeetCode Topics End-->
