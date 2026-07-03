@@ -41,6 +41,9 @@
     "Game Theory",
     "Bitmask"
   ],
+  "classes-with-at-least-5-students": [
+    "Database"
+  ],
   "coin-change-ii": [
     "Array",
     "Dynamic Programming"
