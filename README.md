@@ -933,3 +933,35 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-07-04 15:27:01 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/chittoralovesh/Leetcode/tree/master/0493-reverse-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/chittoralovesh/Leetcode/tree/master/0493-reverse-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/chittoralovesh/Leetcode/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/chittoralovesh/Leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/chittoralovesh/Leetcode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/chittoralovesh/Leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/chittoralovesh/Leetcode/tree/master/0493-reverse-pairs) |
+<!---LeetCode Topics End-->
