@@ -280,6 +280,12 @@
     "Breadth-First Search",
     "Number Theory"
   ],
+  "minimum-score-of-a-path-between-two-cities": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
   "n-queens": [
     "Array",
     "Backtracking"
