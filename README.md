@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-100-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-101-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-20-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-51-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-29-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-30-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-57%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-58%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-25%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-13%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 100 |
+| **Total problems solved** | 101 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (53), `String` (26), `Dynamic Programming` (23), `Math` (20), `Hash Table` (19) |
-| **Last updated** | 2026-07-04 15:25:11 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (53), `String` (27), `Dynamic Programming` (24), `Math` (20), `Hash Table` (19) |
+| **Last updated** | 2026-07-04 15:27:01 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     20  ████░░░░░░░░░░░░░░░░   20.0%
-🟡 Medium   51  ██████████░░░░░░░░░░   51.0%
-🔴 Hard     29  ██████░░░░░░░░░░░░░░   29.0%
+🟢 Easy     20  ████░░░░░░░░░░░░░░░░   19.8%
+🟡 Medium   51  ██████████░░░░░░░░░░   50.5%
+🔴 Hard     30  ██████░░░░░░░░░░░░░░   29.7%
 ```
 
 
@@ -109,7 +109,7 @@
 </details>
 
 <details>
-<summary><b>String</b> &nbsp;·&nbsp; 26 problem(s)</summary>
+<summary><b>String</b> &nbsp;·&nbsp; 27 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -131,6 +131,7 @@
 | 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
 | 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
+| 0466 | [Count The Repetitions](0466-count-the-repetitions) | 🔴 HARD |
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings) | 🟡 MEDIUM |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
@@ -144,7 +145,7 @@
 </details>
 
 <details>
-<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 23 problem(s)</summary>
+<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 24 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -161,6 +162,7 @@
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence) | 🟡 MEDIUM |
 | 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD |
 | 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
+| 0466 | [Count The Repetitions](0466-count-the-repetitions) | 🔴 HARD |
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM |
 | 0576 | [Out Of Boundary Paths](0576-out-of-boundary-paths) | 🟡 MEDIUM |
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings) | 🟡 MEDIUM |
@@ -233,6 +235,29 @@
 </details>
 
 <details>
+<summary><b>Two Pointers</b> &nbsp;·&nbsp; 14 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring) | 🟡 MEDIUM |
+| 0011 | [Container With Most Water](0011-container-with-most-water) | 🟡 MEDIUM |
+| 0015 | [3Sum](0015-3sum) | 🟡 MEDIUM |
+| 0016 | [3Sum Closest](0016-3sum-closest) | 🟡 MEDIUM |
+| 0018 | [4Sum](0018-4sum) | 🟡 MEDIUM |
+| 0031 | [Next Permutation](0031-next-permutation) | 🟡 MEDIUM |
+| 0082 | [Remove Duplicates From Sorted List Ii](0082-remove-duplicates-from-sorted-list-ii) | 🟡 MEDIUM |
+| 0466 | [Count The Repetitions](0466-count-the-repetitions) | 🔴 HARD |
+| 0647 | [Palindromic Substrings](0647-palindromic-substrings) | 🟡 MEDIUM |
+| 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM |
+| 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
+| 2161 | [Partition Array According To Given Pivot](2161-partition-array-according-to-given-pivot) | 🟡 MEDIUM |
+| 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
+| 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Sorting</b> &nbsp;·&nbsp; 14 problem(s)</summary>
 
 
@@ -250,28 +275,6 @@
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD |
 | 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM |
 | 2144 | [Minimum Cost Of Buying Candies With Discount](2144-minimum-cost-of-buying-candies-with-discount) | 🟢 EASY |
-| 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
-| 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Two Pointers</b> &nbsp;·&nbsp; 13 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring) | 🟡 MEDIUM |
-| 0011 | [Container With Most Water](0011-container-with-most-water) | 🟡 MEDIUM |
-| 0015 | [3Sum](0015-3sum) | 🟡 MEDIUM |
-| 0016 | [3Sum Closest](0016-3sum-closest) | 🟡 MEDIUM |
-| 0018 | [4Sum](0018-4sum) | 🟡 MEDIUM |
-| 0031 | [Next Permutation](0031-next-permutation) | 🟡 MEDIUM |
-| 0082 | [Remove Duplicates From Sorted List Ii](0082-remove-duplicates-from-sorted-list-ii) | 🟡 MEDIUM |
-| 0647 | [Palindromic Substrings](0647-palindromic-substrings) | 🟡 MEDIUM |
-| 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM |
-| 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
-| 2161 | [Partition Array According To Given Pivot](2161-partition-array-according-to-given-pivot) | 🟡 MEDIUM |
 | 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
 | 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
 
@@ -865,6 +868,7 @@
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY | Hash Table, String, Greedy | PY |
 | 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD | Array, Dynamic Programming | PY |
 | 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM | Math, Dynamic Programming, Bit Manipulation +3 | PY |
+| 0466 | [Count The Repetitions](0466-count-the-repetitions) | 🔴 HARD | Two Pointers, String, Dynamic Programming | PY |
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD | Array, Greedy, Sorting +1 | JAVA |
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM | Array, Dynamic Programming | PY |
 | 0570 | [Managers With At Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 MEDIUM | Database | — |
@@ -926,22 +930,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-04 15:25:11 UTC_
+_Generated on 2026-07-04 15:27:01 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [0466-count-the-repetitions](https://github.com/chittoralovesh/Leetcode/tree/master/0466-count-the-repetitions) |
-## String
-|  |
-| ------- |
-| [0466-count-the-repetitions](https://github.com/chittoralovesh/Leetcode/tree/master/0466-count-the-repetitions) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0466-count-the-repetitions](https://github.com/chittoralovesh/Leetcode/tree/master/0466-count-the-repetitions) |
-<!---LeetCode Topics End-->

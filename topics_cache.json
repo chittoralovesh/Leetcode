@@ -77,6 +77,11 @@
     "Merge Sort",
     "Prefix Sum"
   ],
+  "count-the-repetitions": [
+    "Two Pointers",
+    "String",
+    "Dynamic Programming"
+  ],
   "create-binary-tree-from-descriptions": [
     "Array",
     "Hash Table",
