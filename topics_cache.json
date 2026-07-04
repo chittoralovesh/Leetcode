@@ -53,6 +53,13 @@
     "Two Pointers",
     "Greedy"
   ],
+  "contains-duplicate-iii": [
+    "Array",
+    "Sliding Window",
+    "Sorting",
+    "Bucket Sort",
+    "Ordered Set"
+  ],
   "count-subarrays-with-majority-element-i": [
     "Array",
     "Hash Table",
