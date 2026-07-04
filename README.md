@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-101-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-102-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-20-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-51-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-30-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-31-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-58%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-59%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-25%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-13%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 101 |
+| **Total problems solved** | 102 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (53), `String` (27), `Dynamic Programming` (24), `Math` (20), `Hash Table` (19) |
-| **Last updated** | 2026-07-04 15:27:01 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (54), `String` (27), `Dynamic Programming` (24), `Math` (20), `Hash Table` (19) |
+| **Last updated** | 2026-07-04 15:28:23 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     20  ████░░░░░░░░░░░░░░░░   19.8%
-🟡 Medium   51  ██████████░░░░░░░░░░   50.5%
-🔴 Hard     30  ██████░░░░░░░░░░░░░░   29.7%
+🟢 Easy     20  ████░░░░░░░░░░░░░░░░   19.6%
+🟡 Medium   51  ██████████░░░░░░░░░░   50.0%
+🔴 Hard     31  ██████░░░░░░░░░░░░░░   30.4%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 53 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 54 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -75,6 +75,7 @@
 | 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
 | 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD |
+| 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD |
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM |
 | 0598 | [Range Addition Ii](0598-range-addition-ii) | 🟢 EASY |
@@ -303,7 +304,7 @@
 </details>
 
 <details>
-<summary><b>Binary Search</b> &nbsp;·&nbsp; 9 problem(s)</summary>
+<summary><b>Binary Search</b> &nbsp;·&nbsp; 10 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -311,6 +312,7 @@
 | 0004 | [Median Of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 HARD |
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence) | 🟡 MEDIUM |
 | 0374 | [Guess Number Higher Or Lower](0374-guess-number-higher-or-lower) | 🟢 EASY |
+| 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
 | 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
 | 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD |
@@ -457,6 +459,20 @@
 </details>
 
 <details>
+<summary><b>Segment Tree</b> &nbsp;·&nbsp; 5 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
+| 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD |
+| 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
+| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
+| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Simulation</b> &nbsp;·&nbsp; 5 problem(s)</summary>
 
 
@@ -467,6 +483,19 @@
 | 3612 | [Process String With Special Operations I](3612-process-string-with-special-operations-i) | 🟡 MEDIUM |
 | 3614 | [Process String With Special Operations Ii](3614-process-string-with-special-operations-ii) | 🔴 HARD |
 | 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY |
+
+</details>
+
+<details>
+<summary><b>Divide and Conquer</b> &nbsp;·&nbsp; 4 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0004 | [Median Of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 HARD |
+| 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
+| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
+| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
 
 </details>
 
@@ -510,19 +539,6 @@
 </details>
 
 <details>
-<summary><b>Segment Tree</b> &nbsp;·&nbsp; 4 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD |
-| 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
-| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
-| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
-
-</details>
-
-<details>
 <summary><b>Sliding Window</b> &nbsp;·&nbsp; 3 problem(s)</summary>
 
 
@@ -531,18 +547,6 @@
 | 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters) | 🟡 MEDIUM |
 | 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
 | 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Divide and Conquer</b> &nbsp;·&nbsp; 3 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0004 | [Median Of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 HARD |
-| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
-| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
 
 </details>
 
@@ -583,6 +587,18 @@
 </details>
 
 <details>
+<summary><b>Merge Sort</b> &nbsp;·&nbsp; 3 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
+| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
+| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Memoization</b> &nbsp;·&nbsp; 2 problem(s)</summary>
 
 
@@ -601,6 +617,17 @@
 |---|---|---|
 | 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
+
+</details>
+
+<details>
+<summary><b>Ordered Set</b> &nbsp;·&nbsp; 2 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
+| 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
 
 </details>
 
@@ -660,17 +687,6 @@
 </details>
 
 <details>
-<summary><b>Merge Sort</b> &nbsp;·&nbsp; 2 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
-| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
-
-</details>
-
-<details>
 <summary><b>Monotonic Stack</b> &nbsp;·&nbsp; 1 problem(s)</summary>
 
 
@@ -702,16 +718,6 @@
 
 <details>
 <summary><b>Bucket Sort</b> &nbsp;·&nbsp; 1 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Ordered Set</b> &nbsp;·&nbsp; 1 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -777,6 +783,16 @@
 | # | Problem | Difficulty |
 |---|---|---|
 | 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
+
+</details>
+
+<details>
+<summary><b>Binary Indexed Tree</b> &nbsp;·&nbsp; 1 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
 
 </details>
 
@@ -869,6 +885,7 @@
 | 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD | Array, Dynamic Programming | PY |
 | 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM | Math, Dynamic Programming, Bit Manipulation +3 | PY |
 | 0466 | [Count The Repetitions](0466-count-the-repetitions) | 🔴 HARD | Two Pointers, String, Dynamic Programming | PY |
+| 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD | Array, Binary Search, Divide and Conquer +4 | PY |
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD | Array, Greedy, Sorting +1 | JAVA |
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM | Array, Dynamic Programming | PY |
 | 0570 | [Managers With At Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 MEDIUM | Database | — |
@@ -930,38 +947,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-04 15:27:01 UTC_
+_Generated on 2026-07-04 15:28:23 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0493-reverse-pairs](https://github.com/chittoralovesh/Leetcode/tree/master/0493-reverse-pairs) |
-## Binary Search
-|  |
-| ------- |
-| [0493-reverse-pairs](https://github.com/chittoralovesh/Leetcode/tree/master/0493-reverse-pairs) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0493-reverse-pairs](https://github.com/chittoralovesh/Leetcode/tree/master/0493-reverse-pairs) |
-## Binary Indexed Tree
-|  |
-| ------- |
-| [0493-reverse-pairs](https://github.com/chittoralovesh/Leetcode/tree/master/0493-reverse-pairs) |
-## Segment Tree
-|  |
-| ------- |
-| [0493-reverse-pairs](https://github.com/chittoralovesh/Leetcode/tree/master/0493-reverse-pairs) |
-## Merge Sort
-|  |
-| ------- |
-| [0493-reverse-pairs](https://github.com/chittoralovesh/Leetcode/tree/master/0493-reverse-pairs) |
-## Ordered Set
-|  |
-| ------- |
-| [0493-reverse-pairs](https://github.com/chittoralovesh/Leetcode/tree/master/0493-reverse-pairs) |
-<!---LeetCode Topics End-->
