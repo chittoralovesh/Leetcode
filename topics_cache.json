@@ -327,6 +327,11 @@
     "Union-Find",
     "Matrix"
   ],
+  "number-of-paths-with-max-score": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+  ],
   "number-of-strings-that-appear-as-substrings-in-word": [
     "Array",
     "String"
