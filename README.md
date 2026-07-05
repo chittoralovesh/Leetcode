@@ -950,3 +950,19 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-07-05 03:56:18 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/chittoralovesh/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/chittoralovesh/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+## Matrix
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/chittoralovesh/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+<!---LeetCode Topics End-->
