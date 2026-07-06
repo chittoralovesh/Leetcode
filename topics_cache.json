@@ -183,6 +183,13 @@
     "Reservoir Sampling",
     "Randomized"
   ],
+  "longest-balanced-subarray-i": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Segment Tree",
+    "Prefix Sum"
+  ],
   "longest-common-prefix": [
     "Array",
     "String",
