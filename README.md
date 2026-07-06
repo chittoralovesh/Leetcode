@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-103-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-104-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-20-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-51-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-52-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-32-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-60%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-61%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-25%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-13%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 103 |
+| **Total problems solved** | 104 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (55), `String` (27), `Dynamic Programming` (25), `Math` (20), `Hash Table` (19) |
-| **Last updated** | 2026-07-06 04:02:56 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (56), `String` (27), `Dynamic Programming` (25), `Math` (20), `Hash Table` (19) |
+| **Last updated** | 2026-07-06 11:21:54 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     20  ████░░░░░░░░░░░░░░░░   19.4%
-🟡 Medium   51  ██████████░░░░░░░░░░   49.5%
-🔴 Hard     32  ██████░░░░░░░░░░░░░░   31.1%
+🟢 Easy     20  ████░░░░░░░░░░░░░░░░   19.2%
+🟡 Medium   52  ██████████░░░░░░░░░░   50.0%
+🔴 Hard     32  ██████░░░░░░░░░░░░░░   30.8%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 55 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 56 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -81,6 +81,7 @@
 | 0598 | [Range Addition Ii](0598-range-addition-ii) | 🟢 EASY |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
+| 1288 | [Remove Covered Intervals](1288-remove-covered-intervals) | 🟡 MEDIUM |
 | 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD |
 | 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD |
 | 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY |
@@ -238,6 +239,30 @@
 </details>
 
 <details>
+<summary><b>Sorting</b> &nbsp;·&nbsp; 15 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0015 | [3Sum](0015-3sum) | 🟡 MEDIUM |
+| 0016 | [3Sum Closest](0016-3sum-closest) | 🟡 MEDIUM |
+| 0018 | [4Sum](0018-4sum) | 🟡 MEDIUM |
+| 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
+| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
+| 0502 | [Ipo](0502-ipo) | 🔴 HARD |
+| 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
+| 1288 | [Remove Covered Intervals](1288-remove-covered-intervals) | 🟡 MEDIUM |
+| 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD |
+| 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM |
+| 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD |
+| 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM |
+| 2144 | [Minimum Cost Of Buying Candies With Discount](2144-minimum-cost-of-buying-candies-with-discount) | 🟢 EASY |
+| 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
+| 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Two Pointers</b> &nbsp;·&nbsp; 14 problem(s)</summary>
 
 
@@ -255,29 +280,6 @@
 | 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM |
 | 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
 | 2161 | [Partition Array According To Given Pivot](2161-partition-array-according-to-given-pivot) | 🟡 MEDIUM |
-| 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
-| 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Sorting</b> &nbsp;·&nbsp; 14 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0015 | [3Sum](0015-3sum) | 🟡 MEDIUM |
-| 0016 | [3Sum Closest](0016-3sum-closest) | 🟡 MEDIUM |
-| 0018 | [4Sum](0018-4sum) | 🟡 MEDIUM |
-| 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
-| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
-| 0502 | [Ipo](0502-ipo) | 🔴 HARD |
-| 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
-| 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD |
-| 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM |
-| 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD |
-| 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM |
-| 2144 | [Minimum Cost Of Buying Candies With Discount](2144-minimum-cost-of-buying-candies-with-discount) | 🟢 EASY |
 | 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
 | 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
 
@@ -900,6 +902,7 @@
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD | Array, Hash Table, String +3 | JAVA |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD | Array, Binary Search, Dynamic Programming +1 | PY |
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY | Hash Table, String, Counting | PY |
+| 1288 | [Remove Covered Intervals](1288-remove-covered-intervals) | 🟡 MEDIUM | Array, Sorting | PY |
 | 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD | Array, Dynamic Programming, Matrix | PY |
 | 1344 | [Angle Between Hands Of A Clock](1344-angle-between-hands-of-a-clock) | 🟡 MEDIUM | Math | PY |
 | 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM | Hash Table, String, Sliding Window | JAVA |
@@ -951,18 +954,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-06 04:02:56 UTC_
+_Generated on 2026-07-06 11:21:54 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1288-remove-covered-intervals](https://github.com/chittoralovesh/Leetcode/tree/master/1288-remove-covered-intervals) |
-## Sorting
-|  |
-| ------- |
-| [1288-remove-covered-intervals](https://github.com/chittoralovesh/Leetcode/tree/master/1288-remove-covered-intervals) |
-<!---LeetCode Topics End-->

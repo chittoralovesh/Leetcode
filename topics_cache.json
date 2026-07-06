@@ -426,6 +426,10 @@
     "Dynamic Programming",
     "Recursion"
   ],
+  "remove-covered-intervals": [
+    "Array",
+    "Sorting"
+  ],
   "remove-duplicates-from-sorted-list-ii": [
     "Linked List",
     "Two Pointers"
