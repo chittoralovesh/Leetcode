@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-106-5865F2?style=for-the-badge" alt="Total Solved" />
-<img src="https://img.shields.io/badge/Easy-20-2ECC71?style=for-the-badge" alt="Easy" />
+<img src="https://img.shields.io/badge/Total%20Solved-107-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Easy-21-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-54-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-32-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-63%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-64%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-25%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-13%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 106 |
+| **Total problems solved** | 107 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (57), `String` (27), `Dynamic Programming` (26), `Hash Table` (20), `Math` (20) |
-| **Last updated** | 2026-07-06 12:18:34 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (57), `String` (28), `Dynamic Programming` (26), `Hash Table` (20), `Math` (20) |
+| **Last updated** | 2026-07-06 12:20:09 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     20  ████░░░░░░░░░░░░░░░░   18.9%
-🟡 Medium   54  ██████████░░░░░░░░░░   50.9%
-🔴 Hard     32  ██████░░░░░░░░░░░░░░   30.2%
+🟢 Easy     21  ████░░░░░░░░░░░░░░░░   19.6%
+🟡 Medium   54  ██████████░░░░░░░░░░   50.5%
+🔴 Hard     32  ██████░░░░░░░░░░░░░░   29.9%
 ```
 
 
@@ -113,7 +113,7 @@
 </details>
 
 <details>
-<summary><b>String</b> &nbsp;·&nbsp; 27 problem(s)</summary>
+<summary><b>String</b> &nbsp;·&nbsp; 28 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -140,6 +140,7 @@
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
 | 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM |
+| 1784 | [Check If Binary String Has At Most One Segment Of Ones](1784-check-if-binary-string-has-at-most-one-segment-of-ones) | 🟢 EASY |
 | 1967 | [Number Of Strings That Appear As Substrings In Word](1967-number-of-strings-that-appear-as-substrings-in-word) | 🟢 EASY |
 | 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM |
 | 3612 | [Process String With Special Operations I](3612-process-string-with-special-operations-i) | 🟡 MEDIUM |
@@ -915,6 +916,7 @@
 | 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM | Hash Table, String, Sliding Window | JAVA |
 | 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD | Array, Greedy, Sorting | PY |
 | 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY | Array, Prefix Sum | PY |
+| 1784 | [Check If Binary String Has At Most One Segment Of Ones](1784-check-if-binary-string-has-at-most-one-segment-of-ones) | 🟢 EASY | String | PY |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM | Array, Greedy, Sorting +1 | PY |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD | Array, Math, Sorting | PY |
 | 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM | Array, Greedy, Sorting | JAVA |
@@ -962,14 +964,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-06 12:18:34 UTC_
+_Generated on 2026-07-06 12:20:09 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/chittoralovesh/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
-<!---LeetCode Topics End-->
