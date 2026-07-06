@@ -954,3 +954,15 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-07-06 04:02:56 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/chittoralovesh/Leetcode/tree/master/1288-remove-covered-intervals) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/chittoralovesh/Leetcode/tree/master/1288-remove-covered-intervals) |
+<!---LeetCode Topics End-->
