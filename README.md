@@ -967,3 +967,19 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-07-07 03:53:54 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/chittoralovesh/Leetcode/tree/master/0076-minimum-window-substring) |
+## String
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/chittoralovesh/Leetcode/tree/master/0076-minimum-window-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/chittoralovesh/Leetcode/tree/master/0076-minimum-window-substring) |
+<!---LeetCode Topics End-->
