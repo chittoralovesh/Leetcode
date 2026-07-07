@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-109-5865F2?style=for-the-badge" alt="Total Solved" />
-<img src="https://img.shields.io/badge/Easy-21-2ECC71?style=for-the-badge" alt="Easy" />
+<img src="https://img.shields.io/badge/Total%20Solved-110-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Easy-22-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-55-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-33-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-66%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-67%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-25%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-13%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 109 |
+| **Total problems solved** | 110 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (57), `String` (29), `Dynamic Programming` (26), `Hash Table` (21), `Math` (20) |
-| **Last updated** | 2026-07-07 16:18:19 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (57), `String` (29), `Dynamic Programming` (26), `Hash Table` (21), `Math` (21) |
+| **Last updated** | 2026-07-07 16:19:48 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     21  ████░░░░░░░░░░░░░░░░   19.3%
-🟡 Medium   55  ██████████░░░░░░░░░░   50.5%
-🔴 Hard     33  ██████░░░░░░░░░░░░░░   30.3%
+🟢 Easy     22  ████░░░░░░░░░░░░░░░░   20.0%
+🟡 Medium   55  ██████████░░░░░░░░░░   50.0%
+🔴 Hard     33  ██████░░░░░░░░░░░░░░   30.0%
 ```
 
 
@@ -216,7 +216,7 @@
 </details>
 
 <details>
-<summary><b>Math</b> &nbsp;·&nbsp; 20 problem(s)</summary>
+<summary><b>Math</b> &nbsp;·&nbsp; 21 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -241,6 +241,7 @@
 | 3700 | [Number Of Zigzag Arrays Ii](3700-number-of-zigzag-arrays-ii) | 🔴 HARD |
 | 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM |
 | 3753 | [Total Waviness Of Numbers In Range Ii](3753-total-waviness-of-numbers-in-range-ii) | 🔴 HARD |
+| 3754 | [Concatenate Non Zero Digits And Multiply By Sum I](3754-concatenate-non-zero-digits-and-multiply-by-sum-i) | 🟢 EASY |
 
 </details>
 
@@ -959,6 +960,7 @@
 | 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD | Array, Hash Table, Divide and Conquer +3 | JAVA |
 | 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM | Math, Dynamic Programming, Enumeration | CPP |
 | 3753 | [Total Waviness Of Numbers In Range Ii](3753-total-waviness-of-numbers-in-range-ii) | 🔴 HARD | Math, Dynamic Programming | CPP |
+| 3754 | [Concatenate Non Zero Digits And Multiply By Sum I](3754-concatenate-non-zero-digits-and-multiply-by-sum-i) | 🟢 EASY | Math | PY |
 | 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY | Array, String, Simulation | CPP |
 
 
@@ -972,14 +974,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-07 16:18:19 UTC_
+_Generated on 2026-07-07 16:19:48 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/chittoralovesh/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
-<!---LeetCode Topics End-->

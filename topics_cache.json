@@ -59,6 +59,9 @@
     "Array",
     "Dynamic Programming"
   ],
+  "concatenate-non-zero-digits-and-multiply-by-sum-i": [
+    "Math"
+  ],
   "container-with-most-water": [
     "Array",
     "Two Pointers",
