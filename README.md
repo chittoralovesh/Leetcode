@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-107-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-108-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-21-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-54-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-32-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-33-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-64%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-65%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-25%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-13%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 107 |
+| **Total problems solved** | 108 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (57), `String` (28), `Dynamic Programming` (26), `Hash Table` (20), `Math` (20) |
-| **Last updated** | 2026-07-07 03:53:54 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (57), `String` (29), `Dynamic Programming` (26), `Hash Table` (21), `Math` (20) |
+| **Last updated** | 2026-07-07 14:50:52 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     21  ████░░░░░░░░░░░░░░░░   19.6%
-🟡 Medium   54  ██████████░░░░░░░░░░   50.5%
-🔴 Hard     32  ██████░░░░░░░░░░░░░░   29.9%
+🟢 Easy     21  ████░░░░░░░░░░░░░░░░   19.4%
+🟡 Medium   54  ██████████░░░░░░░░░░   50.0%
+🔴 Hard     33  ██████░░░░░░░░░░░░░░   30.6%
 ```
 
 
@@ -113,7 +113,7 @@
 </details>
 
 <details>
-<summary><b>String</b> &nbsp;·&nbsp; 28 problem(s)</summary>
+<summary><b>String</b> &nbsp;·&nbsp; 29 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -129,6 +129,7 @@
 | 0017 | [Letter Combinations Of A Phone Number](0017-letter-combinations-of-a-phone-number) | 🟡 MEDIUM |
 | 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD |
 | 0058 | [Length Of Last Word](0058-length-of-last-word) | 🟢 EASY |
+| 0076 | [Minimum Window Substring](0076-minimum-window-substring) | 🔴 HARD |
 | 0127 | [Word Ladder](0127-word-ladder) | 🔴 HARD |
 | 0132 | [Palindrome Partitioning Ii](0132-palindrome-partitioning-ii) | 🔴 HARD |
 | 0139 | [Word Break](0139-word-break) | 🟡 MEDIUM |
@@ -185,7 +186,7 @@
 </details>
 
 <details>
-<summary><b>Hash Table</b> &nbsp;·&nbsp; 20 problem(s)</summary>
+<summary><b>Hash Table</b> &nbsp;·&nbsp; 21 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -196,6 +197,7 @@
 | 0013 | [Roman To Integer](0013-roman-to-integer) | 🟢 EASY |
 | 0017 | [Letter Combinations Of A Phone Number](0017-letter-combinations-of-a-phone-number) | 🟡 MEDIUM |
 | 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
+| 0076 | [Minimum Window Substring](0076-minimum-window-substring) | 🔴 HARD |
 | 0127 | [Word Ladder](0127-word-ladder) | 🔴 HARD |
 | 0139 | [Word Break](0139-word-break) | 🟡 MEDIUM |
 | 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
@@ -512,6 +514,19 @@
 </details>
 
 <details>
+<summary><b>Sliding Window</b> &nbsp;·&nbsp; 4 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters) | 🟡 MEDIUM |
+| 0076 | [Minimum Window Substring](0076-minimum-window-substring) | 🔴 HARD |
+| 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
+| 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Backtracking</b> &nbsp;·&nbsp; 4 problem(s)</summary>
 
 
@@ -547,18 +562,6 @@
 | 2492 | [Minimum Score Of A Path Between Two Cities](2492-minimum-score-of-a-path-between-two-cities) | 🟡 MEDIUM |
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
 | 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Sliding Window</b> &nbsp;·&nbsp; 3 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters) | 🟡 MEDIUM |
-| 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
-| 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM |
 
 </details>
 
@@ -870,6 +873,7 @@
 | 0055 | [Jump Game](0055-jump-game) | 🟡 MEDIUM | Array, Dynamic Programming, Greedy | PY |
 | 0058 | [Length Of Last Word](0058-length-of-last-word) | 🟢 EASY | String | PY |
 | 0060 | [Permutation Sequence](0060-permutation-sequence) | 🔴 HARD | Math, Recursion | PY |
+| 0076 | [Minimum Window Substring](0076-minimum-window-substring) | 🔴 HARD | Hash Table, String, Sliding Window | PY |
 | 0082 | [Remove Duplicates From Sorted List Ii](0082-remove-duplicates-from-sorted-list-ii) | 🟡 MEDIUM | Linked List, Two Pointers | PY |
 | 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD | Array, Dynamic Programming, Stack +2 | JAVA |
 | 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree) | 🟡 MEDIUM | Tree, Depth-First Search, Binary Search Tree +1 | PY |
@@ -964,22 +968,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-07 03:53:54 UTC_
+_Generated on 2026-07-07 14:50:52 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0076-minimum-window-substring](https://github.com/chittoralovesh/Leetcode/tree/master/0076-minimum-window-substring) |
-## String
-|  |
-| ------- |
-| [0076-minimum-window-substring](https://github.com/chittoralovesh/Leetcode/tree/master/0076-minimum-window-substring) |
-## Sliding Window
-|  |
-| ------- |
-| [0076-minimum-window-substring](https://github.com/chittoralovesh/Leetcode/tree/master/0076-minimum-window-substring) |
-<!---LeetCode Topics End-->

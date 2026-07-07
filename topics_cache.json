@@ -311,6 +311,11 @@
     "Union-Find",
     "Graph Theory"
   ],
+  "minimum-window-substring": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
   "n-queens": [
     "Array",
     "Backtracking"
