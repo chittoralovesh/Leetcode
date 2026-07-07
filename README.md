@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-108-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-109-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-21-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-54-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-55-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-33-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-65%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-66%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-25%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-13%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 108 |
+| **Total problems solved** | 109 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (57), `String` (29), `Dynamic Programming` (26), `Hash Table` (21), `Math` (20) |
-| **Last updated** | 2026-07-07 14:50:52 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-07-07 16:18:19 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     21  ████░░░░░░░░░░░░░░░░   19.4%
-🟡 Medium   54  ██████████░░░░░░░░░░   50.0%
-🔴 Hard     33  ██████░░░░░░░░░░░░░░   30.6%
+🟢 Easy     21  ████░░░░░░░░░░░░░░░░   19.3%
+🟡 Medium   55  ██████████░░░░░░░░░░   50.5%
+🔴 Hard     33  ██████░░░░░░░░░░░░░░   30.3%
 ```
 
 
@@ -333,6 +333,24 @@
 </details>
 
 <details>
+<summary><b>Breadth-First Search</b> &nbsp;·&nbsp; 9 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
+| 0107 | [Binary Tree Level Order Traversal Ii](0107-binary-tree-level-order-traversal-ii) | 🟡 MEDIUM |
+| 0127 | [Word Ladder](0127-word-ladder) | 🔴 HARD |
+| 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
+| 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
+| 2492 | [Minimum Score Of A Path Between Two Cities](2492-minimum-score-of-a-path-between-two-cities) | 🟡 MEDIUM |
+| 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
+| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
+| 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Depth-First Search</b> &nbsp;·&nbsp; 8 problem(s)</summary>
 
 
@@ -346,23 +364,6 @@
 | 2492 | [Minimum Score Of A Path Between Two Cities](2492-minimum-score-of-a-path-between-two-cities) | 🟡 MEDIUM |
 | 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Breadth-First Search</b> &nbsp;·&nbsp; 8 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
-| 0127 | [Word Ladder](0127-word-ladder) | 🔴 HARD |
-| 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
-| 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
-| 2492 | [Minimum Score Of A Path Between Two Cities](2492-minimum-score-of-a-path-between-two-cities) | 🟡 MEDIUM |
-| 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
-| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
-| 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM |
 
 </details>
 
@@ -410,6 +411,21 @@
 | 0382 | [Linked List Random Node](0382-linked-list-random-node) | 🟡 MEDIUM |
 | 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM |
 | 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
+
+</details>
+
+<details>
+<summary><b>Tree</b> &nbsp;·&nbsp; 6 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree) | 🟡 MEDIUM |
+| 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
+| 0107 | [Binary Tree Level Order Traversal Ii](0107-binary-tree-level-order-traversal-ii) | 🟡 MEDIUM |
+| 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
+| 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
+| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
 
 </details>
 
@@ -472,20 +488,6 @@
 </details>
 
 <details>
-<summary><b>Tree</b> &nbsp;·&nbsp; 5 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree) | 🟡 MEDIUM |
-| 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
-| 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
-| 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
-| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
-
-</details>
-
-<details>
 <summary><b>Database</b> &nbsp;·&nbsp; 5 problem(s)</summary>
 
 
@@ -540,6 +542,19 @@
 </details>
 
 <details>
+<summary><b>Binary Tree</b> &nbsp;·&nbsp; 4 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree) | 🟡 MEDIUM |
+| 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
+| 0107 | [Binary Tree Level Order Traversal Ii](0107-binary-tree-level-order-traversal-ii) | 🟡 MEDIUM |
+| 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Union-Find</b> &nbsp;·&nbsp; 4 problem(s)</summary>
 
 
@@ -586,18 +601,6 @@
 | 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
 | 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM |
 | 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Binary Tree</b> &nbsp;·&nbsp; 3 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree) | 🟡 MEDIUM |
-| 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
-| 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
 
 </details>
 
@@ -878,6 +881,7 @@
 | 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD | Array, Dynamic Programming, Stack +2 | JAVA |
 | 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree) | 🟡 MEDIUM | Tree, Depth-First Search, Binary Search Tree +1 | PY |
 | 0100 | [Same Tree](0100-same-tree) | 🟢 EASY | Tree, Depth-First Search, Breadth-First Search +1 | CPP |
+| 0107 | [Binary Tree Level Order Traversal Ii](0107-binary-tree-level-order-traversal-ii) | 🟡 MEDIUM | Tree, Breadth-First Search, Binary Tree | PY |
 | 0123 | [Best Time To Buy And Sell Stock Iii](0123-best-time-to-buy-and-sell-stock-iii) | 🔴 HARD | Array, Dynamic Programming | PY |
 | 0127 | [Word Ladder](0127-word-ladder) | 🔴 HARD | Hash Table, String, Breadth-First Search | PY |
 | 0132 | [Palindrome Partitioning Ii](0132-palindrome-partitioning-ii) | 🔴 HARD | String, Dynamic Programming | JAVA |
@@ -968,22 +972,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-07 14:50:52 UTC_
+_Generated on 2026-07-07 16:18:19 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0107-binary-tree-level-order-traversal-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0107-binary-tree-level-order-traversal-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
-## Binary Tree
-|  |
-| ------- |
-| [0107-binary-tree-level-order-traversal-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
-<!---LeetCode Topics End-->
