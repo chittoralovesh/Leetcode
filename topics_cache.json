@@ -62,6 +62,11 @@
   "concatenate-non-zero-digits-and-multiply-by-sum-i": [
     "Math"
   ],
+  "concatenate-non-zero-digits-and-multiply-by-sum-ii": [
+    "Math",
+    "String",
+    "Prefix Sum"
+  ],
   "container-with-most-water": [
     "Array",
     "Two Pointers",
