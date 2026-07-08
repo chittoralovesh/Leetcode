@@ -164,6 +164,10 @@
     "Binary Search",
     "Interactive"
   ],
+  "house-robber": [
+    "Array",
+    "Dynamic Programming"
+  ],
   "integer-to-roman": [
     "Hash Table",
     "Math",

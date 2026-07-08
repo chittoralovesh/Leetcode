@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-111-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-112-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-22-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-56-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-57-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-33-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-68%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-69%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-25%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-13%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 111 |
+| **Total problems solved** | 112 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (57), `String` (30), `Dynamic Programming` (26), `Math` (22), `Hash Table` (21) |
-| **Last updated** | 2026-07-08 14:41:37 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (58), `String` (30), `Dynamic Programming` (27), `Math` (22), `Hash Table` (21) |
+| **Last updated** | 2026-07-08 20:18:02 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     22  ████░░░░░░░░░░░░░░░░   19.8%
-🟡 Medium   56  ██████████░░░░░░░░░░   50.5%
-🔴 Hard     33  ██████░░░░░░░░░░░░░░   29.7%
+🟢 Easy     22  ████░░░░░░░░░░░░░░░░   19.6%
+🟡 Medium   57  ██████████░░░░░░░░░░   50.9%
+🔴 Hard     33  ██████░░░░░░░░░░░░░░   29.5%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 57 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 58 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -67,6 +67,7 @@
 | 0123 | [Best Time To Buy And Sell Stock Iii](0123-best-time-to-buy-and-sell-stock-iii) | 🔴 HARD |
 | 0139 | [Word Break](0139-word-break) | 🟡 MEDIUM |
 | 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
+| 0198 | [House Robber](0198-house-robber) | 🟡 MEDIUM |
 | 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
 | 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
 | 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
@@ -152,7 +153,7 @@
 </details>
 
 <details>
-<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 26 problem(s)</summary>
+<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 27 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -165,6 +166,7 @@
 | 0123 | [Best Time To Buy And Sell Stock Iii](0123-best-time-to-buy-and-sell-stock-iii) | 🔴 HARD |
 | 0132 | [Palindrome Partitioning Ii](0132-palindrome-partitioning-ii) | 🔴 HARD |
 | 0139 | [Word Break](0139-word-break) | 🟡 MEDIUM |
+| 0198 | [House Robber](0198-house-robber) | 🟡 MEDIUM |
 | 0233 | [Number Of Digit One](0233-number-of-digit-one) | 🔴 HARD |
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence) | 🟡 MEDIUM |
 | 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD |
@@ -894,6 +896,7 @@
 | 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM | Stack, Design | PY |
 | 0181 | [Employees Earning More Than Their Managers](0181-employees-earning-more-than-their-managers) | 🟢 EASY | Database | — |
 | 0183 | [Customers Who Never Order](0183-customers-who-never-order) | 🟢 EASY | Database | — |
+| 0198 | [House Robber](0198-house-robber) | 🟡 MEDIUM | Array, Dynamic Programming | PY |
 | 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM | Array, Depth-First Search, Breadth-First Search +2 | CPP |
 | 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD | Array, String, Backtracking +2 | PY |
 | 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD | Array, Sliding Window, Sorting +2 | PY |
@@ -978,18 +981,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-08 14:41:37 UTC_
+_Generated on 2026-07-08 20:18:02 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0198-house-robber](https://github.com/chittoralovesh/Leetcode/tree/master/0198-house-robber) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0198-house-robber](https://github.com/chittoralovesh/Leetcode/tree/master/0198-house-robber) |
-<!---LeetCode Topics End-->
