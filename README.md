@@ -994,3 +994,15 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-07-09 14:04:12 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+<!---LeetCode Topics End-->
