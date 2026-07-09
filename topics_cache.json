@@ -143,6 +143,10 @@
     "Matrix",
     "Shortest Path"
   ],
+  "find-minimum-in-rotated-sorted-array-ii": [
+    "Array",
+    "Binary Search"
+  ],
   "find-the-highest-altitude": [
     "Array",
     "Prefix Sum"

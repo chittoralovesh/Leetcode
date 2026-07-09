@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-114-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-115-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-22-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-58-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-34-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-35-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-71%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-72%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-25%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-13%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 114 |
+| **Total problems solved** | 115 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (60), `String` (30), `Dynamic Programming` (27), `Hash Table` (23), `Math` (22) |
-| **Last updated** | 2026-07-09 14:04:12 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (61), `String` (30), `Dynamic Programming` (27), `Hash Table` (23), `Math` (22) |
+| **Last updated** | 2026-07-09 14:05:23 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     22  ████░░░░░░░░░░░░░░░░   19.3%
-🟡 Medium   58  ██████████░░░░░░░░░░   50.9%
-🔴 Hard     34  ██████░░░░░░░░░░░░░░   29.8%
+🟢 Easy     22  ████░░░░░░░░░░░░░░░░   19.1%
+🟡 Medium   58  ██████████░░░░░░░░░░   50.4%
+🔴 Hard     35  ██████░░░░░░░░░░░░░░   30.4%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 60 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 61 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -67,6 +67,7 @@
 | 0123 | [Best Time To Buy And Sell Stock Iii](0123-best-time-to-buy-and-sell-stock-iii) | 🔴 HARD |
 | 0139 | [Word Break](0139-word-break) | 🟡 MEDIUM |
 | 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
+| 0154 | [Find Minimum In Rotated Sorted Array Ii](0154-find-minimum-in-rotated-sorted-array-ii) | 🔴 HARD |
 | 0198 | [House Robber](0198-house-robber) | 🟡 MEDIUM |
 | 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
 | 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
@@ -323,12 +324,13 @@
 </details>
 
 <details>
-<summary><b>Binary Search</b> &nbsp;·&nbsp; 11 problem(s)</summary>
+<summary><b>Binary Search</b> &nbsp;·&nbsp; 12 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
 |---|---|---|
 | 0004 | [Median Of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 HARD |
+| 0154 | [Find Minimum In Rotated Sorted Array Ii](0154-find-minimum-in-rotated-sorted-array-ii) | 🔴 HARD |
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence) | 🟡 MEDIUM |
 | 0374 | [Guess Number Higher Or Lower](0374-guess-number-higher-or-lower) | 🟢 EASY |
 | 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
@@ -901,6 +903,7 @@
 | 0132 | [Palindrome Partitioning Ii](0132-palindrome-partitioning-ii) | 🔴 HARD | String, Dynamic Programming | JAVA |
 | 0139 | [Word Break](0139-word-break) | 🟡 MEDIUM | Array, Hash Table, String +3 | PY |
 | 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD | Array, Hash Table, Math +1 | PY |
+| 0154 | [Find Minimum In Rotated Sorted Array Ii](0154-find-minimum-in-rotated-sorted-array-ii) | 🔴 HARD | Array, Binary Search | PY |
 | 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM | Stack, Design | PY |
 | 0181 | [Employees Earning More Than Their Managers](0181-employees-earning-more-than-their-managers) | 🟢 EASY | Database | — |
 | 0183 | [Customers Who Never Order](0183-customers-who-never-order) | 🟢 EASY | Database | — |
@@ -991,18 +994,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-09 14:04:12 UTC_
+_Generated on 2026-07-09 14:05:23 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
-## Binary Search
-|  |
-| ------- |
-| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
-<!---LeetCode Topics End-->
