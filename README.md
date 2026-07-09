@@ -990,3 +990,19 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-07-09 14:02:14 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1345-jump-game-iv](https://github.com/chittoralovesh/Leetcode/tree/master/1345-jump-game-iv) |
+## Hash Table
+|  |
+| ------- |
+| [1345-jump-game-iv](https://github.com/chittoralovesh/Leetcode/tree/master/1345-jump-game-iv) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1345-jump-game-iv](https://github.com/chittoralovesh/Leetcode/tree/master/1345-jump-game-iv) |
+<!---LeetCode Topics End-->
