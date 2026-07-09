@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-113-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-114-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-22-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-58-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-33-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-34-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-70%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-71%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-25%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-13%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 113 |
+| **Total problems solved** | 114 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (59), `String` (30), `Dynamic Programming` (27), `Hash Table` (22), `Math` (22) |
-| **Last updated** | 2026-07-09 14:02:14 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (60), `String` (30), `Dynamic Programming` (27), `Hash Table` (23), `Math` (22) |
+| **Last updated** | 2026-07-09 14:04:12 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     22  ████░░░░░░░░░░░░░░░░   19.5%
-🟡 Medium   58  ██████████░░░░░░░░░░   51.3%
-🔴 Hard     33  ██████░░░░░░░░░░░░░░   29.2%
+🟢 Easy     22  ████░░░░░░░░░░░░░░░░   19.3%
+🟡 Medium   58  ██████████░░░░░░░░░░   50.9%
+🔴 Hard     34  ██████░░░░░░░░░░░░░░   29.8%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 59 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 60 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -84,6 +84,7 @@
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
 | 1288 | [Remove Covered Intervals](1288-remove-covered-intervals) | 🟡 MEDIUM |
 | 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD |
+| 1345 | [Jump Game Iv](1345-jump-game-iv) | 🔴 HARD |
 | 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD |
 | 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM |
@@ -190,7 +191,7 @@
 </details>
 
 <details>
-<summary><b>Hash Table</b> &nbsp;·&nbsp; 22 problem(s)</summary>
+<summary><b>Hash Table</b> &nbsp;·&nbsp; 23 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -209,6 +210,7 @@
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
+| 1345 | [Jump Game Iv](1345-jump-game-iv) | 🔴 HARD |
 | 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM |
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
 | 3020 | [Find The Maximum Number Of Elements In Subset](3020-find-the-maximum-number-of-elements-in-subset) | 🟡 MEDIUM |
@@ -341,7 +343,7 @@
 </details>
 
 <details>
-<summary><b>Breadth-First Search</b> &nbsp;·&nbsp; 9 problem(s)</summary>
+<summary><b>Breadth-First Search</b> &nbsp;·&nbsp; 10 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -351,6 +353,7 @@
 | 0127 | [Word Ladder](0127-word-ladder) | 🔴 HARD |
 | 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
+| 1345 | [Jump Game Iv](1345-jump-game-iv) | 🔴 HARD |
 | 2492 | [Minimum Score Of A Path Between Two Cities](2492-minimum-score-of-a-path-between-two-cities) | 🟡 MEDIUM |
 | 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
@@ -933,6 +936,7 @@
 | 1288 | [Remove Covered Intervals](1288-remove-covered-intervals) | 🟡 MEDIUM | Array, Sorting | PY |
 | 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD | Array, Dynamic Programming, Matrix | PY |
 | 1344 | [Angle Between Hands Of A Clock](1344-angle-between-hands-of-a-clock) | 🟡 MEDIUM | Math | PY |
+| 1345 | [Jump Game Iv](1345-jump-game-iv) | 🔴 HARD | Array, Hash Table, Breadth-First Search | PY |
 | 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM | Hash Table, String, Sliding Window | JAVA |
 | 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD | Array, Greedy, Sorting | PY |
 | 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY | Array, Prefix Sum | PY |
@@ -987,22 +991,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-09 14:02:14 UTC_
+_Generated on 2026-07-09 14:04:12 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1345-jump-game-iv](https://github.com/chittoralovesh/Leetcode/tree/master/1345-jump-game-iv) |
-## Hash Table
-|  |
-| ------- |
-| [1345-jump-game-iv](https://github.com/chittoralovesh/Leetcode/tree/master/1345-jump-game-iv) |
-## Breadth-First Search
-|  |
-| ------- |
-| [1345-jump-game-iv](https://github.com/chittoralovesh/Leetcode/tree/master/1345-jump-game-iv) |
-<!---LeetCode Topics End-->

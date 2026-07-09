@@ -184,6 +184,11 @@
     "Dynamic Programming",
     "Greedy"
   ],
+  "jump-game-iv": [
+    "Array",
+    "Hash Table",
+    "Breadth-First Search"
+  ],
   "jump-game-ix": [
     "Array",
     "Dynamic Programming"
