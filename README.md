@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-115-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-116-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-22-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-58-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-59-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-35-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-72%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-73%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-25%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-13%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 115 |
+| **Total problems solved** | 116 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (61), `String` (30), `Dynamic Programming` (27), `Hash Table` (23), `Math` (22) |
-| **Last updated** | 2026-07-10 03:49:05 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (62), `String` (30), `Dynamic Programming` (28), `Hash Table` (23), `Math` (22) |
+| **Last updated** | 2026-07-10 18:03:40 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     22  ████░░░░░░░░░░░░░░░░   19.1%
-🟡 Medium   58  ██████████░░░░░░░░░░   50.4%
-🔴 Hard     35  ██████░░░░░░░░░░░░░░   30.4%
+🟢 Easy     22  ████░░░░░░░░░░░░░░░░   19.0%
+🟡 Medium   59  ██████████░░░░░░░░░░   50.9%
+🔴 Hard     35  ██████░░░░░░░░░░░░░░   30.2%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 61 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 62 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -101,6 +101,7 @@
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
 | 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD |
 | 3532 | [Path Existence Queries In A Graph I](3532-path-existence-queries-in-a-graph-i) | 🟡 MEDIUM |
+| 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🟡 MEDIUM |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
 | 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
 | 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM |
@@ -156,7 +157,7 @@
 </details>
 
 <details>
-<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 27 problem(s)</summary>
+<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 28 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -181,6 +182,7 @@
 | 0799 | [Champagne Tower](0799-champagne-tower) | 🟡 MEDIUM |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
 | 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD |
+| 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🟡 MEDIUM |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
 | 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
 | 3660 | [Jump Game Ix](3660-jump-game-ix) | 🟡 MEDIUM |
@@ -255,7 +257,7 @@
 </details>
 
 <details>
-<summary><b>Sorting</b> &nbsp;·&nbsp; 15 problem(s)</summary>
+<summary><b>Sorting</b> &nbsp;·&nbsp; 16 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -273,13 +275,14 @@
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD |
 | 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM |
 | 2144 | [Minimum Cost Of Buying Candies With Discount](2144-minimum-cost-of-buying-candies-with-discount) | 🟢 EASY |
+| 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🟡 MEDIUM |
 | 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
 | 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
 
 </details>
 
 <details>
-<summary><b>Two Pointers</b> &nbsp;·&nbsp; 14 problem(s)</summary>
+<summary><b>Two Pointers</b> &nbsp;·&nbsp; 15 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -296,13 +299,14 @@
 | 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM |
 | 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
 | 2161 | [Partition Array According To Given Pivot](2161-partition-array-according-to-given-pivot) | 🟡 MEDIUM |
+| 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🟡 MEDIUM |
 | 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
 | 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
 
 </details>
 
 <details>
-<summary><b>Greedy</b> &nbsp;·&nbsp; 13 problem(s)</summary>
+<summary><b>Greedy</b> &nbsp;·&nbsp; 14 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -316,6 +320,7 @@
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM |
 | 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM |
 | 2144 | [Minimum Cost Of Buying Candies With Discount](2144-minimum-cost-of-buying-candies-with-discount) | 🟢 EASY |
+| 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🟡 MEDIUM |
 | 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
 | 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
 | 3689 | [Maximum Total Subarray Value I](3689-maximum-total-subarray-value-i) | 🟡 MEDIUM |
@@ -324,7 +329,7 @@
 </details>
 
 <details>
-<summary><b>Binary Search</b> &nbsp;·&nbsp; 12 problem(s)</summary>
+<summary><b>Binary Search</b> &nbsp;·&nbsp; 13 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -338,6 +343,7 @@
 | 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
 | 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD |
 | 3532 | [Path Existence Queries In A Graph I](3532-path-existence-queries-in-a-graph-i) | 🟡 MEDIUM |
+| 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🟡 MEDIUM |
 | 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
 | 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
 | 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
@@ -444,6 +450,21 @@
 </details>
 
 <details>
+<summary><b>Graph Theory</b> &nbsp;·&nbsp; 6 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
+| 2492 | [Minimum Score Of A Path Between Two Cities](2492-minimum-score-of-a-path-between-two-cities) | 🟡 MEDIUM |
+| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
+| 3532 | [Path Existence Queries In A Graph I](3532-path-existence-queries-in-a-graph-i) | 🟡 MEDIUM |
+| 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🟡 MEDIUM |
+| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Heap (Priority Queue)</b> &nbsp;·&nbsp; 6 problem(s)</summary>
 
 
@@ -530,20 +551,6 @@
 </details>
 
 <details>
-<summary><b>Graph Theory</b> &nbsp;·&nbsp; 5 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
-| 2492 | [Minimum Score Of A Path Between Two Cities](2492-minimum-score-of-a-path-between-two-cities) | 🟡 MEDIUM |
-| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
-| 3532 | [Path Existence Queries In A Graph I](3532-path-existence-queries-in-a-graph-i) | 🟡 MEDIUM |
-| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
-
-</details>
-
-<details>
 <summary><b>Simulation</b> &nbsp;·&nbsp; 5 problem(s)</summary>
 
 
@@ -621,6 +628,18 @@
 </details>
 
 <details>
+<summary><b>Bit Manipulation</b> &nbsp;·&nbsp; 3 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
+| 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🟡 MEDIUM |
+| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Merge Sort</b> &nbsp;·&nbsp; 3 problem(s)</summary>
 
 
@@ -673,17 +692,6 @@
 |---|---|---|
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
 | 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Bit Manipulation</b> &nbsp;·&nbsp; 2 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
-| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
 
 </details>
 
@@ -961,6 +969,7 @@
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM | Array, Breadth-First Search, Graph Theory +3 | CPP |
 | 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD | Array, Binary Search, Segment Tree +1 | CPP |
 | 3532 | [Path Existence Queries In A Graph I](3532-path-existence-queries-in-a-graph-i) | 🟡 MEDIUM | Array, Hash Table, Binary Search +2 | PY |
+| 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🟡 MEDIUM | Array, Two Pointers, Binary Search +5 | PY |
 | 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM | Math, Tree, Depth-First Search | CPP |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD | Array, Math, Dynamic Programming +3 | CPP |
 | 3612 | [Process String With Special Operations I](3612-process-string-with-special-operations-i) | 🟡 MEDIUM | String, Simulation | PY |
@@ -994,42 +1003,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-10 03:49:05 UTC_
+_Generated on 2026-07-10 18:03:40 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3534-path-existence-queries-in-a-graph-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
-## Two Pointers
-|  |
-| ------- |
-| [3534-path-existence-queries-in-a-graph-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
-## Binary Search
-|  |
-| ------- |
-| [3534-path-existence-queries-in-a-graph-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
-## Dynamic Programming
-|  |
-| ------- |
-| [3534-path-existence-queries-in-a-graph-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
-## Greedy
-|  |
-| ------- |
-| [3534-path-existence-queries-in-a-graph-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
-## Bit Manipulation
-|  |
-| ------- |
-| [3534-path-existence-queries-in-a-graph-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
-## Graph Theory
-|  |
-| ------- |
-| [3534-path-existence-queries-in-a-graph-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
-## Sorting
-|  |
-| ------- |
-| [3534-path-existence-queries-in-a-graph-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
-<!---LeetCode Topics End-->
