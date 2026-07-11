@@ -96,6 +96,12 @@
     "Merge Sort",
     "Prefix Sum"
   ],
+  "count-the-number-of-complete-components": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
   "count-the-repetitions": [
     "Two Pointers",
     "String",
