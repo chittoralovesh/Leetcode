@@ -301,6 +301,15 @@
     "String",
     "Counting"
   ],
+  "maximum-number-of-robots-within-budget": [
+    "Array",
+    "Binary Search",
+    "Queue",
+    "Sliding Window",
+    "Heap (Priority Queue)",
+    "Prefix Sum",
+    "Monotonic Queue"
+  ],
   "maximum-total-subarray-value-i": [
     "Array",
     "Greedy"

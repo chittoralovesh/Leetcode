@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-119-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-120-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-23-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-60-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-36-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-37-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-76%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-77%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-25%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-13%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 119 |
+| **Total problems solved** | 120 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (63), `String` (31), `Dynamic Programming` (28), `Hash Table` (24), `Math` (22) |
-| **Last updated** | 2026-07-12 13:49:01 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (64), `String` (31), `Dynamic Programming` (28), `Hash Table` (24), `Math` (22) |
+| **Last updated** | 2026-07-12 13:51:54 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     23  ████░░░░░░░░░░░░░░░░   19.3%
-🟡 Medium   60  ██████████░░░░░░░░░░   50.4%
-🔴 Hard     36  ██████░░░░░░░░░░░░░░   30.3%
+🟢 Easy     23  ████░░░░░░░░░░░░░░░░   19.2%
+🟡 Medium   60  ██████████░░░░░░░░░░   50.0%
+🔴 Hard     37  ██████░░░░░░░░░░░░░░   30.8%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 63 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 64 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -96,6 +96,7 @@
 | 2144 | [Minimum Cost Of Buying Candies With Discount](2144-minimum-cost-of-buying-candies-with-discount) | 🟢 EASY |
 | 2161 | [Partition Array According To Given Pivot](2161-partition-array-according-to-given-pivot) | 🟡 MEDIUM |
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
+| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
 | 2574 | [Left And Right Sum Differences](2574-left-and-right-sum-differences) | 🟢 EASY |
 | 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
 | 3020 | [Find The Maximum Number Of Elements In Subset](3020-find-the-maximum-number-of-elements-in-subset) | 🟡 MEDIUM |
@@ -334,7 +335,7 @@
 </details>
 
 <details>
-<summary><b>Binary Search</b> &nbsp;·&nbsp; 13 problem(s)</summary>
+<summary><b>Binary Search</b> &nbsp;·&nbsp; 14 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -345,6 +346,7 @@
 | 0374 | [Guess Number Higher Or Lower](0374-guess-number-higher-or-lower) | 🟢 EASY |
 | 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
+| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
 | 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
 | 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD |
 | 3532 | [Path Existence Queries In A Graph I](3532-path-existence-queries-in-a-graph-i) | 🟡 MEDIUM |
@@ -394,13 +396,14 @@
 </details>
 
 <details>
-<summary><b>Prefix Sum</b> &nbsp;·&nbsp; 8 problem(s)</summary>
+<summary><b>Prefix Sum</b> &nbsp;·&nbsp; 9 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
 |---|---|---|
 | 0238 | [Product Of Array Except Self](0238-product-of-array-except-self) | 🟡 MEDIUM |
 | 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY |
+| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
 | 2574 | [Left And Right Sum Differences](2574-left-and-right-sum-differences) | 🟢 EASY |
 | 3699 | [Number Of Zigzag Arrays I](3699-number-of-zigzag-arrays-i) | 🟡 MEDIUM |
 | 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM |
@@ -439,6 +442,22 @@
 | 3532 | [Path Existence Queries In A Graph I](3532-path-existence-queries-in-a-graph-i) | 🟡 MEDIUM |
 | 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
 | 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
+
+</details>
+
+<details>
+<summary><b>Heap (Priority Queue)</b> &nbsp;·&nbsp; 7 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
+| 0502 | [Ipo](0502-ipo) | 🔴 HARD |
+| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
+| 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
+| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
+| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
+| 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
 
 </details>
 
@@ -488,21 +507,6 @@
 </details>
 
 <details>
-<summary><b>Heap (Priority Queue)</b> &nbsp;·&nbsp; 6 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
-| 0502 | [Ipo](0502-ipo) | 🔴 HARD |
-| 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
-| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
-| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
-| 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
-
-</details>
-
-<details>
 <summary><b>Segment Tree</b> &nbsp;·&nbsp; 6 problem(s)</summary>
 
 
@@ -528,6 +532,20 @@
 | 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD |
 | 0060 | [Permutation Sequence](0060-permutation-sequence) | 🔴 HARD |
 | 0233 | [Number Of Digit One](0233-number-of-digit-one) | 🔴 HARD |
+
+</details>
+
+<details>
+<summary><b>Sliding Window</b> &nbsp;·&nbsp; 5 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters) | 🟡 MEDIUM |
+| 0076 | [Minimum Window Substring](0076-minimum-window-substring) | 🔴 HARD |
+| 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
+| 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM |
+| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
 
 </details>
 
@@ -570,19 +588,6 @@
 | 3612 | [Process String With Special Operations I](3612-process-string-with-special-operations-i) | 🟡 MEDIUM |
 | 3614 | [Process String With Special Operations Ii](3614-process-string-with-special-operations-ii) | 🔴 HARD |
 | 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY |
-
-</details>
-
-<details>
-<summary><b>Sliding Window</b> &nbsp;·&nbsp; 4 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters) | 🟡 MEDIUM |
-| 0076 | [Minimum Window Substring](0076-minimum-window-substring) | 🔴 HARD |
-| 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
-| 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM |
 
 </details>
 
@@ -701,6 +706,17 @@
 |---|---|---|
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
 | 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD |
+
+</details>
+
+<details>
+<summary><b>Queue</b> &nbsp;·&nbsp; 2 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0649 | [Dota2 Senate](0649-dota2-senate) | 🟡 MEDIUM |
+| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
 
 </details>
 
@@ -848,22 +864,22 @@
 </details>
 
 <details>
-<summary><b>Queue</b> &nbsp;·&nbsp; 1 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0649 | [Dota2 Senate](0649-dota2-senate) | 🟡 MEDIUM |
-
-</details>
-
-<details>
 <summary><b>Counting Sort</b> &nbsp;·&nbsp; 1 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
 |---|---|---|
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM |
+
+</details>
+
+<details>
+<summary><b>Monotonic Queue</b> &nbsp;·&nbsp; 1 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
 
 </details>
 
@@ -983,6 +999,7 @@
 | 2144 | [Minimum Cost Of Buying Candies With Discount](2144-minimum-cost-of-buying-candies-with-discount) | 🟢 EASY | Array, Greedy, Sorting | PY |
 | 2161 | [Partition Array According To Given Pivot](2161-partition-array-according-to-given-pivot) | 🟡 MEDIUM | Array, Two Pointers, Simulation | PY |
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM | Array, Hash Table, Tree +1 | CPP |
+| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD | Array, Binary Search, Queue +4 | PY |
 | 2492 | [Minimum Score Of A Path Between Two Cities](2492-minimum-score-of-a-path-between-two-cities) | 🟡 MEDIUM | Depth-First Search, Breadth-First Search, Union-Find +1 | PY |
 | 2574 | [Left And Right Sum Differences](2574-left-and-right-sum-differences) | 🟢 EASY | Array, Prefix Sum | CPP |
 | 2685 | [Count The Number Of Complete Components](2685-count-the-number-of-complete-components) | 🟡 MEDIUM | Depth-First Search, Breadth-First Search, Union-Find +1 | PY |
@@ -1025,38 +1042,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-12 13:49:01 UTC_
+_Generated on 2026-07-12 13:51:54 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2398-maximum-number-of-robots-within-budget](https://github.com/chittoralovesh/Leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
-## Binary Search
-|  |
-| ------- |
-| [2398-maximum-number-of-robots-within-budget](https://github.com/chittoralovesh/Leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
-## Queue
-|  |
-| ------- |
-| [2398-maximum-number-of-robots-within-budget](https://github.com/chittoralovesh/Leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
-## Sliding Window
-|  |
-| ------- |
-| [2398-maximum-number-of-robots-within-budget](https://github.com/chittoralovesh/Leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [2398-maximum-number-of-robots-within-budget](https://github.com/chittoralovesh/Leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
-## Prefix Sum
-|  |
-| ------- |
-| [2398-maximum-number-of-robots-within-budget](https://github.com/chittoralovesh/Leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
-## Monotonic Queue
-|  |
-| ------- |
-| [2398-maximum-number-of-robots-within-budget](https://github.com/chittoralovesh/Leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
-<!---LeetCode Topics End-->
