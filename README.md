@@ -1028,3 +1028,35 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-07-12 13:49:01 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/chittoralovesh/Leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
+## Binary Search
+|  |
+| ------- |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/chittoralovesh/Leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
+## Queue
+|  |
+| ------- |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/chittoralovesh/Leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
+## Sliding Window
+|  |
+| ------- |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/chittoralovesh/Leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/chittoralovesh/Leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
+## Prefix Sum
+|  |
+| ------- |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/chittoralovesh/Leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/chittoralovesh/Leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
+<!---LeetCode Topics End-->
