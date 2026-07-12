@@ -1011,3 +1011,19 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-07-12 03:27:00 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/chittoralovesh/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/chittoralovesh/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/chittoralovesh/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+<!---LeetCode Topics End-->
