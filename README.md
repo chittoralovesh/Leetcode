@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-117-5865F2?style=for-the-badge" alt="Total Solved" />
-<img src="https://img.shields.io/badge/Easy-22-2ECC71?style=for-the-badge" alt="Easy" />
+<img src="https://img.shields.io/badge/Total%20Solved-118-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Easy-23-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-59-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-36-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-74%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-75%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-25%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-13%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 117 |
+| **Total problems solved** | 118 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (62), `String` (30), `Dynamic Programming` (28), `Hash Table` (23), `Math` (22) |
-| **Last updated** | 2026-07-12 03:27:00 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (63), `String` (30), `Dynamic Programming` (28), `Hash Table` (24), `Math` (22) |
+| **Last updated** | 2026-07-12 13:33:34 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     22  ████░░░░░░░░░░░░░░░░   18.8%
-🟡 Medium   59  ██████████░░░░░░░░░░   50.4%
-🔴 Hard     36  ██████░░░░░░░░░░░░░░   30.8%
+🟢 Easy     23  ████░░░░░░░░░░░░░░░░   19.5%
+🟡 Medium   59  ██████████░░░░░░░░░░   50.0%
+🔴 Hard     36  ██████░░░░░░░░░░░░░░   30.5%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 62 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 63 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -85,6 +85,7 @@
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
 | 1288 | [Remove Covered Intervals](1288-remove-covered-intervals) | 🟡 MEDIUM |
 | 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD |
+| 1331 | [Rank Transform Of An Array](1331-rank-transform-of-an-array) | 🟢 EASY |
 | 1345 | [Jump Game Iv](1345-jump-game-iv) | 🔴 HARD |
 | 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD |
 | 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY |
@@ -194,7 +195,7 @@
 </details>
 
 <details>
-<summary><b>Hash Table</b> &nbsp;·&nbsp; 23 problem(s)</summary>
+<summary><b>Hash Table</b> &nbsp;·&nbsp; 24 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -213,6 +214,7 @@
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
+| 1331 | [Rank Transform Of An Array](1331-rank-transform-of-an-array) | 🟢 EASY |
 | 1345 | [Jump Game Iv](1345-jump-game-iv) | 🔴 HARD |
 | 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM |
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
@@ -257,7 +259,7 @@
 </details>
 
 <details>
-<summary><b>Sorting</b> &nbsp;·&nbsp; 16 problem(s)</summary>
+<summary><b>Sorting</b> &nbsp;·&nbsp; 17 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -270,6 +272,7 @@
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
 | 1288 | [Remove Covered Intervals](1288-remove-covered-intervals) | 🟡 MEDIUM |
+| 1331 | [Rank Transform Of An Array](1331-rank-transform-of-an-array) | 🟢 EASY |
 | 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD |
@@ -950,6 +953,7 @@
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY | Hash Table, String, Counting | PY |
 | 1288 | [Remove Covered Intervals](1288-remove-covered-intervals) | 🟡 MEDIUM | Array, Sorting | PY |
 | 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD | Array, Dynamic Programming, Matrix | PY |
+| 1331 | [Rank Transform Of An Array](1331-rank-transform-of-an-array) | 🟢 EASY | Array, Hash Table, Sorting | PY |
 | 1344 | [Angle Between Hands Of A Clock](1344-angle-between-hands-of-a-clock) | 🟡 MEDIUM | Math | PY |
 | 1345 | [Jump Game Iv](1345-jump-game-iv) | 🔴 HARD | Array, Hash Table, Breadth-First Search | PY |
 | 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM | Hash Table, String, Sliding Window | JAVA |
@@ -1008,22 +1012,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-12 03:27:00 UTC_
+_Generated on 2026-07-12 13:33:34 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1331-rank-transform-of-an-array](https://github.com/chittoralovesh/Leetcode/tree/master/1331-rank-transform-of-an-array) |
-## Hash Table
-|  |
-| ------- |
-| [1331-rank-transform-of-an-array](https://github.com/chittoralovesh/Leetcode/tree/master/1331-rank-transform-of-an-array) |
-## Sorting
-|  |
-| ------- |
-| [1331-rank-transform-of-an-array](https://github.com/chittoralovesh/Leetcode/tree/master/1331-rank-transform-of-an-array) |
-<!---LeetCode Topics End-->

@@ -479,6 +479,11 @@
     "Array",
     "Math"
   ],
+  "rank-transform-of-an-array": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
   "reconstruct-itinerary": [
     "Array",
     "String",
