@@ -1045,3 +1045,23 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-07-12 13:51:54 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [3829-design-ride-sharing-system](https://github.com/chittoralovesh/Leetcode/tree/master/3829-design-ride-sharing-system) |
+## Design
+|  |
+| ------- |
+| [3829-design-ride-sharing-system](https://github.com/chittoralovesh/Leetcode/tree/master/3829-design-ride-sharing-system) |
+## Queue
+|  |
+| ------- |
+| [3829-design-ride-sharing-system](https://github.com/chittoralovesh/Leetcode/tree/master/3829-design-ride-sharing-system) |
+## Data Stream
+|  |
+| ------- |
+| [3829-design-ride-sharing-system](https://github.com/chittoralovesh/Leetcode/tree/master/3829-design-ride-sharing-system) |
+<!---LeetCode Topics End-->
