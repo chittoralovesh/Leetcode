@@ -1015,3 +1015,19 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-07-12 13:33:34 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/chittoralovesh/Leetcode/tree/master/0649-dota2-senate) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/chittoralovesh/Leetcode/tree/master/0649-dota2-senate) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/chittoralovesh/Leetcode/tree/master/0649-dota2-senate) |
+<!---LeetCode Topics End-->
