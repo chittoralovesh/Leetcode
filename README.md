@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-120-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-121-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-23-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-60-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-61-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-37-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-77%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-78%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-25%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-13%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 120 |
+| **Total problems solved** | 121 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (64), `String` (31), `Dynamic Programming` (28), `Hash Table` (24), `Math` (22) |
-| **Last updated** | 2026-07-12 13:51:54 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (64), `String` (31), `Dynamic Programming` (28), `Hash Table` (25), `Math` (22) |
+| **Last updated** | 2026-07-12 13:54:31 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     23  ████░░░░░░░░░░░░░░░░   19.2%
-🟡 Medium   60  ██████████░░░░░░░░░░   50.0%
-🔴 Hard     37  ██████░░░░░░░░░░░░░░   30.8%
+🟢 Easy     23  ████░░░░░░░░░░░░░░░░   19.0%
+🟡 Medium   61  ██████████░░░░░░░░░░   50.4%
+🔴 Hard     37  ██████░░░░░░░░░░░░░░   30.6%
 ```
 
 
@@ -197,7 +197,7 @@
 </details>
 
 <details>
-<summary><b>Hash Table</b> &nbsp;·&nbsp; 24 problem(s)</summary>
+<summary><b>Hash Table</b> &nbsp;·&nbsp; 25 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -226,6 +226,7 @@
 | 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM |
 | 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
 | 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
+| 3829 | [Design Ride Sharing System](3829-design-ride-sharing-system) | 🟡 MEDIUM |
 
 </details>
 
@@ -666,6 +667,18 @@
 </details>
 
 <details>
+<summary><b>Queue</b> &nbsp;·&nbsp; 3 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0649 | [Dota2 Senate](0649-dota2-senate) | 🟡 MEDIUM |
+| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
+| 3829 | [Design Ride Sharing System](3829-design-ride-sharing-system) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Memoization</b> &nbsp;·&nbsp; 2 problem(s)</summary>
 
 
@@ -688,6 +701,17 @@
 </details>
 
 <details>
+<summary><b>Design</b> &nbsp;·&nbsp; 2 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM |
+| 3829 | [Design Ride Sharing System](3829-design-ride-sharing-system) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Ordered Set</b> &nbsp;·&nbsp; 2 problem(s)</summary>
 
 
@@ -706,17 +730,6 @@
 |---|---|---|
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
 | 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Queue</b> &nbsp;·&nbsp; 2 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0649 | [Dota2 Senate](0649-dota2-senate) | 🟡 MEDIUM |
-| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
 
 </details>
 
@@ -770,16 +783,6 @@
 | # | Problem | Difficulty |
 |---|---|---|
 | 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Design</b> &nbsp;·&nbsp; 1 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM |
 
 </details>
 
@@ -900,6 +903,16 @@
 | # | Problem | Difficulty |
 |---|---|---|
 | 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM |
+
+</details>
+
+<details>
+<summary><b>Data Stream</b> &nbsp;·&nbsp; 1 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 3829 | [Design Ride Sharing System](3829-design-ride-sharing-system) | 🟡 MEDIUM |
 
 </details>
 
@@ -1029,6 +1042,7 @@
 | 3753 | [Total Waviness Of Numbers In Range Ii](3753-total-waviness-of-numbers-in-range-ii) | 🔴 HARD | Math, Dynamic Programming | CPP |
 | 3754 | [Concatenate Non Zero Digits And Multiply By Sum I](3754-concatenate-non-zero-digits-and-multiply-by-sum-i) | 🟢 EASY | Math | PY |
 | 3756 | [Concatenate Non Zero Digits And Multiply By Sum Ii](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) | 🟡 MEDIUM | Math, String, Prefix Sum | PY |
+| 3829 | [Design Ride Sharing System](3829-design-ride-sharing-system) | 🟡 MEDIUM | Hash Table, Design, Queue +1 | PY |
 | 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY | Array, String, Simulation | CPP |
 
 
@@ -1042,26 +1056,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-12 13:51:54 UTC_
+_Generated on 2026-07-12 13:54:31 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [3829-design-ride-sharing-system](https://github.com/chittoralovesh/Leetcode/tree/master/3829-design-ride-sharing-system) |
-## Design
-|  |
-| ------- |
-| [3829-design-ride-sharing-system](https://github.com/chittoralovesh/Leetcode/tree/master/3829-design-ride-sharing-system) |
-## Queue
-|  |
-| ------- |
-| [3829-design-ride-sharing-system](https://github.com/chittoralovesh/Leetcode/tree/master/3829-design-ride-sharing-system) |
-## Data Stream
-|  |
-| ------- |
-| [3829-design-ride-sharing-system](https://github.com/chittoralovesh/Leetcode/tree/master/3829-design-ride-sharing-system) |
-<!---LeetCode Topics End-->
