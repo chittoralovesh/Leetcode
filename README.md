@@ -5,10 +5,10 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-122-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-123-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-23-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-61-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-38-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-39-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 122 |
+| **Total problems solved** | 123 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (64), `String` (31), `Dynamic Programming` (28), `Hash Table` (25), `Math` (22) |
-| **Last updated** | 2026-07-13 20:04:38 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-07-13 20:05:12 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     23  ████░░░░░░░░░░░░░░░░   18.9%
-🟡 Medium   61  ██████████░░░░░░░░░░   50.0%
-🔴 Hard     38  ██████░░░░░░░░░░░░░░   31.1%
+🟢 Easy     23  ████░░░░░░░░░░░░░░░░   18.7%
+🟡 Medium   61  ██████████░░░░░░░░░░   49.6%
+🔴 Hard     39  ██████░░░░░░░░░░░░░░   31.7%
 ```
 
 
@@ -431,6 +431,22 @@
 </details>
 
 <details>
+<summary><b>Database</b> &nbsp;·&nbsp; 7 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0181 | [Employees Earning More Than Their Managers](0181-employees-earning-more-than-their-managers) | 🟢 EASY |
+| 0183 | [Customers Who Never Order](0183-customers-who-never-order) | 🟢 EASY |
+| 0185 | [Department Top Three Salaries](0185-department-top-three-salaries) | 🔴 HARD |
+| 0262 | [Trips And Users](0262-trips-and-users) | 🔴 HARD |
+| 0570 | [Managers With At Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 MEDIUM |
+| 0595 | [Big Countries](0595-big-countries) | 🟢 EASY |
+| 0596 | [Classes With At Least 5 Students](0596-classes-with-at-least-5-students) | 🟢 EASY |
+
+</details>
+
+<details>
 <summary><b>Graph Theory</b> &nbsp;·&nbsp; 7 problem(s)</summary>
 
 
@@ -489,21 +505,6 @@
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
 | 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Database</b> &nbsp;·&nbsp; 6 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0181 | [Employees Earning More Than Their Managers](0181-employees-earning-more-than-their-managers) | 🟢 EASY |
-| 0183 | [Customers Who Never Order](0183-customers-who-never-order) | 🟢 EASY |
-| 0262 | [Trips And Users](0262-trips-and-users) | 🔴 HARD |
-| 0570 | [Managers With At Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 MEDIUM |
-| 0595 | [Big Countries](0595-big-countries) | 🟢 EASY |
-| 0596 | [Classes With At Least 5 Students](0596-classes-with-at-least-5-students) | 🟢 EASY |
 
 </details>
 
@@ -964,6 +965,7 @@
 | 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM | Stack, Design | PY |
 | 0181 | [Employees Earning More Than Their Managers](0181-employees-earning-more-than-their-managers) | 🟢 EASY | Database | — |
 | 0183 | [Customers Who Never Order](0183-customers-who-never-order) | 🟢 EASY | Database | — |
+| 0185 | [Department Top Three Salaries](0185-department-top-three-salaries) | 🔴 HARD | Database | — |
 | 0198 | [House Robber](0198-house-robber) | 🟡 MEDIUM | Array, Dynamic Programming | PY |
 | 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM | Array, Depth-First Search, Breadth-First Search +2 | CPP |
 | 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD | Array, String, Backtracking +2 | PY |
@@ -1058,14 +1060,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-13 20:04:38 UTC_
+_Generated on 2026-07-13 20:05:12 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0185-department-top-three-salaries](https://github.com/chittoralovesh/Leetcode/tree/master/0185-department-top-three-salaries) |
-<!---LeetCode Topics End-->
