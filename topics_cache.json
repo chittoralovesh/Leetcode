@@ -184,6 +184,9 @@
     "Heap (Priority Queue)",
     "Matrix"
   ],
+  "friend-requests-ii-who-has-the-most-friends": [
+    "Database"
+  ],
   "guess-number-higher-or-lower": [
     "Binary Search",
     "Interactive"

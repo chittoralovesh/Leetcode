@@ -5,9 +5,9 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-123-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-124-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-23-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-61-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-62-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-39-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 123 |
+| **Total problems solved** | 124 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (64), `String` (31), `Dynamic Programming` (28), `Hash Table` (25), `Math` (22) |
-| **Last updated** | 2026-07-13 20:05:12 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-07-13 20:05:40 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     23  ████░░░░░░░░░░░░░░░░   18.7%
-🟡 Medium   61  ██████████░░░░░░░░░░   49.6%
-🔴 Hard     39  ██████░░░░░░░░░░░░░░   31.7%
+🟢 Easy     23  ████░░░░░░░░░░░░░░░░   18.5%
+🟡 Medium   62  ██████████░░░░░░░░░░   50.0%
+🔴 Hard     39  ██████░░░░░░░░░░░░░░   31.5%
 ```
 
 
@@ -415,6 +415,23 @@
 </details>
 
 <details>
+<summary><b>Database</b> &nbsp;·&nbsp; 8 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0181 | [Employees Earning More Than Their Managers](0181-employees-earning-more-than-their-managers) | 🟢 EASY |
+| 0183 | [Customers Who Never Order](0183-customers-who-never-order) | 🟢 EASY |
+| 0185 | [Department Top Three Salaries](0185-department-top-three-salaries) | 🔴 HARD |
+| 0262 | [Trips And Users](0262-trips-and-users) | 🔴 HARD |
+| 0570 | [Managers With At Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 MEDIUM |
+| 0595 | [Big Countries](0595-big-countries) | 🟢 EASY |
+| 0596 | [Classes With At Least 5 Students](0596-classes-with-at-least-5-students) | 🟢 EASY |
+| 0602 | [Friend Requests Ii Who Has The Most Friends](0602-friend-requests-ii-who-has-the-most-friends) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Matrix</b> &nbsp;·&nbsp; 7 problem(s)</summary>
 
 
@@ -427,22 +444,6 @@
 | 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD |
 | 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Database</b> &nbsp;·&nbsp; 7 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0181 | [Employees Earning More Than Their Managers](0181-employees-earning-more-than-their-managers) | 🟢 EASY |
-| 0183 | [Customers Who Never Order](0183-customers-who-never-order) | 🟢 EASY |
-| 0185 | [Department Top Three Salaries](0185-department-top-three-salaries) | 🔴 HARD |
-| 0262 | [Trips And Users](0262-trips-and-users) | 🔴 HARD |
-| 0570 | [Managers With At Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 MEDIUM |
-| 0595 | [Big Countries](0595-big-countries) | 🟢 EASY |
-| 0596 | [Classes With At Least 5 Students](0596-classes-with-at-least-5-students) | 🟢 EASY |
 
 </details>
 
@@ -991,6 +992,7 @@
 | 0595 | [Big Countries](0595-big-countries) | 🟢 EASY | Database | — |
 | 0596 | [Classes With At Least 5 Students](0596-classes-with-at-least-5-students) | 🟢 EASY | Database | — |
 | 0598 | [Range Addition Ii](0598-range-addition-ii) | 🟢 EASY | Array, Math | PY |
+| 0602 | [Friend Requests Ii Who Has The Most Friends](0602-friend-requests-ii-who-has-the-most-friends) | 🟡 MEDIUM | Database | — |
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings) | 🟡 MEDIUM | Two Pointers, String, Dynamic Programming | PY |
 | 0649 | [Dota2 Senate](0649-dota2-senate) | 🟡 MEDIUM | String, Greedy, Queue | PY |
 | 0799 | [Champagne Tower](0799-champagne-tower) | 🟡 MEDIUM | Dynamic Programming | PY |
@@ -1060,14 +1062,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-13 20:05:12 UTC_
+_Generated on 2026-07-13 20:05:40 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/chittoralovesh/Leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
-<!---LeetCode Topics End-->
