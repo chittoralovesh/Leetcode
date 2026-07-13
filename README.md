@@ -5,10 +5,10 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-121-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-122-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-23-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-61-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-37-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-38-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 121 |
+| **Total problems solved** | 122 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (64), `String` (31), `Dynamic Programming` (28), `Hash Table` (25), `Math` (22) |
-| **Last updated** | 2026-07-13 03:29:47 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-07-13 20:04:38 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     23  ████░░░░░░░░░░░░░░░░   19.0%
-🟡 Medium   61  ██████████░░░░░░░░░░   50.4%
-🔴 Hard     37  ██████░░░░░░░░░░░░░░   30.6%
+🟢 Easy     23  ████░░░░░░░░░░░░░░░░   18.9%
+🟡 Medium   61  ██████████░░░░░░░░░░   50.0%
+🔴 Hard     38  ██████░░░░░░░░░░░░░░   31.1%
 ```
 
 
@@ -493,6 +493,21 @@
 </details>
 
 <details>
+<summary><b>Database</b> &nbsp;·&nbsp; 6 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0181 | [Employees Earning More Than Their Managers](0181-employees-earning-more-than-their-managers) | 🟢 EASY |
+| 0183 | [Customers Who Never Order](0183-customers-who-never-order) | 🟢 EASY |
+| 0262 | [Trips And Users](0262-trips-and-users) | 🔴 HARD |
+| 0570 | [Managers With At Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 MEDIUM |
+| 0595 | [Big Countries](0595-big-countries) | 🟢 EASY |
+| 0596 | [Classes With At Least 5 Students](0596-classes-with-at-least-5-students) | 🟢 EASY |
+
+</details>
+
+<details>
 <summary><b>Union-Find</b> &nbsp;·&nbsp; 6 problem(s)</summary>
 
 
@@ -561,20 +576,6 @@
 | 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM |
 | 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
 | 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Database</b> &nbsp;·&nbsp; 5 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0181 | [Employees Earning More Than Their Managers](0181-employees-earning-more-than-their-managers) | 🟢 EASY |
-| 0183 | [Customers Who Never Order](0183-customers-who-never-order) | 🟢 EASY |
-| 0570 | [Managers With At Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 MEDIUM |
-| 0595 | [Big Countries](0595-big-countries) | 🟢 EASY |
-| 0596 | [Classes With At Least 5 Students](0596-classes-with-at-least-5-students) | 🟢 EASY |
 
 </details>
 
@@ -969,6 +970,7 @@
 | 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD | Array, Sliding Window, Sorting +2 | PY |
 | 0233 | [Number Of Digit One](0233-number-of-digit-one) | 🔴 HARD | Math, Dynamic Programming, Recursion | PY |
 | 0238 | [Product Of Array Except Self](0238-product-of-array-except-self) | 🟡 MEDIUM | Array, Prefix Sum | PY |
+| 0262 | [Trips And Users](0262-trips-and-users) | 🔴 HARD | Database | — |
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence) | 🟡 MEDIUM | Array, Binary Search, Dynamic Programming | JAVA |
 | 0328 | [Odd Even Linked List](0328-odd-even-linked-list) | 🟡 MEDIUM | Linked List | JAVA |
 | 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD | Array, String, Depth-First Search +4 | PY |
@@ -1056,14 +1058,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-13 03:29:47 UTC_
+_Generated on 2026-07-13 20:04:38 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0262-trips-and-users](https://github.com/chittoralovesh/Leetcode/tree/master/0262-trips-and-users) |
-<!---LeetCode Topics End-->

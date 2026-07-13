@@ -581,6 +581,9 @@
     "Math",
     "Dynamic Programming"
   ],
+  "trips-and-users": [
+    "Database"
+  ],
   "two-sum": [
     "Array",
     "Hash Table"
