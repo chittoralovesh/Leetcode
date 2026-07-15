@@ -187,6 +187,10 @@
   "friend-requests-ii-who-has-the-most-friends": [
     "Database"
   ],
+  "gcd-of-odd-and-even-sums": [
+    "Math",
+    "Number Theory"
+  ],
   "guess-number-higher-or-lower": [
     "Binary Search",
     "Interactive"
