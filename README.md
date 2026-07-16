@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-128-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-129-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-25-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-64-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-65-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-39-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-82%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-83%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-25%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-12%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 128 |
+| **Total problems solved** | 129 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (66), `String` (31), `Dynamic Programming` (28), `Hash Table` (25), `Math` (24) |
-| **Last updated** | 2026-07-16 14:17:12 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (67), `String` (31), `Dynamic Programming` (28), `Hash Table` (25), `Math` (24) |
+| **Last updated** | 2026-07-16 14:18:00 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     25  ████░░░░░░░░░░░░░░░░   19.5%
-🟡 Medium   64  ██████████░░░░░░░░░░   50.0%
-🔴 Hard     39  ██████░░░░░░░░░░░░░░   30.5%
+🟢 Easy     25  ████░░░░░░░░░░░░░░░░   19.4%
+🟡 Medium   65  ██████████░░░░░░░░░░   50.4%
+🔴 Hard     39  ██████░░░░░░░░░░░░░░   30.2%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 66 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 67 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -80,6 +80,7 @@
 | 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
 | 0498 | [Diagonal Traverse](0498-diagonal-traverse) | 🟡 MEDIUM |
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD |
+| 0503 | [Next Greater Element Ii](0503-next-greater-element-ii) | 🟡 MEDIUM |
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM |
 | 0598 | [Range Addition Ii](0598-range-addition-ii) | 🟢 EASY |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
@@ -619,6 +620,19 @@
 </details>
 
 <details>
+<summary><b>Stack</b> &nbsp;·&nbsp; 4 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
+| 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM |
+| 0503 | [Next Greater Element Ii](0503-next-greater-element-ii) | 🟡 MEDIUM |
+| 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Binary Tree</b> &nbsp;·&nbsp; 4 problem(s)</summary>
 
 
@@ -640,18 +654,6 @@
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix) | 🟢 EASY |
 | 0139 | [Word Break](0139-word-break) | 🟡 MEDIUM |
 | 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Stack</b> &nbsp;·&nbsp; 3 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
-| 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM |
-| 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
 
 </details>
 
@@ -700,6 +702,17 @@
 | 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM |
 | 3658 | [Gcd Of Odd And Even Sums](3658-gcd-of-odd-and-even-sums) | 🟢 EASY |
 | 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
+
+</details>
+
+<details>
+<summary><b>Monotonic Stack</b> &nbsp;·&nbsp; 2 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
+| 0503 | [Next Greater Element Ii](0503-next-greater-element-ii) | 🟡 MEDIUM |
 
 </details>
 
@@ -788,16 +801,6 @@
 |---|---|---|
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
 | 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Monotonic Stack</b> &nbsp;·&nbsp; 1 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
 
 </details>
 
@@ -1000,6 +1003,7 @@
 | 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD | Array, Binary Search, Divide and Conquer +4 | PY |
 | 0498 | [Diagonal Traverse](0498-diagonal-traverse) | 🟡 MEDIUM | Array, Matrix, Simulation | PY |
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD | Array, Greedy, Sorting +1 | JAVA |
+| 0503 | [Next Greater Element Ii](0503-next-greater-element-ii) | 🟡 MEDIUM | Array, Stack, Monotonic Stack | PY |
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM | Array, Dynamic Programming | PY |
 | 0570 | [Managers With At Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 MEDIUM | Database | — |
 | 0576 | [Out Of Boundary Paths](0576-out-of-boundary-paths) | 🟡 MEDIUM | Dynamic Programming | PY |
@@ -1078,22 +1082,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-16 14:17:12 UTC_
+_Generated on 2026-07-16 14:18:00 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0503-next-greater-element-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0503-next-greater-element-ii) |
-## Stack
-|  |
-| ------- |
-| [0503-next-greater-element-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0503-next-greater-element-ii) |
-## Monotonic Stack
-|  |
-| ------- |
-| [0503-next-greater-element-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0503-next-greater-element-ii) |
-<!---LeetCode Topics End-->

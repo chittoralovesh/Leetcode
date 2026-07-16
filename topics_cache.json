@@ -399,6 +399,11 @@
     "Heap (Priority Queue)",
     "Shortest Path"
   ],
+  "next-greater-element-ii": [
+    "Array",
+    "Stack",
+    "Monotonic Stack"
+  ],
   "next-permutation": [
     "Array",
     "Two Pointers"
