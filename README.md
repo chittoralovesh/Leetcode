@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-132-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-133-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-25-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-67-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-68-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-40-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-84%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-85%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-25%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-13%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 132 |
+| **Total problems solved** | 133 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (68), `String` (31), `Dynamic Programming` (29), `Hash Table` (26), `Math` (24) |
-| **Last updated** | 2026-07-16 14:22:57 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (69), `String` (31), `Dynamic Programming` (29), `Hash Table` (26), `Math` (25) |
+| **Last updated** | 2026-07-16 14:24:52 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     25  ████░░░░░░░░░░░░░░░░   18.9%
-🟡 Medium   67  ██████████░░░░░░░░░░   50.8%
-🔴 Hard     40  ██████░░░░░░░░░░░░░░   30.3%
+🟢 Easy     25  ████░░░░░░░░░░░░░░░░   18.8%
+🟡 Medium   68  ██████████░░░░░░░░░░   51.1%
+🔴 Hard     40  ██████░░░░░░░░░░░░░░   30.1%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 68 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 69 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -84,6 +84,7 @@
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM |
 | 0525 | [Contiguous Array](0525-contiguous-array) | 🟡 MEDIUM |
 | 0598 | [Range Addition Ii](0598-range-addition-ii) | 🟢 EASY |
+| 0679 | [24 Game](0679-24-game) | 🟡 MEDIUM |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
 | 1288 | [Remove Covered Intervals](1288-remove-covered-intervals) | 🟡 MEDIUM |
@@ -237,7 +238,7 @@
 </details>
 
 <details>
-<summary><b>Math</b> &nbsp;·&nbsp; 24 problem(s)</summary>
+<summary><b>Math</b> &nbsp;·&nbsp; 25 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -254,6 +255,7 @@
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
 | 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
 | 0598 | [Range Addition Ii](0598-range-addition-ii) | 🟢 EASY |
+| 0679 | [24 Game](0679-24-game) | 🟡 MEDIUM |
 | 1344 | [Angle Between Hands Of A Clock](1344-angle-between-hands-of-a-clock) | 🟡 MEDIUM |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD |
 | 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
@@ -612,7 +614,7 @@
 </details>
 
 <details>
-<summary><b>Backtracking</b> &nbsp;·&nbsp; 4 problem(s)</summary>
+<summary><b>Backtracking</b> &nbsp;·&nbsp; 5 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -621,6 +623,7 @@
 | 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
 | 0051 | [N Queens](0051-n-queens) | 🔴 HARD |
 | 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
+| 0679 | [24 Game](0679-24-game) | 🟡 MEDIUM |
 
 </details>
 
@@ -1021,6 +1024,7 @@
 | 0620 | [Not Boring Movies](0620-not-boring-movies) | 🟡 MEDIUM | Database | — |
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings) | 🟡 MEDIUM | Two Pointers, String, Dynamic Programming | PY |
 | 0649 | [Dota2 Senate](0649-dota2-senate) | 🟡 MEDIUM | String, Greedy, Queue | PY |
+| 0679 | [24 Game](0679-24-game) | 🟡 MEDIUM | Array, Math, Backtracking | PY |
 | 0799 | [Champagne Tower](0799-champagne-tower) | 🟡 MEDIUM | Dynamic Programming | PY |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD | Array, Hash Table, String +3 | JAVA |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD | Array, Binary Search, Dynamic Programming +1 | PY |
@@ -1090,22 +1094,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-16 14:22:57 UTC_
+_Generated on 2026-07-16 14:24:52 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0679-24-game](https://github.com/chittoralovesh/Leetcode/tree/master/0679-24-game) |
-## Math
-|  |
-| ------- |
-| [0679-24-game](https://github.com/chittoralovesh/Leetcode/tree/master/0679-24-game) |
-## Backtracking
-|  |
-| ------- |
-| [0679-24-game](https://github.com/chittoralovesh/Leetcode/tree/master/0679-24-game) |
-<!---LeetCode Topics End-->
