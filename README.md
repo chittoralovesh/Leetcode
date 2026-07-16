@@ -1097,3 +1097,19 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-07-16 14:24:52 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/chittoralovesh/Leetcode/tree/master/0525-contiguous-array) |
+## Hash Table
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/chittoralovesh/Leetcode/tree/master/0525-contiguous-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/chittoralovesh/Leetcode/tree/master/0525-contiguous-array) |
+<!---LeetCode Topics End-->
