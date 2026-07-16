@@ -1081,3 +1081,19 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-07-16 14:16:48 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/chittoralovesh/Leetcode/tree/master/0498-diagonal-traverse) |
+## Matrix
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/chittoralovesh/Leetcode/tree/master/0498-diagonal-traverse) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/chittoralovesh/Leetcode/tree/master/0498-diagonal-traverse) |
+<!---LeetCode Topics End-->
