@@ -5,8 +5,8 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-126-5865F2?style=for-the-badge" alt="Total Solved" />
-<img src="https://img.shields.io/badge/Easy-24-2ECC71?style=for-the-badge" alt="Easy" />
+<img src="https://img.shields.io/badge/Total%20Solved-127-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Easy-25-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-63-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-39-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 126 |
+| **Total problems solved** | 127 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (65), `String` (31), `Dynamic Programming` (28), `Hash Table` (25), `Math` (24) |
-| **Last updated** | 2026-07-16 14:14:22 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-07-16 14:15:54 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     24  ████░░░░░░░░░░░░░░░░   19.0%
-🟡 Medium   63  ██████████░░░░░░░░░░   50.0%
-🔴 Hard     39  ██████░░░░░░░░░░░░░░   31.0%
+🟢 Easy     25  ████░░░░░░░░░░░░░░░░   19.7%
+🟡 Medium   63  ██████████░░░░░░░░░░   49.6%
+🔴 Hard     39  ██████░░░░░░░░░░░░░░   30.7%
 ```
 
 
@@ -402,6 +402,24 @@
 </details>
 
 <details>
+<summary><b>Database</b> &nbsp;·&nbsp; 9 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0175 | [Combine Two Tables](0175-combine-two-tables) | 🟢 EASY |
+| 0181 | [Employees Earning More Than Their Managers](0181-employees-earning-more-than-their-managers) | 🟢 EASY |
+| 0183 | [Customers Who Never Order](0183-customers-who-never-order) | 🟢 EASY |
+| 0185 | [Department Top Three Salaries](0185-department-top-three-salaries) | 🔴 HARD |
+| 0262 | [Trips And Users](0262-trips-and-users) | 🔴 HARD |
+| 0570 | [Managers With At Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 MEDIUM |
+| 0595 | [Big Countries](0595-big-countries) | 🟢 EASY |
+| 0596 | [Classes With At Least 5 Students](0596-classes-with-at-least-5-students) | 🟢 EASY |
+| 0602 | [Friend Requests Ii Who Has The Most Friends](0602-friend-requests-ii-who-has-the-most-friends) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Prefix Sum</b> &nbsp;·&nbsp; 9 problem(s)</summary>
 
 
@@ -416,23 +434,6 @@
 | 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
 | 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
 | 3756 | [Concatenate Non Zero Digits And Multiply By Sum Ii](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Database</b> &nbsp;·&nbsp; 8 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0181 | [Employees Earning More Than Their Managers](0181-employees-earning-more-than-their-managers) | 🟢 EASY |
-| 0183 | [Customers Who Never Order](0183-customers-who-never-order) | 🟢 EASY |
-| 0185 | [Department Top Three Salaries](0185-department-top-three-salaries) | 🔴 HARD |
-| 0262 | [Trips And Users](0262-trips-and-users) | 🔴 HARD |
-| 0570 | [Managers With At Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 MEDIUM |
-| 0595 | [Big Countries](0595-big-countries) | 🟢 EASY |
-| 0596 | [Classes With At Least 5 Students](0596-classes-with-at-least-5-students) | 🟢 EASY |
-| 0602 | [Friend Requests Ii Who Has The Most Friends](0602-friend-requests-ii-who-has-the-most-friends) | 🟡 MEDIUM |
 
 </details>
 
@@ -972,6 +973,7 @@
 | 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD | Array, Hash Table, Math +1 | PY |
 | 0154 | [Find Minimum In Rotated Sorted Array Ii](0154-find-minimum-in-rotated-sorted-array-ii) | 🔴 HARD | Array, Binary Search | PY |
 | 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM | Stack, Design | PY |
+| 0175 | [Combine Two Tables](0175-combine-two-tables) | 🟢 EASY | Database | — |
 | 0181 | [Employees Earning More Than Their Managers](0181-employees-earning-more-than-their-managers) | 🟢 EASY | Database | — |
 | 0183 | [Customers Who Never Order](0183-customers-who-never-order) | 🟢 EASY | Database | — |
 | 0185 | [Department Top Three Salaries](0185-department-top-three-salaries) | 🔴 HARD | Database | — |
@@ -1072,14 +1074,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-16 14:14:22 UTC_
+_Generated on 2026-07-16 14:15:54 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0175-combine-two-tables](https://github.com/chittoralovesh/Leetcode/tree/master/0175-combine-two-tables) |
-<!---LeetCode Topics End-->
