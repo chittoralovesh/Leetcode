@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-125-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-126-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-24-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-62-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-63-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-39-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-80%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-81%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-25%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-12%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 125 |
+| **Total problems solved** | 126 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (64), `String` (31), `Dynamic Programming` (28), `Hash Table` (25), `Math` (23) |
-| **Last updated** | 2026-07-16 02:57:33 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (65), `String` (31), `Dynamic Programming` (28), `Hash Table` (25), `Math` (24) |
+| **Last updated** | 2026-07-16 14:14:22 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     24  ████░░░░░░░░░░░░░░░░   19.2%
-🟡 Medium   62  ██████████░░░░░░░░░░   49.6%
-🔴 Hard     39  ██████░░░░░░░░░░░░░░   31.2%
+🟢 Easy     24  ████░░░░░░░░░░░░░░░░   19.0%
+🟡 Medium   63  ██████████░░░░░░░░░░   50.0%
+🔴 Hard     39  ██████░░░░░░░░░░░░░░   31.0%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 64 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 65 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -116,6 +116,7 @@
 | 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
 | 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
 | 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY |
+| 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
 
 </details>
 
@@ -231,7 +232,7 @@
 </details>
 
 <details>
-<summary><b>Math</b> &nbsp;·&nbsp; 23 problem(s)</summary>
+<summary><b>Math</b> &nbsp;·&nbsp; 24 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -259,11 +260,12 @@
 | 3753 | [Total Waviness Of Numbers In Range Ii](3753-total-waviness-of-numbers-in-range-ii) | 🔴 HARD |
 | 3754 | [Concatenate Non Zero Digits And Multiply By Sum I](3754-concatenate-non-zero-digits-and-multiply-by-sum-i) | 🟢 EASY |
 | 3756 | [Concatenate Non Zero Digits And Multiply By Sum Ii](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) | 🟡 MEDIUM |
+| 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
 
 </details>
 
 <details>
-<summary><b>Sorting</b> &nbsp;·&nbsp; 17 problem(s)</summary>
+<summary><b>Sorting</b> &nbsp;·&nbsp; 18 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -285,11 +287,12 @@
 | 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
 | 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
 | 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
+| 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
 
 </details>
 
 <details>
-<summary><b>Two Pointers</b> &nbsp;·&nbsp; 15 problem(s)</summary>
+<summary><b>Two Pointers</b> &nbsp;·&nbsp; 16 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -309,6 +312,7 @@
 | 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
 | 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
 | 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
+| 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
 
 </details>
 
@@ -541,6 +545,21 @@
 </details>
 
 <details>
+<summary><b>Simulation</b> &nbsp;·&nbsp; 6 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM |
+| 2161 | [Partition Array According To Given Pivot](2161-partition-array-according-to-given-pivot) | 🟡 MEDIUM |
+| 3612 | [Process String With Special Operations I](3612-process-string-with-special-operations-i) | 🟡 MEDIUM |
+| 3614 | [Process String With Special Operations Ii](3614-process-string-with-special-operations-ii) | 🔴 HARD |
+| 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY |
+| 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Recursion</b> &nbsp;·&nbsp; 5 problem(s)</summary>
 
 
@@ -579,20 +598,6 @@
 | 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM |
 | 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
 | 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Simulation</b> &nbsp;·&nbsp; 5 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM |
-| 2161 | [Partition Array According To Given Pivot](2161-partition-array-according-to-given-pivot) | 🟡 MEDIUM |
-| 3612 | [Process String With Special Operations I](3612-process-string-with-special-operations-i) | 🟡 MEDIUM |
-| 3614 | [Process String With Special Operations Ii](3614-process-string-with-special-operations-ii) | 🔴 HARD |
-| 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY |
 
 </details>
 
@@ -683,6 +688,18 @@
 </details>
 
 <details>
+<summary><b>Number Theory</b> &nbsp;·&nbsp; 3 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM |
+| 3658 | [Gcd Of Odd And Even Sums](3658-gcd-of-odd-and-even-sums) | 🟢 EASY |
+| 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Memoization</b> &nbsp;·&nbsp; 2 problem(s)</summary>
 
 
@@ -767,17 +784,6 @@
 |---|---|---|
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
 | 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Number Theory</b> &nbsp;·&nbsp; 2 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM |
-| 3658 | [Gcd Of Odd And Even Sums](3658-gcd-of-odd-and-even-sums) | 🟢 EASY |
 
 </details>
 
@@ -1053,6 +1059,7 @@
 | 3756 | [Concatenate Non Zero Digits And Multiply By Sum Ii](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) | 🟡 MEDIUM | Math, String, Prefix Sum | PY |
 | 3829 | [Design Ride Sharing System](3829-design-ride-sharing-system) | 🟡 MEDIUM | Hash Table, Design, Queue +1 | PY |
 | 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY | Array, String, Simulation | CPP |
+| 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM | Array, Math, Two Pointers +3 | PY |
 
 
 ---
@@ -1065,34 +1072,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-16 02:57:33 UTC_
+_Generated on 2026-07-16 14:14:22 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3867-sum-of-gcd-of-formed-pairs](https://github.com/chittoralovesh/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
-## Math
-|  |
-| ------- |
-| [3867-sum-of-gcd-of-formed-pairs](https://github.com/chittoralovesh/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
-## Two Pointers
-|  |
-| ------- |
-| [3867-sum-of-gcd-of-formed-pairs](https://github.com/chittoralovesh/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
-## Sorting
-|  |
-| ------- |
-| [3867-sum-of-gcd-of-formed-pairs](https://github.com/chittoralovesh/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
-## Simulation
-|  |
-| ------- |
-| [3867-sum-of-gcd-of-formed-pairs](https://github.com/chittoralovesh/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
-## Number Theory
-|  |
-| ------- |
-| [3867-sum-of-gcd-of-formed-pairs](https://github.com/chittoralovesh/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
-<!---LeetCode Topics End-->

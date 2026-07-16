@@ -582,6 +582,14 @@
     "Backtracking",
     "Matrix"
   ],
+  "sum-of-gcd-of-formed-pairs": [
+    "Array",
+    "Math",
+    "Two Pointers",
+    "Sorting",
+    "Simulation",
+    "Number Theory"
+  ],
   "total-waviness-of-numbers-in-range-i": [
     "Math",
     "Dynamic Programming",
