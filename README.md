@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-85%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-86%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-25%20solved-00599C?style=for-the-badge" alt="CPP" />
-<img src="https://img.shields.io/badge/JAVA-13%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
+<img src="https://img.shields.io/badge/JAVA-12%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
 
 
@@ -29,7 +29,7 @@
 | **Total problems solved** | 133 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (69), `String` (31), `Dynamic Programming` (29), `Hash Table` (26), `Math` (25) |
-| **Last updated** | 2026-07-16 14:24:52 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-07-16 14:30:03 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
@@ -1040,7 +1040,7 @@
 | 1784 | [Check If Binary String Has At Most One Segment Of Ones](1784-check-if-binary-string-has-at-most-one-segment-of-ones) | 🟢 EASY | String | PY |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM | Array, Greedy, Sorting +1 | PY |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD | Array, Math, Sorting | PY |
-| 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM | Array, Greedy, Sorting | JAVA |
+| 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM | Array, Greedy, Sorting | PY |
 | 1967 | [Number Of Strings That Appear As Substrings In Word](1967-number-of-strings-that-appear-as-substrings-in-word) | 🟢 EASY | Array, String | JAVA |
 | 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM | Linked List, Two Pointers | PY |
 | 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM | String, Simulation | PY |
@@ -1094,22 +1094,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-16 14:24:52 UTC_
+_Generated on 2026-07-16 14:30:03 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0525-contiguous-array](https://github.com/chittoralovesh/Leetcode/tree/master/0525-contiguous-array) |
-## Hash Table
-|  |
-| ------- |
-| [0525-contiguous-array](https://github.com/chittoralovesh/Leetcode/tree/master/0525-contiguous-array) |
-## Prefix Sum
-|  |
-| ------- |
-| [0525-contiguous-array](https://github.com/chittoralovesh/Leetcode/tree/master/0525-contiguous-array) |
-<!---LeetCode Topics End-->
