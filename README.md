@@ -1091,3 +1091,11 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-07-16 14:21:07 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/chittoralovesh/Leetcode/tree/master/0620-not-boring-movies) |
+<!---LeetCode Topics End-->
