@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-129-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-130-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-25-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-65-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-66-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-39-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-82%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-83%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-25%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-13%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 129 |
+| **Total problems solved** | 130 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (67), `String` (31), `Dynamic Programming` (28), `Hash Table` (25), `Math` (24) |
-| **Last updated** | 2026-07-16 14:18:24 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (68), `String` (31), `Dynamic Programming` (28), `Hash Table` (26), `Math` (24) |
+| **Last updated** | 2026-07-16 14:19:31 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     25  ████░░░░░░░░░░░░░░░░   19.4%
-🟡 Medium   65  ██████████░░░░░░░░░░   50.4%
-🔴 Hard     39  ██████░░░░░░░░░░░░░░   30.2%
+🟢 Easy     25  ████░░░░░░░░░░░░░░░░   19.2%
+🟡 Medium   66  ██████████░░░░░░░░░░   50.8%
+🔴 Hard     39  ██████░░░░░░░░░░░░░░   30.0%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 67 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 68 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -82,6 +82,7 @@
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD |
 | 0503 | [Next Greater Element Ii](0503-next-greater-element-ii) | 🟡 MEDIUM |
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM |
+| 0525 | [Contiguous Array](0525-contiguous-array) | 🟡 MEDIUM |
 | 0598 | [Range Addition Ii](0598-range-addition-ii) | 🟢 EASY |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
@@ -200,7 +201,7 @@
 </details>
 
 <details>
-<summary><b>Hash Table</b> &nbsp;·&nbsp; 25 problem(s)</summary>
+<summary><b>Hash Table</b> &nbsp;·&nbsp; 26 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -217,6 +218,7 @@
 | 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
+| 0525 | [Contiguous Array](0525-contiguous-array) | 🟡 MEDIUM |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
 | 1331 | [Rank Transform Of An Array](1331-rank-transform-of-an-array) | 🟢 EASY |
@@ -386,6 +388,25 @@
 </details>
 
 <details>
+<summary><b>Prefix Sum</b> &nbsp;·&nbsp; 10 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0238 | [Product Of Array Except Self](0238-product-of-array-except-self) | 🟡 MEDIUM |
+| 0525 | [Contiguous Array](0525-contiguous-array) | 🟡 MEDIUM |
+| 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY |
+| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
+| 2574 | [Left And Right Sum Differences](2574-left-and-right-sum-differences) | 🟢 EASY |
+| 3699 | [Number Of Zigzag Arrays I](3699-number-of-zigzag-arrays-i) | 🟡 MEDIUM |
+| 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM |
+| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
+| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
+| 3756 | [Concatenate Non Zero Digits And Multiply By Sum Ii](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Depth-First Search</b> &nbsp;·&nbsp; 9 problem(s)</summary>
 
 
@@ -418,24 +439,6 @@
 | 0595 | [Big Countries](0595-big-countries) | 🟢 EASY |
 | 0596 | [Classes With At Least 5 Students](0596-classes-with-at-least-5-students) | 🟢 EASY |
 | 0602 | [Friend Requests Ii Who Has The Most Friends](0602-friend-requests-ii-who-has-the-most-friends) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Prefix Sum</b> &nbsp;·&nbsp; 9 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0238 | [Product Of Array Except Self](0238-product-of-array-except-self) | 🟡 MEDIUM |
-| 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY |
-| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
-| 2574 | [Left And Right Sum Differences](2574-left-and-right-sum-differences) | 🟢 EASY |
-| 3699 | [Number Of Zigzag Arrays I](3699-number-of-zigzag-arrays-i) | 🟡 MEDIUM |
-| 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM |
-| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
-| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
-| 3756 | [Concatenate Non Zero Digits And Multiply By Sum Ii](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) | 🟡 MEDIUM |
 
 </details>
 
@@ -1005,6 +1008,7 @@
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD | Array, Greedy, Sorting +1 | JAVA |
 | 0503 | [Next Greater Element Ii](0503-next-greater-element-ii) | 🟡 MEDIUM | Array, Stack, Monotonic Stack | PY |
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM | Array, Dynamic Programming | PY |
+| 0525 | [Contiguous Array](0525-contiguous-array) | 🟡 MEDIUM | Array, Hash Table, Prefix Sum | PY |
 | 0570 | [Managers With At Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 MEDIUM | Database | — |
 | 0576 | [Out Of Boundary Paths](0576-out-of-boundary-paths) | 🟡 MEDIUM | Dynamic Programming | PY |
 | 0595 | [Big Countries](0595-big-countries) | 🟢 EASY | Database | — |
@@ -1082,22 +1086,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-16 14:18:24 UTC_
+_Generated on 2026-07-16 14:19:31 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0525-contiguous-array](https://github.com/chittoralovesh/Leetcode/tree/master/0525-contiguous-array) |
-## Hash Table
-|  |
-| ------- |
-| [0525-contiguous-array](https://github.com/chittoralovesh/Leetcode/tree/master/0525-contiguous-array) |
-## Prefix Sum
-|  |
-| ------- |
-| [0525-contiguous-array](https://github.com/chittoralovesh/Leetcode/tree/master/0525-contiguous-array) |
-<!---LeetCode Topics End-->

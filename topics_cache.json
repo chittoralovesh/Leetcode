@@ -82,6 +82,11 @@
     "Bucket Sort",
     "Ordered Set"
   ],
+  "contiguous-array": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum"
+  ],
   "count-subarrays-with-majority-element-i": [
     "Array",
     "Hash Table",
