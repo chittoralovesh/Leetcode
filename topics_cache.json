@@ -594,6 +594,9 @@
   "string-to-integer-atoi": [
     "String"
   ],
+  "student-attendance-record-ii": [
+    "Dynamic Programming"
+  ],
   "sudoku-solver": [
     "Array",
     "Hash Table",

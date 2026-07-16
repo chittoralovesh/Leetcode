@@ -5,16 +5,16 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-130-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-131-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-25-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-66-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-39-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-40-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-83%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-85%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-25%20solved-00599C?style=for-the-badge" alt="CPP" />
-<img src="https://img.shields.io/badge/JAVA-13%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
+<img src="https://img.shields.io/badge/JAVA-12%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
 
 
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 130 |
+| **Total problems solved** | 131 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (68), `String` (31), `Dynamic Programming` (28), `Hash Table` (26), `Math` (24) |
-| **Last updated** | 2026-07-16 14:19:31 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (68), `String` (31), `Dynamic Programming` (29), `Hash Table` (26), `Math` (24) |
+| **Last updated** | 2026-07-16 14:21:07 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     25  ████░░░░░░░░░░░░░░░░   19.2%
-🟡 Medium   66  ██████████░░░░░░░░░░   50.8%
-🔴 Hard     39  ██████░░░░░░░░░░░░░░   30.0%
+🟢 Easy     25  ████░░░░░░░░░░░░░░░░   19.1%
+🟡 Medium   66  ██████████░░░░░░░░░░   50.4%
+🔴 Hard     40  ██████░░░░░░░░░░░░░░   30.5%
 ```
 
 
@@ -164,7 +164,7 @@
 </details>
 
 <details>
-<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 28 problem(s)</summary>
+<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 29 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -184,6 +184,7 @@
 | 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
 | 0466 | [Count The Repetitions](0466-count-the-repetitions) | 🔴 HARD |
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM |
+| 0552 | [Student Attendance Record Ii](0552-student-attendance-record-ii) | 🔴 HARD |
 | 0576 | [Out Of Boundary Paths](0576-out-of-boundary-paths) | 🟡 MEDIUM |
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings) | 🟡 MEDIUM |
 | 0799 | [Champagne Tower](0799-champagne-tower) | 🟡 MEDIUM |
@@ -1009,6 +1010,7 @@
 | 0503 | [Next Greater Element Ii](0503-next-greater-element-ii) | 🟡 MEDIUM | Array, Stack, Monotonic Stack | PY |
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM | Array, Dynamic Programming | PY |
 | 0525 | [Contiguous Array](0525-contiguous-array) | 🟡 MEDIUM | Array, Hash Table, Prefix Sum | PY |
+| 0552 | [Student Attendance Record Ii](0552-student-attendance-record-ii) | 🔴 HARD | Dynamic Programming | PY |
 | 0570 | [Managers With At Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 MEDIUM | Database | — |
 | 0576 | [Out Of Boundary Paths](0576-out-of-boundary-paths) | 🟡 MEDIUM | Dynamic Programming | PY |
 | 0595 | [Big Countries](0595-big-countries) | 🟢 EASY | Database | — |
@@ -1032,7 +1034,7 @@
 | 1784 | [Check If Binary String Has At Most One Segment Of Ones](1784-check-if-binary-string-has-at-most-one-segment-of-ones) | 🟢 EASY | String | PY |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM | Array, Greedy, Sorting +1 | PY |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD | Array, Math, Sorting | PY |
-| 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM | Array, Greedy, Sorting | JAVA |
+| 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM | Array, Greedy, Sorting | PY |
 | 1967 | [Number Of Strings That Appear As Substrings In Word](1967-number-of-strings-that-appear-as-substrings-in-word) | 🟢 EASY | Array, String | JAVA |
 | 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM | Linked List, Two Pointers | PY |
 | 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM | String, Simulation | PY |
@@ -1086,14 +1088,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-16 14:19:31 UTC_
+_Generated on 2026-07-16 14:21:07 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Dynamic Programming
-|  |
-| ------- |
-| [0552-student-attendance-record-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0552-student-attendance-record-ii) |
-<!---LeetCode Topics End-->
