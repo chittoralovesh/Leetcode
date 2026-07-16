@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-127-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-128-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-25-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-63-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-64-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-39-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-81%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-82%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-25%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-12%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 127 |
+| **Total problems solved** | 128 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (65), `String` (31), `Dynamic Programming` (28), `Hash Table` (25), `Math` (24) |
-| **Last updated** | 2026-07-16 14:15:54 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (66), `String` (31), `Dynamic Programming` (28), `Hash Table` (25), `Math` (24) |
+| **Last updated** | 2026-07-16 14:16:48 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     25  ████░░░░░░░░░░░░░░░░   19.7%
-🟡 Medium   63  ██████████░░░░░░░░░░   49.6%
-🔴 Hard     39  ██████░░░░░░░░░░░░░░   30.7%
+🟢 Easy     25  ████░░░░░░░░░░░░░░░░   19.5%
+🟡 Medium   64  ██████████░░░░░░░░░░   50.0%
+🔴 Hard     39  ██████░░░░░░░░░░░░░░   30.5%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 65 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 66 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -78,6 +78,7 @@
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
 | 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD |
 | 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
+| 0498 | [Diagonal Traverse](0498-diagonal-traverse) | 🟡 MEDIUM |
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD |
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM |
 | 0598 | [Range Addition Ii](0598-range-addition-ii) | 🟢 EASY |
@@ -438,7 +439,7 @@
 </details>
 
 <details>
-<summary><b>Matrix</b> &nbsp;·&nbsp; 7 problem(s)</summary>
+<summary><b>Matrix</b> &nbsp;·&nbsp; 8 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -447,6 +448,7 @@
 | 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
 | 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
 | 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
+| 0498 | [Diagonal Traverse](0498-diagonal-traverse) | 🟡 MEDIUM |
 | 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD |
 | 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
@@ -482,6 +484,22 @@
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
 | 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
 | 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
+
+</details>
+
+<details>
+<summary><b>Simulation</b> &nbsp;·&nbsp; 7 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0498 | [Diagonal Traverse](0498-diagonal-traverse) | 🟡 MEDIUM |
+| 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM |
+| 2161 | [Partition Array According To Given Pivot](2161-partition-array-according-to-given-pivot) | 🟡 MEDIUM |
+| 3612 | [Process String With Special Operations I](3612-process-string-with-special-operations-i) | 🟡 MEDIUM |
+| 3614 | [Process String With Special Operations Ii](3614-process-string-with-special-operations-ii) | 🔴 HARD |
+| 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY |
+| 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
 
 </details>
 
@@ -542,21 +560,6 @@
 | 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM |
 | 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
 | 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Simulation</b> &nbsp;·&nbsp; 6 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM |
-| 2161 | [Partition Array According To Given Pivot](2161-partition-array-according-to-given-pivot) | 🟡 MEDIUM |
-| 3612 | [Process String With Special Operations I](3612-process-string-with-special-operations-i) | 🟡 MEDIUM |
-| 3614 | [Process String With Special Operations Ii](3614-process-string-with-special-operations-ii) | 🔴 HARD |
-| 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY |
-| 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
 
 </details>
 
@@ -995,6 +998,7 @@
 | 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM | Math, Dynamic Programming, Bit Manipulation +3 | PY |
 | 0466 | [Count The Repetitions](0466-count-the-repetitions) | 🔴 HARD | Two Pointers, String, Dynamic Programming | PY |
 | 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD | Array, Binary Search, Divide and Conquer +4 | PY |
+| 0498 | [Diagonal Traverse](0498-diagonal-traverse) | 🟡 MEDIUM | Array, Matrix, Simulation | PY |
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD | Array, Greedy, Sorting +1 | JAVA |
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM | Array, Dynamic Programming | PY |
 | 0570 | [Managers With At Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 MEDIUM | Database | — |
@@ -1074,22 +1078,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-16 14:15:54 UTC_
+_Generated on 2026-07-16 14:16:48 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0498-diagonal-traverse](https://github.com/chittoralovesh/Leetcode/tree/master/0498-diagonal-traverse) |
-## Matrix
-|  |
-| ------- |
-| [0498-diagonal-traverse](https://github.com/chittoralovesh/Leetcode/tree/master/0498-diagonal-traverse) |
-## Simulation
-|  |
-| ------- |
-| [0498-diagonal-traverse](https://github.com/chittoralovesh/Leetcode/tree/master/0498-diagonal-traverse) |
-<!---LeetCode Topics End-->

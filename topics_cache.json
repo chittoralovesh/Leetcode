@@ -132,6 +132,11 @@
     "Queue",
     "Data Stream"
   ],
+  "diagonal-traverse": [
+    "Array",
+    "Matrix",
+    "Simulation"
+  ],
   "dota2-senate": [
     "String",
     "Greedy",
