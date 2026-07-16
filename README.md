@@ -1081,3 +1081,19 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-07-16 14:17:12 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0503-next-greater-element-ii) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0503-next-greater-element-ii) |
+<!---LeetCode Topics End-->
