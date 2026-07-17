@@ -599,6 +599,16 @@
     "Breadth-First Search",
     "Union-Find"
   ],
+  "sorted-gcd-pair-queries": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Binary Search",
+    "Combinatorics",
+    "Counting",
+    "Number Theory",
+    "Prefix Sum"
+  ],
   "string-to-integer-atoi": [
     "String"
   ],
