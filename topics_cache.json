@@ -181,6 +181,11 @@
     "Matrix",
     "Shortest Path"
   ],
+  "find-greatest-common-divisor-of-array": [
+    "Array",
+    "Math",
+    "Number Theory"
+  ],
   "find-minimum-in-rotated-sorted-array-ii": [
     "Array",
     "Binary Search"
