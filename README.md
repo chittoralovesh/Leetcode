@@ -14,7 +14,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/PY-89%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
-<img src="https://img.shields.io/badge/JAVA-12%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
+<img src="https://img.shields.io/badge/JAVA-13%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
 
 
@@ -29,7 +29,7 @@
 | **Total problems solved** | 138 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (73), `String` (32), `Dynamic Programming` (29), `Hash Table` (27), `Math` (27) |
-| **Last updated** | 2026-07-20 18:27:15 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-07-20 18:30:11 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
@@ -1061,7 +1061,7 @@
 | 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM | String, Stack, Greedy +1 | PY |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD | Array, Binary Search, Dynamic Programming +1 | PY |
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY | Hash Table, String, Counting | PY |
-| 1260 | [Shift 2D Grid](1260-shift-2d-grid) | 🟡 MEDIUM | Array, Matrix, Simulation | — |
+| 1260 | [Shift 2D Grid](1260-shift-2d-grid) | 🟡 MEDIUM | Array, Matrix, Simulation | JAVA |
 | 1288 | [Remove Covered Intervals](1288-remove-covered-intervals) | 🟡 MEDIUM | Array, Sorting | PY |
 | 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD | Array, Dynamic Programming, Matrix | PY |
 | 1331 | [Rank Transform Of An Array](1331-rank-transform-of-an-array) | 🟢 EASY | Array, Hash Table, Sorting | PY |
@@ -1129,22 +1129,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-20 18:27:15 UTC_
+_Generated on 2026-07-20 18:30:11 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1260-shift-2d-grid](https://github.com/chittoralovesh/Leetcode/tree/master/1260-shift-2d-grid) |
-## Matrix
-|  |
-| ------- |
-| [1260-shift-2d-grid](https://github.com/chittoralovesh/Leetcode/tree/master/1260-shift-2d-grid) |
-## Simulation
-|  |
-| ------- |
-| [1260-shift-2d-grid](https://github.com/chittoralovesh/Leetcode/tree/master/1260-shift-2d-grid) |
-<!---LeetCode Topics End-->
