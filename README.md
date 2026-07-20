@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-135-5865F2?style=for-the-badge" alt="Total Solved" />
-<img src="https://img.shields.io/badge/Easy-27-2ECC71?style=for-the-badge" alt="Easy" />
+<img src="https://img.shields.io/badge/Total%20Solved-136-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Easy-28-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-66-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-42-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-87%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-88%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-12%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 135 |
+| **Total problems solved** | 136 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (71), `String` (31), `Dynamic Programming` (29), `Hash Table` (27), `Math` (27) |
-| **Last updated** | 2026-07-20 03:36:54 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (72), `String` (31), `Dynamic Programming` (29), `Hash Table` (27), `Math` (27) |
+| **Last updated** | 2026-07-20 09:17:07 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     27  ████░░░░░░░░░░░░░░░░   20.0%
-🟡 Medium   66  ██████████░░░░░░░░░░   48.9%
-🔴 Hard     42  ██████░░░░░░░░░░░░░░   31.1%
+🟢 Easy     28  ████░░░░░░░░░░░░░░░░   20.6%
+🟡 Medium   66  ██████████░░░░░░░░░░   48.5%
+🔴 Hard     42  ██████░░░░░░░░░░░░░░   30.9%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 71 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 72 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -64,6 +64,7 @@
 | 0051 | [N Queens](0051-n-queens) | 🔴 HARD |
 | 0055 | [Jump Game](0055-jump-game) | 🟡 MEDIUM |
 | 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
+| 0088 | [Merge Sorted Array](0088-merge-sorted-array) | 🟢 EASY |
 | 0123 | [Best Time To Buy And Sell Stock Iii](0123-best-time-to-buy-and-sell-stock-iii) | 🔴 HARD |
 | 0139 | [Word Break](0139-word-break) | 🟡 MEDIUM |
 | 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
@@ -277,7 +278,7 @@
 </details>
 
 <details>
-<summary><b>Sorting</b> &nbsp;·&nbsp; 18 problem(s)</summary>
+<summary><b>Sorting</b> &nbsp;·&nbsp; 19 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -285,6 +286,7 @@
 | 0015 | [3Sum](0015-3sum) | 🟡 MEDIUM |
 | 0016 | [3Sum Closest](0016-3sum-closest) | 🟡 MEDIUM |
 | 0018 | [4Sum](0018-4sum) | 🟡 MEDIUM |
+| 0088 | [Merge Sorted Array](0088-merge-sorted-array) | 🟢 EASY |
 | 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
 | 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD |
@@ -304,7 +306,7 @@
 </details>
 
 <details>
-<summary><b>Two Pointers</b> &nbsp;·&nbsp; 16 problem(s)</summary>
+<summary><b>Two Pointers</b> &nbsp;·&nbsp; 17 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -316,6 +318,7 @@
 | 0018 | [4Sum](0018-4sum) | 🟡 MEDIUM |
 | 0031 | [Next Permutation](0031-next-permutation) | 🟡 MEDIUM |
 | 0082 | [Remove Duplicates From Sorted List Ii](0082-remove-duplicates-from-sorted-list-ii) | 🟡 MEDIUM |
+| 0088 | [Merge Sorted Array](0088-merge-sorted-array) | 🟢 EASY |
 | 0466 | [Count The Repetitions](0466-count-the-repetitions) | 🔴 HARD |
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings) | 🟡 MEDIUM |
 | 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM |
@@ -997,6 +1000,7 @@
 | 0076 | [Minimum Window Substring](0076-minimum-window-substring) | 🔴 HARD | Hash Table, String, Sliding Window | PY |
 | 0082 | [Remove Duplicates From Sorted List Ii](0082-remove-duplicates-from-sorted-list-ii) | 🟡 MEDIUM | Linked List, Two Pointers | PY |
 | 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD | Array, Dynamic Programming, Stack +2 | JAVA |
+| 0088 | [Merge Sorted Array](0088-merge-sorted-array) | 🟢 EASY | Array, Two Pointers, Sorting | PY |
 | 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree) | 🟡 MEDIUM | Tree, Depth-First Search, Binary Search Tree +1 | PY |
 | 0100 | [Same Tree](0100-same-tree) | 🟢 EASY | Tree, Depth-First Search, Breadth-First Search +1 | CPP |
 | 0107 | [Binary Tree Level Order Traversal Ii](0107-binary-tree-level-order-traversal-ii) | 🟡 MEDIUM | Tree, Breadth-First Search, Binary Tree | PY |
@@ -1116,22 +1120,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-20 03:36:54 UTC_
+_Generated on 2026-07-20 09:17:07 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0088-merge-sorted-array](https://github.com/chittoralovesh/Leetcode/tree/master/0088-merge-sorted-array) |
-## Two Pointers
-|  |
-| ------- |
-| [0088-merge-sorted-array](https://github.com/chittoralovesh/Leetcode/tree/master/0088-merge-sorted-array) |
-## Sorting
-|  |
-| ------- |
-| [0088-merge-sorted-array](https://github.com/chittoralovesh/Leetcode/tree/master/0088-merge-sorted-array) |
-<!---LeetCode Topics End-->

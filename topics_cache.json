@@ -369,6 +369,11 @@
     "Binary Search",
     "Divide and Conquer"
   ],
+  "merge-sorted-array": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
   "min-stack": [
     "Stack",
     "Design"
