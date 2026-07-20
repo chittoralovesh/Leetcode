@@ -1132,3 +1132,19 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-07-20 18:27:15 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/chittoralovesh/Leetcode/tree/master/1260-shift-2d-grid) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/chittoralovesh/Leetcode/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/chittoralovesh/Leetcode/tree/master/1260-shift-2d-grid) |
+<!---LeetCode Topics End-->
