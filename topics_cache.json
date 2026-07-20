@@ -601,6 +601,11 @@
     "Segment Tree",
     "Sweep Line"
   ],
+  "shift-2d-grid": [
+    "Array",
+    "Matrix",
+    "Simulation"
+  ],
   "similar-string-groups": [
     "Array",
     "Hash Table",
