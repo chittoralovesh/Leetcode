@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-89%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-88%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
-<img src="https://img.shields.io/badge/JAVA-13%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
+<img src="https://img.shields.io/badge/JAVA-14%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
 
 
@@ -29,7 +29,7 @@
 | **Total problems solved** | 138 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (73), `String` (32), `Dynamic Programming` (29), `Hash Table` (27), `Math` (27) |
-| **Last updated** | 2026-07-20 18:30:11 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-07-20 18:32:34 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
@@ -1075,7 +1075,7 @@
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD | Array, Math, Sorting | PY |
 | 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM | Array, Greedy, Sorting | PY |
 | 1967 | [Number Of Strings That Appear As Substrings In Word](1967-number-of-strings-that-appear-as-substrings-in-word) | 🟢 EASY | Array, String | JAVA |
-| 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array) | 🟢 EASY | Array, Math, Number Theory | PY |
+| 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array) | 🟢 EASY | Array, Math, Number Theory | JAVA |
 | 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM | Linked List, Two Pointers | PY |
 | 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM | String, Simulation | PY |
 | 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM | Linked List, Two Pointers, Stack | CPP |
@@ -1129,22 +1129,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-20 18:30:11 UTC_
+_Generated on 2026-07-20 18:32:34 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1979-find-greatest-common-divisor-of-array](https://github.com/chittoralovesh/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
-## Math
-|  |
-| ------- |
-| [1979-find-greatest-common-divisor-of-array](https://github.com/chittoralovesh/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
-## Number Theory
-|  |
-| ------- |
-| [1979-find-greatest-common-divisor-of-array](https://github.com/chittoralovesh/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
-<!---LeetCode Topics End-->
