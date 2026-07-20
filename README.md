@@ -29,7 +29,7 @@
 | **Total problems solved** | 138 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (73), `String` (32), `Dynamic Programming` (29), `Hash Table` (27), `Math` (27) |
-| **Last updated** | 2026-07-20 18:32:34 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-07-20 18:35:24 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
@@ -1129,42 +1129,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-20 18:32:34 UTC_
+_Generated on 2026-07-20 18:35:24 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3312-sorted-gcd-pair-queries](https://github.com/chittoralovesh/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
-## Hash Table
-|  |
-| ------- |
-| [3312-sorted-gcd-pair-queries](https://github.com/chittoralovesh/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
-## Math
-|  |
-| ------- |
-| [3312-sorted-gcd-pair-queries](https://github.com/chittoralovesh/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
-## Binary Search
-|  |
-| ------- |
-| [3312-sorted-gcd-pair-queries](https://github.com/chittoralovesh/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
-## Combinatorics
-|  |
-| ------- |
-| [3312-sorted-gcd-pair-queries](https://github.com/chittoralovesh/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
-## Counting
-|  |
-| ------- |
-| [3312-sorted-gcd-pair-queries](https://github.com/chittoralovesh/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
-## Number Theory
-|  |
-| ------- |
-| [3312-sorted-gcd-pair-queries](https://github.com/chittoralovesh/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
-## Prefix Sum
-|  |
-| ------- |
-| [3312-sorted-gcd-pair-queries](https://github.com/chittoralovesh/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
-<!---LeetCode Topics End-->
