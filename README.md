@@ -1135,3 +1135,15 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-07-21 06:47:46 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/chittoralovesh/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/chittoralovesh/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+<!---LeetCode Topics End-->
