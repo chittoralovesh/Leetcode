@@ -1179,3 +1179,23 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-07-21 06:57:45 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+## Matrix
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+<!---LeetCode Topics End-->
