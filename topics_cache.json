@@ -60,6 +60,11 @@
   "classes-with-at-least-5-students": [
     "Database"
   ],
+  "climbing-stairs": [
+    "Math",
+    "Dynamic Programming",
+    "Memoization"
+  ],
   "coin-change-ii": [
     "Array",
     "Dynamic Programming"

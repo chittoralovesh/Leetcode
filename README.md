@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-142-5865F2?style=for-the-badge" alt="Total Solved" />
-<img src="https://img.shields.io/badge/Easy-30-2ECC71?style=for-the-badge" alt="Easy" />
+<img src="https://img.shields.io/badge/Total%20Solved-143-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Easy-31-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-70-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-42-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-90%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-91%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-16%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 142 |
+| **Total problems solved** | 143 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (75), `String` (34), `Dynamic Programming` (30), `Hash Table` (28), `Math` (27) |
-| **Last updated** | 2026-07-21 06:54:37 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (75), `String` (34), `Dynamic Programming` (31), `Hash Table` (28), `Math` (28) |
+| **Last updated** | 2026-07-21 06:57:45 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     30  ████░░░░░░░░░░░░░░░░   21.1%
-🟡 Medium   70  ██████████░░░░░░░░░░   49.3%
-🔴 Hard     42  ██████░░░░░░░░░░░░░░   29.6%
+🟢 Easy     31  ████░░░░░░░░░░░░░░░░   21.7%
+🟡 Medium   70  ██████████░░░░░░░░░░   49.0%
+🔴 Hard     42  ██████░░░░░░░░░░░░░░   29.4%
 ```
 
 
@@ -174,7 +174,7 @@
 </details>
 
 <details>
-<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 30 problem(s)</summary>
+<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 31 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -183,6 +183,7 @@
 | 0010 | [Regular Expression Matching](0010-regular-expression-matching) | 🔴 HARD |
 | 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD |
 | 0055 | [Jump Game](0055-jump-game) | 🟡 MEDIUM |
+| 0070 | [Climbing Stairs](0070-climbing-stairs) | 🟢 EASY |
 | 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
 | 0123 | [Best Time To Buy And Sell Stock Iii](0123-best-time-to-buy-and-sell-stock-iii) | 🔴 HARD |
 | 0132 | [Palindrome Partitioning Ii](0132-palindrome-partitioning-ii) | 🔴 HARD |
@@ -250,7 +251,7 @@
 </details>
 
 <details>
-<summary><b>Math</b> &nbsp;·&nbsp; 27 problem(s)</summary>
+<summary><b>Math</b> &nbsp;·&nbsp; 28 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -261,6 +262,7 @@
 | 0012 | [Integer To Roman](0012-integer-to-roman) | 🟡 MEDIUM |
 | 0013 | [Roman To Integer](0013-roman-to-integer) | 🟢 EASY |
 | 0060 | [Permutation Sequence](0060-permutation-sequence) | 🔴 HARD |
+| 0070 | [Climbing Stairs](0070-climbing-stairs) | 🟢 EASY |
 | 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
 | 0233 | [Number Of Digit One](0233-number-of-digit-one) | 🔴 HARD |
 | 0382 | [Linked List Random Node](0382-linked-list-random-node) | 🟡 MEDIUM |
@@ -735,6 +737,18 @@
 </details>
 
 <details>
+<summary><b>Memoization</b> &nbsp;·&nbsp; 3 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0070 | [Climbing Stairs](0070-climbing-stairs) | 🟢 EASY |
+| 0139 | [Word Break](0139-word-break) | 🟡 MEDIUM |
+| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Monotonic Stack</b> &nbsp;·&nbsp; 3 problem(s)</summary>
 
 
@@ -791,17 +805,6 @@
 | 3020 | [Find The Maximum Number Of Elements In Subset](3020-find-the-maximum-number-of-elements-in-subset) | 🟡 MEDIUM |
 | 3499 | [Maximize Active Section With Trade I](3499-maximize-active-section-with-trade-i) | 🟡 MEDIUM |
 | 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Memoization</b> &nbsp;·&nbsp; 2 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0139 | [Word Break](0139-word-break) | 🟡 MEDIUM |
-| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
 
 </details>
 
@@ -1043,6 +1046,7 @@
 | 0055 | [Jump Game](0055-jump-game) | 🟡 MEDIUM | Array, Dynamic Programming, Greedy | PY |
 | 0058 | [Length Of Last Word](0058-length-of-last-word) | 🟢 EASY | String | PY |
 | 0060 | [Permutation Sequence](0060-permutation-sequence) | 🔴 HARD | Math, Recursion | PY |
+| 0070 | [Climbing Stairs](0070-climbing-stairs) | 🟢 EASY | Math, Dynamic Programming, Memoization | PY |
 | 0076 | [Minimum Window Substring](0076-minimum-window-substring) | 🔴 HARD | Hash Table, String, Sliding Window | PY |
 | 0082 | [Remove Duplicates From Sorted List Ii](0082-remove-duplicates-from-sorted-list-ii) | 🟡 MEDIUM | Linked List, Two Pointers | PY |
 | 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD | Array, Dynamic Programming, Stack +2 | JAVA |
@@ -1172,22 +1176,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-21 06:54:37 UTC_
+_Generated on 2026-07-21 06:57:45 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0070-climbing-stairs](https://github.com/chittoralovesh/Leetcode/tree/master/0070-climbing-stairs) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0070-climbing-stairs](https://github.com/chittoralovesh/Leetcode/tree/master/0070-climbing-stairs) |
-## Memoization
-|  |
-| ------- |
-| [0070-climbing-stairs](https://github.com/chittoralovesh/Leetcode/tree/master/0070-climbing-stairs) |
-<!---LeetCode Topics End-->
