@@ -29,7 +29,7 @@
 | **Total problems solved** | 139 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (73), `String` (33), `Dynamic Programming` (29), `Hash Table` (27), `Math` (27) |
-| **Last updated** | 2026-07-21 06:47:46 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-07-21 06:49:16 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
@@ -1132,18 +1132,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-21 06:47:46 UTC_
+_Generated on 2026-07-21 06:49:16 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [3499-maximize-active-section-with-trade-i](https://github.com/chittoralovesh/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
-## Enumeration
-|  |
-| ------- |
-| [3499-maximize-active-section-with-trade-i](https://github.com/chittoralovesh/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
-<!---LeetCode Topics End-->
