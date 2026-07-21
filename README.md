@@ -29,7 +29,7 @@
 | **Total problems solved** | 140 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (74), `String` (33), `Dynamic Programming` (29), `Hash Table` (27), `Math` (27) |
-| **Last updated** | 2026-07-21 06:50:59 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-07-21 06:52:01 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
@@ -1150,42 +1150,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-21 06:50:59 UTC_
+_Generated on 2026-07-21 06:52:01 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/chittoralovesh/Leetcode/tree/master/0912-sort-an-array) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/chittoralovesh/Leetcode/tree/master/0912-sort-an-array) |
-## Sorting
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/chittoralovesh/Leetcode/tree/master/0912-sort-an-array) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/chittoralovesh/Leetcode/tree/master/0912-sort-an-array) |
-## Merge Sort
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/chittoralovesh/Leetcode/tree/master/0912-sort-an-array) |
-## Bucket Sort
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/chittoralovesh/Leetcode/tree/master/0912-sort-an-array) |
-## Radix Sort
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/chittoralovesh/Leetcode/tree/master/0912-sort-an-array) |
-## Counting Sort
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/chittoralovesh/Leetcode/tree/master/0912-sort-an-array) |
-<!---LeetCode Topics End-->
