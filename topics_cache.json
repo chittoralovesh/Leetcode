@@ -233,6 +233,11 @@
     "Sorting",
     "Heap (Priority Queue)"
   ],
+  "is-subsequence": [
+    "Two Pointers",
+    "String",
+    "Dynamic Programming"
+  ],
   "jump-game": [
     "Array",
     "Dynamic Programming",

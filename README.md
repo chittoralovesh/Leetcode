@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-141-5865F2?style=for-the-badge" alt="Total Solved" />
-<img src="https://img.shields.io/badge/Easy-29-2ECC71?style=for-the-badge" alt="Easy" />
+<img src="https://img.shields.io/badge/Total%20Solved-142-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Easy-30-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-70-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-42-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-89%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-90%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-16%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 141 |
+| **Total problems solved** | 142 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (75), `String` (33), `Dynamic Programming` (29), `Hash Table` (28), `Math` (27) |
-| **Last updated** | 2026-07-21 06:53:27 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (75), `String` (34), `Dynamic Programming` (30), `Hash Table` (28), `Math` (27) |
+| **Last updated** | 2026-07-21 06:54:37 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     29  ████░░░░░░░░░░░░░░░░   20.6%
-🟡 Medium   70  ██████████░░░░░░░░░░   49.6%
-🔴 Hard     42  ██████░░░░░░░░░░░░░░   29.8%
+🟢 Easy     30  ████░░░░░░░░░░░░░░░░   21.1%
+🟡 Medium   70  ██████████░░░░░░░░░░   49.3%
+🔴 Hard     42  ██████░░░░░░░░░░░░░░   29.6%
 ```
 
 
@@ -131,7 +131,7 @@
 </details>
 
 <details>
-<summary><b>String</b> &nbsp;·&nbsp; 33 problem(s)</summary>
+<summary><b>String</b> &nbsp;·&nbsp; 34 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -153,6 +153,7 @@
 | 0139 | [Word Break](0139-word-break) | 🟡 MEDIUM |
 | 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
 | 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
+| 0392 | [Is Subsequence](0392-is-subsequence) | 🟢 EASY |
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
 | 0466 | [Count The Repetitions](0466-count-the-repetitions) | 🔴 HARD |
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings) | 🟡 MEDIUM |
@@ -173,7 +174,7 @@
 </details>
 
 <details>
-<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 29 problem(s)</summary>
+<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 30 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -189,6 +190,7 @@
 | 0198 | [House Robber](0198-house-robber) | 🟡 MEDIUM |
 | 0233 | [Number Of Digit One](0233-number-of-digit-one) | 🔴 HARD |
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence) | 🟡 MEDIUM |
+| 0392 | [Is Subsequence](0392-is-subsequence) | 🟢 EASY |
 | 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD |
 | 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
 | 0466 | [Count The Repetitions](0466-count-the-repetitions) | 🔴 HARD |
@@ -314,7 +316,7 @@
 </details>
 
 <details>
-<summary><b>Two Pointers</b> &nbsp;·&nbsp; 17 problem(s)</summary>
+<summary><b>Two Pointers</b> &nbsp;·&nbsp; 18 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -327,6 +329,7 @@
 | 0031 | [Next Permutation](0031-next-permutation) | 🟡 MEDIUM |
 | 0082 | [Remove Duplicates From Sorted List Ii](0082-remove-duplicates-from-sorted-list-ii) | 🟡 MEDIUM |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array) | 🟢 EASY |
+| 0392 | [Is Subsequence](0392-is-subsequence) | 🟢 EASY |
 | 0466 | [Count The Repetitions](0466-count-the-repetitions) | 🔴 HARD |
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings) | 🟡 MEDIUM |
 | 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM |
@@ -1072,6 +1075,7 @@
 | 0374 | [Guess Number Higher Or Lower](0374-guess-number-higher-or-lower) | 🟢 EASY | Binary Search, Interactive | PY |
 | 0382 | [Linked List Random Node](0382-linked-list-random-node) | 🟡 MEDIUM | Linked List, Math, Reservoir Sampling +1 | PY |
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD | Array, Hash Table, Math +2 | PY |
+| 0392 | [Is Subsequence](0392-is-subsequence) | 🟢 EASY | Two Pointers, String, Dynamic Programming | PY |
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY | Hash Table, String, Greedy | PY |
 | 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD | Array, Dynamic Programming | PY |
 | 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM | Math, Dynamic Programming, Bit Manipulation +3 | PY |
@@ -1168,22 +1172,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-21 06:53:27 UTC_
+_Generated on 2026-07-21 06:54:37 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [0392-is-subsequence](https://github.com/chittoralovesh/Leetcode/tree/master/0392-is-subsequence) |
-## String
-|  |
-| ------- |
-| [0392-is-subsequence](https://github.com/chittoralovesh/Leetcode/tree/master/0392-is-subsequence) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0392-is-subsequence](https://github.com/chittoralovesh/Leetcode/tree/master/0392-is-subsequence) |
-<!---LeetCode Topics End-->
