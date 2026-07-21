@@ -624,6 +624,16 @@
     "Greedy",
     "Monotonic Stack"
   ],
+  "sort-an-array": [
+    "Array",
+    "Divide and Conquer",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Merge Sort",
+    "Bucket Sort",
+    "Radix Sort",
+    "Counting Sort"
+  ],
   "sorted-gcd-pair-queries": [
     "Array",
     "Hash Table",

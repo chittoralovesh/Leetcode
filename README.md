@@ -5,16 +5,16 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-139-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-140-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-29-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-68-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-69-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-42-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/PY-89%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
-<img src="https://img.shields.io/badge/JAVA-14%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
+<img src="https://img.shields.io/badge/JAVA-15%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
 
 
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 139 |
+| **Total problems solved** | 140 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (73), `String` (33), `Dynamic Programming` (29), `Hash Table` (27), `Math` (27) |
-| **Last updated** | 2026-07-21 06:49:16 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (74), `String` (33), `Dynamic Programming` (29), `Hash Table` (27), `Math` (27) |
+| **Last updated** | 2026-07-21 06:50:59 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     29  ████░░░░░░░░░░░░░░░░   20.9%
-🟡 Medium   68  ██████████░░░░░░░░░░   48.9%
-🔴 Hard     42  ██████░░░░░░░░░░░░░░   30.2%
+🟢 Easy     29  ████░░░░░░░░░░░░░░░░   20.7%
+🟡 Medium   69  ██████████░░░░░░░░░░   49.3%
+🔴 Hard     42  ██████░░░░░░░░░░░░░░   30.0%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 73 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 74 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -87,6 +87,7 @@
 | 0598 | [Range Addition Ii](0598-range-addition-ii) | 🟢 EASY |
 | 0679 | [24 Game](0679-24-game) | 🔴 HARD |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
+| 0912 | [Sort An Array](0912-sort-an-array) | 🟡 MEDIUM |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
 | 1260 | [Shift 2D Grid](1260-shift-2d-grid) | 🟢 EASY |
 | 1288 | [Remove Covered Intervals](1288-remove-covered-intervals) | 🟡 MEDIUM |
@@ -281,7 +282,7 @@
 </details>
 
 <details>
-<summary><b>Sorting</b> &nbsp;·&nbsp; 19 problem(s)</summary>
+<summary><b>Sorting</b> &nbsp;·&nbsp; 20 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -293,6 +294,7 @@
 | 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
 | 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD |
+| 0912 | [Sort An Array](0912-sort-an-array) | 🟡 MEDIUM |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
 | 1288 | [Remove Covered Intervals](1288-remove-covered-intervals) | 🟡 MEDIUM |
 | 1331 | [Rank Transform Of An Array](1331-rank-transform-of-an-array) | 🟢 EASY |
@@ -479,6 +481,23 @@
 </details>
 
 <details>
+<summary><b>Heap (Priority Queue)</b> &nbsp;·&nbsp; 8 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
+| 0502 | [Ipo](0502-ipo) | 🔴 HARD |
+| 0912 | [Sort An Array](0912-sort-an-array) | 🟡 MEDIUM |
+| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
+| 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
+| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
+| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
+| 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Simulation</b> &nbsp;·&nbsp; 8 problem(s)</summary>
 
 
@@ -512,22 +531,6 @@
 </details>
 
 <details>
-<summary><b>Heap (Priority Queue)</b> &nbsp;·&nbsp; 7 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
-| 0502 | [Ipo](0502-ipo) | 🔴 HARD |
-| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
-| 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
-| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
-| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
-| 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
-
-</details>
-
-<details>
 <summary><b>Linked List</b> &nbsp;·&nbsp; 6 problem(s)</summary>
 
 
@@ -539,6 +542,21 @@
 | 0382 | [Linked List Random Node](0382-linked-list-random-node) | 🟡 MEDIUM |
 | 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM |
 | 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
+
+</details>
+
+<details>
+<summary><b>Divide and Conquer</b> &nbsp;·&nbsp; 6 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0004 | [Median Of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 HARD |
+| 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
+| 0912 | [Sort An Array](0912-sort-an-array) | 🟡 MEDIUM |
+| 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM |
+| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
+| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
 
 </details>
 
@@ -616,20 +634,6 @@
 </details>
 
 <details>
-<summary><b>Divide and Conquer</b> &nbsp;·&nbsp; 5 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0004 | [Median Of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 HARD |
-| 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
-| 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM |
-| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
-| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
-
-</details>
-
-<details>
 <summary><b>Backtracking</b> &nbsp;·&nbsp; 5 problem(s)</summary>
 
 
@@ -685,6 +689,19 @@
 </details>
 
 <details>
+<summary><b>Merge Sort</b> &nbsp;·&nbsp; 4 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
+| 0912 | [Sort An Array](0912-sort-an-array) | 🟡 MEDIUM |
+| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
+| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Trie</b> &nbsp;·&nbsp; 3 problem(s)</summary>
 
 
@@ -717,18 +734,6 @@
 | 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
 | 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Merge Sort</b> &nbsp;·&nbsp; 3 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
-| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
-| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
 
 </details>
 
@@ -802,6 +807,17 @@
 </details>
 
 <details>
+<summary><b>Bucket Sort</b> &nbsp;·&nbsp; 2 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
+| 0912 | [Sort An Array](0912-sort-an-array) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Ordered Set</b> &nbsp;·&nbsp; 2 problem(s)</summary>
 
 
@@ -824,6 +840,17 @@
 </details>
 
 <details>
+<summary><b>Counting Sort</b> &nbsp;·&nbsp; 2 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0912 | [Sort An Array](0912-sort-an-array) | 🟡 MEDIUM |
+| 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Shortest Path</b> &nbsp;·&nbsp; 2 problem(s)</summary>
 
 
@@ -841,16 +868,6 @@
 | # | Problem | Difficulty |
 |---|---|---|
 | 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Bucket Sort</b> &nbsp;·&nbsp; 1 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
 
 </details>
 
@@ -925,12 +942,12 @@
 </details>
 
 <details>
-<summary><b>Counting Sort</b> &nbsp;·&nbsp; 1 problem(s)</summary>
+<summary><b>Radix Sort</b> &nbsp;·&nbsp; 1 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
 |---|---|---|
-| 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM |
+| 0912 | [Sort An Array](0912-sort-an-array) | 🟡 MEDIUM |
 
 </details>
 
@@ -1060,6 +1077,7 @@
 | 0679 | [24 Game](0679-24-game) | 🔴 HARD | Array, Math, Backtracking | PY |
 | 0799 | [Champagne Tower](0799-champagne-tower) | 🟡 MEDIUM | Dynamic Programming | PY |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD | Array, Hash Table, String +3 | JAVA |
+| 0912 | [Sort An Array](0912-sort-an-array) | 🟡 MEDIUM | Array, Divide and Conquer, Sorting +5 | JAVA |
 | 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM | String, Stack, Greedy +1 | PY |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD | Array, Binary Search, Dynamic Programming +1 | PY |
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY | Hash Table, String, Counting | PY |
@@ -1132,42 +1150,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-21 06:49:16 UTC_
+_Generated on 2026-07-21 06:50:59 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/chittoralovesh/Leetcode/tree/master/0912-sort-an-array) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/chittoralovesh/Leetcode/tree/master/0912-sort-an-array) |
-## Sorting
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/chittoralovesh/Leetcode/tree/master/0912-sort-an-array) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/chittoralovesh/Leetcode/tree/master/0912-sort-an-array) |
-## Merge Sort
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/chittoralovesh/Leetcode/tree/master/0912-sort-an-array) |
-## Bucket Sort
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/chittoralovesh/Leetcode/tree/master/0912-sort-an-array) |
-## Radix Sort
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/chittoralovesh/Leetcode/tree/master/0912-sort-an-array) |
-## Counting Sort
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/chittoralovesh/Leetcode/tree/master/0912-sort-an-array) |
-<!---LeetCode Topics End-->
