@@ -319,6 +319,10 @@
     "Matrix",
     "Monotonic Stack"
   ],
+  "maximize-active-section-with-trade-i": [
+    "String",
+    "Enumeration"
+  ],
   "maximum-building-height": [
     "Array",
     "Math",
