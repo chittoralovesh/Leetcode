@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-143-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-144-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-31-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-70-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-42-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-43-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-91%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-92%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-16%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 143 |
+| **Total problems solved** | 144 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (75), `String` (34), `Dynamic Programming` (31), `Hash Table` (28), `Math` (28) |
-| **Last updated** | 2026-07-21 06:57:45 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (76), `String` (34), `Dynamic Programming` (31), `Hash Table` (28), `Math` (28) |
+| **Last updated** | 2026-07-21 07:01:53 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     31  ████░░░░░░░░░░░░░░░░   21.7%
-🟡 Medium   70  ██████████░░░░░░░░░░   49.0%
-🔴 Hard     42  ██████░░░░░░░░░░░░░░   29.4%
+🟢 Easy     31  ████░░░░░░░░░░░░░░░░   21.5%
+🟡 Medium   70  ██████████░░░░░░░░░░   48.6%
+🔴 Hard     43  ██████░░░░░░░░░░░░░░   29.9%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 75 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 76 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -78,6 +78,7 @@
 | 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 MEDIUM |
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
+| 0407 | [Trapping Rain Water Ii](0407-trapping-rain-water-ii) | 🔴 HARD |
 | 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD |
 | 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
 | 0498 | [Diagonal Traverse](0498-diagonal-traverse) | 🟡 MEDIUM |
@@ -394,7 +395,7 @@
 </details>
 
 <details>
-<summary><b>Breadth-First Search</b> &nbsp;·&nbsp; 11 problem(s)</summary>
+<summary><b>Breadth-First Search</b> &nbsp;·&nbsp; 12 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -403,6 +404,7 @@
 | 0107 | [Binary Tree Level Order Traversal Ii](0107-binary-tree-level-order-traversal-ii) | 🟡 MEDIUM |
 | 0127 | [Word Ladder](0127-word-ladder) | 🔴 HARD |
 | 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
+| 0407 | [Trapping Rain Water Ii](0407-trapping-rain-water-ii) | 🔴 HARD |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 | 1345 | [Jump Game Iv](1345-jump-game-iv) | 🔴 HARD |
 | 2492 | [Minimum Score Of A Path Between Two Cities](2492-minimum-score-of-a-path-between-two-cities) | 🟡 MEDIUM |
@@ -434,6 +436,25 @@
 </details>
 
 <details>
+<summary><b>Matrix</b> &nbsp;·&nbsp; 10 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
+| 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
+| 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
+| 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
+| 0407 | [Trapping Rain Water Ii](0407-trapping-rain-water-ii) | 🔴 HARD |
+| 0498 | [Diagonal Traverse](0498-diagonal-traverse) | 🟡 MEDIUM |
+| 1260 | [Shift 2D Grid](1260-shift-2d-grid) | 🟢 EASY |
+| 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD |
+| 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
+| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Database</b> &nbsp;·&nbsp; 10 problem(s)</summary>
 
 
@@ -453,20 +474,21 @@
 </details>
 
 <details>
-<summary><b>Matrix</b> &nbsp;·&nbsp; 9 problem(s)</summary>
+<summary><b>Heap (Priority Queue)</b> &nbsp;·&nbsp; 10 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
 |---|---|---|
-| 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
-| 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
-| 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
-| 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
-| 0498 | [Diagonal Traverse](0498-diagonal-traverse) | 🟡 MEDIUM |
-| 1260 | [Shift 2D Grid](1260-shift-2d-grid) | 🟢 EASY |
-| 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD |
+| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
+| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 MEDIUM |
+| 0407 | [Trapping Rain Water Ii](0407-trapping-rain-water-ii) | 🔴 HARD |
+| 0502 | [Ipo](0502-ipo) | 🔴 HARD |
+| 0912 | [Sort An Array](0912-sort-an-array) | 🟡 MEDIUM |
+| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
 | 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
+| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
+| 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
 
 </details>
 
@@ -485,24 +507,6 @@
 | 2685 | [Count The Number Of Complete Components](2685-count-the-number-of-complete-components) | 🟡 MEDIUM |
 | 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Heap (Priority Queue)</b> &nbsp;·&nbsp; 9 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
-| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 MEDIUM |
-| 0502 | [Ipo](0502-ipo) | 🔴 HARD |
-| 0912 | [Sort An Array](0912-sort-an-array) | 🟡 MEDIUM |
-| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
-| 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
-| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
-| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
-| 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
 
 </details>
 
@@ -1080,6 +1084,7 @@
 | 0382 | [Linked List Random Node](0382-linked-list-random-node) | 🟡 MEDIUM | Linked List, Math, Reservoir Sampling +1 | PY |
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD | Array, Hash Table, Math +2 | PY |
 | 0392 | [Is Subsequence](0392-is-subsequence) | 🟢 EASY | Two Pointers, String, Dynamic Programming | PY |
+| 0407 | [Trapping Rain Water Ii](0407-trapping-rain-water-ii) | 🔴 HARD | Array, Breadth-First Search, Heap (Priority Queue) +1 | PY |
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY | Hash Table, String, Greedy | PY |
 | 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD | Array, Dynamic Programming | PY |
 | 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM | Math, Dynamic Programming, Bit Manipulation +3 | PY |
@@ -1176,26 +1181,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-21 06:57:45 UTC_
+_Generated on 2026-07-21 07:01:53 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0407-trapping-rain-water-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0407-trapping-rain-water-ii) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0407-trapping-rain-water-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0407-trapping-rain-water-ii) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0407-trapping-rain-water-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0407-trapping-rain-water-ii) |
-## Matrix
-|  |
-| ------- |
-| [0407-trapping-rain-water-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0407-trapping-rain-water-ii) |
-<!---LeetCode Topics End-->
