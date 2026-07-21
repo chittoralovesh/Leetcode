@@ -5,16 +5,16 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-140-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-141-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-29-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-69-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-70-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-42-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/PY-89%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
-<img src="https://img.shields.io/badge/JAVA-15%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
+<img src="https://img.shields.io/badge/JAVA-16%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
 
 
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 140 |
+| **Total problems solved** | 141 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (74), `String` (33), `Dynamic Programming` (29), `Hash Table` (27), `Math` (27) |
-| **Last updated** | 2026-07-21 06:52:01 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (75), `String` (33), `Dynamic Programming` (29), `Hash Table` (28), `Math` (27) |
+| **Last updated** | 2026-07-21 06:52:33 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     29  ████░░░░░░░░░░░░░░░░   20.7%
-🟡 Medium   69  ██████████░░░░░░░░░░   49.3%
-🔴 Hard     42  ██████░░░░░░░░░░░░░░   30.0%
+🟢 Easy     29  ████░░░░░░░░░░░░░░░░   20.6%
+🟡 Medium   70  ██████████░░░░░░░░░░   49.6%
+🔴 Hard     42  ██████░░░░░░░░░░░░░░   29.8%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 74 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 75 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -76,6 +76,7 @@
 | 0238 | [Product Of Array Except Self](0238-product-of-array-except-self) | 🟡 MEDIUM |
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence) | 🟡 MEDIUM |
 | 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
+| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 MEDIUM |
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
 | 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD |
 | 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
@@ -210,7 +211,7 @@
 </details>
 
 <details>
-<summary><b>Hash Table</b> &nbsp;·&nbsp; 27 problem(s)</summary>
+<summary><b>Hash Table</b> &nbsp;·&nbsp; 28 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -225,6 +226,7 @@
 | 0127 | [Word Ladder](0127-word-ladder) | 🔴 HARD |
 | 0139 | [Word Break](0139-word-break) | 🟡 MEDIUM |
 | 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
+| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 MEDIUM |
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
 | 0525 | [Contiguous Array](0525-contiguous-array) | 🟡 MEDIUM |
@@ -282,7 +284,7 @@
 </details>
 
 <details>
-<summary><b>Sorting</b> &nbsp;·&nbsp; 20 problem(s)</summary>
+<summary><b>Sorting</b> &nbsp;·&nbsp; 21 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -293,6 +295,7 @@
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array) | 🟢 EASY |
 | 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
 | 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
+| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 MEDIUM |
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD |
 | 0912 | [Sort An Array](0912-sort-an-array) | 🟡 MEDIUM |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
@@ -481,12 +484,13 @@
 </details>
 
 <details>
-<summary><b>Heap (Priority Queue)</b> &nbsp;·&nbsp; 8 problem(s)</summary>
+<summary><b>Heap (Priority Queue)</b> &nbsp;·&nbsp; 9 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
 |---|---|---|
 | 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
+| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 MEDIUM |
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD |
 | 0912 | [Sort An Array](0912-sort-an-array) | 🟡 MEDIUM |
 | 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
@@ -511,6 +515,22 @@
 | 3614 | [Process String With Special Operations Ii](3614-process-string-with-special-operations-ii) | 🔴 HARD |
 | 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY |
 | 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
+
+</details>
+
+<details>
+<summary><b>Divide and Conquer</b> &nbsp;·&nbsp; 7 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0004 | [Median Of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 HARD |
+| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 MEDIUM |
+| 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
+| 0912 | [Sort An Array](0912-sort-an-array) | 🟡 MEDIUM |
+| 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM |
+| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
+| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
 
 </details>
 
@@ -542,21 +562,6 @@
 | 0382 | [Linked List Random Node](0382-linked-list-random-node) | 🟡 MEDIUM |
 | 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM |
 | 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Divide and Conquer</b> &nbsp;·&nbsp; 6 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0004 | [Median Of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 HARD |
-| 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
-| 0912 | [Sort An Array](0912-sort-an-array) | 🟡 MEDIUM |
-| 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM |
-| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
-| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
 
 </details>
 
@@ -689,6 +694,19 @@
 </details>
 
 <details>
+<summary><b>Counting</b> &nbsp;·&nbsp; 4 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 MEDIUM |
+| 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
+| 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD |
+| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Merge Sort</b> &nbsp;·&nbsp; 4 problem(s)</summary>
 
 
@@ -726,6 +744,18 @@
 </details>
 
 <details>
+<summary><b>Bucket Sort</b> &nbsp;·&nbsp; 3 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
+| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 MEDIUM |
+| 0912 | [Sort An Array](0912-sort-an-array) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Bit Manipulation</b> &nbsp;·&nbsp; 3 problem(s)</summary>
 
 
@@ -746,18 +776,6 @@
 | 0649 | [Dota2 Senate](0649-dota2-senate) | 🟡 MEDIUM |
 | 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
 | 3829 | [Design Ride Sharing System](3829-design-ride-sharing-system) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Counting</b> &nbsp;·&nbsp; 3 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
-| 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD |
-| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
 
 </details>
 
@@ -803,17 +821,6 @@
 |---|---|---|
 | 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM |
 | 3829 | [Design Ride Sharing System](3829-design-ride-sharing-system) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Bucket Sort</b> &nbsp;·&nbsp; 2 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
-| 0912 | [Sort An Array](0912-sort-an-array) | 🟡 MEDIUM |
 
 </details>
 
@@ -878,6 +885,16 @@
 | # | Problem | Difficulty |
 |---|---|---|
 | 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
+
+</details>
+
+<details>
+<summary><b>Quickselect</b> &nbsp;·&nbsp; 1 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 MEDIUM |
 
 </details>
 
@@ -1051,6 +1068,7 @@
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence) | 🟡 MEDIUM | Array, Binary Search, Dynamic Programming | JAVA |
 | 0328 | [Odd Even Linked List](0328-odd-even-linked-list) | 🟡 MEDIUM | Linked List | JAVA |
 | 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD | Array, String, Depth-First Search +4 | PY |
+| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 MEDIUM | Array, Hash Table, Divide and Conquer +5 | JAVA |
 | 0374 | [Guess Number Higher Or Lower](0374-guess-number-higher-or-lower) | 🟢 EASY | Binary Search, Interactive | PY |
 | 0382 | [Linked List Random Node](0382-linked-list-random-node) | 🟡 MEDIUM | Linked List, Math, Reservoir Sampling +1 | PY |
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD | Array, Hash Table, Math +2 | PY |
@@ -1150,42 +1168,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-21 06:52:01 UTC_
+_Generated on 2026-07-21 06:52:33 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/chittoralovesh/Leetcode/tree/master/0347-top-k-frequent-elements) |
-## Hash Table
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/chittoralovesh/Leetcode/tree/master/0347-top-k-frequent-elements) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/chittoralovesh/Leetcode/tree/master/0347-top-k-frequent-elements) |
-## Sorting
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/chittoralovesh/Leetcode/tree/master/0347-top-k-frequent-elements) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/chittoralovesh/Leetcode/tree/master/0347-top-k-frequent-elements) |
-## Bucket Sort
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/chittoralovesh/Leetcode/tree/master/0347-top-k-frequent-elements) |
-## Counting
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/chittoralovesh/Leetcode/tree/master/0347-top-k-frequent-elements) |
-## Quickselect
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/chittoralovesh/Leetcode/tree/master/0347-top-k-frequent-elements) |
-<!---LeetCode Topics End-->

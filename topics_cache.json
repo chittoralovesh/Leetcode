@@ -664,6 +664,16 @@
     "Simulation",
     "Number Theory"
   ],
+  "top-k-frequent-elements": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Bucket Sort",
+    "Counting",
+    "Quickselect"
+  ],
   "total-waviness-of-numbers-in-range-i": [
     "Math",
     "Dynamic Programming",
