@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-93%20solved-3776AB?style=for-the-badge" alt="PY" />
-<img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
+<img src="https://img.shields.io/badge/PY-94%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/CPP-25%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-16%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
 
@@ -29,7 +29,7 @@
 | **Total problems solved** | 145 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (77), `String` (35), `Dynamic Programming` (31), `Hash Table` (28), `Math` (28) |
-| **Last updated** | 2026-07-22 10:04:09 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-07-22 18:00:16 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
@@ -1128,9 +1128,9 @@
 | 1784 | [Check If Binary String Has At Most One Segment Of Ones](1784-check-if-binary-string-has-at-most-one-segment-of-ones) | 🟢 EASY | String | PY |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM | Array, Greedy, Sorting +1 | PY |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD | Array, Math, Sorting | PY |
-| 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM | Array, Greedy, Sorting | PY |
+| 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM | Array, Greedy, Sorting | JAVA |
 | 1967 | [Number Of Strings That Appear As Substrings In Word](1967-number-of-strings-that-appear-as-substrings-in-word) | 🟢 EASY | Array, String | JAVA |
-| 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array) | 🟢 EASY | Array, Math, Number Theory | JAVA |
+| 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array) | 🟢 EASY | Array, Math, Number Theory | PY |
 | 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM | Linked List, Two Pointers | PY |
 | 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM | String, Simulation | PY |
 | 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM | Linked List, Two Pointers, Stack | CPP |
@@ -1156,7 +1156,7 @@
 | 3614 | [Process String With Special Operations Ii](3614-process-string-with-special-operations-ii) | 🔴 HARD | String, Simulation | CPP |
 | 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD | Array, Binary Search, Dynamic Programming +4 | CPP |
 | 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM | Array, Hash Table, Math +2 | PY |
-| 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY | Array, Two Pointers, Binary Search +2 | CPP |
+| 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY | Array, Two Pointers, Binary Search +2 | PY |
 | 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM | Array, Two Pointers, Binary Search +2 | CPP |
 | 3658 | [Gcd Of Odd And Even Sums](3658-gcd-of-odd-and-even-sums) | 🟢 EASY | Math, Number Theory | PY |
 | 3660 | [Jump Game Ix](3660-jump-game-ix) | 🟡 MEDIUM | Array, Dynamic Programming | PY |
@@ -1186,26 +1186,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-22 10:04:09 UTC_
+_Generated on 2026-07-22 18:00:16 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3501-maximize-active-section-with-trade-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
-## String
-|  |
-| ------- |
-| [3501-maximize-active-section-with-trade-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
-## Binary Search
-|  |
-| ------- |
-| [3501-maximize-active-section-with-trade-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
-## Segment Tree
-|  |
-| ------- |
-| [3501-maximize-active-section-with-trade-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
-<!---LeetCode Topics End-->
