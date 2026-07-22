@@ -152,6 +152,12 @@
     "Matrix",
     "Simulation"
   ],
+  "divisor-game": [
+    "Math",
+    "Dynamic Programming",
+    "Brainteaser",
+    "Game Theory"
+  ],
   "dota2-senate": [
     "String",
     "Greedy",
