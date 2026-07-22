@@ -107,4 +107,5 @@ class Solution:
 
             ans.append(cnt1 + bestGain)
 
-        return ans 
+        return ans
+        
