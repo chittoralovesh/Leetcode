@@ -1184,3 +1184,23 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-07-22 03:15:28 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## String
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+<!---LeetCode Topics End-->
