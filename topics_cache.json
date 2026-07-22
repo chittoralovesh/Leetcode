@@ -333,6 +333,12 @@
     "String",
     "Enumeration"
   ],
+  "maximize-active-section-with-trade-ii": [
+    "Array",
+    "String",
+    "Binary Search",
+    "Segment Tree"
+  ],
   "maximum-building-height": [
     "Array",
     "Math",
