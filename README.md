@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-147-5865F2?style=for-the-badge" alt="Total Solved" />
-<img src="https://img.shields.io/badge/Easy-32-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-71-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Total%20Solved-148-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Easy-34-2ECC71?style=for-the-badge" alt="Easy" />
+<img src="https://img.shields.io/badge/Medium-70-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-44-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-95%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-96%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-16%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 147 |
+| **Total problems solved** | 148 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (78), `String` (35), `Dynamic Programming` (33), `Math` (29), `Hash Table` (28) |
-| **Last updated** | 2026-07-25 03:14:32 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (78), `String` (35), `Dynamic Programming` (33), `Math` (30), `Hash Table` (28) |
+| **Last updated** | 2026-07-25 14:51:50 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     32  ████░░░░░░░░░░░░░░░░   21.8%
-🟡 Medium   71  ██████████░░░░░░░░░░   48.3%
-🔴 Hard     44  ██████░░░░░░░░░░░░░░   29.9%
+🟢 Easy     34  █████░░░░░░░░░░░░░░░   23.0%
+🟡 Medium   70  █████████░░░░░░░░░░░   47.3%
+🔴 Hard     44  ██████░░░░░░░░░░░░░░   29.7%
 ```
 
 
@@ -65,7 +65,7 @@
 | 0055 | [Jump Game](0055-jump-game) | 🟡 MEDIUM |
 | 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array) | 🟢 EASY |
-| 0121 | [Best Time To Buy And Sell Stock](0121-best-time-to-buy-and-sell-stock) | 🟡 MEDIUM |
+| 0121 | [Best Time To Buy And Sell Stock](0121-best-time-to-buy-and-sell-stock) | 🟢 EASY |
 | 0123 | [Best Time To Buy And Sell Stock Iii](0123-best-time-to-buy-and-sell-stock-iii) | 🔴 HARD |
 | 0139 | [Word Break](0139-word-break) | 🟡 MEDIUM |
 | 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
@@ -189,7 +189,7 @@
 | 0055 | [Jump Game](0055-jump-game) | 🟡 MEDIUM |
 | 0070 | [Climbing Stairs](0070-climbing-stairs) | 🟢 EASY |
 | 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
-| 0121 | [Best Time To Buy And Sell Stock](0121-best-time-to-buy-and-sell-stock) | 🟡 MEDIUM |
+| 0121 | [Best Time To Buy And Sell Stock](0121-best-time-to-buy-and-sell-stock) | 🟢 EASY |
 | 0123 | [Best Time To Buy And Sell Stock Iii](0123-best-time-to-buy-and-sell-stock-iii) | 🔴 HARD |
 | 0132 | [Palindrome Partitioning Ii](0132-palindrome-partitioning-ii) | 🔴 HARD |
 | 0139 | [Word Break](0139-word-break) | 🟡 MEDIUM |
@@ -220,7 +220,7 @@
 </details>
 
 <details>
-<summary><b>Math</b> &nbsp;·&nbsp; 29 problem(s)</summary>
+<summary><b>Math</b> &nbsp;·&nbsp; 30 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -244,6 +244,7 @@
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD |
 | 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array) | 🟢 EASY |
 | 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD |
+| 3536 | [Maximum Product Of Two Digits](3536-maximum-product-of-two-digits) | 🟢 EASY |
 | 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
 | 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM |
@@ -295,7 +296,7 @@
 </details>
 
 <details>
-<summary><b>Sorting</b> &nbsp;·&nbsp; 21 problem(s)</summary>
+<summary><b>Sorting</b> &nbsp;·&nbsp; 22 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -318,6 +319,7 @@
 | 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM |
 | 2144 | [Minimum Cost Of Buying Candies With Discount](2144-minimum-cost-of-buying-candies-with-discount) | 🟢 EASY |
 | 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
+| 3536 | [Maximum Product Of Two Digits](3536-maximum-product-of-two-digits) | 🟢 EASY |
 | 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
 | 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
 | 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
@@ -1077,7 +1079,7 @@
 | 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree) | 🟡 MEDIUM | Tree, Depth-First Search, Binary Search Tree +1 | PY |
 | 0100 | [Same Tree](0100-same-tree) | 🟢 EASY | Tree, Depth-First Search, Breadth-First Search +1 | CPP |
 | 0107 | [Binary Tree Level Order Traversal Ii](0107-binary-tree-level-order-traversal-ii) | 🟡 MEDIUM | Tree, Breadth-First Search, Binary Tree | PY |
-| 0121 | [Best Time To Buy And Sell Stock](0121-best-time-to-buy-and-sell-stock) | 🟡 MEDIUM | Array, Dynamic Programming | PY |
+| 0121 | [Best Time To Buy And Sell Stock](0121-best-time-to-buy-and-sell-stock) | 🟢 EASY | Array, Dynamic Programming | PY |
 | 0123 | [Best Time To Buy And Sell Stock Iii](0123-best-time-to-buy-and-sell-stock-iii) | 🔴 HARD | Array, Dynamic Programming | PY |
 | 0127 | [Word Ladder](0127-word-ladder) | 🔴 HARD | Hash Table, String, Breadth-First Search | PY |
 | 0132 | [Palindrome Partitioning Ii](0132-palindrome-partitioning-ii) | 🔴 HARD | String, Dynamic Programming | JAVA |
@@ -1167,6 +1169,7 @@
 | 3501 | [Maximize Active Section With Trade Ii](3501-maximize-active-section-with-trade-ii) | 🔴 HARD | Array, String, Binary Search +1 | PY |
 | 3532 | [Path Existence Queries In A Graph I](3532-path-existence-queries-in-a-graph-i) | 🟡 MEDIUM | Array, Hash Table, Binary Search +2 | PY |
 | 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD | Array, Two Pointers, Binary Search +5 | PY |
+| 3536 | [Maximum Product Of Two Digits](3536-maximum-product-of-two-digits) | 🟢 EASY | Math, Sorting | PY |
 | 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM | Math, Tree, Depth-First Search | CPP |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD | Array, Math, Dynamic Programming +3 | CPP |
 | 3612 | [Process String With Special Operations I](3612-process-string-with-special-operations-i) | 🟡 MEDIUM | String, Simulation | PY |
@@ -1203,18 +1206,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-25 03:14:32 UTC_
+_Generated on 2026-07-25 14:51:50 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [3536-maximum-product-of-two-digits](https://github.com/chittoralovesh/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
-## Sorting
-|  |
-| ------- |
-| [3536-maximum-product-of-two-digits](https://github.com/chittoralovesh/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
-<!---LeetCode Topics End-->

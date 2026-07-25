@@ -379,6 +379,10 @@
     "Prefix Sum",
     "Monotonic Queue"
   ],
+  "maximum-product-of-two-digits": [
+    "Math",
+    "Sorting"
+  ],
   "maximum-total-subarray-value-i": [
     "Array",
     "Greedy"
