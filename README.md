@@ -1209,3 +1209,15 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-07-25 14:51:50 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/chittoralovesh/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/chittoralovesh/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+<!---LeetCode Topics End-->
