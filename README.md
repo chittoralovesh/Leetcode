@@ -29,7 +29,7 @@
 | **Total problems solved** | 148 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (78), `String` (35), `Dynamic Programming` (33), `Math` (30), `Hash Table` (28) |
-| **Last updated** | 2026-07-25 14:51:50 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-07-25 18:43:01 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
@@ -1206,18 +1206,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-25 14:51:50 UTC_
+_Generated on 2026-07-25 18:43:01 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [3536-maximum-product-of-two-digits](https://github.com/chittoralovesh/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
-## Sorting
-|  |
-| ------- |
-| [3536-maximum-product-of-two-digits](https://github.com/chittoralovesh/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
-<!---LeetCode Topics End-->
