@@ -383,6 +383,11 @@
     "Math",
     "Sorting"
   ],
+  "maximum-product-of-two-elements-in-an-array": [
+    "Array",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
   "maximum-total-subarray-value-i": [
     "Array",
     "Greedy"

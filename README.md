@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-148-5865F2?style=for-the-badge" alt="Total Solved" />
-<img src="https://img.shields.io/badge/Easy-34-2ECC71?style=for-the-badge" alt="Easy" />
+<img src="https://img.shields.io/badge/Total%20Solved-149-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Easy-35-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-70-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-44-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-96%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-97%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-16%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 148 |
+| **Total problems solved** | 149 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (78), `String` (35), `Dynamic Programming` (33), `Math` (30), `Hash Table` (28) |
-| **Last updated** | 2026-07-27 03:36:50 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (79), `String` (35), `Dynamic Programming` (33), `Math` (30), `Hash Table` (28) |
+| **Last updated** | 2026-07-27 20:36:08 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     34  █████░░░░░░░░░░░░░░░   23.0%
-🟡 Medium   70  █████████░░░░░░░░░░░   47.3%
-🔴 Hard     44  ██████░░░░░░░░░░░░░░   29.7%
+🟢 Easy     35  █████░░░░░░░░░░░░░░░   23.5%
+🟡 Medium   70  █████████░░░░░░░░░░░   47.0%
+🔴 Hard     44  ██████░░░░░░░░░░░░░░   29.5%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 78 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 79 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -97,6 +97,7 @@
 | 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD |
 | 1331 | [Rank Transform Of An Array](1331-rank-transform-of-an-array) | 🟢 EASY |
 | 1345 | [Jump Game Iv](1345-jump-game-iv) | 🔴 HARD |
+| 1464 | [Maximum Product Of Two Elements In An Array](1464-maximum-product-of-two-elements-in-an-array) | 🟢 EASY |
 | 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD |
 | 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM |
@@ -296,7 +297,7 @@
 </details>
 
 <details>
-<summary><b>Sorting</b> &nbsp;·&nbsp; 22 problem(s)</summary>
+<summary><b>Sorting</b> &nbsp;·&nbsp; 23 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -313,6 +314,7 @@
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
 | 1288 | [Remove Covered Intervals](1288-remove-covered-intervals) | 🟡 MEDIUM |
 | 1331 | [Rank Transform Of An Array](1331-rank-transform-of-an-array) | 🟢 EASY |
+| 1464 | [Maximum Product Of Two Elements In An Array](1464-maximum-product-of-two-elements-in-an-array) | 🟢 EASY |
 | 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD |
@@ -445,6 +447,26 @@
 </details>
 
 <details>
+<summary><b>Heap (Priority Queue)</b> &nbsp;·&nbsp; 11 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
+| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 MEDIUM |
+| 0407 | [Trapping Rain Water Ii](0407-trapping-rain-water-ii) | 🔴 HARD |
+| 0502 | [Ipo](0502-ipo) | 🔴 HARD |
+| 0912 | [Sort An Array](0912-sort-an-array) | 🟡 MEDIUM |
+| 1464 | [Maximum Product Of Two Elements In An Array](1464-maximum-product-of-two-elements-in-an-array) | 🟢 EASY |
+| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
+| 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
+| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
+| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
+| 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Matrix</b> &nbsp;·&nbsp; 10 problem(s)</summary>
 
 
@@ -479,25 +501,6 @@
 | 0596 | [Classes With At Least 5 Students](0596-classes-with-at-least-5-students) | 🟢 EASY |
 | 0602 | [Friend Requests Ii Who Has The Most Friends](0602-friend-requests-ii-who-has-the-most-friends) | 🟡 MEDIUM |
 | 0620 | [Not Boring Movies](0620-not-boring-movies) | 🟢 EASY |
-
-</details>
-
-<details>
-<summary><b>Heap (Priority Queue)</b> &nbsp;·&nbsp; 10 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
-| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 MEDIUM |
-| 0407 | [Trapping Rain Water Ii](0407-trapping-rain-water-ii) | 🔴 HARD |
-| 0502 | [Ipo](0502-ipo) | 🔴 HARD |
-| 0912 | [Sort An Array](0912-sort-an-array) | 🟡 MEDIUM |
-| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
-| 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
-| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
-| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
-| 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
 
 </details>
 
@@ -1142,6 +1145,7 @@
 | 1344 | [Angle Between Hands Of A Clock](1344-angle-between-hands-of-a-clock) | 🟡 MEDIUM | Math | PY |
 | 1345 | [Jump Game Iv](1345-jump-game-iv) | 🔴 HARD | Array, Hash Table, Breadth-First Search | PY |
 | 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM | Hash Table, String, Sliding Window | JAVA |
+| 1464 | [Maximum Product Of Two Elements In An Array](1464-maximum-product-of-two-elements-in-an-array) | 🟢 EASY | Array, Sorting, Heap (Priority Queue) | PY |
 | 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD | Array, Greedy, Sorting | PY |
 | 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY | Array, Prefix Sum | PY |
 | 1784 | [Check If Binary String Has At Most One Segment Of Ones](1784-check-if-binary-string-has-at-most-one-segment-of-ones) | 🟢 EASY | String | PY |
@@ -1206,22 +1210,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-27 03:36:50 UTC_
+_Generated on 2026-07-27 20:36:08 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chittoralovesh/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
-## Sorting
-|  |
-| ------- |
-| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chittoralovesh/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chittoralovesh/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
-<!---LeetCode Topics End-->
