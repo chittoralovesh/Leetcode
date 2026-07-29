@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-150-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-151-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-36-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-70-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-71-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-44-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-97%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-98%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-16%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 150 |
+| **Total problems solved** | 151 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (79), `String` (35), `Dynamic Programming` (33), `Math` (30), `Hash Table` (28) |
-| **Last updated** | 2026-07-29 03:12:36 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (79), `String` (36), `Dynamic Programming` (33), `Math` (31), `Hash Table` (29) |
+| **Last updated** | 2026-07-29 17:44:37 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     36  █████░░░░░░░░░░░░░░░   24.0%
-🟡 Medium   70  █████████░░░░░░░░░░░   46.7%
-🔴 Hard     44  ██████░░░░░░░░░░░░░░   29.3%
+🟢 Easy     36  █████░░░░░░░░░░░░░░░   23.8%
+🟡 Medium   71  █████████░░░░░░░░░░░   47.0%
+🔴 Hard     44  ██████░░░░░░░░░░░░░░   29.1%
 ```
 
 
@@ -135,7 +135,7 @@
 </details>
 
 <details>
-<summary><b>String</b> &nbsp;·&nbsp; 35 problem(s)</summary>
+<summary><b>String</b> &nbsp;·&nbsp; 36 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -171,6 +171,7 @@
 | 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM |
 | 3499 | [Maximize Active Section With Trade I](3499-maximize-active-section-with-trade-i) | 🟡 MEDIUM |
 | 3501 | [Maximize Active Section With Trade Ii](3501-maximize-active-section-with-trade-ii) | 🔴 HARD |
+| 3518 | [Smallest Palindromic Rearrangement Ii](3518-smallest-palindromic-rearrangement-ii) | 🟡 MEDIUM |
 | 3612 | [Process String With Special Operations I](3612-process-string-with-special-operations-i) | 🟡 MEDIUM |
 | 3614 | [Process String With Special Operations Ii](3614-process-string-with-special-operations-ii) | 🔴 HARD |
 | 3756 | [Concatenate Non Zero Digits And Multiply By Sum Ii](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) | 🟡 MEDIUM |
@@ -221,7 +222,7 @@
 </details>
 
 <details>
-<summary><b>Math</b> &nbsp;·&nbsp; 30 problem(s)</summary>
+<summary><b>Math</b> &nbsp;·&nbsp; 31 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -245,6 +246,7 @@
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD |
 | 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array) | 🟢 EASY |
 | 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD |
+| 3518 | [Smallest Palindromic Rearrangement Ii](3518-smallest-palindromic-rearrangement-ii) | 🟡 MEDIUM |
 | 3536 | [Maximum Product Of Two Digits](3536-maximum-product-of-two-digits) | 🟢 EASY |
 | 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
@@ -260,7 +262,7 @@
 </details>
 
 <details>
-<summary><b>Hash Table</b> &nbsp;·&nbsp; 28 problem(s)</summary>
+<summary><b>Hash Table</b> &nbsp;·&nbsp; 29 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -287,6 +289,7 @@
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
 | 3020 | [Find The Maximum Number Of Elements In Subset](3020-find-the-maximum-number-of-elements-in-subset) | 🟡 MEDIUM |
 | 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD |
+| 3518 | [Smallest Palindromic Rearrangement Ii](3518-smallest-palindromic-rearrangement-ii) | 🟡 MEDIUM |
 | 3532 | [Path Existence Queries In A Graph I](3532-path-existence-queries-in-a-graph-i) | 🟡 MEDIUM |
 | 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM |
 | 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM |
@@ -690,6 +693,20 @@
 </details>
 
 <details>
+<summary><b>Counting</b> &nbsp;·&nbsp; 5 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 MEDIUM |
+| 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
+| 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD |
+| 3518 | [Smallest Palindromic Rearrangement Ii](3518-smallest-palindromic-rearrangement-ii) | 🟡 MEDIUM |
+| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Number Theory</b> &nbsp;·&nbsp; 5 problem(s)</summary>
 
 
@@ -713,19 +730,6 @@
 | 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
 | 0107 | [Binary Tree Level Order Traversal Ii](0107-binary-tree-level-order-traversal-ii) | 🟡 MEDIUM |
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Counting</b> &nbsp;·&nbsp; 4 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 MEDIUM |
-| 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
-| 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD |
-| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
 
 </details>
 
@@ -904,6 +908,17 @@
 </details>
 
 <details>
+<summary><b>Combinatorics</b> &nbsp;·&nbsp; 2 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD |
+| 3518 | [Smallest Palindromic Rearrangement Ii](3518-smallest-palindromic-rearrangement-ii) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Binary Search Tree</b> &nbsp;·&nbsp; 1 problem(s)</summary>
 
 
@@ -1010,16 +1025,6 @@
 | # | Problem | Difficulty |
 |---|---|---|
 | 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Combinatorics</b> &nbsp;·&nbsp; 1 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD |
 
 </details>
 
@@ -1173,6 +1178,7 @@
 | 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD | Array, Binary Search, Segment Tree +1 | CPP |
 | 3499 | [Maximize Active Section With Trade I](3499-maximize-active-section-with-trade-i) | 🟡 MEDIUM | String, Enumeration | PY |
 | 3501 | [Maximize Active Section With Trade Ii](3501-maximize-active-section-with-trade-ii) | 🔴 HARD | Array, String, Binary Search +1 | PY |
+| 3518 | [Smallest Palindromic Rearrangement Ii](3518-smallest-palindromic-rearrangement-ii) | 🟡 MEDIUM | Hash Table, Math, String +2 | PY |
 | 3532 | [Path Existence Queries In A Graph I](3532-path-existence-queries-in-a-graph-i) | 🟡 MEDIUM | Array, Hash Table, Binary Search +2 | PY |
 | 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD | Array, Two Pointers, Binary Search +5 | PY |
 | 3536 | [Maximum Product Of Two Digits](3536-maximum-product-of-two-digits) | 🟢 EASY | Math, Sorting | PY |
@@ -1212,30 +1218,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-29 03:12:36 UTC_
+_Generated on 2026-07-29 17:44:37 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [3518-smallest-palindromic-rearrangement-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
-## Math
-|  |
-| ------- |
-| [3518-smallest-palindromic-rearrangement-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
-## String
-|  |
-| ------- |
-| [3518-smallest-palindromic-rearrangement-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
-## Combinatorics
-|  |
-| ------- |
-| [3518-smallest-palindromic-rearrangement-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
-## Counting
-|  |
-| ------- |
-| [3518-smallest-palindromic-rearrangement-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
-<!---LeetCode Topics End-->

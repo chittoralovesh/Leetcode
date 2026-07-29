@@ -656,6 +656,13 @@
     "Breadth-First Search",
     "Union-Find"
   ],
+  "smallest-palindromic-rearrangement-ii": [
+    "Hash Table",
+    "Math",
+    "String",
+    "Combinatorics",
+    "Counting"
+  ],
   "smallest-subsequence-of-distinct-characters": [
     "String",
     "Stack",
