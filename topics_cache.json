@@ -437,6 +437,11 @@
     "Breadth-First Search",
     "Number Theory"
   ],
+  "minimum-number-of-pushes-to-type-word-i": [
+    "Math",
+    "String",
+    "Greedy"
+  ],
   "minimum-score-of-a-path-between-two-cities": [
     "Depth-First Search",
     "Breadth-First Search",
