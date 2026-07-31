@@ -442,6 +442,13 @@
     "String",
     "Greedy"
   ],
+  "minimum-number-of-pushes-to-type-word-ii": [
+    "Hash Table",
+    "String",
+    "Greedy",
+    "Sorting",
+    "Counting"
+  ],
   "minimum-score-of-a-path-between-two-cities": [
     "Depth-First Search",
     "Breadth-First Search",

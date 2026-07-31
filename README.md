@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-152-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-153-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-37-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-70-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-71-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-45-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-99%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-100%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-16%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 152 |
+| **Total problems solved** | 153 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (79), `String` (37), `Dynamic Programming` (33), `Math` (32), `Hash Table` (29) |
-| **Last updated** | 2026-07-31 03:27:43 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (79), `String` (38), `Dynamic Programming` (33), `Math` (32), `Hash Table` (30) |
+| **Last updated** | 2026-07-31 08:37:37 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     37  █████░░░░░░░░░░░░░░░   24.3%
-🟡 Medium   70  █████████░░░░░░░░░░░   46.1%
-🔴 Hard     45  ██████░░░░░░░░░░░░░░   29.6%
+🟢 Easy     37  █████░░░░░░░░░░░░░░░   24.2%
+🟡 Medium   71  █████████░░░░░░░░░░░   46.4%
+🔴 Hard     45  ██████░░░░░░░░░░░░░░   29.4%
 ```
 
 
@@ -135,7 +135,7 @@
 </details>
 
 <details>
-<summary><b>String</b> &nbsp;·&nbsp; 37 problem(s)</summary>
+<summary><b>String</b> &nbsp;·&nbsp; 38 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -170,6 +170,7 @@
 | 1967 | [Number Of Strings That Appear As Substrings In Word](1967-number-of-strings-that-appear-as-substrings-in-word) | 🟢 EASY |
 | 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM |
 | 3014 | [Minimum Number Of Pushes To Type Word I](3014-minimum-number-of-pushes-to-type-word-i) | 🟢 EASY |
+| 3016 | [Minimum Number Of Pushes To Type Word Ii](3016-minimum-number-of-pushes-to-type-word-ii) | 🟡 MEDIUM |
 | 3499 | [Maximize Active Section With Trade I](3499-maximize-active-section-with-trade-i) | 🟡 MEDIUM |
 | 3501 | [Maximize Active Section With Trade Ii](3501-maximize-active-section-with-trade-ii) | 🔴 HARD |
 | 3518 | [Smallest Palindromic Rearrangement Ii](3518-smallest-palindromic-rearrangement-ii) | 🔴 HARD |
@@ -264,7 +265,7 @@
 </details>
 
 <details>
-<summary><b>Hash Table</b> &nbsp;·&nbsp; 29 problem(s)</summary>
+<summary><b>Hash Table</b> &nbsp;·&nbsp; 30 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -289,6 +290,7 @@
 | 1345 | [Jump Game Iv](1345-jump-game-iv) | 🔴 HARD |
 | 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM |
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
+| 3016 | [Minimum Number Of Pushes To Type Word Ii](3016-minimum-number-of-pushes-to-type-word-ii) | 🟡 MEDIUM |
 | 3020 | [Find The Maximum Number Of Elements In Subset](3020-find-the-maximum-number-of-elements-in-subset) | 🟡 MEDIUM |
 | 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD |
 | 3518 | [Smallest Palindromic Rearrangement Ii](3518-smallest-palindromic-rearrangement-ii) | 🔴 HARD |
@@ -302,7 +304,7 @@
 </details>
 
 <details>
-<summary><b>Sorting</b> &nbsp;·&nbsp; 23 problem(s)</summary>
+<summary><b>Sorting</b> &nbsp;·&nbsp; 24 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -325,6 +327,7 @@
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD |
 | 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM |
 | 2144 | [Minimum Cost Of Buying Candies With Discount](2144-minimum-cost-of-buying-candies-with-discount) | 🟢 EASY |
+| 3016 | [Minimum Number Of Pushes To Type Word Ii](3016-minimum-number-of-pushes-to-type-word-ii) | 🟡 MEDIUM |
 | 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
 | 3536 | [Maximum Product Of Two Digits](3536-maximum-product-of-two-digits) | 🟢 EASY |
 | 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
@@ -361,7 +364,7 @@
 </details>
 
 <details>
-<summary><b>Greedy</b> &nbsp;·&nbsp; 17 problem(s)</summary>
+<summary><b>Greedy</b> &nbsp;·&nbsp; 18 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -378,6 +381,7 @@
 | 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM |
 | 2144 | [Minimum Cost Of Buying Candies With Discount](2144-minimum-cost-of-buying-candies-with-discount) | 🟢 EASY |
 | 3014 | [Minimum Number Of Pushes To Type Word I](3014-minimum-number-of-pushes-to-type-word-i) | 🟢 EASY |
+| 3016 | [Minimum Number Of Pushes To Type Word Ii](3016-minimum-number-of-pushes-to-type-word-ii) | 🟡 MEDIUM |
 | 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
 | 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
 | 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
@@ -640,6 +644,21 @@
 </details>
 
 <details>
+<summary><b>Counting</b> &nbsp;·&nbsp; 6 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 MEDIUM |
+| 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
+| 3016 | [Minimum Number Of Pushes To Type Word Ii](3016-minimum-number-of-pushes-to-type-word-ii) | 🟡 MEDIUM |
+| 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD |
+| 3518 | [Smallest Palindromic Rearrangement Ii](3518-smallest-palindromic-rearrangement-ii) | 🔴 HARD |
+| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Recursion</b> &nbsp;·&nbsp; 5 problem(s)</summary>
 
 
@@ -692,20 +711,6 @@
 | 0503 | [Next Greater Element Ii](0503-next-greater-element-ii) | 🟡 MEDIUM |
 | 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM |
 | 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Counting</b> &nbsp;·&nbsp; 5 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 MEDIUM |
-| 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
-| 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD |
-| 3518 | [Smallest Palindromic Rearrangement Ii](3518-smallest-palindromic-rearrangement-ii) | 🔴 HARD |
-| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
 
 </details>
 
@@ -1176,6 +1181,7 @@
 | 2685 | [Count The Number Of Complete Components](2685-count-the-number-of-complete-components) | 🟡 MEDIUM | Depth-First Search, Breadth-First Search, Union-Find +1 | PY |
 | 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM | Array, Binary Search, Breadth-First Search +3 | PY |
 | 3014 | [Minimum Number Of Pushes To Type Word I](3014-minimum-number-of-pushes-to-type-word-i) | 🟢 EASY | Math, String, Greedy | PY |
+| 3016 | [Minimum Number Of Pushes To Type Word Ii](3016-minimum-number-of-pushes-to-type-word-ii) | 🟡 MEDIUM | Hash Table, String, Greedy +2 | PY |
 | 3020 | [Find The Maximum Number Of Elements In Subset](3020-find-the-maximum-number-of-elements-in-subset) | 🟡 MEDIUM | Array, Hash Table, Enumeration | JAVA |
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM | Array, Breadth-First Search, Graph Theory +3 | CPP |
 | 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD | Array, Hash Table, Math +5 | CPP |
@@ -1222,30 +1228,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-07-31 03:27:43 UTC_
+_Generated on 2026-07-31 08:37:37 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
-## String
-|  |
-| ------- |
-| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
-## Greedy
-|  |
-| ------- |
-| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
-## Sorting
-|  |
-| ------- |
-| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
-## Counting
-|  |
-| ------- |
-| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
-<!---LeetCode Topics End-->
