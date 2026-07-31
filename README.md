@@ -1225,3 +1225,27 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-07-31 03:27:43 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## String
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Greedy
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Sorting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+<!---LeetCode Topics End-->
