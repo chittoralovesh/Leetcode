@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-153-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-154-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-37-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-71-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-72-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-45-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-100%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-101%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-16%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 153 |
+| **Total problems solved** | 154 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (79), `String` (38), `Dynamic Programming` (33), `Math` (32), `Hash Table` (30) |
-| **Last updated** | 2026-08-01 03:26:47 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (80), `String` (38), `Dynamic Programming` (34), `Math` (33), `Hash Table` (30) |
+| **Last updated** | 2026-08-01 05:28:43 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     37  █████░░░░░░░░░░░░░░░   24.2%
-🟡 Medium   71  █████████░░░░░░░░░░░   46.4%
-🔴 Hard     45  ██████░░░░░░░░░░░░░░   29.4%
+🟢 Easy     37  █████░░░░░░░░░░░░░░░   24.0%
+🟡 Medium   72  █████████░░░░░░░░░░░   46.8%
+🔴 Hard     45  ██████░░░░░░░░░░░░░░   29.2%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 79 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 80 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -81,6 +81,7 @@
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
 | 0407 | [Trapping Rain Water Ii](0407-trapping-rain-water-ii) | 🔴 HARD |
 | 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD |
+| 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM |
 | 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
 | 0498 | [Diagonal Traverse](0498-diagonal-traverse) | 🟡 MEDIUM |
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD |
@@ -182,7 +183,7 @@
 </details>
 
 <details>
-<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 33 problem(s)</summary>
+<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 34 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -204,6 +205,7 @@
 | 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD |
 | 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
 | 0466 | [Count The Repetitions](0466-count-the-repetitions) | 🔴 HARD |
+| 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM |
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM |
 | 0552 | [Student Attendance Record Ii](0552-student-attendance-record-ii) | 🔴 HARD |
 | 0576 | [Out Of Boundary Paths](0576-out-of-boundary-paths) | 🟡 MEDIUM |
@@ -224,7 +226,7 @@
 </details>
 
 <details>
-<summary><b>Math</b> &nbsp;·&nbsp; 32 problem(s)</summary>
+<summary><b>Math</b> &nbsp;·&nbsp; 33 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -241,6 +243,7 @@
 | 0382 | [Linked List Random Node](0382-linked-list-random-node) | 🟡 MEDIUM |
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
 | 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
+| 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM |
 | 0598 | [Range Addition Ii](0598-range-addition-ii) | 🟢 EASY |
 | 0679 | [24 Game](0679-24-game) | 🔴 HARD |
 | 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY |
@@ -614,6 +617,21 @@
 </details>
 
 <details>
+<summary><b>Recursion</b> &nbsp;·&nbsp; 6 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0002 | [Add Two Numbers](0002-add-two-numbers) | 🟡 MEDIUM |
+| 0010 | [Regular Expression Matching](0010-regular-expression-matching) | 🔴 HARD |
+| 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD |
+| 0060 | [Permutation Sequence](0060-permutation-sequence) | 🔴 HARD |
+| 0233 | [Number Of Digit One](0233-number-of-digit-one) | 🔴 HARD |
+| 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Tree</b> &nbsp;·&nbsp; 6 problem(s)</summary>
 
 
@@ -655,20 +673,6 @@
 | 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD |
 | 3518 | [Smallest Palindromic Rearrangement Ii](3518-smallest-palindromic-rearrangement-ii) | 🔴 HARD |
 | 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Recursion</b> &nbsp;·&nbsp; 5 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0002 | [Add Two Numbers](0002-add-two-numbers) | 🟡 MEDIUM |
-| 0010 | [Regular Expression Matching](0010-regular-expression-matching) | 🔴 HARD |
-| 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD |
-| 0060 | [Permutation Sequence](0060-permutation-sequence) | 🔴 HARD |
-| 0233 | [Number Of Digit One](0233-number-of-digit-one) | 🔴 HARD |
 
 </details>
 
@@ -815,6 +819,18 @@
 </details>
 
 <details>
+<summary><b>Game Theory</b> &nbsp;·&nbsp; 3 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
+| 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM |
+| 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY |
+
+</details>
+
+<details>
 <summary><b>Queue</b> &nbsp;·&nbsp; 3 problem(s)</summary>
 
 
@@ -879,17 +895,6 @@
 |---|---|---|
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
 | 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Game Theory</b> &nbsp;·&nbsp; 2 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
-| 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY |
 
 </details>
 
@@ -1128,6 +1133,7 @@
 | 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD | Array, Dynamic Programming | PY |
 | 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM | Math, Dynamic Programming, Bit Manipulation +3 | PY |
 | 0466 | [Count The Repetitions](0466-count-the-repetitions) | 🔴 HARD | Two Pointers, String, Dynamic Programming | PY |
+| 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM | Array, Math, Dynamic Programming +2 | PY |
 | 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD | Array, Binary Search, Divide and Conquer +4 | PY |
 | 0498 | [Diagonal Traverse](0498-diagonal-traverse) | 🟡 MEDIUM | Array, Matrix, Simulation | PY |
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD | Array, Greedy, Sorting +1 | JAVA |
@@ -1228,30 +1234,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-08-01 03:26:47 UTC_
+_Generated on 2026-08-01 05:28:43 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0486-predict-the-winner](https://github.com/chittoralovesh/Leetcode/tree/master/0486-predict-the-winner) |
-## Math
-|  |
-| ------- |
-| [0486-predict-the-winner](https://github.com/chittoralovesh/Leetcode/tree/master/0486-predict-the-winner) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0486-predict-the-winner](https://github.com/chittoralovesh/Leetcode/tree/master/0486-predict-the-winner) |
-## Recursion
-|  |
-| ------- |
-| [0486-predict-the-winner](https://github.com/chittoralovesh/Leetcode/tree/master/0486-predict-the-winner) |
-## Game Theory
-|  |
-| ------- |
-| [0486-predict-the-winner](https://github.com/chittoralovesh/Leetcode/tree/master/0486-predict-the-winner) |
-<!---LeetCode Topics End-->
