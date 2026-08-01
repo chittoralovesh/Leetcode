@@ -1231,3 +1231,27 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-08-01 03:26:47 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/chittoralovesh/Leetcode/tree/master/0486-predict-the-winner) |
+## Math
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/chittoralovesh/Leetcode/tree/master/0486-predict-the-winner) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/chittoralovesh/Leetcode/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/chittoralovesh/Leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/chittoralovesh/Leetcode/tree/master/0486-predict-the-winner) |
+<!---LeetCode Topics End-->
