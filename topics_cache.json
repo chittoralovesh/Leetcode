@@ -708,6 +708,12 @@
     "Number Theory",
     "Prefix Sum"
   ],
+  "stone-game": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Game Theory"
+  ],
   "string-to-integer-atoi": [
     "String"
   ],

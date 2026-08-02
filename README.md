@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-154-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-155-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-37-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-72-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-73-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-45-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-101%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-102%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-16%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 154 |
+| **Total problems solved** | 155 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (80), `String` (38), `Dynamic Programming` (34), `Math` (33), `Hash Table` (30) |
-| **Last updated** | 2026-08-02 03:26:30 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (81), `String` (38), `Dynamic Programming` (35), `Math` (34), `Hash Table` (30) |
+| **Last updated** | 2026-08-02 11:20:33 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     37  █████░░░░░░░░░░░░░░░   24.0%
-🟡 Medium   72  █████████░░░░░░░░░░░   46.8%
-🔴 Hard     45  ██████░░░░░░░░░░░░░░   29.2%
+🟢 Easy     37  █████░░░░░░░░░░░░░░░   23.9%
+🟡 Medium   73  █████████░░░░░░░░░░░   47.1%
+🔴 Hard     45  ██████░░░░░░░░░░░░░░   29.0%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 80 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 81 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -91,6 +91,7 @@
 | 0598 | [Range Addition Ii](0598-range-addition-ii) | 🟢 EASY |
 | 0679 | [24 Game](0679-24-game) | 🔴 HARD |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
+| 0877 | [Stone Game](0877-stone-game) | 🟡 MEDIUM |
 | 0912 | [Sort An Array](0912-sort-an-array) | 🟡 MEDIUM |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
 | 1260 | [Shift 2D Grid](1260-shift-2d-grid) | 🟢 EASY |
@@ -183,7 +184,7 @@
 </details>
 
 <details>
-<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 34 problem(s)</summary>
+<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 35 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -211,6 +212,7 @@
 | 0576 | [Out Of Boundary Paths](0576-out-of-boundary-paths) | 🟡 MEDIUM |
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings) | 🟡 MEDIUM |
 | 0799 | [Champagne Tower](0799-champagne-tower) | 🟡 MEDIUM |
+| 0877 | [Stone Game](0877-stone-game) | 🟡 MEDIUM |
 | 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
 | 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD |
@@ -226,7 +228,7 @@
 </details>
 
 <details>
-<summary><b>Math</b> &nbsp;·&nbsp; 33 problem(s)</summary>
+<summary><b>Math</b> &nbsp;·&nbsp; 34 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -246,6 +248,7 @@
 | 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM |
 | 0598 | [Range Addition Ii](0598-range-addition-ii) | 🟢 EASY |
 | 0679 | [24 Game](0679-24-game) | 🔴 HARD |
+| 0877 | [Stone Game](0877-stone-game) | 🟡 MEDIUM |
 | 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY |
 | 1344 | [Angle Between Hands Of A Clock](1344-angle-between-hands-of-a-clock) | 🟡 MEDIUM |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD |
@@ -746,6 +749,19 @@
 </details>
 
 <details>
+<summary><b>Game Theory</b> &nbsp;·&nbsp; 4 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
+| 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM |
+| 0877 | [Stone Game](0877-stone-game) | 🟡 MEDIUM |
+| 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY |
+
+</details>
+
+<details>
 <summary><b>Merge Sort</b> &nbsp;·&nbsp; 4 problem(s)</summary>
 
 
@@ -815,18 +831,6 @@
 | 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
 | 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Game Theory</b> &nbsp;·&nbsp; 3 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
-| 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM |
-| 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY |
 
 </details>
 
@@ -1153,6 +1157,7 @@
 | 0679 | [24 Game](0679-24-game) | 🔴 HARD | Array, Math, Backtracking | PY |
 | 0799 | [Champagne Tower](0799-champagne-tower) | 🟡 MEDIUM | Dynamic Programming | PY |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD | Array, Hash Table, String +3 | JAVA |
+| 0877 | [Stone Game](0877-stone-game) | 🟡 MEDIUM | Array, Math, Dynamic Programming +1 | PY |
 | 0912 | [Sort An Array](0912-sort-an-array) | 🟡 MEDIUM | Array, Divide and Conquer, Sorting +5 | JAVA |
 | 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY | Math, Dynamic Programming, Brainteaser +1 | CPP |
 | 1050 | [Actors And Directors Who Cooperated At Least Three Times](1050-actors-and-directors-who-cooperated-at-least-three-times) | 🟢 EASY | Database | — |
@@ -1234,26 +1239,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-08-02 03:26:30 UTC_
+_Generated on 2026-08-02 11:20:33 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0877-stone-game](https://github.com/chittoralovesh/Leetcode/tree/master/0877-stone-game) |
-## Math
-|  |
-| ------- |
-| [0877-stone-game](https://github.com/chittoralovesh/Leetcode/tree/master/0877-stone-game) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0877-stone-game](https://github.com/chittoralovesh/Leetcode/tree/master/0877-stone-game) |
-## Game Theory
-|  |
-| ------- |
-| [0877-stone-game](https://github.com/chittoralovesh/Leetcode/tree/master/0877-stone-game) |
-<!---LeetCode Topics End-->
