@@ -714,6 +714,14 @@
     "Dynamic Programming",
     "Game Theory"
   ],
+  "stone-game-iii": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Minimax",
+    "Game Theory",
+    "Zero-Sum Game"
+  ],
   "string-to-integer-atoi": [
     "String"
   ],

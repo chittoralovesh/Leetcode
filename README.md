@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-155-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-156-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-37-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-73-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-45-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-46-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-102%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-103%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-16%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 155 |
+| **Total problems solved** | 156 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (81), `String` (38), `Dynamic Programming` (35), `Math` (34), `Hash Table` (30) |
-| **Last updated** | 2026-08-03 03:28:24 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (82), `String` (38), `Dynamic Programming` (36), `Math` (35), `Hash Table` (30) |
+| **Last updated** | 2026-08-03 17:04:51 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     37  █████░░░░░░░░░░░░░░░   23.9%
-🟡 Medium   73  █████████░░░░░░░░░░░   47.1%
-🔴 Hard     45  ██████░░░░░░░░░░░░░░   29.0%
+🟢 Easy     37  █████░░░░░░░░░░░░░░░   23.7%
+🟡 Medium   73  █████████░░░░░░░░░░░   46.8%
+🔴 Hard     46  ██████░░░░░░░░░░░░░░   29.5%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 81 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 82 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -99,6 +99,7 @@
 | 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD |
 | 1331 | [Rank Transform Of An Array](1331-rank-transform-of-an-array) | 🟢 EASY |
 | 1345 | [Jump Game Iv](1345-jump-game-iv) | 🔴 HARD |
+| 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
 | 1464 | [Maximum Product Of Two Elements In An Array](1464-maximum-product-of-two-elements-in-an-array) | 🟢 EASY |
 | 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD |
 | 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY |
@@ -184,7 +185,7 @@
 </details>
 
 <details>
-<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 35 problem(s)</summary>
+<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 36 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -216,6 +217,7 @@
 | 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
 | 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD |
+| 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
 | 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
 | 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
@@ -228,7 +230,7 @@
 </details>
 
 <details>
-<summary><b>Math</b> &nbsp;·&nbsp; 34 problem(s)</summary>
+<summary><b>Math</b> &nbsp;·&nbsp; 35 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -251,6 +253,7 @@
 | 0877 | [Stone Game](0877-stone-game) | 🟡 MEDIUM |
 | 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY |
 | 1344 | [Angle Between Hands Of A Clock](1344-angle-between-hands-of-a-clock) | 🟡 MEDIUM |
+| 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD |
 | 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array) | 🟢 EASY |
 | 3014 | [Minimum Number Of Pushes To Type Word I](3014-minimum-number-of-pushes-to-type-word-i) | 🟢 EASY |
@@ -722,6 +725,20 @@
 </details>
 
 <details>
+<summary><b>Game Theory</b> &nbsp;·&nbsp; 5 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
+| 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM |
+| 0877 | [Stone Game](0877-stone-game) | 🟡 MEDIUM |
+| 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY |
+| 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Number Theory</b> &nbsp;·&nbsp; 5 problem(s)</summary>
 
 
@@ -745,19 +762,6 @@
 | 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
 | 0107 | [Binary Tree Level Order Traversal Ii](0107-binary-tree-level-order-traversal-ii) | 🟡 MEDIUM |
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Game Theory</b> &nbsp;·&nbsp; 4 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
-| 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM |
-| 0877 | [Stone Game](0877-stone-game) | 🟡 MEDIUM |
-| 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY |
 
 </details>
 
@@ -1036,6 +1040,26 @@
 </details>
 
 <details>
+<summary><b>Minimax</b> &nbsp;·&nbsp; 1 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
+
+</details>
+
+<details>
+<summary><b>Zero-Sum Game</b> &nbsp;·&nbsp; 1 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Monotonic Queue</b> &nbsp;·&nbsp; 1 problem(s)</summary>
 
 
@@ -1171,6 +1195,7 @@
 | 1344 | [Angle Between Hands Of A Clock](1344-angle-between-hands-of-a-clock) | 🟡 MEDIUM | Math | PY |
 | 1345 | [Jump Game Iv](1345-jump-game-iv) | 🔴 HARD | Array, Hash Table, Breadth-First Search | PY |
 | 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM | Hash Table, String, Sliding Window | JAVA |
+| 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD | Array, Math, Dynamic Programming +3 | PY |
 | 1464 | [Maximum Product Of Two Elements In An Array](1464-maximum-product-of-two-elements-in-an-array) | 🟢 EASY | Array, Sorting, Heap (Priority Queue) | PY |
 | 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD | Array, Greedy, Sorting | PY |
 | 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY | Array, Prefix Sum | PY |
@@ -1239,34 +1264,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-08-03 03:28:24 UTC_
+_Generated on 2026-08-03 17:04:51 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1406-stone-game-iii](https://github.com/chittoralovesh/Leetcode/tree/master/1406-stone-game-iii) |
-## Math
-|  |
-| ------- |
-| [1406-stone-game-iii](https://github.com/chittoralovesh/Leetcode/tree/master/1406-stone-game-iii) |
-## Dynamic Programming
-|  |
-| ------- |
-| [1406-stone-game-iii](https://github.com/chittoralovesh/Leetcode/tree/master/1406-stone-game-iii) |
-## Minimax
-|  |
-| ------- |
-| [1406-stone-game-iii](https://github.com/chittoralovesh/Leetcode/tree/master/1406-stone-game-iii) |
-## Game Theory
-|  |
-| ------- |
-| [1406-stone-game-iii](https://github.com/chittoralovesh/Leetcode/tree/master/1406-stone-game-iii) |
-## Zero-Sum Game
-|  |
-| ------- |
-| [1406-stone-game-iii](https://github.com/chittoralovesh/Leetcode/tree/master/1406-stone-game-iii) |
-<!---LeetCode Topics End-->
