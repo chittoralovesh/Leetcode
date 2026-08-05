@@ -638,6 +638,11 @@
     "Linked List",
     "Two Pointers"
   ],
+  "remove-methods-from-project": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory"
+  ],
   "reverse-integer": [
     "Math"
   ],
