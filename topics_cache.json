@@ -208,6 +208,11 @@
     "Array",
     "Binary Search"
   ],
+  "find-missing-elements": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
   "find-the-highest-altitude": [
     "Array",
     "Prefix Sum"
