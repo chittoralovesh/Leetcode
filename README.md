@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-158-5865F2?style=for-the-badge" alt="Total Solved" />
-<img src="https://img.shields.io/badge/Easy-38-2ECC71?style=for-the-badge" alt="Easy" />
+<img src="https://img.shields.io/badge/Total%20Solved-159-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Easy-39-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-74-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-46-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-105%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-106%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-16%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 158 |
+| **Total problems solved** | 159 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (83), `String` (38), `Dynamic Programming` (36), `Math` (35), `Hash Table` (31) |
-| **Last updated** | 2026-08-06 02:56:13 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (83), `String` (38), `Math` (36), `Dynamic Programming` (36), `Hash Table` (31) |
+| **Last updated** | 2026-08-06 07:16:40 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     38  █████░░░░░░░░░░░░░░░   24.1%
-🟡 Medium   74  █████████░░░░░░░░░░░   46.8%
-🔴 Hard     46  ██████░░░░░░░░░░░░░░   29.1%
+🟢 Easy     39  █████░░░░░░░░░░░░░░░   24.5%
+🟡 Medium   74  █████████░░░░░░░░░░░   46.5%
+🔴 Hard     46  ██████░░░░░░░░░░░░░░   28.9%
 ```
 
 
@@ -186,6 +186,51 @@
 </details>
 
 <details>
+<summary><b>Math</b> &nbsp;·&nbsp; 36 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0002 | [Add Two Numbers](0002-add-two-numbers) | 🟡 MEDIUM |
+| 0007 | [Reverse Integer](0007-reverse-integer) | 🟡 MEDIUM |
+| 0009 | [Palindrome Number](0009-palindrome-number) | 🟢 EASY |
+| 0012 | [Integer To Roman](0012-integer-to-roman) | 🟡 MEDIUM |
+| 0013 | [Roman To Integer](0013-roman-to-integer) | 🟢 EASY |
+| 0060 | [Permutation Sequence](0060-permutation-sequence) | 🔴 HARD |
+| 0070 | [Climbing Stairs](0070-climbing-stairs) | 🟢 EASY |
+| 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
+| 0233 | [Number Of Digit One](0233-number-of-digit-one) | 🔴 HARD |
+| 0382 | [Linked List Random Node](0382-linked-list-random-node) | 🟡 MEDIUM |
+| 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
+| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
+| 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM |
+| 0598 | [Range Addition Ii](0598-range-addition-ii) | 🟢 EASY |
+| 0679 | [24 Game](0679-24-game) | 🔴 HARD |
+| 0877 | [Stone Game](0877-stone-game) | 🟡 MEDIUM |
+| 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY |
+| 1344 | [Angle Between Hands Of A Clock](1344-angle-between-hands-of-a-clock) | 🟡 MEDIUM |
+| 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
+| 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD |
+| 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array) | 🟢 EASY |
+| 3014 | [Minimum Number Of Pushes To Type Word I](3014-minimum-number-of-pushes-to-type-word-i) | 🟢 EASY |
+| 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD |
+| 3345 | [Smallest Divisible Digit Product I](3345-smallest-divisible-digit-product-i) | 🟢 EASY |
+| 3518 | [Smallest Palindromic Rearrangement Ii](3518-smallest-palindromic-rearrangement-ii) | 🔴 HARD |
+| 3536 | [Maximum Product Of Two Digits](3536-maximum-product-of-two-digits) | 🟢 EASY |
+| 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
+| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
+| 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM |
+| 3658 | [Gcd Of Odd And Even Sums](3658-gcd-of-odd-and-even-sums) | 🟢 EASY |
+| 3700 | [Number Of Zigzag Arrays Ii](3700-number-of-zigzag-arrays-ii) | 🔴 HARD |
+| 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM |
+| 3753 | [Total Waviness Of Numbers In Range Ii](3753-total-waviness-of-numbers-in-range-ii) | 🔴 HARD |
+| 3754 | [Concatenate Non Zero Digits And Multiply By Sum I](3754-concatenate-non-zero-digits-and-multiply-by-sum-i) | 🟢 EASY |
+| 3756 | [Concatenate Non Zero Digits And Multiply By Sum Ii](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) | 🟡 MEDIUM |
+| 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 36 problem(s)</summary>
 
 
@@ -227,50 +272,6 @@
 | 3700 | [Number Of Zigzag Arrays Ii](3700-number-of-zigzag-arrays-ii) | 🔴 HARD |
 | 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM |
 | 3753 | [Total Waviness Of Numbers In Range Ii](3753-total-waviness-of-numbers-in-range-ii) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Math</b> &nbsp;·&nbsp; 35 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0002 | [Add Two Numbers](0002-add-two-numbers) | 🟡 MEDIUM |
-| 0007 | [Reverse Integer](0007-reverse-integer) | 🟡 MEDIUM |
-| 0009 | [Palindrome Number](0009-palindrome-number) | 🟢 EASY |
-| 0012 | [Integer To Roman](0012-integer-to-roman) | 🟡 MEDIUM |
-| 0013 | [Roman To Integer](0013-roman-to-integer) | 🟢 EASY |
-| 0060 | [Permutation Sequence](0060-permutation-sequence) | 🔴 HARD |
-| 0070 | [Climbing Stairs](0070-climbing-stairs) | 🟢 EASY |
-| 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
-| 0233 | [Number Of Digit One](0233-number-of-digit-one) | 🔴 HARD |
-| 0382 | [Linked List Random Node](0382-linked-list-random-node) | 🟡 MEDIUM |
-| 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
-| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
-| 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM |
-| 0598 | [Range Addition Ii](0598-range-addition-ii) | 🟢 EASY |
-| 0679 | [24 Game](0679-24-game) | 🔴 HARD |
-| 0877 | [Stone Game](0877-stone-game) | 🟡 MEDIUM |
-| 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY |
-| 1344 | [Angle Between Hands Of A Clock](1344-angle-between-hands-of-a-clock) | 🟡 MEDIUM |
-| 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
-| 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD |
-| 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array) | 🟢 EASY |
-| 3014 | [Minimum Number Of Pushes To Type Word I](3014-minimum-number-of-pushes-to-type-word-i) | 🟢 EASY |
-| 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD |
-| 3518 | [Smallest Palindromic Rearrangement Ii](3518-smallest-palindromic-rearrangement-ii) | 🔴 HARD |
-| 3536 | [Maximum Product Of Two Digits](3536-maximum-product-of-two-digits) | 🟢 EASY |
-| 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
-| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
-| 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM |
-| 3658 | [Gcd Of Odd And Even Sums](3658-gcd-of-odd-and-even-sums) | 🟢 EASY |
-| 3700 | [Number Of Zigzag Arrays Ii](3700-number-of-zigzag-arrays-ii) | 🔴 HARD |
-| 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM |
-| 3753 | [Total Waviness Of Numbers In Range Ii](3753-total-waviness-of-numbers-in-range-ii) | 🔴 HARD |
-| 3754 | [Concatenate Non Zero Digits And Multiply By Sum I](3754-concatenate-non-zero-digits-and-multiply-by-sum-i) | 🟢 EASY |
-| 3756 | [Concatenate Non Zero Digits And Multiply By Sum Ii](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) | 🟡 MEDIUM |
-| 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
 
 </details>
 
@@ -785,6 +786,19 @@
 </details>
 
 <details>
+<summary><b>Enumeration</b> &nbsp;·&nbsp; 4 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 3020 | [Find The Maximum Number Of Elements In Subset](3020-find-the-maximum-number-of-elements-in-subset) | 🟡 MEDIUM |
+| 3345 | [Smallest Divisible Digit Product I](3345-smallest-divisible-digit-product-i) | 🟢 EASY |
+| 3499 | [Maximize Active Section With Trade I](3499-maximize-active-section-with-trade-i) | 🟡 MEDIUM |
+| 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Trie</b> &nbsp;·&nbsp; 3 problem(s)</summary>
 
 
@@ -853,18 +867,6 @@
 | 0649 | [Dota2 Senate](0649-dota2-senate) | 🟡 MEDIUM |
 | 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
 | 3829 | [Design Ride Sharing System](3829-design-ride-sharing-system) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Enumeration</b> &nbsp;·&nbsp; 3 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 3020 | [Find The Maximum Number Of Elements In Subset](3020-find-the-maximum-number-of-elements-in-subset) | 🟡 MEDIUM |
-| 3499 | [Maximize Active Section With Trade I](3499-maximize-active-section-with-trade-i) | 🟡 MEDIUM |
-| 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM |
 
 </details>
 
@@ -1228,6 +1230,7 @@
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM | Array, Breadth-First Search, Graph Theory +3 | CPP |
 | 3310 | [Remove Methods From Project](3310-remove-methods-from-project) | 🟡 MEDIUM | Depth-First Search, Breadth-First Search, Graph Theory | PY |
 | 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD | Array, Hash Table, Math +5 | CPP |
+| 3345 | [Smallest Divisible Digit Product I](3345-smallest-divisible-digit-product-i) | 🟢 EASY | Math, Enumeration | PY |
 | 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD | Array, Binary Search, Segment Tree +1 | CPP |
 | 3499 | [Maximize Active Section With Trade I](3499-maximize-active-section-with-trade-i) | 🟡 MEDIUM | String, Enumeration | PY |
 | 3501 | [Maximize Active Section With Trade Ii](3501-maximize-active-section-with-trade-ii) | 🔴 HARD | Array, String, Binary Search +1 | PY |
@@ -1272,18 +1275,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-08-06 02:56:13 UTC_
+_Generated on 2026-08-06 07:16:40 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [3345-smallest-divisible-digit-product-i](https://github.com/chittoralovesh/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
-## Enumeration
-|  |
-| ------- |
-| [3345-smallest-divisible-digit-product-i](https://github.com/chittoralovesh/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
-<!---LeetCode Topics End-->

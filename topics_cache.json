@@ -685,6 +685,10 @@
     "Breadth-First Search",
     "Union-Find"
   ],
+  "smallest-divisible-digit-product-i": [
+    "Math",
+    "Enumeration"
+  ],
   "smallest-palindromic-rearrangement-ii": [
     "Hash Table",
     "Math",
