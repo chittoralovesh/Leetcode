@@ -689,6 +689,13 @@
     "Math",
     "Enumeration"
   ],
+  "smallest-divisible-digit-product-ii": [
+    "Math",
+    "String",
+    "Backtracking",
+    "Greedy",
+    "Number Theory"
+  ],
   "smallest-palindromic-rearrangement-ii": [
     "Hash Table",
     "Math",

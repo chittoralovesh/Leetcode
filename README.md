@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-159-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-160-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-39-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-74-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-46-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-47-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-106%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-107%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-16%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 159 |
+| **Total problems solved** | 160 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (83), `String` (38), `Math` (36), `Dynamic Programming` (36), `Hash Table` (31) |
-| **Last updated** | 2026-08-07 02:52:34 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (83), `String` (39), `Math` (37), `Dynamic Programming` (36), `Hash Table` (31) |
+| **Last updated** | 2026-08-07 14:37:39 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     39  █████░░░░░░░░░░░░░░░   24.5%
-🟡 Medium   74  █████████░░░░░░░░░░░   46.5%
-🔴 Hard     46  ██████░░░░░░░░░░░░░░   28.9%
+🟢 Easy     39  █████░░░░░░░░░░░░░░░   24.4%
+🟡 Medium   74  █████████░░░░░░░░░░░   46.2%
+🔴 Hard     47  ██████░░░░░░░░░░░░░░   29.4%
 ```
 
 
@@ -139,7 +139,7 @@
 </details>
 
 <details>
-<summary><b>String</b> &nbsp;·&nbsp; 38 problem(s)</summary>
+<summary><b>String</b> &nbsp;·&nbsp; 39 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -175,6 +175,7 @@
 | 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM |
 | 3014 | [Minimum Number Of Pushes To Type Word I](3014-minimum-number-of-pushes-to-type-word-i) | 🟢 EASY |
 | 3016 | [Minimum Number Of Pushes To Type Word Ii](3016-minimum-number-of-pushes-to-type-word-ii) | 🟡 MEDIUM |
+| 3348 | [Smallest Divisible Digit Product Ii](3348-smallest-divisible-digit-product-ii) | 🔴 HARD |
 | 3499 | [Maximize Active Section With Trade I](3499-maximize-active-section-with-trade-i) | 🟡 MEDIUM |
 | 3501 | [Maximize Active Section With Trade Ii](3501-maximize-active-section-with-trade-ii) | 🔴 HARD |
 | 3518 | [Smallest Palindromic Rearrangement Ii](3518-smallest-palindromic-rearrangement-ii) | 🔴 HARD |
@@ -186,7 +187,7 @@
 </details>
 
 <details>
-<summary><b>Math</b> &nbsp;·&nbsp; 36 problem(s)</summary>
+<summary><b>Math</b> &nbsp;·&nbsp; 37 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -215,6 +216,7 @@
 | 3014 | [Minimum Number Of Pushes To Type Word I](3014-minimum-number-of-pushes-to-type-word-i) | 🟢 EASY |
 | 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD |
 | 3345 | [Smallest Divisible Digit Product I](3345-smallest-divisible-digit-product-i) | 🟢 EASY |
+| 3348 | [Smallest Divisible Digit Product Ii](3348-smallest-divisible-digit-product-ii) | 🔴 HARD |
 | 3518 | [Smallest Palindromic Rearrangement Ii](3518-smallest-palindromic-rearrangement-ii) | 🔴 HARD |
 | 3536 | [Maximum Product Of Two Digits](3536-maximum-product-of-two-digits) | 🟢 EASY |
 | 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
@@ -350,6 +352,34 @@
 </details>
 
 <details>
+<summary><b>Greedy</b> &nbsp;·&nbsp; 19 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0011 | [Container With Most Water](0011-container-with-most-water) | 🟡 MEDIUM |
+| 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD |
+| 0055 | [Jump Game](0055-jump-game) | 🟡 MEDIUM |
+| 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
+| 0502 | [Ipo](0502-ipo) | 🔴 HARD |
+| 0649 | [Dota2 Senate](0649-dota2-senate) | 🟡 MEDIUM |
+| 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM |
+| 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD |
+| 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM |
+| 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM |
+| 2144 | [Minimum Cost Of Buying Candies With Discount](2144-minimum-cost-of-buying-candies-with-discount) | 🟢 EASY |
+| 3014 | [Minimum Number Of Pushes To Type Word I](3014-minimum-number-of-pushes-to-type-word-i) | 🟢 EASY |
+| 3016 | [Minimum Number Of Pushes To Type Word Ii](3016-minimum-number-of-pushes-to-type-word-ii) | 🟡 MEDIUM |
+| 3348 | [Smallest Divisible Digit Product Ii](3348-smallest-divisible-digit-product-ii) | 🔴 HARD |
+| 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
+| 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
+| 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
+| 3689 | [Maximum Total Subarray Value I](3689-maximum-total-subarray-value-i) | 🟡 MEDIUM |
+| 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Two Pointers</b> &nbsp;·&nbsp; 18 problem(s)</summary>
 
 
@@ -373,33 +403,6 @@
 | 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
 | 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
 | 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Greedy</b> &nbsp;·&nbsp; 18 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0011 | [Container With Most Water](0011-container-with-most-water) | 🟡 MEDIUM |
-| 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD |
-| 0055 | [Jump Game](0055-jump-game) | 🟡 MEDIUM |
-| 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
-| 0502 | [Ipo](0502-ipo) | 🔴 HARD |
-| 0649 | [Dota2 Senate](0649-dota2-senate) | 🟡 MEDIUM |
-| 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM |
-| 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD |
-| 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM |
-| 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM |
-| 2144 | [Minimum Cost Of Buying Candies With Discount](2144-minimum-cost-of-buying-candies-with-discount) | 🟢 EASY |
-| 3014 | [Minimum Number Of Pushes To Type Word I](3014-minimum-number-of-pushes-to-type-word-i) | 🟢 EASY |
-| 3016 | [Minimum Number Of Pushes To Type Word Ii](3016-minimum-number-of-pushes-to-type-word-ii) | 🟡 MEDIUM |
-| 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
-| 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
-| 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
-| 3689 | [Maximum Total Subarray Value I](3689-maximum-total-subarray-value-i) | 🟡 MEDIUM |
-| 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
 
 </details>
 
@@ -645,6 +648,21 @@
 </details>
 
 <details>
+<summary><b>Backtracking</b> &nbsp;·&nbsp; 6 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0017 | [Letter Combinations Of A Phone Number](0017-letter-combinations-of-a-phone-number) | 🟡 MEDIUM |
+| 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
+| 0051 | [N Queens](0051-n-queens) | 🔴 HARD |
+| 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
+| 0679 | [24 Game](0679-24-game) | 🔴 HARD |
+| 3348 | [Smallest Divisible Digit Product Ii](3348-smallest-divisible-digit-product-ii) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Tree</b> &nbsp;·&nbsp; 6 problem(s)</summary>
 
 
@@ -690,6 +708,21 @@
 </details>
 
 <details>
+<summary><b>Number Theory</b> &nbsp;·&nbsp; 6 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array) | 🟢 EASY |
+| 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD |
+| 3348 | [Smallest Divisible Digit Product Ii](3348-smallest-divisible-digit-product-ii) | 🔴 HARD |
+| 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM |
+| 3658 | [Gcd Of Odd And Even Sums](3658-gcd-of-odd-and-even-sums) | 🟢 EASY |
+| 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Sliding Window</b> &nbsp;·&nbsp; 5 problem(s)</summary>
 
 
@@ -700,20 +733,6 @@
 | 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
 | 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM |
 | 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Backtracking</b> &nbsp;·&nbsp; 5 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0017 | [Letter Combinations Of A Phone Number](0017-letter-combinations-of-a-phone-number) | 🟡 MEDIUM |
-| 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
-| 0051 | [N Queens](0051-n-queens) | 🔴 HARD |
-| 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
-| 0679 | [24 Game](0679-24-game) | 🔴 HARD |
 
 </details>
 
@@ -742,20 +761,6 @@
 | 0877 | [Stone Game](0877-stone-game) | 🟡 MEDIUM |
 | 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY |
 | 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Number Theory</b> &nbsp;·&nbsp; 5 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array) | 🟢 EASY |
-| 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD |
-| 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM |
-| 3658 | [Gcd Of Odd And Even Sums](3658-gcd-of-odd-and-even-sums) | 🟢 EASY |
-| 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
 
 </details>
 
@@ -1210,9 +1215,9 @@
 | 1784 | [Check If Binary String Has At Most One Segment Of Ones](1784-check-if-binary-string-has-at-most-one-segment-of-ones) | 🟢 EASY | String | PY |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM | Array, Greedy, Sorting +1 | PY |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD | Array, Math, Sorting | PY |
-| 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM | Array, Greedy, Sorting | PY |
+| 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM | Array, Greedy, Sorting | JAVA |
 | 1967 | [Number Of Strings That Appear As Substrings In Word](1967-number-of-strings-that-appear-as-substrings-in-word) | 🟢 EASY | Array, String | JAVA |
-| 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array) | 🟢 EASY | Array, Math, Number Theory | JAVA |
+| 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array) | 🟢 EASY | Array, Math, Number Theory | PY |
 | 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM | Linked List, Two Pointers | PY |
 | 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM | String, Simulation | PY |
 | 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM | Linked List, Two Pointers, Stack | CPP |
@@ -1229,8 +1234,9 @@
 | 3020 | [Find The Maximum Number Of Elements In Subset](3020-find-the-maximum-number-of-elements-in-subset) | 🟡 MEDIUM | Array, Hash Table, Enumeration | JAVA |
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM | Array, Breadth-First Search, Graph Theory +3 | CPP |
 | 3310 | [Remove Methods From Project](3310-remove-methods-from-project) | 🟡 MEDIUM | Depth-First Search, Breadth-First Search, Graph Theory | PY |
-| 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD | Array, Hash Table, Math +5 | PY |
+| 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD | Array, Hash Table, Math +5 | CPP |
 | 3345 | [Smallest Divisible Digit Product I](3345-smallest-divisible-digit-product-i) | 🟢 EASY | Math, Enumeration | PY |
+| 3348 | [Smallest Divisible Digit Product Ii](3348-smallest-divisible-digit-product-ii) | 🔴 HARD | Math, String, Backtracking +2 | PY |
 | 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD | Array, Binary Search, Segment Tree +1 | CPP |
 | 3499 | [Maximize Active Section With Trade I](3499-maximize-active-section-with-trade-i) | 🟡 MEDIUM | String, Enumeration | PY |
 | 3501 | [Maximize Active Section With Trade Ii](3501-maximize-active-section-with-trade-ii) | 🔴 HARD | Array, String, Binary Search +1 | PY |
@@ -1244,7 +1250,7 @@
 | 3614 | [Process String With Special Operations Ii](3614-process-string-with-special-operations-ii) | 🔴 HARD | String, Simulation | CPP |
 | 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD | Array, Binary Search, Dynamic Programming +4 | CPP |
 | 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM | Array, Hash Table, Math +2 | PY |
-| 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY | Array, Two Pointers, Binary Search +2 | CPP |
+| 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY | Array, Two Pointers, Binary Search +2 | PY |
 | 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM | Array, Two Pointers, Binary Search +2 | CPP |
 | 3658 | [Gcd Of Odd And Even Sums](3658-gcd-of-odd-and-even-sums) | 🟢 EASY | Math, Number Theory | PY |
 | 3660 | [Jump Game Ix](3660-jump-game-ix) | 🟡 MEDIUM | Array, Dynamic Programming | PY |
@@ -1275,30 +1281,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-08-07 02:52:34 UTC_
+_Generated on 2026-08-07 14:37:39 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [3348-smallest-divisible-digit-product-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
-## String
-|  |
-| ------- |
-| [3348-smallest-divisible-digit-product-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
-## Backtracking
-|  |
-| ------- |
-| [3348-smallest-divisible-digit-product-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
-## Greedy
-|  |
-| ------- |
-| [3348-smallest-divisible-digit-product-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
-## Number Theory
-|  |
-| ------- |
-| [3348-smallest-divisible-digit-product-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
-<!---LeetCode Topics End-->
