@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-160-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-161-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-39-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-74-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-75-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-47-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-107%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-108%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-16%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 160 |
+| **Total problems solved** | 161 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (83), `String` (39), `Math` (37), `Dynamic Programming` (36), `Hash Table` (31) |
-| **Last updated** | 2026-08-08 01:56:47 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (83), `String` (40), `Math` (37), `Dynamic Programming` (37), `Hash Table` (31) |
+| **Last updated** | 2026-08-08 11:01:17 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     39  █████░░░░░░░░░░░░░░░   24.4%
-🟡 Medium   74  █████████░░░░░░░░░░░   46.2%
-🔴 Hard     47  ██████░░░░░░░░░░░░░░   29.4%
+🟢 Easy     39  █████░░░░░░░░░░░░░░░   24.2%
+🟡 Medium   75  █████████░░░░░░░░░░░   46.6%
+🔴 Hard     47  ██████░░░░░░░░░░░░░░   29.2%
 ```
 
 
@@ -139,7 +139,7 @@
 </details>
 
 <details>
-<summary><b>String</b> &nbsp;·&nbsp; 39 problem(s)</summary>
+<summary><b>String</b> &nbsp;·&nbsp; 40 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -175,6 +175,7 @@
 | 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM |
 | 3014 | [Minimum Number Of Pushes To Type Word I](3014-minimum-number-of-pushes-to-type-word-i) | 🟢 EASY |
 | 3016 | [Minimum Number Of Pushes To Type Word Ii](3016-minimum-number-of-pushes-to-type-word-ii) | 🟡 MEDIUM |
+| 3302 | [Find The Lexicographically Smallest Valid Sequence](3302-find-the-lexicographically-smallest-valid-sequence) | 🟡 MEDIUM |
 | 3348 | [Smallest Divisible Digit Product Ii](3348-smallest-divisible-digit-product-ii) | 🔴 HARD |
 | 3499 | [Maximize Active Section With Trade I](3499-maximize-active-section-with-trade-i) | 🟡 MEDIUM |
 | 3501 | [Maximize Active Section With Trade Ii](3501-maximize-active-section-with-trade-ii) | 🔴 HARD |
@@ -233,7 +234,7 @@
 </details>
 
 <details>
-<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 36 problem(s)</summary>
+<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 37 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -266,6 +267,7 @@
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
 | 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD |
 | 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
+| 3302 | [Find The Lexicographically Smallest Valid Sequence](3302-find-the-lexicographically-smallest-valid-sequence) | 🟡 MEDIUM |
 | 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
 | 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
@@ -352,7 +354,7 @@
 </details>
 
 <details>
-<summary><b>Greedy</b> &nbsp;·&nbsp; 19 problem(s)</summary>
+<summary><b>Greedy</b> &nbsp;·&nbsp; 20 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -370,6 +372,7 @@
 | 2144 | [Minimum Cost Of Buying Candies With Discount](2144-minimum-cost-of-buying-candies-with-discount) | 🟢 EASY |
 | 3014 | [Minimum Number Of Pushes To Type Word I](3014-minimum-number-of-pushes-to-type-word-i) | 🟢 EASY |
 | 3016 | [Minimum Number Of Pushes To Type Word Ii](3016-minimum-number-of-pushes-to-type-word-ii) | 🟡 MEDIUM |
+| 3302 | [Find The Lexicographically Smallest Valid Sequence](3302-find-the-lexicographically-smallest-valid-sequence) | 🟡 MEDIUM |
 | 3348 | [Smallest Divisible Digit Product Ii](3348-smallest-divisible-digit-product-ii) | 🔴 HARD |
 | 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
 | 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
@@ -380,7 +383,7 @@
 </details>
 
 <details>
-<summary><b>Two Pointers</b> &nbsp;·&nbsp; 18 problem(s)</summary>
+<summary><b>Two Pointers</b> &nbsp;·&nbsp; 19 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -399,6 +402,7 @@
 | 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM |
 | 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
 | 2161 | [Partition Array According To Given Pivot](2161-partition-array-according-to-given-pivot) | 🟡 MEDIUM |
+| 3302 | [Find The Lexicographically Smallest Valid Sequence](3302-find-the-lexicographically-smallest-valid-sequence) | 🟡 MEDIUM |
 | 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
 | 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
 | 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
@@ -1233,6 +1237,7 @@
 | 3016 | [Minimum Number Of Pushes To Type Word Ii](3016-minimum-number-of-pushes-to-type-word-ii) | 🟡 MEDIUM | Hash Table, String, Greedy +2 | PY |
 | 3020 | [Find The Maximum Number Of Elements In Subset](3020-find-the-maximum-number-of-elements-in-subset) | 🟡 MEDIUM | Array, Hash Table, Enumeration | JAVA |
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM | Array, Breadth-First Search, Graph Theory +3 | CPP |
+| 3302 | [Find The Lexicographically Smallest Valid Sequence](3302-find-the-lexicographically-smallest-valid-sequence) | 🟡 MEDIUM | Two Pointers, String, Dynamic Programming +1 | PY |
 | 3310 | [Remove Methods From Project](3310-remove-methods-from-project) | 🟡 MEDIUM | Depth-First Search, Breadth-First Search, Graph Theory | PY |
 | 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD | Array, Hash Table, Math +5 | CPP |
 | 3345 | [Smallest Divisible Digit Product I](3345-smallest-divisible-digit-product-i) | 🟢 EASY | Math, Enumeration | PY |
@@ -1281,26 +1286,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-08-08 01:56:47 UTC_
+_Generated on 2026-08-08 11:01:17 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chittoralovesh/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
-## String
-|  |
-| ------- |
-| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chittoralovesh/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
-## Dynamic Programming
-|  |
-| ------- |
-| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chittoralovesh/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
-## Greedy
-|  |
-| ------- |
-| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chittoralovesh/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
-<!---LeetCode Topics End-->
