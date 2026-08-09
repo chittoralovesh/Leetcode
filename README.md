@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-161-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-162-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-39-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-75-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-76-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-47-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-108%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-109%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-16%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 161 |
+| **Total problems solved** | 162 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (83), `String` (40), `Math` (37), `Dynamic Programming` (37), `Hash Table` (31) |
-| **Last updated** | 2026-08-09 02:04:26 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (84), `String` (40), `Math` (38), `Dynamic Programming` (38), `Hash Table` (31) |
+| **Last updated** | 2026-08-09 12:26:05 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     39  █████░░░░░░░░░░░░░░░   24.2%
-🟡 Medium   75  █████████░░░░░░░░░░░   46.6%
-🔴 Hard     47  ██████░░░░░░░░░░░░░░   29.2%
+🟢 Easy     39  █████░░░░░░░░░░░░░░░   24.1%
+🟡 Medium   76  █████████░░░░░░░░░░░   46.9%
+🔴 Hard     47  ██████░░░░░░░░░░░░░░   29.0%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 83 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 84 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -93,6 +93,7 @@
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 | 0877 | [Stone Game](0877-stone-game) | 🟡 MEDIUM |
 | 0912 | [Sort An Array](0912-sort-an-array) | 🟡 MEDIUM |
+| 1140 | [Stone Game Ii](1140-stone-game-ii) | 🟡 MEDIUM |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
 | 1260 | [Shift 2D Grid](1260-shift-2d-grid) | 🟢 EASY |
 | 1288 | [Remove Covered Intervals](1288-remove-covered-intervals) | 🟡 MEDIUM |
@@ -188,7 +189,7 @@
 </details>
 
 <details>
-<summary><b>Math</b> &nbsp;·&nbsp; 37 problem(s)</summary>
+<summary><b>Math</b> &nbsp;·&nbsp; 38 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -210,6 +211,7 @@
 | 0679 | [24 Game](0679-24-game) | 🔴 HARD |
 | 0877 | [Stone Game](0877-stone-game) | 🟡 MEDIUM |
 | 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY |
+| 1140 | [Stone Game Ii](1140-stone-game-ii) | 🟡 MEDIUM |
 | 1344 | [Angle Between Hands Of A Clock](1344-angle-between-hands-of-a-clock) | 🟡 MEDIUM |
 | 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD |
@@ -234,7 +236,7 @@
 </details>
 
 <details>
-<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 37 problem(s)</summary>
+<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 38 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -264,6 +266,7 @@
 | 0799 | [Champagne Tower](0799-champagne-tower) | 🟡 MEDIUM |
 | 0877 | [Stone Game](0877-stone-game) | 🟡 MEDIUM |
 | 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY |
+| 1140 | [Stone Game Ii](1140-stone-game-ii) | 🟡 MEDIUM |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
 | 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD |
 | 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
@@ -458,6 +461,27 @@
 </details>
 
 <details>
+<summary><b>Prefix Sum</b> &nbsp;·&nbsp; 12 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0238 | [Product Of Array Except Self](0238-product-of-array-except-self) | 🟡 MEDIUM |
+| 0525 | [Contiguous Array](0525-contiguous-array) | 🟡 MEDIUM |
+| 1140 | [Stone Game Ii](1140-stone-game-ii) | 🟡 MEDIUM |
+| 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY |
+| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
+| 2574 | [Left And Right Sum Differences](2574-left-and-right-sum-differences) | 🟢 EASY |
+| 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD |
+| 3699 | [Number Of Zigzag Arrays I](3699-number-of-zigzag-arrays-i) | 🟡 MEDIUM |
+| 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM |
+| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
+| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
+| 3756 | [Concatenate Non Zero Digits And Multiply By Sum Ii](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Database</b> &nbsp;·&nbsp; 11 problem(s)</summary>
 
 
@@ -474,26 +498,6 @@
 | 0602 | [Friend Requests Ii Who Has The Most Friends](0602-friend-requests-ii-who-has-the-most-friends) | 🟡 MEDIUM |
 | 0620 | [Not Boring Movies](0620-not-boring-movies) | 🟢 EASY |
 | 1050 | [Actors And Directors Who Cooperated At Least Three Times](1050-actors-and-directors-who-cooperated-at-least-three-times) | 🟢 EASY |
-
-</details>
-
-<details>
-<summary><b>Prefix Sum</b> &nbsp;·&nbsp; 11 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0238 | [Product Of Array Except Self](0238-product-of-array-except-self) | 🟡 MEDIUM |
-| 0525 | [Contiguous Array](0525-contiguous-array) | 🟡 MEDIUM |
-| 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY |
-| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
-| 2574 | [Left And Right Sum Differences](2574-left-and-right-sum-differences) | 🟢 EASY |
-| 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD |
-| 3699 | [Number Of Zigzag Arrays I](3699-number-of-zigzag-arrays-i) | 🟡 MEDIUM |
-| 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM |
-| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
-| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
-| 3756 | [Concatenate Non Zero Digits And Multiply By Sum Ii](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) | 🟡 MEDIUM |
 
 </details>
 
@@ -712,6 +716,21 @@
 </details>
 
 <details>
+<summary><b>Game Theory</b> &nbsp;·&nbsp; 6 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
+| 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM |
+| 0877 | [Stone Game](0877-stone-game) | 🟡 MEDIUM |
+| 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY |
+| 1140 | [Stone Game Ii](1140-stone-game-ii) | 🟡 MEDIUM |
+| 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Number Theory</b> &nbsp;·&nbsp; 6 problem(s)</summary>
 
 
@@ -751,20 +770,6 @@
 | 0503 | [Next Greater Element Ii](0503-next-greater-element-ii) | 🟡 MEDIUM |
 | 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM |
 | 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Game Theory</b> &nbsp;·&nbsp; 5 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
-| 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM |
-| 0877 | [Stone Game](0877-stone-game) | 🟡 MEDIUM |
-| 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY |
-| 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
 
 </details>
 
@@ -935,6 +940,28 @@
 </details>
 
 <details>
+<summary><b>Minimax</b> &nbsp;·&nbsp; 2 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 1140 | [Stone Game Ii](1140-stone-game-ii) | 🟡 MEDIUM |
+| 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
+
+</details>
+
+<details>
+<summary><b>Zero-Sum Game</b> &nbsp;·&nbsp; 2 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 1140 | [Stone Game Ii](1140-stone-game-ii) | 🟡 MEDIUM |
+| 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Shortest Path</b> &nbsp;·&nbsp; 2 problem(s)</summary>
 
 
@@ -1053,26 +1080,6 @@
 | # | Problem | Difficulty |
 |---|---|---|
 | 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY |
-
-</details>
-
-<details>
-<summary><b>Minimax</b> &nbsp;·&nbsp; 1 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Zero-Sum Game</b> &nbsp;·&nbsp; 1 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
 
 </details>
 
@@ -1203,6 +1210,7 @@
 | 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY | Math, Dynamic Programming, Brainteaser +1 | CPP |
 | 1050 | [Actors And Directors Who Cooperated At Least Three Times](1050-actors-and-directors-who-cooperated-at-least-three-times) | 🟢 EASY | Database | — |
 | 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM | String, Stack, Greedy +1 | PY |
+| 1140 | [Stone Game Ii](1140-stone-game-ii) | 🟡 MEDIUM | Array, Math, Dynamic Programming +4 | PY |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD | Array, Binary Search, Dynamic Programming +1 | PY |
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY | Hash Table, String, Counting | PY |
 | 1260 | [Shift 2D Grid](1260-shift-2d-grid) | 🟢 EASY | Array, Matrix, Simulation | JAVA |
@@ -1286,38 +1294,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-08-09 02:04:26 UTC_
+_Generated on 2026-08-09 12:26:05 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1140-stone-game-ii](https://github.com/chittoralovesh/Leetcode/tree/master/1140-stone-game-ii) |
-## Math
-|  |
-| ------- |
-| [1140-stone-game-ii](https://github.com/chittoralovesh/Leetcode/tree/master/1140-stone-game-ii) |
-## Dynamic Programming
-|  |
-| ------- |
-| [1140-stone-game-ii](https://github.com/chittoralovesh/Leetcode/tree/master/1140-stone-game-ii) |
-## Minimax
-|  |
-| ------- |
-| [1140-stone-game-ii](https://github.com/chittoralovesh/Leetcode/tree/master/1140-stone-game-ii) |
-## Prefix Sum
-|  |
-| ------- |
-| [1140-stone-game-ii](https://github.com/chittoralovesh/Leetcode/tree/master/1140-stone-game-ii) |
-## Game Theory
-|  |
-| ------- |
-| [1140-stone-game-ii](https://github.com/chittoralovesh/Leetcode/tree/master/1140-stone-game-ii) |
-## Zero-Sum Game
-|  |
-| ------- |
-| [1140-stone-game-ii](https://github.com/chittoralovesh/Leetcode/tree/master/1140-stone-game-ii) |
-<!---LeetCode Topics End-->

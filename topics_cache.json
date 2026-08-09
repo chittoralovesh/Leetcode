@@ -741,6 +741,15 @@
     "Dynamic Programming",
     "Game Theory"
   ],
+  "stone-game-ii": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Minimax",
+    "Prefix Sum",
+    "Game Theory",
+    "Zero-Sum Game"
+  ],
   "stone-game-iii": [
     "Array",
     "Math",
