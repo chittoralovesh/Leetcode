@@ -1297,3 +1297,35 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-08-10 02:08:52 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/chittoralovesh/Leetcode/tree/master/1510-stone-game-iv) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/chittoralovesh/Leetcode/tree/master/1510-stone-game-iv) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/chittoralovesh/Leetcode/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/chittoralovesh/Leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/chittoralovesh/Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/chittoralovesh/Leetcode/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/chittoralovesh/Leetcode/tree/master/1510-stone-game-iv) |
+<!---LeetCode Topics End-->
