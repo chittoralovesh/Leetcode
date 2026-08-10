@@ -758,6 +758,15 @@
     "Game Theory",
     "Zero-Sum Game"
   ],
+  "stone-game-iv": [
+    "Math",
+    "Dynamic Programming",
+    "Minimax",
+    "Game Theory",
+    "Nim Game",
+    "Sprague\u2013Grundy Theorem",
+    "Zero-Sum Game"
+  ],
   "string-to-integer-atoi": [
     "String"
   ],
