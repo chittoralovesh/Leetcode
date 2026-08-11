@@ -702,6 +702,11 @@
     "Greedy",
     "Number Theory"
   ],
+  "smallest-missing-integer-greater-than-sequential-prefix-sum": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
   "smallest-palindromic-rearrangement-ii": [
     "Hash Table",
     "Math",
