@@ -288,6 +288,11 @@
   "length-of-last-word": [
     "String"
   ],
+  "length-of-longest-subarray-with-at-most-k-frequency": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+  ],
   "letter-combinations-of-a-phone-number": [
     "Hash Table",
     "String",
