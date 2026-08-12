@@ -1327,3 +1327,19 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-08-12 02:21:09 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chittoralovesh/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Hash Table
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chittoralovesh/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chittoralovesh/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+<!---LeetCode Topics End-->
