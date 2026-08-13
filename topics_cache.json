@@ -331,6 +331,12 @@
     "String",
     "Dynamic Programming"
   ],
+  "longest-substring-of-one-repeating-character": [
+    "Array",
+    "String",
+    "Segment Tree",
+    "Ordered Set"
+  ],
   "longest-substring-without-repeating-characters": [
     "Hash Table",
     "String",

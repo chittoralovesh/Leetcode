@@ -5,16 +5,16 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-165-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-166-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-40-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-77-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-48-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-49-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-112%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-114%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
-<img src="https://img.shields.io/badge/JAVA-16%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
+<img src="https://img.shields.io/badge/JAVA-15%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
 
 
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 165 |
+| **Total problems solved** | 166 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (86), `String` (40), `Math` (39), `Dynamic Programming` (39), `Hash Table` (33) |
-| **Last updated** | 2026-08-13 02:22:53 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (87), `String` (41), `Math` (39), `Dynamic Programming` (39), `Hash Table` (33) |
+| **Last updated** | 2026-08-13 09:26:33 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     40  █████░░░░░░░░░░░░░░░   24.2%
-🟡 Medium   77  █████████░░░░░░░░░░░   46.7%
-🔴 Hard     48  ██████░░░░░░░░░░░░░░   29.1%
+🟢 Easy     40  █████░░░░░░░░░░░░░░░   24.1%
+🟡 Medium   77  █████████░░░░░░░░░░░   46.4%
+🔴 Hard     49  ██████░░░░░░░░░░░░░░   29.5%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 86 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 87 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -112,6 +112,7 @@
 | 2144 | [Minimum Cost Of Buying Candies With Discount](2144-minimum-cost-of-buying-candies-with-discount) | 🟢 EASY |
 | 2161 | [Partition Array According To Given Pivot](2161-partition-array-according-to-given-pivot) | 🟡 MEDIUM |
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
+| 2213 | [Longest Substring Of One Repeating Character](2213-longest-substring-of-one-repeating-character) | 🔴 HARD |
 | 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
 | 2574 | [Left And Right Sum Differences](2574-left-and-right-sum-differences) | 🟢 EASY |
 | 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
@@ -142,7 +143,7 @@
 </details>
 
 <details>
-<summary><b>String</b> &nbsp;·&nbsp; 40 problem(s)</summary>
+<summary><b>String</b> &nbsp;·&nbsp; 41 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -176,6 +177,7 @@
 | 1784 | [Check If Binary String Has At Most One Segment Of Ones](1784-check-if-binary-string-has-at-most-one-segment-of-ones) | 🟢 EASY |
 | 1967 | [Number Of Strings That Appear As Substrings In Word](1967-number-of-strings-that-appear-as-substrings-in-word) | 🟢 EASY |
 | 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM |
+| 2213 | [Longest Substring Of One Repeating Character](2213-longest-substring-of-one-repeating-character) | 🔴 HARD |
 | 3014 | [Minimum Number Of Pushes To Type Word I](3014-minimum-number-of-pushes-to-type-word-i) | 🟢 EASY |
 | 3016 | [Minimum Number Of Pushes To Type Word Ii](3016-minimum-number-of-pushes-to-type-word-ii) | 🟡 MEDIUM |
 | 3302 | [Find The Lexicographically Smallest Valid Sequence](3302-find-the-lexicographically-smallest-valid-sequence) | 🟡 MEDIUM |
@@ -584,6 +586,23 @@
 </details>
 
 <details>
+<summary><b>Segment Tree</b> &nbsp;·&nbsp; 8 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
+| 2213 | [Longest Substring Of One Repeating Character](2213-longest-substring-of-one-repeating-character) | 🔴 HARD |
+| 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD |
+| 3501 | [Maximize Active Section With Trade Ii](3501-maximize-active-section-with-trade-ii) | 🔴 HARD |
+| 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
+| 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM |
+| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
+| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Simulation</b> &nbsp;·&nbsp; 8 problem(s)</summary>
 
 
@@ -629,22 +648,6 @@
 | 1140 | [Stone Game Ii](1140-stone-game-ii) | 🟡 MEDIUM |
 | 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
 | 1510 | [Stone Game Iv](1510-stone-game-iv) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Segment Tree</b> &nbsp;·&nbsp; 7 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
-| 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD |
-| 3501 | [Maximize Active Section With Trade Ii](3501-maximize-active-section-with-trade-ii) | 🔴 HARD |
-| 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
-| 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM |
-| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
-| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
 
 </details>
 
@@ -870,6 +873,18 @@
 </details>
 
 <details>
+<summary><b>Ordered Set</b> &nbsp;·&nbsp; 3 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
+| 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
+| 2213 | [Longest Substring Of One Repeating Character](2213-longest-substring-of-one-repeating-character) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Bit Manipulation</b> &nbsp;·&nbsp; 3 problem(s)</summary>
 
 
@@ -936,17 +951,6 @@
 |---|---|---|
 | 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM |
 | 3829 | [Design Ride Sharing System](3829-design-ride-sharing-system) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Ordered Set</b> &nbsp;·&nbsp; 2 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
-| 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
 
 </details>
 
@@ -1259,7 +1263,7 @@
 | 1784 | [Check If Binary String Has At Most One Segment Of Ones](1784-check-if-binary-string-has-at-most-one-segment-of-ones) | 🟢 EASY | String | PY |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM | Array, Greedy, Sorting +1 | PY |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD | Array, Math, Sorting | PY |
-| 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM | Array, Greedy, Sorting | JAVA |
+| 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM | Array, Greedy, Sorting | PY |
 | 1967 | [Number Of Strings That Appear As Substrings In Word](1967-number-of-strings-that-appear-as-substrings-in-word) | 🟢 EASY | Array, String | JAVA |
 | 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array) | 🟢 EASY | Array, Math, Number Theory | PY |
 | 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM | Linked List, Two Pointers | PY |
@@ -1268,6 +1272,7 @@
 | 2144 | [Minimum Cost Of Buying Candies With Discount](2144-minimum-cost-of-buying-candies-with-discount) | 🟢 EASY | Array, Greedy, Sorting | PY |
 | 2161 | [Partition Array According To Given Pivot](2161-partition-array-according-to-given-pivot) | 🟡 MEDIUM | Array, Two Pointers, Simulation | PY |
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM | Array, Hash Table, Tree +1 | CPP |
+| 2213 | [Longest Substring Of One Repeating Character](2213-longest-substring-of-one-repeating-character) | 🔴 HARD | Array, String, Segment Tree +1 | PY |
 | 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD | Array, Binary Search, Queue +4 | PY |
 | 2492 | [Minimum Score Of A Path Between Two Cities](2492-minimum-score-of-a-path-between-two-cities) | 🟡 MEDIUM | Depth-First Search, Breadth-First Search, Union-Find +1 | PY |
 | 2574 | [Left And Right Sum Differences](2574-left-and-right-sum-differences) | 🟢 EASY | Array, Prefix Sum | CPP |
@@ -1328,26 +1333,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-08-13 02:22:53 UTC_
+_Generated on 2026-08-13 09:26:33 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2213-longest-substring-of-one-repeating-character](https://github.com/chittoralovesh/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
-## String
-|  |
-| ------- |
-| [2213-longest-substring-of-one-repeating-character](https://github.com/chittoralovesh/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
-## Segment Tree
-|  |
-| ------- |
-| [2213-longest-substring-of-one-repeating-character](https://github.com/chittoralovesh/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
-## Ordered Set
-|  |
-| ------- |
-| [2213-longest-substring-of-one-repeating-character](https://github.com/chittoralovesh/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
-<!---LeetCode Topics End-->
