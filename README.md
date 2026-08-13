@@ -1331,3 +1331,23 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-08-13 02:22:53 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/chittoralovesh/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## String
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/chittoralovesh/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/chittoralovesh/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/chittoralovesh/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+<!---LeetCode Topics End-->
