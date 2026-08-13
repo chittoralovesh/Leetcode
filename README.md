@@ -5,16 +5,16 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-166-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-167-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-40-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-77-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-78-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-49-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/PY-114%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
-<img src="https://img.shields.io/badge/JAVA-15%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
+<img src="https://img.shields.io/badge/JAVA-16%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
 
 
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 166 |
+| **Total problems solved** | 167 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (87), `String` (41), `Math` (39), `Dynamic Programming` (39), `Hash Table` (33) |
-| **Last updated** | 2026-08-13 09:26:33 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (87), `String` (42), `Dynamic Programming` (40), `Math` (39), `Hash Table` (33) |
+| **Last updated** | 2026-08-13 09:29:52 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     40  █████░░░░░░░░░░░░░░░   24.1%
-🟡 Medium   77  █████████░░░░░░░░░░░   46.4%
-🔴 Hard     49  ██████░░░░░░░░░░░░░░   29.5%
+🟢 Easy     40  █████░░░░░░░░░░░░░░░   24.0%
+🟡 Medium   78  █████████░░░░░░░░░░░   46.7%
+🔴 Hard     49  ██████░░░░░░░░░░░░░░   29.3%
 ```
 
 
@@ -143,7 +143,7 @@
 </details>
 
 <details>
-<summary><b>String</b> &nbsp;·&nbsp; 41 problem(s)</summary>
+<summary><b>String</b> &nbsp;·&nbsp; 42 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -168,6 +168,7 @@
 | 0392 | [Is Subsequence](0392-is-subsequence) | 🟢 EASY |
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
 | 0466 | [Count The Repetitions](0466-count-the-repetitions) | 🔴 HARD |
+| 0583 | [Delete Operation For Two Strings](0583-delete-operation-for-two-strings) | 🟡 MEDIUM |
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings) | 🟡 MEDIUM |
 | 0649 | [Dota2 Senate](0649-dota2-senate) | 🟡 MEDIUM |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
@@ -189,6 +190,55 @@
 | 3614 | [Process String With Special Operations Ii](3614-process-string-with-special-operations-ii) | 🔴 HARD |
 | 3756 | [Concatenate Non Zero Digits And Multiply By Sum Ii](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) | 🟡 MEDIUM |
 | 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY |
+
+</details>
+
+<details>
+<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 40 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring) | 🟡 MEDIUM |
+| 0010 | [Regular Expression Matching](0010-regular-expression-matching) | 🔴 HARD |
+| 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD |
+| 0055 | [Jump Game](0055-jump-game) | 🟡 MEDIUM |
+| 0070 | [Climbing Stairs](0070-climbing-stairs) | 🟢 EASY |
+| 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
+| 0121 | [Best Time To Buy And Sell Stock](0121-best-time-to-buy-and-sell-stock) | 🟢 EASY |
+| 0123 | [Best Time To Buy And Sell Stock Iii](0123-best-time-to-buy-and-sell-stock-iii) | 🔴 HARD |
+| 0132 | [Palindrome Partitioning Ii](0132-palindrome-partitioning-ii) | 🔴 HARD |
+| 0139 | [Word Break](0139-word-break) | 🟡 MEDIUM |
+| 0198 | [House Robber](0198-house-robber) | 🟡 MEDIUM |
+| 0233 | [Number Of Digit One](0233-number-of-digit-one) | 🔴 HARD |
+| 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence) | 🟡 MEDIUM |
+| 0392 | [Is Subsequence](0392-is-subsequence) | 🟢 EASY |
+| 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD |
+| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
+| 0466 | [Count The Repetitions](0466-count-the-repetitions) | 🔴 HARD |
+| 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM |
+| 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM |
+| 0552 | [Student Attendance Record Ii](0552-student-attendance-record-ii) | 🔴 HARD |
+| 0576 | [Out Of Boundary Paths](0576-out-of-boundary-paths) | 🟡 MEDIUM |
+| 0583 | [Delete Operation For Two Strings](0583-delete-operation-for-two-strings) | 🟡 MEDIUM |
+| 0647 | [Palindromic Substrings](0647-palindromic-substrings) | 🟡 MEDIUM |
+| 0799 | [Champagne Tower](0799-champagne-tower) | 🟡 MEDIUM |
+| 0877 | [Stone Game](0877-stone-game) | 🟡 MEDIUM |
+| 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY |
+| 1140 | [Stone Game Ii](1140-stone-game-ii) | 🟡 MEDIUM |
+| 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
+| 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD |
+| 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
+| 1510 | [Stone Game Iv](1510-stone-game-iv) | 🔴 HARD |
+| 3302 | [Find The Lexicographically Smallest Valid Sequence](3302-find-the-lexicographically-smallest-valid-sequence) | 🟡 MEDIUM |
+| 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
+| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
+| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
+| 3660 | [Jump Game Ix](3660-jump-game-ix) | 🟡 MEDIUM |
+| 3699 | [Number Of Zigzag Arrays I](3699-number-of-zigzag-arrays-i) | 🟡 MEDIUM |
+| 3700 | [Number Of Zigzag Arrays Ii](3700-number-of-zigzag-arrays-ii) | 🔴 HARD |
+| 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM |
+| 3753 | [Total Waviness Of Numbers In Range Ii](3753-total-waviness-of-numbers-in-range-ii) | 🔴 HARD |
 
 </details>
 
@@ -237,54 +287,6 @@
 | 3754 | [Concatenate Non Zero Digits And Multiply By Sum I](3754-concatenate-non-zero-digits-and-multiply-by-sum-i) | 🟢 EASY |
 | 3756 | [Concatenate Non Zero Digits And Multiply By Sum Ii](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) | 🟡 MEDIUM |
 | 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 39 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring) | 🟡 MEDIUM |
-| 0010 | [Regular Expression Matching](0010-regular-expression-matching) | 🔴 HARD |
-| 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD |
-| 0055 | [Jump Game](0055-jump-game) | 🟡 MEDIUM |
-| 0070 | [Climbing Stairs](0070-climbing-stairs) | 🟢 EASY |
-| 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
-| 0121 | [Best Time To Buy And Sell Stock](0121-best-time-to-buy-and-sell-stock) | 🟢 EASY |
-| 0123 | [Best Time To Buy And Sell Stock Iii](0123-best-time-to-buy-and-sell-stock-iii) | 🔴 HARD |
-| 0132 | [Palindrome Partitioning Ii](0132-palindrome-partitioning-ii) | 🔴 HARD |
-| 0139 | [Word Break](0139-word-break) | 🟡 MEDIUM |
-| 0198 | [House Robber](0198-house-robber) | 🟡 MEDIUM |
-| 0233 | [Number Of Digit One](0233-number-of-digit-one) | 🔴 HARD |
-| 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence) | 🟡 MEDIUM |
-| 0392 | [Is Subsequence](0392-is-subsequence) | 🟢 EASY |
-| 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD |
-| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
-| 0466 | [Count The Repetitions](0466-count-the-repetitions) | 🔴 HARD |
-| 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM |
-| 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM |
-| 0552 | [Student Attendance Record Ii](0552-student-attendance-record-ii) | 🔴 HARD |
-| 0576 | [Out Of Boundary Paths](0576-out-of-boundary-paths) | 🟡 MEDIUM |
-| 0647 | [Palindromic Substrings](0647-palindromic-substrings) | 🟡 MEDIUM |
-| 0799 | [Champagne Tower](0799-champagne-tower) | 🟡 MEDIUM |
-| 0877 | [Stone Game](0877-stone-game) | 🟡 MEDIUM |
-| 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY |
-| 1140 | [Stone Game Ii](1140-stone-game-ii) | 🟡 MEDIUM |
-| 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
-| 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD |
-| 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
-| 1510 | [Stone Game Iv](1510-stone-game-iv) | 🔴 HARD |
-| 3302 | [Find The Lexicographically Smallest Valid Sequence](3302-find-the-lexicographically-smallest-valid-sequence) | 🟡 MEDIUM |
-| 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
-| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
-| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
-| 3660 | [Jump Game Ix](3660-jump-game-ix) | 🟡 MEDIUM |
-| 3699 | [Number Of Zigzag Arrays I](3699-number-of-zigzag-arrays-i) | 🟡 MEDIUM |
-| 3700 | [Number Of Zigzag Arrays Ii](3700-number-of-zigzag-arrays-ii) | 🔴 HARD |
-| 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM |
-| 3753 | [Total Waviness Of Numbers In Range Ii](3753-total-waviness-of-numbers-in-range-ii) | 🔴 HARD |
 
 </details>
 
@@ -1079,6 +1081,16 @@
 </details>
 
 <details>
+<summary><b>Longest Common Subsequence</b> &nbsp;·&nbsp; 1 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0583 | [Delete Operation For Two Strings](0583-delete-operation-for-two-strings) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Radix Sort</b> &nbsp;·&nbsp; 1 problem(s)</summary>
 
 
@@ -1230,6 +1242,7 @@
 | 0552 | [Student Attendance Record Ii](0552-student-attendance-record-ii) | 🔴 HARD | Dynamic Programming | PY |
 | 0570 | [Managers With At Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 MEDIUM | Database | — |
 | 0576 | [Out Of Boundary Paths](0576-out-of-boundary-paths) | 🟡 MEDIUM | Dynamic Programming | PY |
+| 0583 | [Delete Operation For Two Strings](0583-delete-operation-for-two-strings) | 🟡 MEDIUM | String, Dynamic Programming, Longest Common Subsequence | PY |
 | 0595 | [Big Countries](0595-big-countries) | 🟢 EASY | Database | — |
 | 0596 | [Classes With At Least 5 Students](0596-classes-with-at-least-5-students) | 🟢 EASY | Database | — |
 | 0598 | [Range Addition Ii](0598-range-addition-ii) | 🟢 EASY | Array, Math | PY |
@@ -1263,7 +1276,7 @@
 | 1784 | [Check If Binary String Has At Most One Segment Of Ones](1784-check-if-binary-string-has-at-most-one-segment-of-ones) | 🟢 EASY | String | PY |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM | Array, Greedy, Sorting +1 | PY |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD | Array, Math, Sorting | PY |
-| 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM | Array, Greedy, Sorting | PY |
+| 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM | Array, Greedy, Sorting | JAVA |
 | 1967 | [Number Of Strings That Appear As Substrings In Word](1967-number-of-strings-that-appear-as-substrings-in-word) | 🟢 EASY | Array, String | JAVA |
 | 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array) | 🟢 EASY | Array, Math, Number Theory | PY |
 | 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM | Linked List, Two Pointers | PY |
@@ -1333,22 +1346,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-08-13 09:26:33 UTC_
+_Generated on 2026-08-13 09:29:52 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0583-delete-operation-for-two-strings](https://github.com/chittoralovesh/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0583-delete-operation-for-two-strings](https://github.com/chittoralovesh/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
-## Longest Common Subsequence
-|  |
-| ------- |
-| [0583-delete-operation-for-two-strings](https://github.com/chittoralovesh/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
-<!---LeetCode Topics End-->

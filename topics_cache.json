@@ -141,6 +141,11 @@
   "customers-who-never-order": [
     "Database"
   ],
+  "delete-operation-for-two-strings": [
+    "String",
+    "Dynamic Programming",
+    "Longest Common Subsequence"
+  ],
   "delete-the-middle-node-of-a-linked-list": [
     "Linked List",
     "Two Pointers"
