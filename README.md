@@ -1349,3 +1349,19 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-08-14 02:21:19 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/chittoralovesh/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## String
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/chittoralovesh/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/chittoralovesh/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+<!---LeetCode Topics End-->
