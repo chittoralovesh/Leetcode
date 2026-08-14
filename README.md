@@ -5,16 +5,16 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-167-5865F2?style=for-the-badge" alt="Total Solved" />
-<img src="https://img.shields.io/badge/Easy-40-2ECC71?style=for-the-badge" alt="Easy" />
+<img src="https://img.shields.io/badge/Total%20Solved-168-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Easy-41-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-78-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-49-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-114%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-116%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
-<img src="https://img.shields.io/badge/JAVA-16%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
+<img src="https://img.shields.io/badge/JAVA-15%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
 
 
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 167 |
+| **Total problems solved** | 168 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (87), `String` (42), `Dynamic Programming` (40), `Math` (39), `Hash Table` (33) |
-| **Last updated** | 2026-08-14 02:21:19 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (87), `String` (43), `Dynamic Programming` (40), `Math` (39), `Hash Table` (34) |
+| **Last updated** | 2026-08-14 06:44:21 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     40  █████░░░░░░░░░░░░░░░   24.0%
-🟡 Medium   78  █████████░░░░░░░░░░░   46.7%
-🔴 Hard     49  ██████░░░░░░░░░░░░░░   29.3%
+🟢 Easy     41  █████░░░░░░░░░░░░░░░   24.4%
+🟡 Medium   78  █████████░░░░░░░░░░░   46.4%
+🔴 Hard     49  ██████░░░░░░░░░░░░░░   29.2%
 ```
 
 
@@ -143,7 +143,7 @@
 </details>
 
 <details>
-<summary><b>String</b> &nbsp;·&nbsp; 42 problem(s)</summary>
+<summary><b>String</b> &nbsp;·&nbsp; 43 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -181,6 +181,7 @@
 | 2213 | [Longest Substring Of One Repeating Character](2213-longest-substring-of-one-repeating-character) | 🔴 HARD |
 | 3014 | [Minimum Number Of Pushes To Type Word I](3014-minimum-number-of-pushes-to-type-word-i) | 🟢 EASY |
 | 3016 | [Minimum Number Of Pushes To Type Word Ii](3016-minimum-number-of-pushes-to-type-word-ii) | 🟡 MEDIUM |
+| 3090 | [Maximum Length Substring With Two Occurrences](3090-maximum-length-substring-with-two-occurrences) | 🟢 EASY |
 | 3302 | [Find The Lexicographically Smallest Valid Sequence](3302-find-the-lexicographically-smallest-valid-sequence) | 🟡 MEDIUM |
 | 3348 | [Smallest Divisible Digit Product Ii](3348-smallest-divisible-digit-product-ii) | 🔴 HARD |
 | 3499 | [Maximize Active Section With Trade I](3499-maximize-active-section-with-trade-i) | 🟡 MEDIUM |
@@ -291,7 +292,7 @@
 </details>
 
 <details>
-<summary><b>Hash Table</b> &nbsp;·&nbsp; 33 problem(s)</summary>
+<summary><b>Hash Table</b> &nbsp;·&nbsp; 34 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -320,6 +321,7 @@
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](2996-smallest-missing-integer-greater-than-sequential-prefix-sum) | 🟢 EASY |
 | 3016 | [Minimum Number Of Pushes To Type Word Ii](3016-minimum-number-of-pushes-to-type-word-ii) | 🟡 MEDIUM |
 | 3020 | [Find The Maximum Number Of Elements In Subset](3020-find-the-maximum-number-of-elements-in-subset) | 🟡 MEDIUM |
+| 3090 | [Maximum Length Substring With Two Occurrences](3090-maximum-length-substring-with-two-occurrences) | 🟢 EASY |
 | 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD |
 | 3518 | [Smallest Palindromic Rearrangement Ii](3518-smallest-palindromic-rearrangement-ii) | 🔴 HARD |
 | 3532 | [Path Existence Queries In A Graph I](3532-path-existence-queries-in-a-graph-i) | 🟡 MEDIUM |
@@ -622,6 +624,22 @@
 </details>
 
 <details>
+<summary><b>Sliding Window</b> &nbsp;·&nbsp; 7 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters) | 🟡 MEDIUM |
+| 0076 | [Minimum Window Substring](0076-minimum-window-substring) | 🔴 HARD |
+| 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
+| 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM |
+| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
+| 2958 | [Length Of Longest Subarray With At Most K Frequency](2958-length-of-longest-subarray-with-at-most-k-frequency) | 🟡 MEDIUM |
+| 3090 | [Maximum Length Substring With Two Occurrences](3090-maximum-length-substring-with-two-occurrences) | 🟢 EASY |
+
+</details>
+
+<details>
 <summary><b>Divide and Conquer</b> &nbsp;·&nbsp; 7 problem(s)</summary>
 
 
@@ -680,21 +698,6 @@
 | 0060 | [Permutation Sequence](0060-permutation-sequence) | 🔴 HARD |
 | 0233 | [Number Of Digit One](0233-number-of-digit-one) | 🔴 HARD |
 | 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Sliding Window</b> &nbsp;·&nbsp; 6 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters) | 🟡 MEDIUM |
-| 0076 | [Minimum Window Substring](0076-minimum-window-substring) | 🔴 HARD |
-| 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
-| 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM |
-| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
-| 2958 | [Length Of Longest Subarray With At Most K Frequency](2958-length-of-longest-subarray-with-at-most-k-frequency) | 🟡 MEDIUM |
 
 </details>
 
@@ -1276,7 +1279,7 @@
 | 1784 | [Check If Binary String Has At Most One Segment Of Ones](1784-check-if-binary-string-has-at-most-one-segment-of-ones) | 🟢 EASY | String | PY |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM | Array, Greedy, Sorting +1 | PY |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD | Array, Math, Sorting | PY |
-| 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM | Array, Greedy, Sorting | JAVA |
+| 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM | Array, Greedy, Sorting | PY |
 | 1967 | [Number Of Strings That Appear As Substrings In Word](1967-number-of-strings-that-appear-as-substrings-in-word) | 🟢 EASY | Array, String | JAVA |
 | 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array) | 🟢 EASY | Array, Math, Number Theory | PY |
 | 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM | Linked List, Two Pointers | PY |
@@ -1296,6 +1299,7 @@
 | 3014 | [Minimum Number Of Pushes To Type Word I](3014-minimum-number-of-pushes-to-type-word-i) | 🟢 EASY | Math, String, Greedy | PY |
 | 3016 | [Minimum Number Of Pushes To Type Word Ii](3016-minimum-number-of-pushes-to-type-word-ii) | 🟡 MEDIUM | Hash Table, String, Greedy +2 | PY |
 | 3020 | [Find The Maximum Number Of Elements In Subset](3020-find-the-maximum-number-of-elements-in-subset) | 🟡 MEDIUM | Array, Hash Table, Enumeration | JAVA |
+| 3090 | [Maximum Length Substring With Two Occurrences](3090-maximum-length-substring-with-two-occurrences) | 🟢 EASY | Hash Table, String, Sliding Window | PY |
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM | Array, Breadth-First Search, Graph Theory +3 | CPP |
 | 3302 | [Find The Lexicographically Smallest Valid Sequence](3302-find-the-lexicographically-smallest-valid-sequence) | 🟡 MEDIUM | Two Pointers, String, Dynamic Programming +1 | PY |
 | 3310 | [Remove Methods From Project](3310-remove-methods-from-project) | 🟡 MEDIUM | Depth-First Search, Breadth-First Search, Graph Theory | PY |
@@ -1346,22 +1350,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-08-14 02:21:19 UTC_
+_Generated on 2026-08-14 06:44:21 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [3090-maximum-length-substring-with-two-occurrences](https://github.com/chittoralovesh/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
-## String
-|  |
-| ------- |
-| [3090-maximum-length-substring-with-two-occurrences](https://github.com/chittoralovesh/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
-## Sliding Window
-|  |
-| ------- |
-| [3090-maximum-length-substring-with-two-occurrences](https://github.com/chittoralovesh/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
-<!---LeetCode Topics End-->

@@ -395,6 +395,11 @@
     "Sorting",
     "Counting Sort"
   ],
+  "maximum-length-substring-with-two-occurrences": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
   "maximum-number-of-balloons": [
     "Hash Table",
     "String",
