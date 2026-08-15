@@ -1353,3 +1353,15 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-08-15 01:31:42 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/chittoralovesh/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/chittoralovesh/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+<!---LeetCode Topics End-->
