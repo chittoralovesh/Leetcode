@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-168-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-169-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-41-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-78-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-79-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-49-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-116%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-117%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-15%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 168 |
+| **Total problems solved** | 169 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (87), `String` (43), `Dynamic Programming` (40), `Math` (39), `Hash Table` (34) |
-| **Last updated** | 2026-08-15 01:31:42 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (88), `String` (43), `Dynamic Programming` (40), `Math` (39), `Hash Table` (34) |
+| **Last updated** | 2026-08-15 07:01:47 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     41  █████░░░░░░░░░░░░░░░   24.4%
-🟡 Medium   78  █████████░░░░░░░░░░░   46.4%
-🔴 Hard     49  ██████░░░░░░░░░░░░░░   29.2%
+🟢 Easy     41  █████░░░░░░░░░░░░░░░   24.3%
+🟡 Medium   79  █████████░░░░░░░░░░░   46.7%
+🔴 Hard     49  ██████░░░░░░░░░░░░░░   29.0%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 87 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 88 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -133,6 +133,7 @@
 | 3660 | [Jump Game Ix](3660-jump-game-ix) | 🟡 MEDIUM |
 | 3689 | [Maximum Total Subarray Value I](3689-maximum-total-subarray-value-i) | 🟡 MEDIUM |
 | 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
+| 3702 | [Longest Subsequence With Non Zero Bitwise Xor](3702-longest-subsequence-with-non-zero-bitwise-xor) | 🟡 MEDIUM |
 | 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM |
 | 3731 | [Find Missing Elements](3731-find-missing-elements) | 🟢 EASY |
 | 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
@@ -804,6 +805,19 @@
 </details>
 
 <details>
+<summary><b>Bit Manipulation</b> &nbsp;·&nbsp; 4 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
+| 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
+| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
+| 3702 | [Longest Subsequence With Non Zero Bitwise Xor](3702-longest-subsequence-with-non-zero-bitwise-xor) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Merge Sort</b> &nbsp;·&nbsp; 4 problem(s)</summary>
 
 
@@ -886,18 +900,6 @@
 | 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
 | 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
 | 2213 | [Longest Substring Of One Repeating Character](2213-longest-substring-of-one-repeating-character) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Bit Manipulation</b> &nbsp;·&nbsp; 3 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
-| 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
-| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
 
 </details>
 
@@ -1327,6 +1329,7 @@
 | 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM | Array, Greedy, Segment Tree +1 | PY |
 | 3699 | [Number Of Zigzag Arrays I](3699-number-of-zigzag-arrays-i) | 🟡 MEDIUM | Dynamic Programming, Prefix Sum | PY |
 | 3700 | [Number Of Zigzag Arrays Ii](3700-number-of-zigzag-arrays-ii) | 🔴 HARD | Math, Dynamic Programming | CPP |
+| 3702 | [Longest Subsequence With Non Zero Bitwise Xor](3702-longest-subsequence-with-non-zero-bitwise-xor) | 🟡 MEDIUM | Array, Bit Manipulation | PY |
 | 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM | Array, Hash Table, Divide and Conquer +2 | PY |
 | 3731 | [Find Missing Elements](3731-find-missing-elements) | 🟢 EASY | Array, Hash Table, Sorting | PY |
 | 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM | Array, Hash Table, Divide and Conquer +4 | PY |
@@ -1350,18 +1353,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-08-15 01:31:42 UTC_
+_Generated on 2026-08-15 07:01:47 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/chittoralovesh/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
-## Bit Manipulation
-|  |
-| ------- |
-| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/chittoralovesh/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
-<!---LeetCode Topics End-->

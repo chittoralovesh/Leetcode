@@ -336,6 +336,10 @@
     "String",
     "Dynamic Programming"
   ],
+  "longest-subsequence-with-non-zero-bitwise-xor": [
+    "Array",
+    "Bit Manipulation"
+  ],
   "longest-substring-of-one-repeating-character": [
     "Array",
     "String",
