@@ -29,7 +29,7 @@
 | **Total problems solved** | 170 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (89), `String` (43), `Math` (40), `Dynamic Programming` (40), `Hash Table` (34) |
-| **Last updated** | 2026-08-16 16:21:57 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-08-16 16:22:26 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
@@ -1362,42 +1362,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-08-16 16:21:57 UTC_
+_Generated on 2026-08-16 16:22:26 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2029-stone-game-ix](https://github.com/chittoralovesh/Leetcode/tree/master/2029-stone-game-ix) |
-## Math
-|  |
-| ------- |
-| [2029-stone-game-ix](https://github.com/chittoralovesh/Leetcode/tree/master/2029-stone-game-ix) |
-## Greedy
-|  |
-| ------- |
-| [2029-stone-game-ix](https://github.com/chittoralovesh/Leetcode/tree/master/2029-stone-game-ix) |
-## Minimax
-|  |
-| ------- |
-| [2029-stone-game-ix](https://github.com/chittoralovesh/Leetcode/tree/master/2029-stone-game-ix) |
-## Counting
-|  |
-| ------- |
-| [2029-stone-game-ix](https://github.com/chittoralovesh/Leetcode/tree/master/2029-stone-game-ix) |
-## Game Theory
-|  |
-| ------- |
-| [2029-stone-game-ix](https://github.com/chittoralovesh/Leetcode/tree/master/2029-stone-game-ix) |
-## Nim Game
-|  |
-| ------- |
-| [2029-stone-game-ix](https://github.com/chittoralovesh/Leetcode/tree/master/2029-stone-game-ix) |
-## Zero-Sum Game
-|  |
-| ------- |
-| [2029-stone-game-ix](https://github.com/chittoralovesh/Leetcode/tree/master/2029-stone-game-ix) |
-<!---LeetCode Topics End-->
