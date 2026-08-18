@@ -222,6 +222,10 @@
     "Array",
     "Prefix Sum"
   ],
+  "find-the-largest-almost-missing-integer": [
+    "Array",
+    "Hash Table"
+  ],
   "find-the-lexicographically-smallest-valid-sequence": [
     "Two Pointers",
     "String",
