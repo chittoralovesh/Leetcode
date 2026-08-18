@@ -252,6 +252,12 @@
     "Math",
     "Number Theory"
   ],
+  "generate-parentheses": [
+    "String",
+    "Dynamic Programming",
+    "Backtracking",
+    "Bracket Sequences"
+  ],
   "guess-number-higher-or-lower": [
     "Binary Search",
     "Interactive"
