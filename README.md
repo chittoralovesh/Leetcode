@@ -1382,3 +1382,23 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-08-19 01:35:13 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/chittoralovesh/Leetcode/tree/master/1386-cinema-seat-allocation) |
+## Hash Table
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/chittoralovesh/Leetcode/tree/master/1386-cinema-seat-allocation) |
+## Greedy
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/chittoralovesh/Leetcode/tree/master/1386-cinema-seat-allocation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/chittoralovesh/Leetcode/tree/master/1386-cinema-seat-allocation) |
+<!---LeetCode Topics End-->
