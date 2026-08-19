@@ -64,6 +64,12 @@
   "check-if-binary-string-has-at-most-one-segment-of-ones": [
     "String"
   ],
+  "cinema-seat-allocation": [
+    "Array",
+    "Hash Table",
+    "Greedy",
+    "Bit Manipulation"
+  ],
   "classes-with-at-least-5-students": [
     "Database"
   ],

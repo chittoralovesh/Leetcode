@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-172-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-173-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-42-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-81-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-82-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-49-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-120%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-121%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-15%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 172 |
+| **Total problems solved** | 173 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (90), `String` (44), `Dynamic Programming` (41), `Math` (40), `Hash Table` (35) |
-| **Last updated** | 2026-08-19 01:35:13 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (91), `String` (44), `Dynamic Programming` (41), `Math` (40), `Hash Table` (36) |
+| **Last updated** | 2026-08-19 11:50:44 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     42  █████░░░░░░░░░░░░░░░   24.4%
-🟡 Medium   81  █████████░░░░░░░░░░░   47.1%
-🔴 Hard     49  ██████░░░░░░░░░░░░░░   28.5%
+🟢 Easy     42  █████░░░░░░░░░░░░░░░   24.3%
+🟡 Medium   82  █████████░░░░░░░░░░░   47.4%
+🔴 Hard     49  ██████░░░░░░░░░░░░░░   28.3%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 90 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 91 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -100,6 +100,7 @@
 | 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD |
 | 1331 | [Rank Transform Of An Array](1331-rank-transform-of-an-array) | 🟢 EASY |
 | 1345 | [Jump Game Iv](1345-jump-game-iv) | 🔴 HARD |
+| 1386 | [Cinema Seat Allocation](1386-cinema-seat-allocation) | 🟡 MEDIUM |
 | 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
 | 1464 | [Maximum Product Of Two Elements In An Array](1464-maximum-product-of-two-elements-in-an-array) | 🟢 EASY |
 | 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD |
@@ -298,7 +299,7 @@
 </details>
 
 <details>
-<summary><b>Hash Table</b> &nbsp;·&nbsp; 35 problem(s)</summary>
+<summary><b>Hash Table</b> &nbsp;·&nbsp; 36 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -322,6 +323,7 @@
 | 1331 | [Rank Transform Of An Array](1331-rank-transform-of-an-array) | 🟢 EASY |
 | 1345 | [Jump Game Iv](1345-jump-game-iv) | 🔴 HARD |
 | 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM |
+| 1386 | [Cinema Seat Allocation](1386-cinema-seat-allocation) | 🟡 MEDIUM |
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
 | 2958 | [Length Of Longest Subarray With At Most K Frequency](2958-length-of-longest-subarray-with-at-most-k-frequency) | 🟡 MEDIUM |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](2996-smallest-missing-integer-greater-than-sequential-prefix-sum) | 🟢 EASY |
@@ -377,7 +379,7 @@
 </details>
 
 <details>
-<summary><b>Greedy</b> &nbsp;·&nbsp; 21 problem(s)</summary>
+<summary><b>Greedy</b> &nbsp;·&nbsp; 22 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -389,6 +391,7 @@
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD |
 | 0649 | [Dota2 Senate](0649-dota2-senate) | 🟡 MEDIUM |
 | 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM |
+| 1386 | [Cinema Seat Allocation](1386-cinema-seat-allocation) | 🟡 MEDIUM |
 | 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM |
 | 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM |
@@ -802,6 +805,20 @@
 </details>
 
 <details>
+<summary><b>Bit Manipulation</b> &nbsp;·&nbsp; 5 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
+| 1386 | [Cinema Seat Allocation](1386-cinema-seat-allocation) | 🟡 MEDIUM |
+| 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
+| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
+| 3702 | [Longest Subsequence With Non Zero Bitwise Xor](3702-longest-subsequence-with-non-zero-bitwise-xor) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Binary Tree</b> &nbsp;·&nbsp; 4 problem(s)</summary>
 
 
@@ -811,19 +828,6 @@
 | 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
 | 0107 | [Binary Tree Level Order Traversal Ii](0107-binary-tree-level-order-traversal-ii) | 🟡 MEDIUM |
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Bit Manipulation</b> &nbsp;·&nbsp; 4 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
-| 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
-| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
-| 3702 | [Longest Subsequence With Non Zero Bitwise Xor](3702-longest-subsequence-with-non-zero-bitwise-xor) | 🟡 MEDIUM |
 
 </details>
 
@@ -1297,6 +1301,7 @@
 | 1344 | [Angle Between Hands Of A Clock](1344-angle-between-hands-of-a-clock) | 🟡 MEDIUM | Math | PY |
 | 1345 | [Jump Game Iv](1345-jump-game-iv) | 🔴 HARD | Array, Hash Table, Breadth-First Search | PY |
 | 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM | Hash Table, String, Sliding Window | JAVA |
+| 1386 | [Cinema Seat Allocation](1386-cinema-seat-allocation) | 🟡 MEDIUM | Array, Hash Table, Greedy +1 | PY |
 | 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD | Array, Math, Dynamic Programming +3 | PY |
 | 1464 | [Maximum Product Of Two Elements In An Array](1464-maximum-product-of-two-elements-in-an-array) | 🟢 EASY | Array, Sorting, Heap (Priority Queue) | PY |
 | 1510 | [Stone Game Iv](1510-stone-game-iv) | 🔴 HARD | Math, Dynamic Programming, Minimax +4 | PY |
@@ -1379,26 +1384,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-08-19 01:35:13 UTC_
+_Generated on 2026-08-19 11:50:44 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1386-cinema-seat-allocation](https://github.com/chittoralovesh/Leetcode/tree/master/1386-cinema-seat-allocation) |
-## Hash Table
-|  |
-| ------- |
-| [1386-cinema-seat-allocation](https://github.com/chittoralovesh/Leetcode/tree/master/1386-cinema-seat-allocation) |
-## Greedy
-|  |
-| ------- |
-| [1386-cinema-seat-allocation](https://github.com/chittoralovesh/Leetcode/tree/master/1386-cinema-seat-allocation) |
-## Bit Manipulation
-|  |
-| ------- |
-| [1386-cinema-seat-allocation](https://github.com/chittoralovesh/Leetcode/tree/master/1386-cinema-seat-allocation) |
-<!---LeetCode Topics End-->
