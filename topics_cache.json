@@ -526,6 +526,10 @@
     "Array",
     "Backtracking"
   ],
+  "n-queens-ii": [
+    "Backtracking",
+    "Algorithm X"
+  ],
   "network-recovery-pathways": [
     "Array",
     "Binary Search",
