@@ -1394,3 +1394,23 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-08-20 17:25:27 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/chittoralovesh/Leetcode/tree/master/0049-group-anagrams) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/chittoralovesh/Leetcode/tree/master/0049-group-anagrams) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/chittoralovesh/Leetcode/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/chittoralovesh/Leetcode/tree/master/0049-group-anagrams) |
+<!---LeetCode Topics End-->
