@@ -1402,3 +1402,15 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-08-20 17:28:16 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0052-n-queens-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0052-n-queens-ii) |
+<!---LeetCode Topics End-->
