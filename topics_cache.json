@@ -711,6 +711,11 @@
     "Math",
     "String"
   ],
+  "rotate-image": [
+    "Array",
+    "Math",
+    "Matrix"
+  ],
   "same-tree": [
     "Tree",
     "Depth-First Search",
