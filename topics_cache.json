@@ -268,6 +268,12 @@
     "Backtracking",
     "Bracket Sequences"
   ],
+  "group-anagrams": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Sorting"
+  ],
   "guess-number-higher-or-lower": [
     "Binary Search",
     "Interactive"

@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-175-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-176-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-42-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-84-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-85-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-49-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-123%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-124%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-15%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 175 |
+| **Total problems solved** | 176 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (93), `String` (44), `Math` (41), `Dynamic Programming` (41), `Hash Table` (36) |
-| **Last updated** | 2026-08-20 17:25:27 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (94), `String` (45), `Math` (41), `Dynamic Programming` (41), `Hash Table` (37) |
+| **Last updated** | 2026-08-20 17:27:15 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     42  █████░░░░░░░░░░░░░░░   24.0%
-🟡 Medium   84  ██████████░░░░░░░░░░   48.0%
-🔴 Hard     49  ██████░░░░░░░░░░░░░░   28.0%
+🟢 Easy     42  █████░░░░░░░░░░░░░░░   23.9%
+🟡 Medium   85  ██████████░░░░░░░░░░   48.3%
+🔴 Hard     49  ██████░░░░░░░░░░░░░░   27.8%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 93 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 94 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -62,6 +62,7 @@
 | 0031 | [Next Permutation](0031-next-permutation) | 🟡 MEDIUM |
 | 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
 | 0048 | [Rotate Image](0048-rotate-image) | 🟡 MEDIUM |
+| 0049 | [Group Anagrams](0049-group-anagrams) | 🟡 MEDIUM |
 | 0051 | [N Queens](0051-n-queens) | 🔴 HARD |
 | 0055 | [Jump Game](0055-jump-game) | 🟡 MEDIUM |
 | 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
@@ -149,7 +150,7 @@
 </details>
 
 <details>
-<summary><b>String</b> &nbsp;·&nbsp; 44 problem(s)</summary>
+<summary><b>String</b> &nbsp;·&nbsp; 45 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -165,6 +166,7 @@
 | 0017 | [Letter Combinations Of A Phone Number](0017-letter-combinations-of-a-phone-number) | 🟡 MEDIUM |
 | 0022 | [Generate Parentheses](0022-generate-parentheses) | 🟡 MEDIUM |
 | 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD |
+| 0049 | [Group Anagrams](0049-group-anagrams) | 🟡 MEDIUM |
 | 0058 | [Length Of Last Word](0058-length-of-last-word) | 🟢 EASY |
 | 0076 | [Minimum Window Substring](0076-minimum-window-substring) | 🔴 HARD |
 | 0127 | [Word Ladder](0127-word-ladder) | 🔴 HARD |
@@ -302,7 +304,7 @@
 </details>
 
 <details>
-<summary><b>Hash Table</b> &nbsp;·&nbsp; 36 problem(s)</summary>
+<summary><b>Hash Table</b> &nbsp;·&nbsp; 37 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -313,6 +315,7 @@
 | 0013 | [Roman To Integer](0013-roman-to-integer) | 🟢 EASY |
 | 0017 | [Letter Combinations Of A Phone Number](0017-letter-combinations-of-a-phone-number) | 🟡 MEDIUM |
 | 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
+| 0049 | [Group Anagrams](0049-group-anagrams) | 🟡 MEDIUM |
 | 0076 | [Minimum Window Substring](0076-minimum-window-substring) | 🔴 HARD |
 | 0127 | [Word Ladder](0127-word-ladder) | 🔴 HARD |
 | 0139 | [Word Break](0139-word-break) | 🟡 MEDIUM |
@@ -347,7 +350,7 @@
 </details>
 
 <details>
-<summary><b>Sorting</b> &nbsp;·&nbsp; 26 problem(s)</summary>
+<summary><b>Sorting</b> &nbsp;·&nbsp; 27 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -355,6 +358,7 @@
 | 0015 | [3Sum](0015-3sum) | 🟡 MEDIUM |
 | 0016 | [3Sum Closest](0016-3sum-closest) | 🟡 MEDIUM |
 | 0018 | [4Sum](0018-4sum) | 🟡 MEDIUM |
+| 0049 | [Group Anagrams](0049-group-anagrams) | 🟡 MEDIUM |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array) | 🟢 EASY |
 | 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
 | 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
@@ -1227,6 +1231,7 @@
 | 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD | Array, Hash Table, Backtracking +1 | PY |
 | 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD | String, Dynamic Programming, Greedy +1 | PY |
 | 0048 | [Rotate Image](0048-rotate-image) | 🟡 MEDIUM | Array, Math, Matrix | PY |
+| 0049 | [Group Anagrams](0049-group-anagrams) | 🟡 MEDIUM | Array, Hash Table, String +1 | PY |
 | 0051 | [N Queens](0051-n-queens) | 🔴 HARD | Array, Backtracking | PY |
 | 0055 | [Jump Game](0055-jump-game) | 🟡 MEDIUM | Array, Dynamic Programming, Greedy | PY |
 | 0058 | [Length Of Last Word](0058-length-of-last-word) | 🟢 EASY | String | PY |
@@ -1391,26 +1396,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-08-20 17:25:27 UTC_
+_Generated on 2026-08-20 17:27:15 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0049-group-anagrams](https://github.com/chittoralovesh/Leetcode/tree/master/0049-group-anagrams) |
-## Hash Table
-|  |
-| ------- |
-| [0049-group-anagrams](https://github.com/chittoralovesh/Leetcode/tree/master/0049-group-anagrams) |
-## String
-|  |
-| ------- |
-| [0049-group-anagrams](https://github.com/chittoralovesh/Leetcode/tree/master/0049-group-anagrams) |
-## Sorting
-|  |
-| ------- |
-| [0049-group-anagrams](https://github.com/chittoralovesh/Leetcode/tree/master/0049-group-anagrams) |
-<!---LeetCode Topics End-->
