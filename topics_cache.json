@@ -170,6 +170,10 @@
     "Matrix",
     "Simulation"
   ],
+  "distribute-elements-into-two-arrays-i": [
+    "Array",
+    "Simulation"
+  ],
   "divisor-game": [
     "Math",
     "Dynamic Programming",
