@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-176-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-177-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-42-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-85-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-86-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-49-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-124%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-125%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-15%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 176 |
+| **Total problems solved** | 177 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (94), `String` (45), `Math` (41), `Dynamic Programming` (41), `Hash Table` (37) |
-| **Last updated** | 2026-08-20 17:27:15 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (94), `String` (45), `Math` (42), `Dynamic Programming` (41), `Hash Table` (37) |
+| **Last updated** | 2026-08-20 17:28:16 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     42  █████░░░░░░░░░░░░░░░   23.9%
-🟡 Medium   85  ██████████░░░░░░░░░░   48.3%
-🔴 Hard     49  ██████░░░░░░░░░░░░░░   27.8%
+🟢 Easy     42  █████░░░░░░░░░░░░░░░   23.7%
+🟡 Medium   86  ██████████░░░░░░░░░░   48.6%
+🔴 Hard     49  ██████░░░░░░░░░░░░░░   27.7%
 ```
 
 
@@ -204,7 +204,7 @@
 </details>
 
 <details>
-<summary><b>Math</b> &nbsp;·&nbsp; 41 problem(s)</summary>
+<summary><b>Math</b> &nbsp;·&nbsp; 42 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -215,6 +215,7 @@
 | 0012 | [Integer To Roman](0012-integer-to-roman) | 🟡 MEDIUM |
 | 0013 | [Roman To Integer](0013-roman-to-integer) | 🟢 EASY |
 | 0048 | [Rotate Image](0048-rotate-image) | 🟡 MEDIUM |
+| 0050 | [Powx N](0050-powx-n) | 🟡 MEDIUM |
 | 0060 | [Permutation Sequence](0060-permutation-sequence) | 🔴 HARD |
 | 0070 | [Climbing Stairs](0070-climbing-stairs) | 🟢 EASY |
 | 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
@@ -661,6 +662,22 @@
 </details>
 
 <details>
+<summary><b>Recursion</b> &nbsp;·&nbsp; 7 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0002 | [Add Two Numbers](0002-add-two-numbers) | 🟡 MEDIUM |
+| 0010 | [Regular Expression Matching](0010-regular-expression-matching) | 🔴 HARD |
+| 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD |
+| 0050 | [Powx N](0050-powx-n) | 🟡 MEDIUM |
+| 0060 | [Permutation Sequence](0060-permutation-sequence) | 🔴 HARD |
+| 0233 | [Number Of Digit One](0233-number-of-digit-one) | 🔴 HARD |
+| 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Sliding Window</b> &nbsp;·&nbsp; 7 problem(s)</summary>
 
 
@@ -736,21 +753,6 @@
 | 0382 | [Linked List Random Node](0382-linked-list-random-node) | 🟡 MEDIUM |
 | 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM |
 | 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Recursion</b> &nbsp;·&nbsp; 6 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0002 | [Add Two Numbers](0002-add-two-numbers) | 🟡 MEDIUM |
-| 0010 | [Regular Expression Matching](0010-regular-expression-matching) | 🔴 HARD |
-| 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD |
-| 0060 | [Permutation Sequence](0060-permutation-sequence) | 🔴 HARD |
-| 0233 | [Number Of Digit One](0233-number-of-digit-one) | 🔴 HARD |
-| 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM |
 
 </details>
 
@@ -1232,6 +1234,7 @@
 | 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD | String, Dynamic Programming, Greedy +1 | PY |
 | 0048 | [Rotate Image](0048-rotate-image) | 🟡 MEDIUM | Array, Math, Matrix | PY |
 | 0049 | [Group Anagrams](0049-group-anagrams) | 🟡 MEDIUM | Array, Hash Table, String +1 | PY |
+| 0050 | [Powx N](0050-powx-n) | 🟡 MEDIUM | Math, Recursion | PY |
 | 0051 | [N Queens](0051-n-queens) | 🔴 HARD | Array, Backtracking | PY |
 | 0055 | [Jump Game](0055-jump-game) | 🟡 MEDIUM | Array, Dynamic Programming, Greedy | PY |
 | 0058 | [Length Of Last Word](0058-length-of-last-word) | 🟢 EASY | String | PY |
@@ -1396,18 +1399,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-08-20 17:27:15 UTC_
+_Generated on 2026-08-20 17:28:16 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0050-powx-n](https://github.com/chittoralovesh/Leetcode/tree/master/0050-powx-n) |
-## Recursion
-|  |
-| ------- |
-| [0050-powx-n](https://github.com/chittoralovesh/Leetcode/tree/master/0050-powx-n) |
-<!---LeetCode Topics End-->
