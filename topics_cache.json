@@ -202,6 +202,12 @@
   "employees-earning-more-than-their-managers": [
     "Database"
   ],
+  "equal-sum-grid-partition-i": [
+    "Array",
+    "Matrix",
+    "Enumeration",
+    "Prefix Sum"
+  ],
   "execution-of-all-suffix-instructions-staying-in-a-grid": [
     "String",
     "Simulation"
