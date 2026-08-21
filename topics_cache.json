@@ -312,6 +312,14 @@
     "Array",
     "Dynamic Programming"
   ],
+  "kth-smallest-amount-with-single-denomination-combination": [
+    "Array",
+    "Math",
+    "Binary Search",
+    "Bit Manipulation",
+    "Combinatorics",
+    "Number Theory"
+  ],
   "left-and-right-sum-differences": [
     "Array",
     "Prefix Sum"
