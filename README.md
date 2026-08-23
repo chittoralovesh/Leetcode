@@ -1433,3 +1433,23 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-08-23 17:33:11 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/chittoralovesh/Leetcode/tree/master/1927-sum-game) |
+## String
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/chittoralovesh/Leetcode/tree/master/1927-sum-game) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/chittoralovesh/Leetcode/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/chittoralovesh/Leetcode/tree/master/1927-sum-game) |
+<!---LeetCode Topics End-->
