@@ -29,7 +29,7 @@
 | **Total problems solved** | 182 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (96), `String` (46), `Math` (45), `Dynamic Programming` (41), `Hash Table` (37) |
-| **Last updated** | 2026-08-23 17:33:11 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-08-23 17:34:29 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
@@ -1430,26 +1430,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-08-23 17:33:11 UTC_
+_Generated on 2026-08-23 17:34:29 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [1927-sum-game](https://github.com/chittoralovesh/Leetcode/tree/master/1927-sum-game) |
-## String
-|  |
-| ------- |
-| [1927-sum-game](https://github.com/chittoralovesh/Leetcode/tree/master/1927-sum-game) |
-## Greedy
-|  |
-| ------- |
-| [1927-sum-game](https://github.com/chittoralovesh/Leetcode/tree/master/1927-sum-game) |
-## Game Theory
-|  |
-| ------- |
-| [1927-sum-game](https://github.com/chittoralovesh/Leetcode/tree/master/1927-sum-game) |
-<!---LeetCode Topics End-->
