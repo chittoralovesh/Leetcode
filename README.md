@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-181-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-182-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-42-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-88-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-89-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-51-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-129%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-130%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-15%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 181 |
+| **Total problems solved** | 182 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (96), `String` (45), `Math` (44), `Dynamic Programming` (41), `Hash Table` (37) |
-| **Last updated** | 2026-08-23 01:41:37 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (96), `String` (46), `Math` (45), `Dynamic Programming` (41), `Hash Table` (37) |
+| **Last updated** | 2026-08-23 17:33:11 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     42  █████░░░░░░░░░░░░░░░   23.2%
-🟡 Medium   88  ██████████░░░░░░░░░░   48.6%
-🔴 Hard     51  ██████░░░░░░░░░░░░░░   28.2%
+🟢 Easy     42  █████░░░░░░░░░░░░░░░   23.1%
+🟡 Medium   89  ██████████░░░░░░░░░░   48.9%
+🔴 Hard     51  ██████░░░░░░░░░░░░░░   28.0%
 ```
 
 
@@ -152,7 +152,7 @@
 </details>
 
 <details>
-<summary><b>String</b> &nbsp;·&nbsp; 45 problem(s)</summary>
+<summary><b>String</b> &nbsp;·&nbsp; 46 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -187,6 +187,7 @@
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
 | 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM |
 | 1784 | [Check If Binary String Has At Most One Segment Of Ones](1784-check-if-binary-string-has-at-most-one-segment-of-ones) | 🟢 EASY |
+| 1927 | [Sum Game](1927-sum-game) | 🟡 MEDIUM |
 | 1967 | [Number Of Strings That Appear As Substrings In Word](1967-number-of-strings-that-appear-as-substrings-in-word) | 🟢 EASY |
 | 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM |
 | 2213 | [Longest Substring Of One Repeating Character](2213-longest-substring-of-one-repeating-character) | 🔴 HARD |
@@ -206,7 +207,7 @@
 </details>
 
 <details>
-<summary><b>Math</b> &nbsp;·&nbsp; 44 problem(s)</summary>
+<summary><b>Math</b> &nbsp;·&nbsp; 45 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -235,6 +236,7 @@
 | 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
 | 1510 | [Stone Game Iv](1510-stone-game-iv) | 🔴 HARD |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD |
+| 1927 | [Sum Game](1927-sum-game) | 🟡 MEDIUM |
 | 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array) | 🟢 EASY |
 | 2029 | [Stone Game Ix](2029-stone-game-ix) | 🟡 MEDIUM |
 | 3014 | [Minimum Number Of Pushes To Type Word I](3014-minimum-number-of-pushes-to-type-word-i) | 🟢 EASY |
@@ -391,7 +393,7 @@
 </details>
 
 <details>
-<summary><b>Greedy</b> &nbsp;·&nbsp; 22 problem(s)</summary>
+<summary><b>Greedy</b> &nbsp;·&nbsp; 23 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -407,6 +409,7 @@
 | 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM |
 | 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM |
+| 1927 | [Sum Game](1927-sum-game) | 🟡 MEDIUM |
 | 2029 | [Stone Game Ix](2029-stone-game-ix) | 🟡 MEDIUM |
 | 2144 | [Minimum Cost Of Buying Candies With Discount](2144-minimum-cost-of-buying-candies-with-discount) | 🟢 EASY |
 | 3014 | [Minimum Number Of Pushes To Type Word I](3014-minimum-number-of-pushes-to-type-word-i) | 🟢 EASY |
@@ -600,6 +603,24 @@
 </details>
 
 <details>
+<summary><b>Game Theory</b> &nbsp;·&nbsp; 9 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
+| 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM |
+| 0877 | [Stone Game](0877-stone-game) | 🟡 MEDIUM |
+| 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY |
+| 1140 | [Stone Game Ii](1140-stone-game-ii) | 🟡 MEDIUM |
+| 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
+| 1510 | [Stone Game Iv](1510-stone-game-iv) | 🔴 HARD |
+| 1927 | [Sum Game](1927-sum-game) | 🟡 MEDIUM |
+| 2029 | [Stone Game Ix](2029-stone-game-ix) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Simulation</b> &nbsp;·&nbsp; 9 problem(s)</summary>
 
 
@@ -648,23 +669,6 @@
 | 3532 | [Path Existence Queries In A Graph I](3532-path-existence-queries-in-a-graph-i) | 🟡 MEDIUM |
 | 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
 | 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Game Theory</b> &nbsp;·&nbsp; 8 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
-| 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM |
-| 0877 | [Stone Game](0877-stone-game) | 🟡 MEDIUM |
-| 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY |
-| 1140 | [Stone Game Ii](1140-stone-game-ii) | 🟡 MEDIUM |
-| 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
-| 1510 | [Stone Game Iv](1510-stone-game-iv) | 🔴 HARD |
-| 2029 | [Stone Game Ix](2029-stone-game-ix) | 🟡 MEDIUM |
 
 </details>
 
@@ -1348,6 +1352,7 @@
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM | Array, Greedy, Sorting +1 | PY |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD | Array, Math, Sorting | PY |
 | 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM | Array, Greedy, Sorting | PY |
+| 1927 | [Sum Game](1927-sum-game) | 🟡 MEDIUM | Math, String, Greedy +1 | PY |
 | 1967 | [Number Of Strings That Appear As Substrings In Word](1967-number-of-strings-that-appear-as-substrings-in-word) | 🟢 EASY | Array, String | JAVA |
 | 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array) | 🟢 EASY | Array, Math, Number Theory | PY |
 | 2029 | [Stone Game Ix](2029-stone-game-ix) | 🟡 MEDIUM | Array, Math, Greedy +5 | PY |
@@ -1425,26 +1430,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-08-23 01:41:37 UTC_
+_Generated on 2026-08-23 17:33:11 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [1927-sum-game](https://github.com/chittoralovesh/Leetcode/tree/master/1927-sum-game) |
-## String
-|  |
-| ------- |
-| [1927-sum-game](https://github.com/chittoralovesh/Leetcode/tree/master/1927-sum-game) |
-## Greedy
-|  |
-| ------- |
-| [1927-sum-game](https://github.com/chittoralovesh/Leetcode/tree/master/1927-sum-game) |
-## Game Theory
-|  |
-| ------- |
-| [1927-sum-game](https://github.com/chittoralovesh/Leetcode/tree/master/1927-sum-game) |
-<!---LeetCode Topics End-->
