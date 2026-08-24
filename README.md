@@ -1433,3 +1433,35 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-08-24 01:39:40 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/chittoralovesh/Leetcode/tree/master/1872-stone-game-viii) |
+## Math
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/chittoralovesh/Leetcode/tree/master/1872-stone-game-viii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/chittoralovesh/Leetcode/tree/master/1872-stone-game-viii) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/chittoralovesh/Leetcode/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/chittoralovesh/Leetcode/tree/master/1872-stone-game-viii) |
+## Game Theory
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/chittoralovesh/Leetcode/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/chittoralovesh/Leetcode/tree/master/1872-stone-game-viii) |
+<!---LeetCode Topics End-->
