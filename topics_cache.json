@@ -788,6 +788,10 @@
     "Hash Table",
     "Sorting"
   ],
+  "smallest-missing-multiple-of-k": [
+    "Array",
+    "Hash Table"
+  ],
   "smallest-palindromic-rearrangement-ii": [
     "Hash Table",
     "Math",

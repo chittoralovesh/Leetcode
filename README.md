@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-183-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-184-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-43-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-88-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-89-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-52-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-131%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-132%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-15%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 183 |
+| **Total problems solved** | 184 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (97), `Math` (46), `String` (46), `Dynamic Programming` (42), `Hash Table` (37) |
-| **Last updated** | 2026-08-25 01:35:03 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (98), `Math` (46), `String` (46), `Dynamic Programming` (42), `Hash Table` (38) |
+| **Last updated** | 2026-08-25 09:43:26 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     43  █████░░░░░░░░░░░░░░░   23.5%
-🟡 Medium   88  ██████████░░░░░░░░░░   48.1%
-🔴 Hard     52  ██████░░░░░░░░░░░░░░   28.4%
+🟢 Easy     43  █████░░░░░░░░░░░░░░░   23.4%
+🟡 Medium   89  ██████████░░░░░░░░░░   48.4%
+🔴 Hard     52  ██████░░░░░░░░░░░░░░   28.3%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 97 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 98 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -143,6 +143,7 @@
 | 3689 | [Maximum Total Subarray Value I](3689-maximum-total-subarray-value-i) | 🟡 MEDIUM |
 | 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
 | 3702 | [Longest Subsequence With Non Zero Bitwise Xor](3702-longest-subsequence-with-non-zero-bitwise-xor) | 🟡 MEDIUM |
+| 3718 | [Smallest Missing Multiple Of K](3718-smallest-missing-multiple-of-k) | 🟡 MEDIUM |
 | 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM |
 | 3731 | [Find Missing Elements](3731-find-missing-elements) | 🟢 EASY |
 | 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
@@ -314,7 +315,7 @@
 </details>
 
 <details>
-<summary><b>Hash Table</b> &nbsp;·&nbsp; 37 problem(s)</summary>
+<summary><b>Hash Table</b> &nbsp;·&nbsp; 38 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -351,6 +352,7 @@
 | 3518 | [Smallest Palindromic Rearrangement Ii](3518-smallest-palindromic-rearrangement-ii) | 🔴 HARD |
 | 3532 | [Path Existence Queries In A Graph I](3532-path-existence-queries-in-a-graph-i) | 🟡 MEDIUM |
 | 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM |
+| 3718 | [Smallest Missing Multiple Of K](3718-smallest-missing-multiple-of-k) | 🟡 MEDIUM |
 | 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM |
 | 3731 | [Find Missing Elements](3731-find-missing-elements) | 🟢 EASY |
 | 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
@@ -1415,6 +1417,7 @@
 | 3699 | [Number Of Zigzag Arrays I](3699-number-of-zigzag-arrays-i) | 🟡 MEDIUM | Dynamic Programming, Prefix Sum | PY |
 | 3700 | [Number Of Zigzag Arrays Ii](3700-number-of-zigzag-arrays-ii) | 🔴 HARD | Math, Dynamic Programming | CPP |
 | 3702 | [Longest Subsequence With Non Zero Bitwise Xor](3702-longest-subsequence-with-non-zero-bitwise-xor) | 🟡 MEDIUM | Array, Bit Manipulation | PY |
+| 3718 | [Smallest Missing Multiple Of K](3718-smallest-missing-multiple-of-k) | 🟡 MEDIUM | Array, Hash Table | PY |
 | 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM | Array, Hash Table, Divide and Conquer +2 | PY |
 | 3731 | [Find Missing Elements](3731-find-missing-elements) | 🟢 EASY | Array, Hash Table, Sorting | PY |
 | 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM | Array, Hash Table, Divide and Conquer +4 | PY |
@@ -1438,6 +1441,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-08-25 01:35:03 UTC_
+_Generated on 2026-08-25 09:43:26 UTC_
 
 </div>
