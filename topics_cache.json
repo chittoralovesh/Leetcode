@@ -560,6 +560,12 @@
     "Heap (Priority Queue)",
     "Shortest Path"
   ],
+  "next-greater-element-i": [
+    "Array",
+    "Hash Table",
+    "Stack",
+    "Monotonic Stack"
+  ],
   "next-greater-element-ii": [
     "Array",
     "Stack",

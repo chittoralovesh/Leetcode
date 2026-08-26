@@ -5,15 +5,15 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-188-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-189-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-43-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-92-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-93-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-53-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/PY-136%20solved-3776AB?style=for-the-badge" alt="PY" />
-<img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
+<img src="https://img.shields.io/badge/CPP-27%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-15%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
 
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 188 |
+| **Total problems solved** | 189 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (100), `Math` (47), `String` (47), `Dynamic Programming` (42), `Hash Table` (39) |
-| **Last updated** | 2026-08-26 10:39:05 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (101), `Math` (47), `String` (47), `Dynamic Programming` (42), `Hash Table` (40) |
+| **Last updated** | 2026-08-26 10:40:53 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     43  █████░░░░░░░░░░░░░░░   22.9%
-🟡 Medium   92  ██████████░░░░░░░░░░   48.9%
-🔴 Hard     53  ██████░░░░░░░░░░░░░░   28.2%
+🟢 Easy     43  █████░░░░░░░░░░░░░░░   22.8%
+🟡 Medium   93  ██████████░░░░░░░░░░   49.2%
+🔴 Hard     53  ██████░░░░░░░░░░░░░░   28.0%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 100 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 101 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -87,6 +87,7 @@
 | 0480 | [Sliding Window Median](0480-sliding-window-median) | 🔴 HARD |
 | 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM |
 | 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
+| 0496 | [Next Greater Element I](0496-next-greater-element-i) | 🟡 MEDIUM |
 | 0498 | [Diagonal Traverse](0498-diagonal-traverse) | 🟡 MEDIUM |
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD |
 | 0503 | [Next Greater Element Ii](0503-next-greater-element-ii) | 🟡 MEDIUM |
@@ -319,7 +320,7 @@
 </details>
 
 <details>
-<summary><b>Hash Table</b> &nbsp;·&nbsp; 39 problem(s)</summary>
+<summary><b>Hash Table</b> &nbsp;·&nbsp; 40 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -339,6 +340,7 @@
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
 | 0480 | [Sliding Window Median](0480-sliding-window-median) | 🔴 HARD |
+| 0496 | [Next Greater Element I](0496-next-greater-element-i) | 🟡 MEDIUM |
 | 0525 | [Contiguous Array](0525-contiguous-array) | 🟡 MEDIUM |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
@@ -802,6 +804,21 @@
 </details>
 
 <details>
+<summary><b>Stack</b> &nbsp;·&nbsp; 6 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
+| 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM |
+| 0496 | [Next Greater Element I](0496-next-greater-element-i) | 🟡 MEDIUM |
+| 0503 | [Next Greater Element Ii](0503-next-greater-element-ii) | 🟡 MEDIUM |
+| 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM |
+| 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Tree</b> &nbsp;·&nbsp; 6 problem(s)</summary>
 
 
@@ -847,20 +864,6 @@
 </details>
 
 <details>
-<summary><b>Stack</b> &nbsp;·&nbsp; 5 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
-| 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM |
-| 0503 | [Next Greater Element Ii](0503-next-greater-element-ii) | 🟡 MEDIUM |
-| 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM |
-| 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
-
-</details>
-
-<details>
 <summary><b>Minimax</b> &nbsp;·&nbsp; 5 problem(s)</summary>
 
 
@@ -899,6 +902,19 @@
 | 3499 | [Maximize Active Section With Trade I](3499-maximize-active-section-with-trade-i) | 🟡 MEDIUM |
 | 3546 | [Equal Sum Grid Partition I](3546-equal-sum-grid-partition-i) | 🟡 MEDIUM |
 | 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM |
+
+</details>
+
+<details>
+<summary><b>Monotonic Stack</b> &nbsp;·&nbsp; 4 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
+| 0496 | [Next Greater Element I](0496-next-greater-element-i) | 🟡 MEDIUM |
+| 0503 | [Next Greater Element Ii](0503-next-greater-element-ii) | 🟡 MEDIUM |
+| 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM |
 
 </details>
 
@@ -949,18 +965,6 @@
 | 0070 | [Climbing Stairs](0070-climbing-stairs) | 🟢 EASY |
 | 0139 | [Word Break](0139-word-break) | 🟡 MEDIUM |
 | 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Monotonic Stack</b> &nbsp;·&nbsp; 3 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
-| 0503 | [Next Greater Element Ii](0503-next-greater-element-ii) | 🟡 MEDIUM |
-| 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM |
 
 </details>
 
@@ -1340,6 +1344,7 @@
 | 0480 | [Sliding Window Median](0480-sliding-window-median) | 🔴 HARD | Array, Hash Table, Sliding Window +2 | PY |
 | 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM | Array, Math, Dynamic Programming +2 | PY |
 | 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD | Array, Binary Search, Divide and Conquer +4 | PY |
+| 0496 | [Next Greater Element I](0496-next-greater-element-i) | 🟡 MEDIUM | Array, Hash Table, Stack +1 | CPP |
 | 0498 | [Diagonal Traverse](0498-diagonal-traverse) | 🟡 MEDIUM | Array, Matrix, Simulation | PY |
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD | Array, Greedy, Sorting +1 | JAVA |
 | 0503 | [Next Greater Element Ii](0503-next-greater-element-ii) | 🟡 MEDIUM | Array, Stack, Monotonic Stack | PY |
@@ -1465,26 +1470,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-08-26 10:39:05 UTC_
+_Generated on 2026-08-26 10:40:53 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0496-next-greater-element-i](https://github.com/chittoralovesh/Leetcode/tree/master/0496-next-greater-element-i) |
-## Hash Table
-|  |
-| ------- |
-| [0496-next-greater-element-i](https://github.com/chittoralovesh/Leetcode/tree/master/0496-next-greater-element-i) |
-## Stack
-|  |
-| ------- |
-| [0496-next-greater-element-i](https://github.com/chittoralovesh/Leetcode/tree/master/0496-next-greater-element-i) |
-## Monotonic Stack
-|  |
-| ------- |
-| [0496-next-greater-element-i](https://github.com/chittoralovesh/Leetcode/tree/master/0496-next-greater-element-i) |
-<!---LeetCode Topics End-->
