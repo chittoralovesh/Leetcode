@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-190-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-191-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-44-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-93-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-94-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-53-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-137%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-138%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-27%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-15%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 190 |
+| **Total problems solved** | 191 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (102), `Math` (47), `String` (47), `Dynamic Programming` (42), `Hash Table` (40) |
-| **Last updated** | 2026-08-26 10:41:18 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (103), `Math` (47), `String` (47), `Dynamic Programming` (42), `Hash Table` (41) |
+| **Last updated** | 2026-08-26 10:42:04 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     44  █████░░░░░░░░░░░░░░░   23.2%
-🟡 Medium   93  ██████████░░░░░░░░░░   48.9%
-🔴 Hard     53  ██████░░░░░░░░░░░░░░   27.9%
+🟢 Easy     44  █████░░░░░░░░░░░░░░░   23.0%
+🟡 Medium   94  ██████████░░░░░░░░░░   49.2%
+🔴 Hard     53  ██████░░░░░░░░░░░░░░   27.7%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 102 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 103 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -94,6 +94,7 @@
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM |
 | 0525 | [Contiguous Array](0525-contiguous-array) | 🟡 MEDIUM |
 | 0529 | [Minesweeper](0529-minesweeper) | 🟡 MEDIUM |
+| 0554 | [Brick Wall](0554-brick-wall) | 🟡 MEDIUM |
 | 0598 | [Range Addition Ii](0598-range-addition-ii) | 🟢 EASY |
 | 0679 | [24 Game](0679-24-game) | 🔴 HARD |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
@@ -321,7 +322,7 @@
 </details>
 
 <details>
-<summary><b>Hash Table</b> &nbsp;·&nbsp; 40 problem(s)</summary>
+<summary><b>Hash Table</b> &nbsp;·&nbsp; 41 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -343,6 +344,7 @@
 | 0480 | [Sliding Window Median](0480-sliding-window-median) | 🔴 HARD |
 | 0496 | [Next Greater Element I](0496-next-greater-element-i) | 🟢 EASY |
 | 0525 | [Contiguous Array](0525-contiguous-array) | 🟡 MEDIUM |
+| 0554 | [Brick Wall](0554-brick-wall) | 🟡 MEDIUM |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
 | 1331 | [Rank Transform Of An Array](1331-rank-transform-of-an-array) | 🟢 EASY |
@@ -1356,6 +1358,7 @@
 | 0525 | [Contiguous Array](0525-contiguous-array) | 🟡 MEDIUM | Array, Hash Table, Prefix Sum | PY |
 | 0529 | [Minesweeper](0529-minesweeper) | 🟡 MEDIUM | Array, Depth-First Search, Breadth-First Search +1 | PY |
 | 0552 | [Student Attendance Record Ii](0552-student-attendance-record-ii) | 🔴 HARD | Dynamic Programming | PY |
+| 0554 | [Brick Wall](0554-brick-wall) | 🟡 MEDIUM | Array, Hash Table | PY |
 | 0570 | [Managers With At Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 MEDIUM | Database | — |
 | 0576 | [Out Of Boundary Paths](0576-out-of-boundary-paths) | 🟡 MEDIUM | Dynamic Programming | PY |
 | 0583 | [Delete Operation For Two Strings](0583-delete-operation-for-two-strings) | 🟡 MEDIUM | String, Dynamic Programming, Longest Common Subsequence | PY |
@@ -1475,18 +1478,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-08-26 10:41:18 UTC_
+_Generated on 2026-08-26 10:42:04 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0554-brick-wall](https://github.com/chittoralovesh/Leetcode/tree/master/0554-brick-wall) |
-## Hash Table
-|  |
-| ------- |
-| [0554-brick-wall](https://github.com/chittoralovesh/Leetcode/tree/master/0554-brick-wall) |
-<!---LeetCode Topics End-->

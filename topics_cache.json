@@ -50,6 +50,10 @@
     "Breadth-First Search",
     "Binary Tree"
   ],
+  "brick-wall": [
+    "Array",
+    "Hash Table"
+  ],
   "can-i-win": [
     "Math",
     "Dynamic Programming",
