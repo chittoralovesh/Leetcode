@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-185-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-186-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-43-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-90-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-91-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-52-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-133%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-134%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-15%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 185 |
+| **Total problems solved** | 186 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (98), `String` (47), `Math` (46), `Dynamic Programming` (42), `Hash Table` (38) |
-| **Last updated** | 2026-08-26 10:31:10 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (99), `String` (47), `Math` (46), `Dynamic Programming` (42), `Hash Table` (38) |
+| **Last updated** | 2026-08-26 10:36:56 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     43  █████░░░░░░░░░░░░░░░   23.2%
-🟡 Medium   90  ██████████░░░░░░░░░░   48.6%
-🔴 Hard     52  ██████░░░░░░░░░░░░░░   28.1%
+🟢 Easy     43  █████░░░░░░░░░░░░░░░   23.1%
+🟡 Medium   91  ██████████░░░░░░░░░░   48.9%
+🔴 Hard     52  ██████░░░░░░░░░░░░░░   28.0%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 98 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 99 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -69,6 +69,7 @@
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array) | 🟢 EASY |
 | 0121 | [Best Time To Buy And Sell Stock](0121-best-time-to-buy-and-sell-stock) | 🟢 EASY |
 | 0123 | [Best Time To Buy And Sell Stock Iii](0123-best-time-to-buy-and-sell-stock-iii) | 🔴 HARD |
+| 0134 | [Gas Station](0134-gas-station) | 🟡 MEDIUM |
 | 0139 | [Word Break](0139-word-break) | 🟡 MEDIUM |
 | 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
 | 0154 | [Find Minimum In Rotated Sorted Array Ii](0154-find-minimum-in-rotated-sorted-array-ii) | 🔴 HARD |
@@ -399,7 +400,7 @@
 </details>
 
 <details>
-<summary><b>Greedy</b> &nbsp;·&nbsp; 23 problem(s)</summary>
+<summary><b>Greedy</b> &nbsp;·&nbsp; 24 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -407,6 +408,7 @@
 | 0011 | [Container With Most Water](0011-container-with-most-water) | 🟡 MEDIUM |
 | 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD |
 | 0055 | [Jump Game](0055-jump-game) | 🟡 MEDIUM |
+| 0134 | [Gas Station](0134-gas-station) | 🟡 MEDIUM |
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD |
 | 0649 | [Dota2 Senate](0649-dota2-senate) | 🟡 MEDIUM |
@@ -1289,6 +1291,7 @@
 | 0123 | [Best Time To Buy And Sell Stock Iii](0123-best-time-to-buy-and-sell-stock-iii) | 🔴 HARD | Array, Dynamic Programming | PY |
 | 0127 | [Word Ladder](0127-word-ladder) | 🔴 HARD | Hash Table, String, Breadth-First Search | PY |
 | 0132 | [Palindrome Partitioning Ii](0132-palindrome-partitioning-ii) | 🔴 HARD | String, Dynamic Programming | JAVA |
+| 0134 | [Gas Station](0134-gas-station) | 🟡 MEDIUM | Array, Greedy | PY |
 | 0139 | [Word Break](0139-word-break) | 🟡 MEDIUM | Array, Hash Table, String +3 | PY |
 | 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD | Array, Hash Table, Math +1 | PY |
 | 0154 | [Find Minimum In Rotated Sorted Array Ii](0154-find-minimum-in-rotated-sorted-array-ii) | 🔴 HARD | Array, Binary Search | PY |
@@ -1444,18 +1447,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-08-26 10:31:10 UTC_
+_Generated on 2026-08-26 10:36:56 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0134-gas-station](https://github.com/chittoralovesh/Leetcode/tree/master/0134-gas-station) |
-## Greedy
-|  |
-| ------- |
-| [0134-gas-station](https://github.com/chittoralovesh/Leetcode/tree/master/0134-gas-station) |
-<!---LeetCode Topics End-->

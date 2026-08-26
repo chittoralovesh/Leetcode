@@ -267,6 +267,10 @@
   "friend-requests-ii-who-has-the-most-friends": [
     "Database"
   ],
+  "gas-station": [
+    "Array",
+    "Greedy"
+  ],
   "gcd-of-odd-and-even-sums": [
     "Math",
     "Number Theory"
