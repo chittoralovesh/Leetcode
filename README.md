@@ -1453,3 +1453,27 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-08-26 10:37:47 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/chittoralovesh/Leetcode/tree/master/0480-sliding-window-median) |
+## Hash Table
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/chittoralovesh/Leetcode/tree/master/0480-sliding-window-median) |
+## Sliding Window
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/chittoralovesh/Leetcode/tree/master/0480-sliding-window-median) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/chittoralovesh/Leetcode/tree/master/0480-sliding-window-median) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/chittoralovesh/Leetcode/tree/master/0480-sliding-window-median) |
+<!---LeetCode Topics End-->
