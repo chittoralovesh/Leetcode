@@ -572,6 +572,10 @@
   "not-boring-movies": [
     "Database"
   ],
+  "nth-digit": [
+    "Math",
+    "Binary Search"
+  ],
   "number-of-digit-one": [
     "Math",
     "Dynamic Programming",
