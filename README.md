@@ -1478,3 +1478,15 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-08-26 10:41:18 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0554-brick-wall](https://github.com/chittoralovesh/Leetcode/tree/master/0554-brick-wall) |
+## Hash Table
+|  |
+| ------- |
+| [0554-brick-wall](https://github.com/chittoralovesh/Leetcode/tree/master/0554-brick-wall) |
+<!---LeetCode Topics End-->
