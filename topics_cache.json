@@ -503,6 +503,12 @@
     "Stack",
     "Design"
   ],
+  "minesweeper": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Matrix"
+  ],
   "minimum-cost-of-buying-candies-with-discount": [
     "Array",
     "Greedy",

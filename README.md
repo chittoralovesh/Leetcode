@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-189-5865F2?style=for-the-badge" alt="Total Solved" />
-<img src="https://img.shields.io/badge/Easy-43-2ECC71?style=for-the-badge" alt="Easy" />
+<img src="https://img.shields.io/badge/Total%20Solved-190-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Easy-44-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-93-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-53-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-136%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-137%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-27%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-15%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 189 |
+| **Total problems solved** | 190 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (101), `Math` (47), `String` (47), `Dynamic Programming` (42), `Hash Table` (40) |
-| **Last updated** | 2026-08-26 10:40:53 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (102), `Math` (47), `String` (47), `Dynamic Programming` (42), `Hash Table` (40) |
+| **Last updated** | 2026-08-26 10:41:18 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     43  █████░░░░░░░░░░░░░░░   22.8%
-🟡 Medium   93  ██████████░░░░░░░░░░   49.2%
-🔴 Hard     53  ██████░░░░░░░░░░░░░░   28.0%
+🟢 Easy     44  █████░░░░░░░░░░░░░░░   23.2%
+🟡 Medium   93  ██████████░░░░░░░░░░   48.9%
+🔴 Hard     53  ██████░░░░░░░░░░░░░░   27.9%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 101 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 102 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -87,12 +87,13 @@
 | 0480 | [Sliding Window Median](0480-sliding-window-median) | 🔴 HARD |
 | 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM |
 | 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
-| 0496 | [Next Greater Element I](0496-next-greater-element-i) | 🟡 MEDIUM |
+| 0496 | [Next Greater Element I](0496-next-greater-element-i) | 🟢 EASY |
 | 0498 | [Diagonal Traverse](0498-diagonal-traverse) | 🟡 MEDIUM |
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD |
 | 0503 | [Next Greater Element Ii](0503-next-greater-element-ii) | 🟡 MEDIUM |
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM |
 | 0525 | [Contiguous Array](0525-contiguous-array) | 🟡 MEDIUM |
+| 0529 | [Minesweeper](0529-minesweeper) | 🟡 MEDIUM |
 | 0598 | [Range Addition Ii](0598-range-addition-ii) | 🟢 EASY |
 | 0679 | [24 Game](0679-24-game) | 🔴 HARD |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
@@ -340,7 +341,7 @@
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
 | 0480 | [Sliding Window Median](0480-sliding-window-median) | 🔴 HARD |
-| 0496 | [Next Greater Element I](0496-next-greater-element-i) | 🟡 MEDIUM |
+| 0496 | [Next Greater Element I](0496-next-greater-element-i) | 🟢 EASY |
 | 0525 | [Contiguous Array](0525-contiguous-array) | 🟡 MEDIUM |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
@@ -493,6 +494,29 @@
 </details>
 
 <details>
+<summary><b>Breadth-First Search</b> &nbsp;·&nbsp; 14 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
+| 0107 | [Binary Tree Level Order Traversal Ii](0107-binary-tree-level-order-traversal-ii) | 🟡 MEDIUM |
+| 0127 | [Word Ladder](0127-word-ladder) | 🔴 HARD |
+| 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
+| 0407 | [Trapping Rain Water Ii](0407-trapping-rain-water-ii) | 🔴 HARD |
+| 0529 | [Minesweeper](0529-minesweeper) | 🟡 MEDIUM |
+| 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
+| 1345 | [Jump Game Iv](1345-jump-game-iv) | 🔴 HARD |
+| 2492 | [Minimum Score Of A Path Between Two Cities](2492-minimum-score-of-a-path-between-two-cities) | 🟡 MEDIUM |
+| 2685 | [Count The Number Of Complete Components](2685-count-the-number-of-complete-components) | 🟡 MEDIUM |
+| 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
+| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
+| 3310 | [Remove Methods From Project](3310-remove-methods-from-project) | 🟡 MEDIUM |
+| 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Prefix Sum</b> &nbsp;·&nbsp; 14 problem(s)</summary>
 
 
@@ -516,29 +540,7 @@
 </details>
 
 <details>
-<summary><b>Breadth-First Search</b> &nbsp;·&nbsp; 13 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
-| 0107 | [Binary Tree Level Order Traversal Ii](0107-binary-tree-level-order-traversal-ii) | 🟡 MEDIUM |
-| 0127 | [Word Ladder](0127-word-ladder) | 🔴 HARD |
-| 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
-| 0407 | [Trapping Rain Water Ii](0407-trapping-rain-water-ii) | 🔴 HARD |
-| 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
-| 1345 | [Jump Game Iv](1345-jump-game-iv) | 🔴 HARD |
-| 2492 | [Minimum Score Of A Path Between Two Cities](2492-minimum-score-of-a-path-between-two-cities) | 🟡 MEDIUM |
-| 2685 | [Count The Number Of Complete Components](2685-count-the-number-of-complete-components) | 🟡 MEDIUM |
-| 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
-| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
-| 3310 | [Remove Methods From Project](3310-remove-methods-from-project) | 🟡 MEDIUM |
-| 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Matrix</b> &nbsp;·&nbsp; 12 problem(s)</summary>
+<summary><b>Matrix</b> &nbsp;·&nbsp; 13 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -550,6 +552,7 @@
 | 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
 | 0407 | [Trapping Rain Water Ii](0407-trapping-rain-water-ii) | 🔴 HARD |
 | 0498 | [Diagonal Traverse](0498-diagonal-traverse) | 🟡 MEDIUM |
+| 0529 | [Minesweeper](0529-minesweeper) | 🟡 MEDIUM |
 | 1260 | [Shift 2D Grid](1260-shift-2d-grid) | 🟢 EASY |
 | 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD |
 | 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
@@ -580,6 +583,26 @@
 </details>
 
 <details>
+<summary><b>Depth-First Search</b> &nbsp;·&nbsp; 11 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree) | 🟡 MEDIUM |
+| 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
+| 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
+| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
+| 0529 | [Minesweeper](0529-minesweeper) | 🟡 MEDIUM |
+| 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
+| 2492 | [Minimum Score Of A Path Between Two Cities](2492-minimum-score-of-a-path-between-two-cities) | 🟡 MEDIUM |
+| 2685 | [Count The Number Of Complete Components](2685-count-the-number-of-complete-components) | 🟡 MEDIUM |
+| 3310 | [Remove Methods From Project](3310-remove-methods-from-project) | 🟡 MEDIUM |
+| 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
+| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Database</b> &nbsp;·&nbsp; 11 problem(s)</summary>
 
 
@@ -596,25 +619,6 @@
 | 0602 | [Friend Requests Ii Who Has The Most Friends](0602-friend-requests-ii-who-has-the-most-friends) | 🟡 MEDIUM |
 | 0620 | [Not Boring Movies](0620-not-boring-movies) | 🟢 EASY |
 | 1050 | [Actors And Directors Who Cooperated At Least Three Times](1050-actors-and-directors-who-cooperated-at-least-three-times) | 🟢 EASY |
-
-</details>
-
-<details>
-<summary><b>Depth-First Search</b> &nbsp;·&nbsp; 10 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree) | 🟡 MEDIUM |
-| 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
-| 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
-| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
-| 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
-| 2492 | [Minimum Score Of A Path Between Two Cities](2492-minimum-score-of-a-path-between-two-cities) | 🟡 MEDIUM |
-| 2685 | [Count The Number Of Complete Components](2685-count-the-number-of-complete-components) | 🟡 MEDIUM |
-| 3310 | [Remove Methods From Project](3310-remove-methods-from-project) | 🟡 MEDIUM |
-| 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
-| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
 
 </details>
 
@@ -811,7 +815,7 @@
 |---|---|---|
 | 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
 | 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM |
-| 0496 | [Next Greater Element I](0496-next-greater-element-i) | 🟡 MEDIUM |
+| 0496 | [Next Greater Element I](0496-next-greater-element-i) | 🟢 EASY |
 | 0503 | [Next Greater Element Ii](0503-next-greater-element-ii) | 🟡 MEDIUM |
 | 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM |
 | 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
@@ -912,7 +916,7 @@
 | # | Problem | Difficulty |
 |---|---|---|
 | 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
-| 0496 | [Next Greater Element I](0496-next-greater-element-i) | 🟡 MEDIUM |
+| 0496 | [Next Greater Element I](0496-next-greater-element-i) | 🟢 EASY |
 | 0503 | [Next Greater Element Ii](0503-next-greater-element-ii) | 🟡 MEDIUM |
 | 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM |
 
@@ -1344,12 +1348,13 @@
 | 0480 | [Sliding Window Median](0480-sliding-window-median) | 🔴 HARD | Array, Hash Table, Sliding Window +2 | PY |
 | 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM | Array, Math, Dynamic Programming +2 | PY |
 | 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD | Array, Binary Search, Divide and Conquer +4 | PY |
-| 0496 | [Next Greater Element I](0496-next-greater-element-i) | 🟡 MEDIUM | Array, Hash Table, Stack +1 | CPP |
+| 0496 | [Next Greater Element I](0496-next-greater-element-i) | 🟢 EASY | Array, Hash Table, Stack +1 | CPP |
 | 0498 | [Diagonal Traverse](0498-diagonal-traverse) | 🟡 MEDIUM | Array, Matrix, Simulation | PY |
 | 0502 | [Ipo](0502-ipo) | 🔴 HARD | Array, Greedy, Sorting +1 | JAVA |
 | 0503 | [Next Greater Element Ii](0503-next-greater-element-ii) | 🟡 MEDIUM | Array, Stack, Monotonic Stack | PY |
 | 0518 | [Coin Change Ii](0518-coin-change-ii) | 🟡 MEDIUM | Array, Dynamic Programming | PY |
 | 0525 | [Contiguous Array](0525-contiguous-array) | 🟡 MEDIUM | Array, Hash Table, Prefix Sum | PY |
+| 0529 | [Minesweeper](0529-minesweeper) | 🟡 MEDIUM | Array, Depth-First Search, Breadth-First Search +1 | PY |
 | 0552 | [Student Attendance Record Ii](0552-student-attendance-record-ii) | 🔴 HARD | Dynamic Programming | PY |
 | 0570 | [Managers With At Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 MEDIUM | Database | — |
 | 0576 | [Out Of Boundary Paths](0576-out-of-boundary-paths) | 🟡 MEDIUM | Dynamic Programming | PY |
@@ -1470,26 +1475,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-08-26 10:40:53 UTC_
+_Generated on 2026-08-26 10:41:18 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0529-minesweeper](https://github.com/chittoralovesh/Leetcode/tree/master/0529-minesweeper) |
-## Depth-First Search
-|  |
-| ------- |
-| [0529-minesweeper](https://github.com/chittoralovesh/Leetcode/tree/master/0529-minesweeper) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0529-minesweeper](https://github.com/chittoralovesh/Leetcode/tree/master/0529-minesweeper) |
-## Matrix
-|  |
-| ------- |
-| [0529-minesweeper](https://github.com/chittoralovesh/Leetcode/tree/master/0529-minesweeper) |
-<!---LeetCode Topics End-->
