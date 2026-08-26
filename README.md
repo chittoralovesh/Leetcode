@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-184-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-185-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-43-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-89-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-90-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-52-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-132%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-133%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-15%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 184 |
+| **Total problems solved** | 185 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (98), `Math` (46), `String` (46), `Dynamic Programming` (42), `Hash Table` (38) |
-| **Last updated** | 2026-08-26 01:39:33 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (98), `String` (47), `Math` (46), `Dynamic Programming` (42), `Hash Table` (38) |
+| **Last updated** | 2026-08-26 10:31:10 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     43  █████░░░░░░░░░░░░░░░   23.4%
-🟡 Medium   89  ██████████░░░░░░░░░░   48.4%
-🔴 Hard     52  ██████░░░░░░░░░░░░░░   28.3%
+🟢 Easy     43  █████░░░░░░░░░░░░░░░   23.2%
+🟡 Medium   90  ██████████░░░░░░░░░░   48.6%
+🔴 Hard     52  ██████░░░░░░░░░░░░░░   28.1%
 ```
 
 
@@ -154,6 +154,62 @@
 </details>
 
 <details>
+<summary><b>String</b> &nbsp;·&nbsp; 47 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters) | 🟡 MEDIUM |
+| 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring) | 🟡 MEDIUM |
+| 0006 | [Zigzag Conversion](0006-zigzag-conversion) | 🟡 MEDIUM |
+| 0008 | [String To Integer Atoi](0008-string-to-integer-atoi) | 🟡 MEDIUM |
+| 0010 | [Regular Expression Matching](0010-regular-expression-matching) | 🔴 HARD |
+| 0012 | [Integer To Roman](0012-integer-to-roman) | 🟡 MEDIUM |
+| 0013 | [Roman To Integer](0013-roman-to-integer) | 🟢 EASY |
+| 0014 | [Longest Common Prefix](0014-longest-common-prefix) | 🟢 EASY |
+| 0017 | [Letter Combinations Of A Phone Number](0017-letter-combinations-of-a-phone-number) | 🟡 MEDIUM |
+| 0022 | [Generate Parentheses](0022-generate-parentheses) | 🟡 MEDIUM |
+| 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD |
+| 0049 | [Group Anagrams](0049-group-anagrams) | 🟡 MEDIUM |
+| 0058 | [Length Of Last Word](0058-length-of-last-word) | 🟢 EASY |
+| 0076 | [Minimum Window Substring](0076-minimum-window-substring) | 🔴 HARD |
+| 0127 | [Word Ladder](0127-word-ladder) | 🔴 HARD |
+| 0132 | [Palindrome Partitioning Ii](0132-palindrome-partitioning-ii) | 🔴 HARD |
+| 0139 | [Word Break](0139-word-break) | 🟡 MEDIUM |
+| 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
+| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
+| 0392 | [Is Subsequence](0392-is-subsequence) | 🟢 EASY |
+| 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
+| 0466 | [Count The Repetitions](0466-count-the-repetitions) | 🔴 HARD |
+| 0583 | [Delete Operation For Two Strings](0583-delete-operation-for-two-strings) | 🟡 MEDIUM |
+| 0647 | [Palindromic Substrings](0647-palindromic-substrings) | 🟡 MEDIUM |
+| 0649 | [Dota2 Senate](0649-dota2-senate) | 🟡 MEDIUM |
+| 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
+| 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM |
+| 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
+| 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM |
+| 1784 | [Check If Binary String Has At Most One Segment Of Ones](1784-check-if-binary-string-has-at-most-one-segment-of-ones) | 🟢 EASY |
+| 1927 | [Sum Game](1927-sum-game) | 🟡 MEDIUM |
+| 1967 | [Number Of Strings That Appear As Substrings In Word](1967-number-of-strings-that-appear-as-substrings-in-word) | 🟢 EASY |
+| 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM |
+| 2213 | [Longest Substring Of One Repeating Character](2213-longest-substring-of-one-repeating-character) | 🔴 HARD |
+| 2904 | [Shortest And Lexicographically Smallest Beautiful String](2904-shortest-and-lexicographically-smallest-beautiful-string) | 🟡 MEDIUM |
+| 3014 | [Minimum Number Of Pushes To Type Word I](3014-minimum-number-of-pushes-to-type-word-i) | 🟢 EASY |
+| 3016 | [Minimum Number Of Pushes To Type Word Ii](3016-minimum-number-of-pushes-to-type-word-ii) | 🟡 MEDIUM |
+| 3090 | [Maximum Length Substring With Two Occurrences](3090-maximum-length-substring-with-two-occurrences) | 🟢 EASY |
+| 3302 | [Find The Lexicographically Smallest Valid Sequence](3302-find-the-lexicographically-smallest-valid-sequence) | 🟡 MEDIUM |
+| 3348 | [Smallest Divisible Digit Product Ii](3348-smallest-divisible-digit-product-ii) | 🔴 HARD |
+| 3499 | [Maximize Active Section With Trade I](3499-maximize-active-section-with-trade-i) | 🟡 MEDIUM |
+| 3501 | [Maximize Active Section With Trade Ii](3501-maximize-active-section-with-trade-ii) | 🔴 HARD |
+| 3518 | [Smallest Palindromic Rearrangement Ii](3518-smallest-palindromic-rearrangement-ii) | 🔴 HARD |
+| 3612 | [Process String With Special Operations I](3612-process-string-with-special-operations-i) | 🟡 MEDIUM |
+| 3614 | [Process String With Special Operations Ii](3614-process-string-with-special-operations-ii) | 🔴 HARD |
+| 3756 | [Concatenate Non Zero Digits And Multiply By Sum Ii](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) | 🟡 MEDIUM |
+| 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY |
+
+</details>
+
+<details>
 <summary><b>Math</b> &nbsp;·&nbsp; 46 problem(s)</summary>
 
 
@@ -205,61 +261,6 @@
 | 3754 | [Concatenate Non Zero Digits And Multiply By Sum I](3754-concatenate-non-zero-digits-and-multiply-by-sum-i) | 🟢 EASY |
 | 3756 | [Concatenate Non Zero Digits And Multiply By Sum Ii](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) | 🟡 MEDIUM |
 | 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>String</b> &nbsp;·&nbsp; 46 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters) | 🟡 MEDIUM |
-| 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring) | 🟡 MEDIUM |
-| 0006 | [Zigzag Conversion](0006-zigzag-conversion) | 🟡 MEDIUM |
-| 0008 | [String To Integer Atoi](0008-string-to-integer-atoi) | 🟡 MEDIUM |
-| 0010 | [Regular Expression Matching](0010-regular-expression-matching) | 🔴 HARD |
-| 0012 | [Integer To Roman](0012-integer-to-roman) | 🟡 MEDIUM |
-| 0013 | [Roman To Integer](0013-roman-to-integer) | 🟢 EASY |
-| 0014 | [Longest Common Prefix](0014-longest-common-prefix) | 🟢 EASY |
-| 0017 | [Letter Combinations Of A Phone Number](0017-letter-combinations-of-a-phone-number) | 🟡 MEDIUM |
-| 0022 | [Generate Parentheses](0022-generate-parentheses) | 🟡 MEDIUM |
-| 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD |
-| 0049 | [Group Anagrams](0049-group-anagrams) | 🟡 MEDIUM |
-| 0058 | [Length Of Last Word](0058-length-of-last-word) | 🟢 EASY |
-| 0076 | [Minimum Window Substring](0076-minimum-window-substring) | 🔴 HARD |
-| 0127 | [Word Ladder](0127-word-ladder) | 🔴 HARD |
-| 0132 | [Palindrome Partitioning Ii](0132-palindrome-partitioning-ii) | 🔴 HARD |
-| 0139 | [Word Break](0139-word-break) | 🟡 MEDIUM |
-| 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
-| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
-| 0392 | [Is Subsequence](0392-is-subsequence) | 🟢 EASY |
-| 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
-| 0466 | [Count The Repetitions](0466-count-the-repetitions) | 🔴 HARD |
-| 0583 | [Delete Operation For Two Strings](0583-delete-operation-for-two-strings) | 🟡 MEDIUM |
-| 0647 | [Palindromic Substrings](0647-palindromic-substrings) | 🟡 MEDIUM |
-| 0649 | [Dota2 Senate](0649-dota2-senate) | 🟡 MEDIUM |
-| 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
-| 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM |
-| 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
-| 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM |
-| 1784 | [Check If Binary String Has At Most One Segment Of Ones](1784-check-if-binary-string-has-at-most-one-segment-of-ones) | 🟢 EASY |
-| 1927 | [Sum Game](1927-sum-game) | 🟡 MEDIUM |
-| 1967 | [Number Of Strings That Appear As Substrings In Word](1967-number-of-strings-that-appear-as-substrings-in-word) | 🟢 EASY |
-| 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM |
-| 2213 | [Longest Substring Of One Repeating Character](2213-longest-substring-of-one-repeating-character) | 🔴 HARD |
-| 3014 | [Minimum Number Of Pushes To Type Word I](3014-minimum-number-of-pushes-to-type-word-i) | 🟢 EASY |
-| 3016 | [Minimum Number Of Pushes To Type Word Ii](3016-minimum-number-of-pushes-to-type-word-ii) | 🟡 MEDIUM |
-| 3090 | [Maximum Length Substring With Two Occurrences](3090-maximum-length-substring-with-two-occurrences) | 🟢 EASY |
-| 3302 | [Find The Lexicographically Smallest Valid Sequence](3302-find-the-lexicographically-smallest-valid-sequence) | 🟡 MEDIUM |
-| 3348 | [Smallest Divisible Digit Product Ii](3348-smallest-divisible-digit-product-ii) | 🔴 HARD |
-| 3499 | [Maximize Active Section With Trade I](3499-maximize-active-section-with-trade-i) | 🟡 MEDIUM |
-| 3501 | [Maximize Active Section With Trade Ii](3501-maximize-active-section-with-trade-ii) | 🔴 HARD |
-| 3518 | [Smallest Palindromic Rearrangement Ii](3518-smallest-palindromic-rearrangement-ii) | 🔴 HARD |
-| 3612 | [Process String With Special Operations I](3612-process-string-with-special-operations-i) | 🟡 MEDIUM |
-| 3614 | [Process String With Special Operations Ii](3614-process-string-with-special-operations-ii) | 🔴 HARD |
-| 3756 | [Concatenate Non Zero Digits And Multiply By Sum Ii](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) | 🟡 MEDIUM |
-| 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY |
 
 </details>
 
@@ -646,6 +647,23 @@
 </details>
 
 <details>
+<summary><b>Sliding Window</b> &nbsp;·&nbsp; 8 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters) | 🟡 MEDIUM |
+| 0076 | [Minimum Window Substring](0076-minimum-window-substring) | 🔴 HARD |
+| 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
+| 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM |
+| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
+| 2904 | [Shortest And Lexicographically Smallest Beautiful String](2904-shortest-and-lexicographically-smallest-beautiful-string) | 🟡 MEDIUM |
+| 2958 | [Length Of Longest Subarray With At Most K Frequency](2958-length-of-longest-subarray-with-at-most-k-frequency) | 🟡 MEDIUM |
+| 3090 | [Maximum Length Substring With Two Occurrences](3090-maximum-length-substring-with-two-occurrences) | 🟢 EASY |
+
+</details>
+
+<details>
 <summary><b>Backtracking</b> &nbsp;·&nbsp; 8 problem(s)</summary>
 
 
@@ -709,22 +727,6 @@
 | 0060 | [Permutation Sequence](0060-permutation-sequence) | 🔴 HARD |
 | 0233 | [Number Of Digit One](0233-number-of-digit-one) | 🔴 HARD |
 | 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Sliding Window</b> &nbsp;·&nbsp; 7 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters) | 🟡 MEDIUM |
-| 0076 | [Minimum Window Substring](0076-minimum-window-substring) | 🔴 HARD |
-| 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
-| 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM |
-| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
-| 2958 | [Length Of Longest Subarray With At Most K Frequency](2958-length-of-longest-subarray-with-at-most-k-frequency) | 🟡 MEDIUM |
-| 3090 | [Maximum Length Substring With Two Occurrences](3090-maximum-length-substring-with-two-occurrences) | 🟢 EASY |
 
 </details>
 
@@ -1378,6 +1380,7 @@
 | 2574 | [Left And Right Sum Differences](2574-left-and-right-sum-differences) | 🟢 EASY | Array, Prefix Sum | CPP |
 | 2685 | [Count The Number Of Complete Components](2685-count-the-number-of-complete-components) | 🟡 MEDIUM | Depth-First Search, Breadth-First Search, Union-Find +1 | PY |
 | 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM | Array, Binary Search, Breadth-First Search +3 | PY |
+| 2904 | [Shortest And Lexicographically Smallest Beautiful String](2904-shortest-and-lexicographically-smallest-beautiful-string) | 🟡 MEDIUM | String, Sliding Window | PY |
 | 2958 | [Length Of Longest Subarray With At Most K Frequency](2958-length-of-longest-subarray-with-at-most-k-frequency) | 🟡 MEDIUM | Array, Hash Table, Sliding Window | PY |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](2996-smallest-missing-integer-greater-than-sequential-prefix-sum) | 🟢 EASY | Array, Hash Table, Sorting | PY |
 | 3014 | [Minimum Number Of Pushes To Type Word I](3014-minimum-number-of-pushes-to-type-word-i) | 🟢 EASY | Math, String, Greedy | PY |
@@ -1441,18 +1444,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-08-26 01:39:33 UTC_
+_Generated on 2026-08-26 10:31:10 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/chittoralovesh/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
-## Sliding Window
-|  |
-| ------- |
-| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/chittoralovesh/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
-<!---LeetCode Topics End-->

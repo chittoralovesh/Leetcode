@@ -764,6 +764,10 @@
     "Matrix",
     "Simulation"
   ],
+  "shortest-and-lexicographically-smallest-beautiful-string": [
+    "String",
+    "Sliding Window"
+  ],
   "similar-string-groups": [
     "Array",
     "Hash Table",
