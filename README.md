@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-187-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-188-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-43-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-92-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-52-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-53-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-135%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-136%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-15%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 187 |
+| **Total problems solved** | 188 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (99), `Math` (47), `String` (47), `Dynamic Programming` (42), `Hash Table` (38) |
-| **Last updated** | 2026-08-26 10:37:47 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (100), `Math` (47), `String` (47), `Dynamic Programming` (42), `Hash Table` (39) |
+| **Last updated** | 2026-08-26 10:39:05 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     43  █████░░░░░░░░░░░░░░░   23.0%
-🟡 Medium   92  ██████████░░░░░░░░░░   49.2%
-🔴 Hard     52  ██████░░░░░░░░░░░░░░   27.8%
+🟢 Easy     43  █████░░░░░░░░░░░░░░░   22.9%
+🟡 Medium   92  ██████████░░░░░░░░░░   48.9%
+🔴 Hard     53  ██████░░░░░░░░░░░░░░   28.2%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 99 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 100 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -84,6 +84,7 @@
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
 | 0407 | [Trapping Rain Water Ii](0407-trapping-rain-water-ii) | 🔴 HARD |
 | 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD |
+| 0480 | [Sliding Window Median](0480-sliding-window-median) | 🔴 HARD |
 | 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM |
 | 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
 | 0498 | [Diagonal Traverse](0498-diagonal-traverse) | 🟡 MEDIUM |
@@ -318,7 +319,7 @@
 </details>
 
 <details>
-<summary><b>Hash Table</b> &nbsp;·&nbsp; 38 problem(s)</summary>
+<summary><b>Hash Table</b> &nbsp;·&nbsp; 39 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -337,6 +338,7 @@
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 MEDIUM |
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
+| 0480 | [Sliding Window Median](0480-sliding-window-median) | 🔴 HARD |
 | 0525 | [Contiguous Array](0525-contiguous-array) | 🟡 MEDIUM |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
@@ -555,6 +557,27 @@
 </details>
 
 <details>
+<summary><b>Heap (Priority Queue)</b> &nbsp;·&nbsp; 12 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
+| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 MEDIUM |
+| 0407 | [Trapping Rain Water Ii](0407-trapping-rain-water-ii) | 🔴 HARD |
+| 0480 | [Sliding Window Median](0480-sliding-window-median) | 🔴 HARD |
+| 0502 | [Ipo](0502-ipo) | 🔴 HARD |
+| 0912 | [Sort An Array](0912-sort-an-array) | 🟡 MEDIUM |
+| 1464 | [Maximum Product Of Two Elements In An Array](1464-maximum-product-of-two-elements-in-an-array) | 🟢 EASY |
+| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
+| 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
+| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
+| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
+| 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Database</b> &nbsp;·&nbsp; 11 problem(s)</summary>
 
 
@@ -571,26 +594,6 @@
 | 0602 | [Friend Requests Ii Who Has The Most Friends](0602-friend-requests-ii-who-has-the-most-friends) | 🟡 MEDIUM |
 | 0620 | [Not Boring Movies](0620-not-boring-movies) | 🟢 EASY |
 | 1050 | [Actors And Directors Who Cooperated At Least Three Times](1050-actors-and-directors-who-cooperated-at-least-three-times) | 🟢 EASY |
-
-</details>
-
-<details>
-<summary><b>Heap (Priority Queue)</b> &nbsp;·&nbsp; 11 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
-| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 MEDIUM |
-| 0407 | [Trapping Rain Water Ii](0407-trapping-rain-water-ii) | 🔴 HARD |
-| 0502 | [Ipo](0502-ipo) | 🔴 HARD |
-| 0912 | [Sort An Array](0912-sort-an-array) | 🟡 MEDIUM |
-| 1464 | [Maximum Product Of Two Elements In An Array](1464-maximum-product-of-two-elements-in-an-array) | 🟢 EASY |
-| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
-| 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
-| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
-| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
-| 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
 
 </details>
 
@@ -633,6 +636,24 @@
 </details>
 
 <details>
+<summary><b>Sliding Window</b> &nbsp;·&nbsp; 9 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters) | 🟡 MEDIUM |
+| 0076 | [Minimum Window Substring](0076-minimum-window-substring) | 🔴 HARD |
+| 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
+| 0480 | [Sliding Window Median](0480-sliding-window-median) | 🔴 HARD |
+| 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM |
+| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
+| 2904 | [Shortest And Lexicographically Smallest Beautiful String](2904-shortest-and-lexicographically-smallest-beautiful-string) | 🟡 MEDIUM |
+| 2958 | [Length Of Longest Subarray With At Most K Frequency](2958-length-of-longest-subarray-with-at-most-k-frequency) | 🟡 MEDIUM |
+| 3090 | [Maximum Length Substring With Two Occurrences](3090-maximum-length-substring-with-two-occurrences) | 🟢 EASY |
+
+</details>
+
+<details>
 <summary><b>Simulation</b> &nbsp;·&nbsp; 9 problem(s)</summary>
 
 
@@ -647,23 +668,6 @@
 | 3614 | [Process String With Special Operations Ii](3614-process-string-with-special-operations-ii) | 🔴 HARD |
 | 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY |
 | 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Sliding Window</b> &nbsp;·&nbsp; 8 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters) | 🟡 MEDIUM |
-| 0076 | [Minimum Window Substring](0076-minimum-window-substring) | 🔴 HARD |
-| 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
-| 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM |
-| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
-| 2904 | [Shortest And Lexicographically Smallest Beautiful String](2904-shortest-and-lexicographically-smallest-beautiful-string) | 🟡 MEDIUM |
-| 2958 | [Length Of Longest Subarray With At Most K Frequency](2958-length-of-longest-subarray-with-at-most-k-frequency) | 🟡 MEDIUM |
-| 3090 | [Maximum Length Substring With Two Occurrences](3090-maximum-length-substring-with-two-occurrences) | 🟢 EASY |
 
 </details>
 
@@ -1165,6 +1169,16 @@
 </details>
 
 <details>
+<summary><b>Treap</b> &nbsp;·&nbsp; 1 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0480 | [Sliding Window Median](0480-sliding-window-median) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Binary Indexed Tree</b> &nbsp;·&nbsp; 1 problem(s)</summary>
 
 
@@ -1323,6 +1337,7 @@
 | 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD | Array, Dynamic Programming | PY |
 | 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM | Math, Dynamic Programming, Bit Manipulation +3 | PY |
 | 0466 | [Count The Repetitions](0466-count-the-repetitions) | 🔴 HARD | Two Pointers, String, Dynamic Programming | PY |
+| 0480 | [Sliding Window Median](0480-sliding-window-median) | 🔴 HARD | Array, Hash Table, Sliding Window +2 | PY |
 | 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM | Array, Math, Dynamic Programming +2 | PY |
 | 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD | Array, Binary Search, Divide and Conquer +4 | PY |
 | 0498 | [Diagonal Traverse](0498-diagonal-traverse) | 🟡 MEDIUM | Array, Matrix, Simulation | PY |
@@ -1450,30 +1465,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-08-26 10:37:47 UTC_
+_Generated on 2026-08-26 10:39:05 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0480-sliding-window-median](https://github.com/chittoralovesh/Leetcode/tree/master/0480-sliding-window-median) |
-## Hash Table
-|  |
-| ------- |
-| [0480-sliding-window-median](https://github.com/chittoralovesh/Leetcode/tree/master/0480-sliding-window-median) |
-## Sliding Window
-|  |
-| ------- |
-| [0480-sliding-window-median](https://github.com/chittoralovesh/Leetcode/tree/master/0480-sliding-window-median) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0480-sliding-window-median](https://github.com/chittoralovesh/Leetcode/tree/master/0480-sliding-window-median) |
-## Treap
-|  |
-| ------- |
-| [0480-sliding-window-median](https://github.com/chittoralovesh/Leetcode/tree/master/0480-sliding-window-median) |
-<!---LeetCode Topics End-->

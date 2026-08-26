@@ -784,6 +784,13 @@
     "Breadth-First Search",
     "Union-Find"
   ],
+  "sliding-window-median": [
+    "Array",
+    "Hash Table",
+    "Sliding Window",
+    "Heap (Priority Queue)",
+    "Treap"
+  ],
   "smallest-divisible-digit-product-i": [
     "Math",
     "Enumeration"
