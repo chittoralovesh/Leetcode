@@ -354,6 +354,13 @@
     "String",
     "Backtracking"
   ],
+  "lexicographically-smallest-permutation-greater-than-target": [
+    "Hash Table",
+    "String",
+    "Greedy",
+    "Counting",
+    "Enumeration"
+  ],
   "linked-list-random-node": [
     "Linked List",
     "Math",
