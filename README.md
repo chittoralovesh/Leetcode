@@ -1481,3 +1481,27 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-08-27 08:32:17 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/chittoralovesh/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## String
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/chittoralovesh/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Greedy
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/chittoralovesh/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Counting
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/chittoralovesh/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/chittoralovesh/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+<!---LeetCode Topics End-->
