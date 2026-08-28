@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-192-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-193-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-44-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-95-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-53-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-54-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-139%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-140%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-27%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-15%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 192 |
+| **Total problems solved** | 193 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (103), `String` (48), `Math` (47), `Hash Table` (42), `Dynamic Programming` (42) |
-| **Last updated** | 2026-08-28 10:45:42 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (103), `String` (49), `Math` (47), `Hash Table` (42), `Dynamic Programming` (42) |
+| **Last updated** | 2026-08-28 13:13:07 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     44  █████░░░░░░░░░░░░░░░   22.9%
-🟡 Medium   95  ██████████░░░░░░░░░░   49.5%
-🔴 Hard     53  ██████░░░░░░░░░░░░░░   27.6%
+🟢 Easy     44  █████░░░░░░░░░░░░░░░   22.8%
+🟡 Medium   95  ██████████░░░░░░░░░░   49.2%
+🔴 Hard     54  ██████░░░░░░░░░░░░░░   28.0%
 ```
 
 
@@ -159,7 +159,7 @@
 </details>
 
 <details>
-<summary><b>String</b> &nbsp;·&nbsp; 48 problem(s)</summary>
+<summary><b>String</b> &nbsp;·&nbsp; 49 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -210,6 +210,7 @@
 | 3612 | [Process String With Special Operations I](3612-process-string-with-special-operations-i) | 🟡 MEDIUM |
 | 3614 | [Process String With Special Operations Ii](3614-process-string-with-special-operations-ii) | 🔴 HARD |
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](3720-lexicographically-smallest-permutation-greater-than-target) | 🟡 MEDIUM |
+| 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](3734-lexicographically-smallest-palindromic-permutation-greater-than-target) | 🔴 HARD |
 | 3756 | [Concatenate Non Zero Digits And Multiply By Sum Ii](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) | 🟡 MEDIUM |
 | 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY |
 
@@ -444,7 +445,7 @@
 </details>
 
 <details>
-<summary><b>Two Pointers</b> &nbsp;·&nbsp; 19 problem(s)</summary>
+<summary><b>Two Pointers</b> &nbsp;·&nbsp; 20 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -467,6 +468,7 @@
 | 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
 | 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
 | 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
+| 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](3734-lexicographically-smallest-palindromic-permutation-greater-than-target) | 🔴 HARD |
 | 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
 
 </details>
@@ -799,6 +801,22 @@
 </details>
 
 <details>
+<summary><b>Enumeration</b> &nbsp;·&nbsp; 7 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 3020 | [Find The Maximum Number Of Elements In Subset](3020-find-the-maximum-number-of-elements-in-subset) | 🟡 MEDIUM |
+| 3345 | [Smallest Divisible Digit Product I](3345-smallest-divisible-digit-product-i) | 🟢 EASY |
+| 3499 | [Maximize Active Section With Trade I](3499-maximize-active-section-with-trade-i) | 🟡 MEDIUM |
+| 3546 | [Equal Sum Grid Partition I](3546-equal-sum-grid-partition-i) | 🟡 MEDIUM |
+| 3720 | [Lexicographically Smallest Permutation Greater Than Target](3720-lexicographically-smallest-permutation-greater-than-target) | 🟡 MEDIUM |
+| 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](3734-lexicographically-smallest-palindromic-permutation-greater-than-target) | 🔴 HARD |
+| 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Linked List</b> &nbsp;·&nbsp; 6 problem(s)</summary>
 
 
@@ -870,21 +888,6 @@
 | 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
 | 3702 | [Longest Subsequence With Non Zero Bitwise Xor](3702-longest-subsequence-with-non-zero-bitwise-xor) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Enumeration</b> &nbsp;·&nbsp; 6 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 3020 | [Find The Maximum Number Of Elements In Subset](3020-find-the-maximum-number-of-elements-in-subset) | 🟡 MEDIUM |
-| 3345 | [Smallest Divisible Digit Product I](3345-smallest-divisible-digit-product-i) | 🟢 EASY |
-| 3499 | [Maximize Active Section With Trade I](3499-maximize-active-section-with-trade-i) | 🟡 MEDIUM |
-| 3546 | [Equal Sum Grid Partition I](3546-equal-sum-grid-partition-i) | 🟡 MEDIUM |
-| 3720 | [Lexicographically Smallest Permutation Greater Than Target](3720-lexicographically-smallest-permutation-greater-than-target) | 🟡 MEDIUM |
-| 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM |
 
 </details>
 
@@ -1463,6 +1466,7 @@
 | 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM | Array, Hash Table, Divide and Conquer +2 | PY |
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](3720-lexicographically-smallest-permutation-greater-than-target) | 🟡 MEDIUM | Hash Table, String, Greedy +2 | PY |
 | 3731 | [Find Missing Elements](3731-find-missing-elements) | 🟢 EASY | Array, Hash Table, Sorting | PY |
+| 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](3734-lexicographically-smallest-palindromic-permutation-greater-than-target) | 🔴 HARD | Two Pointers, String, Enumeration | PY |
 | 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM | Array, Hash Table, Divide and Conquer +4 | PY |
 | 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD | Array, Hash Table, Divide and Conquer +3 | JAVA |
 | 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM | Math, Dynamic Programming, Enumeration | CPP |
@@ -1484,22 +1488,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-08-28 10:45:42 UTC_
+_Generated on 2026-08-28 13:13:07 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/chittoralovesh/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
-## String
-|  |
-| ------- |
-| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/chittoralovesh/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
-## Enumeration
-|  |
-| ------- |
-| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/chittoralovesh/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
-<!---LeetCode Topics End-->

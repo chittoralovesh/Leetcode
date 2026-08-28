@@ -354,6 +354,11 @@
     "String",
     "Backtracking"
   ],
+  "lexicographically-smallest-palindromic-permutation-greater-than-target": [
+    "Two Pointers",
+    "String",
+    "Enumeration"
+  ],
   "lexicographically-smallest-permutation-greater-than-target": [
     "Hash Table",
     "String",
