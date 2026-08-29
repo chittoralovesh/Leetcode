@@ -50,6 +50,12 @@
     "Breadth-First Search",
     "Binary Tree"
   ],
+  "binary-tree-postorder-traversal": [
+    "Stack",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
   "brick-wall": [
     "Array",
     "Hash Table"
