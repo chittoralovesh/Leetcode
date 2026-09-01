@@ -29,7 +29,7 @@
 | **Total problems solved** | 195 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (104), `String` (49), `Math` (47), `Hash Table` (43), `Dynamic Programming` (42) |
-| **Last updated** | 2026-09-01 18:05:34 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-09-01 18:23:27 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
@@ -1499,22 +1499,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-09-01 18:05:34 UTC_
+_Generated on 2026-09-01 18:23:27 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/chittoralovesh/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
-## Binary Search
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/chittoralovesh/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/chittoralovesh/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
-<!---LeetCode Topics End-->
