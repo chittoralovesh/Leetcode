@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-194-5865F2?style=for-the-badge" alt="Total Solved" />
-<img src="https://img.shields.io/badge/Easy-44-2ECC71?style=for-the-badge" alt="Easy" />
+<img src="https://img.shields.io/badge/Total%20Solved-195-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Easy-45-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-96-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-54-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-141%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-142%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-27%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-15%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 194 |
+| **Total problems solved** | 195 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (103), `String` (49), `Math` (47), `Hash Table` (42), `Dynamic Programming` (42) |
-| **Last updated** | 2026-09-01 04:28:30 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (104), `String` (49), `Math` (47), `Hash Table` (43), `Dynamic Programming` (42) |
+| **Last updated** | 2026-09-01 18:05:34 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     44  █████░░░░░░░░░░░░░░░   22.7%
-🟡 Medium   96  ██████████░░░░░░░░░░   49.5%
-🔴 Hard     54  ██████░░░░░░░░░░░░░░   27.8%
+🟢 Easy     45  █████░░░░░░░░░░░░░░░   23.1%
+🟡 Medium   96  ██████████░░░░░░░░░░   49.2%
+🔴 Hard     54  ██████░░░░░░░░░░░░░░   27.7%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 103 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 104 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -140,6 +140,7 @@
 | 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
 | 3546 | [Equal Sum Grid Partition I](3546-equal-sum-grid-partition-i) | 🟡 MEDIUM |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
+| 3568 | [Minimum Moves To Clean The Classroom](3568-minimum-moves-to-clean-the-classroom) | 🟡 MEDIUM |
 | 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
 | 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM |
 | 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
@@ -273,7 +274,7 @@
 </details>
 
 <details>
-<summary><b>Hash Table</b> &nbsp;·&nbsp; 42 problem(s)</summary>
+<summary><b>Hash Table</b> &nbsp;·&nbsp; 43 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -312,6 +313,7 @@
 | 3471 | [Find The Largest Almost Missing Integer](3471-find-the-largest-almost-missing-integer) | 🟢 EASY |
 | 3518 | [Smallest Palindromic Rearrangement Ii](3518-smallest-palindromic-rearrangement-ii) | 🔴 HARD |
 | 3532 | [Path Existence Queries In A Graph I](3532-path-existence-queries-in-a-graph-i) | 🟡 MEDIUM |
+| 3568 | [Minimum Moves To Clean The Classroom](3568-minimum-moves-to-clean-the-classroom) | 🟡 MEDIUM |
 | 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM |
 | 3718 | [Smallest Missing Multiple Of K](3718-smallest-missing-multiple-of-k) | 🟡 MEDIUM |
 | 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM |
@@ -501,7 +503,7 @@
 </details>
 
 <details>
-<summary><b>Breadth-First Search</b> &nbsp;·&nbsp; 14 problem(s)</summary>
+<summary><b>Breadth-First Search</b> &nbsp;·&nbsp; 15 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -519,7 +521,31 @@
 | 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
 | 3310 | [Remove Methods From Project](3310-remove-methods-from-project) | 🟡 MEDIUM |
+| 3568 | [Minimum Moves To Clean The Classroom](3568-minimum-moves-to-clean-the-classroom) | 🟡 MEDIUM |
 | 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM |
+
+</details>
+
+<details>
+<summary><b>Matrix</b> &nbsp;·&nbsp; 14 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
+| 0048 | [Rotate Image](0048-rotate-image) | 🟡 MEDIUM |
+| 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
+| 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
+| 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
+| 0407 | [Trapping Rain Water Ii](0407-trapping-rain-water-ii) | 🔴 HARD |
+| 0498 | [Diagonal Traverse](0498-diagonal-traverse) | 🟡 MEDIUM |
+| 0529 | [Minesweeper](0529-minesweeper) | 🟡 MEDIUM |
+| 1260 | [Shift 2D Grid](1260-shift-2d-grid) | 🟢 EASY |
+| 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD |
+| 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
+| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
+| 3546 | [Equal Sum Grid Partition I](3546-equal-sum-grid-partition-i) | 🟡 MEDIUM |
+| 3568 | [Minimum Moves To Clean The Classroom](3568-minimum-moves-to-clean-the-classroom) | 🟡 MEDIUM |
 
 </details>
 
@@ -547,28 +573,6 @@
 </details>
 
 <details>
-<summary><b>Matrix</b> &nbsp;·&nbsp; 13 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
-| 0048 | [Rotate Image](0048-rotate-image) | 🟡 MEDIUM |
-| 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
-| 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
-| 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
-| 0407 | [Trapping Rain Water Ii](0407-trapping-rain-water-ii) | 🔴 HARD |
-| 0498 | [Diagonal Traverse](0498-diagonal-traverse) | 🟡 MEDIUM |
-| 0529 | [Minesweeper](0529-minesweeper) | 🟡 MEDIUM |
-| 1260 | [Shift 2D Grid](1260-shift-2d-grid) | 🟢 EASY |
-| 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD |
-| 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
-| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
-| 3546 | [Equal Sum Grid Partition I](3546-equal-sum-grid-partition-i) | 🟡 MEDIUM |
-
-</details>
-
-<details>
 <summary><b>Depth-First Search</b> &nbsp;·&nbsp; 12 problem(s)</summary>
 
 
@@ -576,7 +580,7 @@
 |---|---|---|
 | 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree) | 🟡 MEDIUM |
 | 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
-| 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟡 MEDIUM |
+| 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟢 EASY |
 | 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
 | 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
 | 0529 | [Minesweeper](0529-minesweeper) | 🟡 MEDIUM |
@@ -792,7 +796,7 @@
 | # | Problem | Difficulty |
 |---|---|---|
 | 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
-| 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟡 MEDIUM |
+| 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟢 EASY |
 | 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM |
 | 0496 | [Next Greater Element I](0496-next-greater-element-i) | 🟢 EASY |
 | 0503 | [Next Greater Element Ii](0503-next-greater-element-ii) | 🟡 MEDIUM |
@@ -810,10 +814,26 @@
 | 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree) | 🟡 MEDIUM |
 | 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
 | 0107 | [Binary Tree Level Order Traversal Ii](0107-binary-tree-level-order-traversal-ii) | 🟡 MEDIUM |
-| 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟡 MEDIUM |
+| 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟢 EASY |
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
 | 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
+
+</details>
+
+<details>
+<summary><b>Bit Manipulation</b> &nbsp;·&nbsp; 7 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
+| 1386 | [Cinema Seat Allocation](1386-cinema-seat-allocation) | 🟡 MEDIUM |
+| 3116 | [Kth Smallest Amount With Single Denomination Combination](3116-kth-smallest-amount-with-single-denomination-combination) | 🔴 HARD |
+| 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
+| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
+| 3568 | [Minimum Moves To Clean The Classroom](3568-minimum-moves-to-clean-the-classroom) | 🟡 MEDIUM |
+| 3702 | [Longest Subsequence With Non Zero Bitwise Xor](3702-longest-subsequence-with-non-zero-bitwise-xor) | 🟡 MEDIUM |
 
 </details>
 
@@ -880,21 +900,6 @@
 </details>
 
 <details>
-<summary><b>Bit Manipulation</b> &nbsp;·&nbsp; 6 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
-| 1386 | [Cinema Seat Allocation](1386-cinema-seat-allocation) | 🟡 MEDIUM |
-| 3116 | [Kth Smallest Amount With Single Denomination Combination](3116-kth-smallest-amount-with-single-denomination-combination) | 🔴 HARD |
-| 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
-| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
-| 3702 | [Longest Subsequence With Non Zero Bitwise Xor](3702-longest-subsequence-with-non-zero-bitwise-xor) | 🟡 MEDIUM |
-
-</details>
-
-<details>
 <summary><b>Binary Tree</b> &nbsp;·&nbsp; 5 problem(s)</summary>
 
 
@@ -903,7 +908,7 @@
 | 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree) | 🟡 MEDIUM |
 | 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
 | 0107 | [Binary Tree Level Order Traversal Ii](0107-binary-tree-level-order-traversal-ii) | 🟡 MEDIUM |
-| 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟡 MEDIUM |
+| 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟢 EASY |
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
 
 </details>
@@ -1331,7 +1336,7 @@
 | 0132 | [Palindrome Partitioning Ii](0132-palindrome-partitioning-ii) | 🔴 HARD | String, Dynamic Programming | JAVA |
 | 0134 | [Gas Station](0134-gas-station) | 🟡 MEDIUM | Array, Greedy | PY |
 | 0139 | [Word Break](0139-word-break) | 🟡 MEDIUM | Array, Hash Table, String +3 | PY |
-| 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟡 MEDIUM | Stack, Tree, Depth-First Search +1 | PY |
+| 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟢 EASY | Stack, Tree, Depth-First Search +1 | PY |
 | 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD | Array, Hash Table, Math +1 | PY |
 | 0154 | [Find Minimum In Rotated Sorted Array Ii](0154-find-minimum-in-rotated-sorted-array-ii) | 🔴 HARD | Array, Binary Search | PY |
 | 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM | Stack, Design | PY |
@@ -1453,6 +1458,7 @@
 | 3546 | [Equal Sum Grid Partition I](3546-equal-sum-grid-partition-i) | 🟡 MEDIUM | Array, Matrix, Enumeration +1 | PY |
 | 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM | Math, Tree, Depth-First Search | CPP |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD | Array, Math, Dynamic Programming +3 | CPP |
+| 3568 | [Minimum Moves To Clean The Classroom](3568-minimum-moves-to-clean-the-classroom) | 🟡 MEDIUM | Array, Hash Table, Bit Manipulation +2 | PY |
 | 3612 | [Process String With Special Operations I](3612-process-string-with-special-operations-i) | 🟡 MEDIUM | String, Simulation | PY |
 | 3614 | [Process String With Special Operations Ii](3614-process-string-with-special-operations-ii) | 🔴 HARD | String, Simulation | CPP |
 | 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD | Array, Binary Search, Dynamic Programming +4 | CPP |
@@ -1493,30 +1499,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-09-01 04:28:30 UTC_
+_Generated on 2026-09-01 18:05:34 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3568-minimum-moves-to-clean-the-classroom](https://github.com/chittoralovesh/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
-## Hash Table
-|  |
-| ------- |
-| [3568-minimum-moves-to-clean-the-classroom](https://github.com/chittoralovesh/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
-## Bit Manipulation
-|  |
-| ------- |
-| [3568-minimum-moves-to-clean-the-classroom](https://github.com/chittoralovesh/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
-## Breadth-First Search
-|  |
-| ------- |
-| [3568-minimum-moves-to-clean-the-classroom](https://github.com/chittoralovesh/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
-## Matrix
-|  |
-| ------- |
-| [3568-minimum-moves-to-clean-the-classroom](https://github.com/chittoralovesh/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
-<!---LeetCode Topics End-->

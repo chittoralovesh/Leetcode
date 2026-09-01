@@ -548,6 +548,13 @@
     "Breadth-First Search",
     "Number Theory"
   ],
+  "minimum-moves-to-clean-the-classroom": [
+    "Array",
+    "Hash Table",
+    "Bit Manipulation",
+    "Breadth-First Search",
+    "Matrix"
+  ],
   "minimum-number-of-pushes-to-type-word-i": [
     "Math",
     "String",
