@@ -1496,3 +1496,27 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-09-01 04:28:30 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/chittoralovesh/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Hash Table
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/chittoralovesh/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/chittoralovesh/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/chittoralovesh/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/chittoralovesh/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+<!---LeetCode Topics End-->
