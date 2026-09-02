@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-195-5865F2?style=for-the-badge" alt="Total Solved" />
-<img src="https://img.shields.io/badge/Easy-45-2ECC71?style=for-the-badge" alt="Easy" />
+<img src="https://img.shields.io/badge/Total%20Solved-196-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Easy-46-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-96-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-54-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-142%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-143%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-27%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-15%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 195 |
+| **Total problems solved** | 196 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (104), `String` (49), `Math` (47), `Hash Table` (43), `Dynamic Programming` (42) |
-| **Last updated** | 2026-09-02 03:52:03 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (105), `String` (49), `Math` (48), `Hash Table` (43), `Dynamic Programming` (42) |
+| **Last updated** | 2026-09-02 06:02:24 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     45  █████░░░░░░░░░░░░░░░   23.1%
-🟡 Medium   96  ██████████░░░░░░░░░░   49.2%
-🔴 Hard     54  ██████░░░░░░░░░░░░░░   27.7%
+🟢 Easy     46  █████░░░░░░░░░░░░░░░   23.5%
+🟡 Medium   96  ██████████░░░░░░░░░░   49.0%
+🔴 Hard     54  ██████░░░░░░░░░░░░░░   27.6%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 104 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 105 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -156,6 +156,7 @@
 | 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
 | 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY |
 | 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
+| 3875 | [Construct Uniform Parity Array I](3875-construct-uniform-parity-array-i) | 🟢 EASY |
 
 </details>
 
@@ -218,7 +219,7 @@
 </details>
 
 <details>
-<summary><b>Math</b> &nbsp;·&nbsp; 47 problem(s)</summary>
+<summary><b>Math</b> &nbsp;·&nbsp; 48 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -270,6 +271,7 @@
 | 3754 | [Concatenate Non Zero Digits And Multiply By Sum I](3754-concatenate-non-zero-digits-and-multiply-by-sum-i) | 🟢 EASY |
 | 3756 | [Concatenate Non Zero Digits And Multiply By Sum Ii](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) | 🟡 MEDIUM |
 | 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
+| 3875 | [Construct Uniform Parity Array I](3875-construct-uniform-parity-array-i) | 🟢 EASY |
 
 </details>
 
@@ -1487,6 +1489,7 @@
 | 3829 | [Design Ride Sharing System](3829-design-ride-sharing-system) | 🟡 MEDIUM | Hash Table, Design, Queue +1 | PY |
 | 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY | Array, String, Simulation | CPP |
 | 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM | Array, Math, Two Pointers +3 | PY |
+| 3875 | [Construct Uniform Parity Array I](3875-construct-uniform-parity-array-i) | 🟢 EASY | Array, Math | PY |
 
 
 ---
@@ -1499,18 +1502,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-09-02 03:52:03 UTC_
+_Generated on 2026-09-02 06:02:24 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3875-construct-uniform-parity-array-i](https://github.com/chittoralovesh/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
-## Math
-|  |
-| ------- |
-| [3875-construct-uniform-parity-array-i](https://github.com/chittoralovesh/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
-<!---LeetCode Topics End-->
