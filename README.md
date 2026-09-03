@@ -5,16 +5,16 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-196-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-197-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-46-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-96-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-97-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-54-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-143%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-142%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-27%20solved-00599C?style=for-the-badge" alt="CPP" />
-<img src="https://img.shields.io/badge/JAVA-15%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
+<img src="https://img.shields.io/badge/JAVA-17%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
 
 
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 196 |
+| **Total problems solved** | 197 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (105), `String` (49), `Math` (48), `Hash Table` (43), `Dynamic Programming` (42) |
-| **Last updated** | 2026-09-03 03:50:45 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (106), `Math` (49), `String` (49), `Hash Table` (43), `Dynamic Programming` (42) |
+| **Last updated** | 2026-09-03 14:17:07 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     46  █████░░░░░░░░░░░░░░░   23.5%
-🟡 Medium   96  ██████████░░░░░░░░░░   49.0%
-🔴 Hard     54  ██████░░░░░░░░░░░░░░   27.6%
+🟢 Easy     46  █████░░░░░░░░░░░░░░░   23.4%
+🟡 Medium   97  ██████████░░░░░░░░░░   49.2%
+🔴 Hard     54  █████░░░░░░░░░░░░░░░   27.4%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 105 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 106 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -157,6 +157,65 @@
 | 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY |
 | 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
 | 3875 | [Construct Uniform Parity Array I](3875-construct-uniform-parity-array-i) | 🟢 EASY |
+| 3876 | [Construct Uniform Parity Array Ii](3876-construct-uniform-parity-array-ii) | 🟡 MEDIUM |
+
+</details>
+
+<details>
+<summary><b>Math</b> &nbsp;·&nbsp; 49 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0002 | [Add Two Numbers](0002-add-two-numbers) | 🟡 MEDIUM |
+| 0007 | [Reverse Integer](0007-reverse-integer) | 🟡 MEDIUM |
+| 0009 | [Palindrome Number](0009-palindrome-number) | 🟢 EASY |
+| 0012 | [Integer To Roman](0012-integer-to-roman) | 🟡 MEDIUM |
+| 0013 | [Roman To Integer](0013-roman-to-integer) | 🟢 EASY |
+| 0048 | [Rotate Image](0048-rotate-image) | 🟡 MEDIUM |
+| 0050 | [Powx N](0050-powx-n) | 🟡 MEDIUM |
+| 0060 | [Permutation Sequence](0060-permutation-sequence) | 🔴 HARD |
+| 0070 | [Climbing Stairs](0070-climbing-stairs) | 🟢 EASY |
+| 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
+| 0233 | [Number Of Digit One](0233-number-of-digit-one) | 🔴 HARD |
+| 0382 | [Linked List Random Node](0382-linked-list-random-node) | 🟡 MEDIUM |
+| 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
+| 0400 | [Nth Digit](0400-nth-digit) | 🟡 MEDIUM |
+| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
+| 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM |
+| 0598 | [Range Addition Ii](0598-range-addition-ii) | 🟢 EASY |
+| 0679 | [24 Game](0679-24-game) | 🔴 HARD |
+| 0877 | [Stone Game](0877-stone-game) | 🟡 MEDIUM |
+| 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY |
+| 1140 | [Stone Game Ii](1140-stone-game-ii) | 🟡 MEDIUM |
+| 1344 | [Angle Between Hands Of A Clock](1344-angle-between-hands-of-a-clock) | 🟡 MEDIUM |
+| 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
+| 1510 | [Stone Game Iv](1510-stone-game-iv) | 🔴 HARD |
+| 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD |
+| 1872 | [Stone Game Viii](1872-stone-game-viii) | 🔴 HARD |
+| 1927 | [Sum Game](1927-sum-game) | 🟡 MEDIUM |
+| 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array) | 🟢 EASY |
+| 2029 | [Stone Game Ix](2029-stone-game-ix) | 🟡 MEDIUM |
+| 3014 | [Minimum Number Of Pushes To Type Word I](3014-minimum-number-of-pushes-to-type-word-i) | 🟢 EASY |
+| 3116 | [Kth Smallest Amount With Single Denomination Combination](3116-kth-smallest-amount-with-single-denomination-combination) | 🔴 HARD |
+| 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD |
+| 3345 | [Smallest Divisible Digit Product I](3345-smallest-divisible-digit-product-i) | 🟢 EASY |
+| 3348 | [Smallest Divisible Digit Product Ii](3348-smallest-divisible-digit-product-ii) | 🔴 HARD |
+| 3518 | [Smallest Palindromic Rearrangement Ii](3518-smallest-palindromic-rearrangement-ii) | 🔴 HARD |
+| 3536 | [Maximum Product Of Two Digits](3536-maximum-product-of-two-digits) | 🟢 EASY |
+| 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
+| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
+| 3622 | [Check Divisibility By Digit Sum And Product](3622-check-divisibility-by-digit-sum-and-product) | 🟢 EASY |
+| 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM |
+| 3658 | [Gcd Of Odd And Even Sums](3658-gcd-of-odd-and-even-sums) | 🟢 EASY |
+| 3700 | [Number Of Zigzag Arrays Ii](3700-number-of-zigzag-arrays-ii) | 🔴 HARD |
+| 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM |
+| 3753 | [Total Waviness Of Numbers In Range Ii](3753-total-waviness-of-numbers-in-range-ii) | 🔴 HARD |
+| 3754 | [Concatenate Non Zero Digits And Multiply By Sum I](3754-concatenate-non-zero-digits-and-multiply-by-sum-i) | 🟢 EASY |
+| 3756 | [Concatenate Non Zero Digits And Multiply By Sum Ii](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) | 🟡 MEDIUM |
+| 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
+| 3875 | [Construct Uniform Parity Array I](3875-construct-uniform-parity-array-i) | 🟢 EASY |
+| 3876 | [Construct Uniform Parity Array Ii](3876-construct-uniform-parity-array-ii) | 🟡 MEDIUM |
 
 </details>
 
@@ -215,63 +274,6 @@
 | 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](3734-lexicographically-smallest-palindromic-permutation-greater-than-target) | 🔴 HARD |
 | 3756 | [Concatenate Non Zero Digits And Multiply By Sum Ii](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) | 🟡 MEDIUM |
 | 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY |
-
-</details>
-
-<details>
-<summary><b>Math</b> &nbsp;·&nbsp; 48 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0002 | [Add Two Numbers](0002-add-two-numbers) | 🟡 MEDIUM |
-| 0007 | [Reverse Integer](0007-reverse-integer) | 🟡 MEDIUM |
-| 0009 | [Palindrome Number](0009-palindrome-number) | 🟢 EASY |
-| 0012 | [Integer To Roman](0012-integer-to-roman) | 🟡 MEDIUM |
-| 0013 | [Roman To Integer](0013-roman-to-integer) | 🟢 EASY |
-| 0048 | [Rotate Image](0048-rotate-image) | 🟡 MEDIUM |
-| 0050 | [Powx N](0050-powx-n) | 🟡 MEDIUM |
-| 0060 | [Permutation Sequence](0060-permutation-sequence) | 🔴 HARD |
-| 0070 | [Climbing Stairs](0070-climbing-stairs) | 🟢 EASY |
-| 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
-| 0233 | [Number Of Digit One](0233-number-of-digit-one) | 🔴 HARD |
-| 0382 | [Linked List Random Node](0382-linked-list-random-node) | 🟡 MEDIUM |
-| 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
-| 0400 | [Nth Digit](0400-nth-digit) | 🟡 MEDIUM |
-| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
-| 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM |
-| 0598 | [Range Addition Ii](0598-range-addition-ii) | 🟢 EASY |
-| 0679 | [24 Game](0679-24-game) | 🔴 HARD |
-| 0877 | [Stone Game](0877-stone-game) | 🟡 MEDIUM |
-| 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY |
-| 1140 | [Stone Game Ii](1140-stone-game-ii) | 🟡 MEDIUM |
-| 1344 | [Angle Between Hands Of A Clock](1344-angle-between-hands-of-a-clock) | 🟡 MEDIUM |
-| 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
-| 1510 | [Stone Game Iv](1510-stone-game-iv) | 🔴 HARD |
-| 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD |
-| 1872 | [Stone Game Viii](1872-stone-game-viii) | 🔴 HARD |
-| 1927 | [Sum Game](1927-sum-game) | 🟡 MEDIUM |
-| 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array) | 🟢 EASY |
-| 2029 | [Stone Game Ix](2029-stone-game-ix) | 🟡 MEDIUM |
-| 3014 | [Minimum Number Of Pushes To Type Word I](3014-minimum-number-of-pushes-to-type-word-i) | 🟢 EASY |
-| 3116 | [Kth Smallest Amount With Single Denomination Combination](3116-kth-smallest-amount-with-single-denomination-combination) | 🔴 HARD |
-| 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD |
-| 3345 | [Smallest Divisible Digit Product I](3345-smallest-divisible-digit-product-i) | 🟢 EASY |
-| 3348 | [Smallest Divisible Digit Product Ii](3348-smallest-divisible-digit-product-ii) | 🔴 HARD |
-| 3518 | [Smallest Palindromic Rearrangement Ii](3518-smallest-palindromic-rearrangement-ii) | 🔴 HARD |
-| 3536 | [Maximum Product Of Two Digits](3536-maximum-product-of-two-digits) | 🟢 EASY |
-| 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
-| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
-| 3622 | [Check Divisibility By Digit Sum And Product](3622-check-divisibility-by-digit-sum-and-product) | 🟢 EASY |
-| 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM |
-| 3658 | [Gcd Of Odd And Even Sums](3658-gcd-of-odd-and-even-sums) | 🟢 EASY |
-| 3700 | [Number Of Zigzag Arrays Ii](3700-number-of-zigzag-arrays-ii) | 🔴 HARD |
-| 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM |
-| 3753 | [Total Waviness Of Numbers In Range Ii](3753-total-waviness-of-numbers-in-range-ii) | 🔴 HARD |
-| 3754 | [Concatenate Non Zero Digits And Multiply By Sum I](3754-concatenate-non-zero-digits-and-multiply-by-sum-i) | 🟢 EASY |
-| 3756 | [Concatenate Non Zero Digits And Multiply By Sum Ii](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) | 🟡 MEDIUM |
-| 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
-| 3875 | [Construct Uniform Parity Array I](3875-construct-uniform-parity-array-i) | 🟢 EASY |
 
 </details>
 
@@ -1297,7 +1299,7 @@
 | 0001 | [Two Sum](0001-two-sum) | 🟢 EASY | Array, Hash Table | JAVA |
 | 0002 | [Add Two Numbers](0002-add-two-numbers) | 🟡 MEDIUM | Linked List, Math, Recursion | PY |
 | 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters) | 🟡 MEDIUM | Hash Table, String, Sliding Window | JAVA |
-| 0004 | [Median Of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 HARD | Array, Binary Search, Divide and Conquer | CPP |
+| 0004 | [Median Of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 HARD | Array, Binary Search, Divide and Conquer | PY |
 | 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring) | 🟡 MEDIUM | Two Pointers, String, Dynamic Programming | CPP |
 | 0006 | [Zigzag Conversion](0006-zigzag-conversion) | 🟡 MEDIUM | String | CPP |
 | 0007 | [Reverse Integer](0007-reverse-integer) | 🟡 MEDIUM | Math | CPP |
@@ -1416,11 +1418,11 @@
 | 1784 | [Check If Binary String Has At Most One Segment Of Ones](1784-check-if-binary-string-has-at-most-one-segment-of-ones) | 🟢 EASY | String | PY |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM | Array, Greedy, Sorting +1 | PY |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD | Array, Math, Sorting | PY |
-| 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM | Array, Greedy, Sorting | PY |
+| 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM | Array, Greedy, Sorting | JAVA |
 | 1872 | [Stone Game Viii](1872-stone-game-viii) | 🔴 HARD | Array, Math, Dynamic Programming +4 | PY |
 | 1927 | [Sum Game](1927-sum-game) | 🟡 MEDIUM | Math, String, Greedy +1 | PY |
 | 1967 | [Number Of Strings That Appear As Substrings In Word](1967-number-of-strings-that-appear-as-substrings-in-word) | 🟢 EASY | Array, String | JAVA |
-| 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array) | 🟢 EASY | Array, Math, Number Theory | PY |
+| 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array) | 🟢 EASY | Array, Math, Number Theory | JAVA |
 | 2029 | [Stone Game Ix](2029-stone-game-ix) | 🟡 MEDIUM | Array, Math, Greedy +5 | PY |
 | 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM | Linked List, Two Pointers | PY |
 | 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM | String, Simulation | PY |
@@ -1466,7 +1468,7 @@
 | 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD | Array, Binary Search, Dynamic Programming +4 | CPP |
 | 3622 | [Check Divisibility By Digit Sum And Product](3622-check-divisibility-by-digit-sum-and-product) | 🟢 EASY | Math | PY |
 | 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM | Array, Hash Table, Math +2 | PY |
-| 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY | Array, Two Pointers, Binary Search +2 | PY |
+| 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY | Array, Two Pointers, Binary Search +2 | CPP |
 | 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM | Array, Two Pointers, Binary Search +2 | CPP |
 | 3658 | [Gcd Of Odd And Even Sums](3658-gcd-of-odd-and-even-sums) | 🟢 EASY | Math, Number Theory | PY |
 | 3660 | [Jump Game Ix](3660-jump-game-ix) | 🟡 MEDIUM | Array, Dynamic Programming | PY |
@@ -1490,6 +1492,7 @@
 | 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY | Array, String, Simulation | CPP |
 | 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM | Array, Math, Two Pointers +3 | PY |
 | 3875 | [Construct Uniform Parity Array I](3875-construct-uniform-parity-array-i) | 🟢 EASY | Array, Math | PY |
+| 3876 | [Construct Uniform Parity Array Ii](3876-construct-uniform-parity-array-ii) | 🟡 MEDIUM | Array, Math | PY |
 
 
 ---
@@ -1502,6 +1505,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-09-03 03:50:45 UTC_
+_Generated on 2026-09-03 14:17:07 UTC_
 
 </div>
