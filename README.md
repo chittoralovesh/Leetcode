@@ -1508,3 +1508,15 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-09-05 03:50:17 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3904-smallest-stable-index-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3904-smallest-stable-index-ii) |
+<!---LeetCode Topics End-->
