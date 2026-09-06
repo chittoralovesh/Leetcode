@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-199-5865F2?style=for-the-badge" alt="Total Solved" />
-<img src="https://img.shields.io/badge/Easy-46-2ECC71?style=for-the-badge" alt="Easy" />
+<img src="https://img.shields.io/badge/Total%20Solved-200-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Easy-47-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-98-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-55-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-144%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-145%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-27%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-17%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 199 |
+| **Total problems solved** | 200 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (107), `String` (50), `Math` (49), `Hash Table` (43), `Dynamic Programming` (43) |
-| **Last updated** | 2026-09-06 15:07:30 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (107), `String` (51), `Math` (50), `Hash Table` (43), `Dynamic Programming` (43) |
+| **Last updated** | 2026-09-06 15:09:37 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     46  █████░░░░░░░░░░░░░░░   23.1%
-🟡 Medium   98  ██████████░░░░░░░░░░   49.2%
-🔴 Hard     55  ██████░░░░░░░░░░░░░░   27.6%
+🟢 Easy     47  █████░░░░░░░░░░░░░░░   23.5%
+🟡 Medium   98  ██████████░░░░░░░░░░   49.0%
+🔴 Hard     55  ██████░░░░░░░░░░░░░░   27.5%
 ```
 
 
@@ -163,7 +163,7 @@
 </details>
 
 <details>
-<summary><b>String</b> &nbsp;·&nbsp; 50 problem(s)</summary>
+<summary><b>String</b> &nbsp;·&nbsp; 51 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -189,6 +189,7 @@
 | 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
 | 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
 | 0392 | [Is Subsequence](0392-is-subsequence) | 🟢 EASY |
+| 0405 | [Convert A Number To Hexadecimal](0405-convert-a-number-to-hexadecimal) | 🟢 EASY |
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
 | 0466 | [Count The Repetitions](0466-count-the-repetitions) | 🔴 HARD |
 | 0583 | [Delete Operation For Two Strings](0583-delete-operation-for-two-strings) | 🟡 MEDIUM |
@@ -222,7 +223,7 @@
 </details>
 
 <details>
-<summary><b>Math</b> &nbsp;·&nbsp; 49 problem(s)</summary>
+<summary><b>Math</b> &nbsp;·&nbsp; 50 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -241,6 +242,7 @@
 | 0382 | [Linked List Random Node](0382-linked-list-random-node) | 🟡 MEDIUM |
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
 | 0400 | [Nth Digit](0400-nth-digit) | 🟡 MEDIUM |
+| 0405 | [Convert A Number To Hexadecimal](0405-convert-a-number-to-hexadecimal) | 🟢 EASY |
 | 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
 | 0486 | [Predict The Winner](0486-predict-the-winner) | 🟡 MEDIUM |
 | 0598 | [Range Addition Ii](0598-range-addition-ii) | 🟢 EASY |
@@ -749,6 +751,23 @@
 </details>
 
 <details>
+<summary><b>Bit Manipulation</b> &nbsp;·&nbsp; 8 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0405 | [Convert A Number To Hexadecimal](0405-convert-a-number-to-hexadecimal) | 🟢 EASY |
+| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
+| 1386 | [Cinema Seat Allocation](1386-cinema-seat-allocation) | 🟡 MEDIUM |
+| 3116 | [Kth Smallest Amount With Single Denomination Combination](3116-kth-smallest-amount-with-single-denomination-combination) | 🔴 HARD |
+| 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
+| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
+| 3568 | [Minimum Moves To Clean The Classroom](3568-minimum-moves-to-clean-the-classroom) | 🟡 MEDIUM |
+| 3702 | [Longest Subsequence With Non Zero Bitwise Xor](3702-longest-subsequence-with-non-zero-bitwise-xor) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Segment Tree</b> &nbsp;·&nbsp; 8 problem(s)</summary>
 
 
@@ -826,22 +845,6 @@
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
 | 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Bit Manipulation</b> &nbsp;·&nbsp; 7 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
-| 1386 | [Cinema Seat Allocation](1386-cinema-seat-allocation) | 🟡 MEDIUM |
-| 3116 | [Kth Smallest Amount With Single Denomination Combination](3116-kth-smallest-amount-with-single-denomination-combination) | 🔴 HARD |
-| 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
-| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
-| 3568 | [Minimum Moves To Clean The Classroom](3568-minimum-moves-to-clean-the-classroom) | 🟡 MEDIUM |
-| 3702 | [Longest Subsequence With Non Zero Bitwise Xor](3702-longest-subsequence-with-non-zero-bitwise-xor) | 🟡 MEDIUM |
 
 </details>
 
@@ -1369,6 +1372,7 @@
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD | Array, Hash Table, Math +2 | PY |
 | 0392 | [Is Subsequence](0392-is-subsequence) | 🟢 EASY | Two Pointers, String, Dynamic Programming | PY |
 | 0400 | [Nth Digit](0400-nth-digit) | 🟡 MEDIUM | Math, Binary Search | PY |
+| 0405 | [Convert A Number To Hexadecimal](0405-convert-a-number-to-hexadecimal) | 🟢 EASY | Math, String, Bit Manipulation | PY |
 | 0407 | [Trapping Rain Water Ii](0407-trapping-rain-water-ii) | 🔴 HARD | Array, Breadth-First Search, Heap (Priority Queue) +1 | PY |
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY | Hash Table, String, Greedy | PY |
 | 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD | Array, Dynamic Programming | PY |
@@ -1511,22 +1515,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-09-06 15:07:30 UTC_
+_Generated on 2026-09-06 15:09:37 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0405-convert-a-number-to-hexadecimal](https://github.com/chittoralovesh/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
-## String
-|  |
-| ------- |
-| [0405-convert-a-number-to-hexadecimal](https://github.com/chittoralovesh/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0405-convert-a-number-to-hexadecimal](https://github.com/chittoralovesh/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
-<!---LeetCode Topics End-->

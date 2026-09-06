@@ -131,6 +131,11 @@
     "Hash Table",
     "Prefix Sum"
   ],
+  "convert-a-number-to-hexadecimal": [
+    "Math",
+    "String",
+    "Bit Manipulation"
+  ],
   "count-subarrays-with-majority-element-i": [
     "Array",
     "Hash Table",
