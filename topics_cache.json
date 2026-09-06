@@ -694,6 +694,10 @@
     "String",
     "Dynamic Programming"
   ],
+  "palindrome-partitioning-iii": [
+    "String",
+    "Dynamic Programming"
+  ],
   "palindromic-substrings": [
     "Two Pointers",
     "String",
