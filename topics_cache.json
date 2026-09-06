@@ -800,6 +800,10 @@
     "Breadth-First Search",
     "Graph Theory"
   ],
+  "restore-ip-addresses": [
+    "String",
+    "Backtracking"
+  ],
   "reverse-integer": [
     "Math"
   ],

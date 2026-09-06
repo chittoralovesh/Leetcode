@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-204-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-205-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-47-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-101-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-102-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-56-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-149%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-150%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-27%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-17%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 204 |
+| **Total problems solved** | 205 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (107), `String` (52), `Math` (51), `Dynamic Programming` (45), `Hash Table` (43) |
-| **Last updated** | 2026-09-06 15:15:37 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (107), `String` (53), `Math` (51), `Dynamic Programming` (45), `Hash Table` (43) |
+| **Last updated** | 2026-09-06 15:16:45 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     47  █████░░░░░░░░░░░░░░░   23.0%
-🟡 Medium  101  ██████████░░░░░░░░░░   49.5%
-🔴 Hard     56  █████░░░░░░░░░░░░░░░   27.5%
+🟢 Easy     47  █████░░░░░░░░░░░░░░░   22.9%
+🟡 Medium  102  ██████████░░░░░░░░░░   49.8%
+🔴 Hard     56  █████░░░░░░░░░░░░░░░   27.3%
 ```
 
 
@@ -163,7 +163,7 @@
 </details>
 
 <details>
-<summary><b>String</b> &nbsp;·&nbsp; 52 problem(s)</summary>
+<summary><b>String</b> &nbsp;·&nbsp; 53 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -182,6 +182,7 @@
 | 0049 | [Group Anagrams](0049-group-anagrams) | 🟡 MEDIUM |
 | 0058 | [Length Of Last Word](0058-length-of-last-word) | 🟢 EASY |
 | 0076 | [Minimum Window Substring](0076-minimum-window-substring) | 🔴 HARD |
+| 0093 | [Restore Ip Addresses](0093-restore-ip-addresses) | 🟡 MEDIUM |
 | 0115 | [Distinct Subsequences](0115-distinct-subsequences) | 🔴 HARD |
 | 0127 | [Word Ladder](0127-word-ladder) | 🔴 HARD |
 | 0132 | [Palindrome Partitioning Ii](0132-palindrome-partitioning-ii) | 🔴 HARD |
@@ -652,6 +653,25 @@
 </details>
 
 <details>
+<summary><b>Backtracking</b> &nbsp;·&nbsp; 10 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0017 | [Letter Combinations Of A Phone Number](0017-letter-combinations-of-a-phone-number) | 🟡 MEDIUM |
+| 0022 | [Generate Parentheses](0022-generate-parentheses) | 🟡 MEDIUM |
+| 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
+| 0051 | [N Queens](0051-n-queens) | 🔴 HARD |
+| 0052 | [N Queens Ii](0052-n-queens-ii) | 🔴 HARD |
+| 0093 | [Restore Ip Addresses](0093-restore-ip-addresses) | 🟡 MEDIUM |
+| 0095 | [Unique Binary Search Trees Ii](0095-unique-binary-search-trees-ii) | 🟡 MEDIUM |
+| 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
+| 0679 | [24 Game](0679-24-game) | 🔴 HARD |
+| 3348 | [Smallest Divisible Digit Product Ii](3348-smallest-divisible-digit-product-ii) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Game Theory</b> &nbsp;·&nbsp; 10 problem(s)</summary>
 
 
@@ -685,24 +705,6 @@
 | 2904 | [Shortest And Lexicographically Smallest Beautiful String](2904-shortest-and-lexicographically-smallest-beautiful-string) | 🟡 MEDIUM |
 | 2958 | [Length Of Longest Subarray With At Most K Frequency](2958-length-of-longest-subarray-with-at-most-k-frequency) | 🟡 MEDIUM |
 | 3090 | [Maximum Length Substring With Two Occurrences](3090-maximum-length-substring-with-two-occurrences) | 🟢 EASY |
-
-</details>
-
-<details>
-<summary><b>Backtracking</b> &nbsp;·&nbsp; 9 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0017 | [Letter Combinations Of A Phone Number](0017-letter-combinations-of-a-phone-number) | 🟡 MEDIUM |
-| 0022 | [Generate Parentheses](0022-generate-parentheses) | 🟡 MEDIUM |
-| 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
-| 0051 | [N Queens](0051-n-queens) | 🔴 HARD |
-| 0052 | [N Queens Ii](0052-n-queens-ii) | 🔴 HARD |
-| 0095 | [Unique Binary Search Trees Ii](0095-unique-binary-search-trees-ii) | 🟡 MEDIUM |
-| 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
-| 0679 | [24 Game](0679-24-game) | 🔴 HARD |
-| 3348 | [Smallest Divisible Digit Product Ii](3348-smallest-divisible-digit-product-ii) | 🔴 HARD |
 
 </details>
 
@@ -1391,6 +1393,7 @@
 | 0082 | [Remove Duplicates From Sorted List Ii](0082-remove-duplicates-from-sorted-list-ii) | 🟡 MEDIUM | Linked List, Two Pointers | PY |
 | 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD | Array, Dynamic Programming, Stack +2 | JAVA |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array) | 🟢 EASY | Array, Two Pointers, Sorting | PY |
+| 0093 | [Restore Ip Addresses](0093-restore-ip-addresses) | 🟡 MEDIUM | String, Backtracking | PY |
 | 0095 | [Unique Binary Search Trees Ii](0095-unique-binary-search-trees-ii) | 🟡 MEDIUM | Dynamic Programming, Backtracking, Tree +2 | PY |
 | 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree) | 🟡 MEDIUM | Tree, Depth-First Search, Binary Search Tree +1 | PY |
 | 0100 | [Same Tree](0100-same-tree) | 🟢 EASY | Tree, Depth-First Search, Breadth-First Search +1 | CPP |
@@ -1572,18 +1575,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-09-06 15:15:37 UTC_
+_Generated on 2026-09-06 15:16:45 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0093-restore-ip-addresses](https://github.com/chittoralovesh/Leetcode/tree/master/0093-restore-ip-addresses) |
-## Backtracking
-|  |
-| ------- |
-| [0093-restore-ip-addresses](https://github.com/chittoralovesh/Leetcode/tree/master/0093-restore-ip-addresses) |
-<!---LeetCode Topics End-->
