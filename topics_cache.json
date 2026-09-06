@@ -1019,6 +1019,13 @@
     "Array",
     "Hash Table"
   ],
+  "unique-binary-search-trees-ii": [
+    "Dynamic Programming",
+    "Backtracking",
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
   "validate-binary-search-tree": [
     "Tree",
     "Depth-First Search",
