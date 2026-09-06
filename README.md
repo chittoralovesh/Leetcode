@@ -1518,3 +1518,15 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-09-06 15:09:37 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [1278-palindrome-partitioning-iii](https://github.com/chittoralovesh/Leetcode/tree/master/1278-palindrome-partitioning-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1278-palindrome-partitioning-iii](https://github.com/chittoralovesh/Leetcode/tree/master/1278-palindrome-partitioning-iii) |
+<!---LeetCode Topics End-->
