@@ -56,6 +56,11 @@
     "Depth-First Search",
     "Binary Tree"
   ],
+  "binary-tree-zigzag-level-order-traversal": [
+    "Tree",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
   "brick-wall": [
     "Array",
     "Hash Table"
