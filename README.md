@@ -1521,3 +1521,35 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-09-06 15:10:15 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/chittoralovesh/Leetcode/tree/master/0365-water-and-jug-problem) |
+## Depth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/chittoralovesh/Leetcode/tree/master/0365-water-and-jug-problem) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/chittoralovesh/Leetcode/tree/master/0365-water-and-jug-problem) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/chittoralovesh/Leetcode/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/chittoralovesh/Leetcode/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/chittoralovesh/Leetcode/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/chittoralovesh/Leetcode/tree/master/0365-water-and-jug-problem) |
+<!---LeetCode Topics End-->
