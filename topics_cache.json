@@ -1025,6 +1025,15 @@
     "Binary Search Tree",
     "Binary Tree"
   ],
+  "water-and-jug-problem": [
+    "Math",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "B\u00e9zout's Lemma",
+    "Euclidean Algorithm",
+    "Greatest Common Divisor",
+    "Extended Euclidean Algorithm"
+  ],
   "weighted-word-mapping": [
     "Array",
     "String",

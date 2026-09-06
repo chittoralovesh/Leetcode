@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-201-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-202-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-47-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-99-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-55-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-56-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-146%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-147%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-27%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-17%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 201 |
+| **Total problems solved** | 202 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (107), `String` (52), `Math` (50), `Dynamic Programming` (44), `Hash Table` (43) |
-| **Last updated** | 2026-09-06 15:10:15 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (107), `String` (52), `Math` (51), `Dynamic Programming` (44), `Hash Table` (43) |
+| **Last updated** | 2026-09-06 15:13:24 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     47  █████░░░░░░░░░░░░░░░   23.4%
-🟡 Medium   99  ██████████░░░░░░░░░░   49.3%
-🔴 Hard     55  █████░░░░░░░░░░░░░░░   27.4%
+🟢 Easy     47  █████░░░░░░░░░░░░░░░   23.3%
+🟡 Medium   99  ██████████░░░░░░░░░░   49.0%
+🔴 Hard     56  ██████░░░░░░░░░░░░░░   27.7%
 ```
 
 
@@ -198,7 +198,7 @@
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 | 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM |
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
-| 1278 | [Palindrome Partitioning Iii](1278-palindrome-partitioning-iii) | 🟡 MEDIUM |
+| 1278 | [Palindrome Partitioning Iii](1278-palindrome-partitioning-iii) | 🔴 HARD |
 | 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM |
 | 1784 | [Check If Binary String Has At Most One Segment Of Ones](1784-check-if-binary-string-has-at-most-one-segment-of-ones) | 🟢 EASY |
 | 1927 | [Sum Game](1927-sum-game) | 🟡 MEDIUM |
@@ -224,7 +224,7 @@
 </details>
 
 <details>
-<summary><b>Math</b> &nbsp;·&nbsp; 50 problem(s)</summary>
+<summary><b>Math</b> &nbsp;·&nbsp; 51 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -240,6 +240,7 @@
 | 0070 | [Climbing Stairs](0070-climbing-stairs) | 🟢 EASY |
 | 0149 | [Max Points On A Line](0149-max-points-on-a-line) | 🔴 HARD |
 | 0233 | [Number Of Digit One](0233-number-of-digit-one) | 🔴 HARD |
+| 0365 | [Water And Jug Problem](0365-water-and-jug-problem) | 🟡 MEDIUM |
 | 0382 | [Linked List Random Node](0382-linked-list-random-node) | 🟡 MEDIUM |
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
 | 0400 | [Nth Digit](0400-nth-digit) | 🟡 MEDIUM |
@@ -318,7 +319,7 @@
 | 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY |
 | 1140 | [Stone Game Ii](1140-stone-game-ii) | 🟡 MEDIUM |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
-| 1278 | [Palindrome Partitioning Iii](1278-palindrome-partitioning-iii) | 🟡 MEDIUM |
+| 1278 | [Palindrome Partitioning Iii](1278-palindrome-partitioning-iii) | 🔴 HARD |
 | 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD |
 | 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
 | 1510 | [Stone Game Iv](1510-stone-game-iv) | 🔴 HARD |
@@ -514,7 +515,7 @@
 </details>
 
 <details>
-<summary><b>Breadth-First Search</b> &nbsp;·&nbsp; 15 problem(s)</summary>
+<summary><b>Breadth-First Search</b> &nbsp;·&nbsp; 16 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -523,6 +524,7 @@
 | 0107 | [Binary Tree Level Order Traversal Ii](0107-binary-tree-level-order-traversal-ii) | 🟡 MEDIUM |
 | 0127 | [Word Ladder](0127-word-ladder) | 🔴 HARD |
 | 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
+| 0365 | [Water And Jug Problem](0365-water-and-jug-problem) | 🟡 MEDIUM |
 | 0407 | [Trapping Rain Water Ii](0407-trapping-rain-water-ii) | 🔴 HARD |
 | 0529 | [Minesweeper](0529-minesweeper) | 🟡 MEDIUM |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
@@ -585,7 +587,7 @@
 </details>
 
 <details>
-<summary><b>Depth-First Search</b> &nbsp;·&nbsp; 12 problem(s)</summary>
+<summary><b>Depth-First Search</b> &nbsp;·&nbsp; 13 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -595,6 +597,7 @@
 | 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟢 EASY |
 | 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
 | 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
+| 0365 | [Water And Jug Problem](0365-water-and-jug-problem) | 🟡 MEDIUM |
 | 0529 | [Minesweeper](0529-minesweeper) | 🟡 MEDIUM |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 | 2492 | [Minimum Score Of A Path Between Two Cities](2492-minimum-score-of-a-path-between-two-cities) | 🟡 MEDIUM |
@@ -1169,6 +1172,46 @@
 </details>
 
 <details>
+<summary><b>Bézout's Lemma</b> &nbsp;·&nbsp; 1 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0365 | [Water And Jug Problem](0365-water-and-jug-problem) | 🟡 MEDIUM |
+
+</details>
+
+<details>
+<summary><b>Euclidean Algorithm</b> &nbsp;·&nbsp; 1 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0365 | [Water And Jug Problem](0365-water-and-jug-problem) | 🟡 MEDIUM |
+
+</details>
+
+<details>
+<summary><b>Greatest Common Divisor</b> &nbsp;·&nbsp; 1 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0365 | [Water And Jug Problem](0365-water-and-jug-problem) | 🟡 MEDIUM |
+
+</details>
+
+<details>
+<summary><b>Extended Euclidean Algorithm</b> &nbsp;·&nbsp; 1 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0365 | [Water And Jug Problem](0365-water-and-jug-problem) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Interactive</b> &nbsp;·&nbsp; 1 problem(s)</summary>
 
 
@@ -1369,6 +1412,7 @@
 | 0328 | [Odd Even Linked List](0328-odd-even-linked-list) | 🟡 MEDIUM | Linked List | JAVA |
 | 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD | Array, String, Depth-First Search +4 | PY |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 MEDIUM | Array, Hash Table, Divide and Conquer +5 | JAVA |
+| 0365 | [Water And Jug Problem](0365-water-and-jug-problem) | 🟡 MEDIUM | Math, Depth-First Search, Breadth-First Search +4 | PY |
 | 0374 | [Guess Number Higher Or Lower](0374-guess-number-higher-or-lower) | 🟢 EASY | Binary Search, Interactive | PY |
 | 0382 | [Linked List Random Node](0382-linked-list-random-node) | 🟡 MEDIUM | Linked List, Math, Reservoir Sampling +1 | PY |
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD | Array, Hash Table, Math +2 | PY |
@@ -1414,7 +1458,7 @@
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD | Array, Binary Search, Dynamic Programming +1 | PY |
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY | Hash Table, String, Counting | PY |
 | 1260 | [Shift 2D Grid](1260-shift-2d-grid) | 🟢 EASY | Array, Matrix, Simulation | JAVA |
-| 1278 | [Palindrome Partitioning Iii](1278-palindrome-partitioning-iii) | 🟡 MEDIUM | String, Dynamic Programming | PY |
+| 1278 | [Palindrome Partitioning Iii](1278-palindrome-partitioning-iii) | 🔴 HARD | String, Dynamic Programming | PY |
 | 1288 | [Remove Covered Intervals](1288-remove-covered-intervals) | 🟡 MEDIUM | Array, Sorting | PY |
 | 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD | Array, Dynamic Programming, Matrix | PY |
 | 1331 | [Rank Transform Of An Array](1331-rank-transform-of-an-array) | 🟢 EASY | Array, Hash Table, Sorting | PY |
@@ -1518,38 +1562,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-09-06 15:10:15 UTC_
+_Generated on 2026-09-06 15:13:24 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0365-water-and-jug-problem](https://github.com/chittoralovesh/Leetcode/tree/master/0365-water-and-jug-problem) |
-## Depth-First Search
-|  |
-| ------- |
-| [0365-water-and-jug-problem](https://github.com/chittoralovesh/Leetcode/tree/master/0365-water-and-jug-problem) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0365-water-and-jug-problem](https://github.com/chittoralovesh/Leetcode/tree/master/0365-water-and-jug-problem) |
-## Bézout's Lemma
-|  |
-| ------- |
-| [0365-water-and-jug-problem](https://github.com/chittoralovesh/Leetcode/tree/master/0365-water-and-jug-problem) |
-## Euclidean Algorithm
-|  |
-| ------- |
-| [0365-water-and-jug-problem](https://github.com/chittoralovesh/Leetcode/tree/master/0365-water-and-jug-problem) |
-## Greatest Common Divisor
-|  |
-| ------- |
-| [0365-water-and-jug-problem](https://github.com/chittoralovesh/Leetcode/tree/master/0365-water-and-jug-problem) |
-## Extended Euclidean Algorithm
-|  |
-| ------- |
-| [0365-water-and-jug-problem](https://github.com/chittoralovesh/Leetcode/tree/master/0365-water-and-jug-problem) |
-<!---LeetCode Topics End-->
