@@ -191,6 +191,10 @@
     "Matrix",
     "Simulation"
   ],
+  "distinct-subsequences": [
+    "String",
+    "Dynamic Programming"
+  ],
   "distribute-elements-into-two-arrays-i": [
     "Array",
     "Simulation"
