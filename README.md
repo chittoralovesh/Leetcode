@@ -1514,3 +1514,19 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-09-06 15:07:30 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/chittoralovesh/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+## String
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/chittoralovesh/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/chittoralovesh/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+<!---LeetCode Topics End-->
