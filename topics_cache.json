@@ -205,6 +205,10 @@
     "String",
     "Dynamic Programming"
   ],
+  "distinct-subsequences-ii": [
+    "String",
+    "Dynamic Programming"
+  ],
   "distribute-elements-into-two-arrays-i": [
     "Array",
     "Simulation"

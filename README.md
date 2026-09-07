@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-205-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-206-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-47-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-102-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-56-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-57-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-150%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-151%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-27%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-17%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 205 |
+| **Total problems solved** | 206 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (107), `String` (53), `Math` (51), `Dynamic Programming` (45), `Hash Table` (43) |
-| **Last updated** | 2026-09-07 03:54:04 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (107), `String` (54), `Math` (51), `Dynamic Programming` (46), `Hash Table` (43) |
+| **Last updated** | 2026-09-07 13:23:24 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     47  █████░░░░░░░░░░░░░░░   22.9%
-🟡 Medium  102  ██████████░░░░░░░░░░   49.8%
-🔴 Hard     56  █████░░░░░░░░░░░░░░░   27.3%
+🟢 Easy     47  █████░░░░░░░░░░░░░░░   22.8%
+🟡 Medium  102  ██████████░░░░░░░░░░   49.5%
+🔴 Hard     57  ██████░░░░░░░░░░░░░░   27.7%
 ```
 
 
@@ -163,7 +163,7 @@
 </details>
 
 <details>
-<summary><b>String</b> &nbsp;·&nbsp; 53 problem(s)</summary>
+<summary><b>String</b> &nbsp;·&nbsp; 54 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -197,6 +197,7 @@
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings) | 🟡 MEDIUM |
 | 0649 | [Dota2 Senate](0649-dota2-senate) | 🟡 MEDIUM |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
+| 0940 | [Distinct Subsequences Ii](0940-distinct-subsequences-ii) | 🔴 HARD |
 | 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM |
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
 | 1278 | [Palindrome Partitioning Iii](1278-palindrome-partitioning-iii) | 🔴 HARD |
@@ -285,7 +286,7 @@
 </details>
 
 <details>
-<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 45 problem(s)</summary>
+<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 46 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -318,6 +319,7 @@
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings) | 🟡 MEDIUM |
 | 0799 | [Champagne Tower](0799-champagne-tower) | 🟡 MEDIUM |
 | 0877 | [Stone Game](0877-stone-game) | 🟡 MEDIUM |
+| 0940 | [Distinct Subsequences Ii](0940-distinct-subsequences-ii) | 🔴 HARD |
 | 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY |
 | 1140 | [Stone Game Ii](1140-stone-game-ii) | 🟡 MEDIUM |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
@@ -1464,6 +1466,7 @@
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD | Array, Hash Table, String +3 | JAVA |
 | 0877 | [Stone Game](0877-stone-game) | 🟡 MEDIUM | Array, Math, Dynamic Programming +1 | PY |
 | 0912 | [Sort An Array](0912-sort-an-array) | 🟡 MEDIUM | Array, Divide and Conquer, Sorting +5 | JAVA |
+| 0940 | [Distinct Subsequences Ii](0940-distinct-subsequences-ii) | 🔴 HARD | String, Dynamic Programming | PY |
 | 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY | Math, Dynamic Programming, Brainteaser +1 | CPP |
 | 1050 | [Actors And Directors Who Cooperated At Least Three Times](1050-actors-and-directors-who-cooperated-at-least-three-times) | 🟢 EASY | Database | — |
 | 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM | String, Stack, Greedy +1 | PY |
@@ -1575,18 +1578,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-09-07 03:54:04 UTC_
+_Generated on 2026-09-07 13:23:24 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0940-distinct-subsequences-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0940-distinct-subsequences-ii) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0940-distinct-subsequences-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0940-distinct-subsequences-ii) |
-<!---LeetCode Topics End-->
