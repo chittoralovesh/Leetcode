@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-206-5865F2?style=for-the-badge" alt="Total Solved" />
-<img src="https://img.shields.io/badge/Easy-47-2ECC71?style=for-the-badge" alt="Easy" />
+<img src="https://img.shields.io/badge/Total%20Solved-207-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Easy-48-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-102-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-57-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-151%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-152%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-27%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-17%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 206 |
+| **Total problems solved** | 207 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (107), `String` (54), `Math` (51), `Dynamic Programming` (46), `Hash Table` (43) |
-| **Last updated** | 2026-09-08 03:56:27 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (107), `String` (54), `Math` (52), `Dynamic Programming` (46), `Hash Table` (43) |
+| **Last updated** | 2026-09-08 07:41:02 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     47  █████░░░░░░░░░░░░░░░   22.8%
-🟡 Medium  102  ██████████░░░░░░░░░░   49.5%
-🔴 Hard     57  ██████░░░░░░░░░░░░░░   27.7%
+🟢 Easy     48  █████░░░░░░░░░░░░░░░   23.2%
+🟡 Medium  102  ██████████░░░░░░░░░░   49.3%
+🔴 Hard     57  ██████░░░░░░░░░░░░░░   27.5%
 ```
 
 
@@ -226,7 +226,7 @@
 </details>
 
 <details>
-<summary><b>Math</b> &nbsp;·&nbsp; 51 problem(s)</summary>
+<summary><b>Math</b> &nbsp;·&nbsp; 52 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -280,6 +280,7 @@
 | 3754 | [Concatenate Non Zero Digits And Multiply By Sum I](3754-concatenate-non-zero-digits-and-multiply-by-sum-i) | 🟢 EASY |
 | 3756 | [Concatenate Non Zero Digits And Multiply By Sum Ii](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) | 🟡 MEDIUM |
 | 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
+| 3870 | [Count Commas In Range](3870-count-commas-in-range) | 🟢 EASY |
 | 3875 | [Construct Uniform Parity Array I](3875-construct-uniform-parity-array-i) | 🟢 EASY |
 | 3876 | [Construct Uniform Parity Array Ii](3876-construct-uniform-parity-array-ii) | 🟡 MEDIUM |
 
@@ -1563,6 +1564,7 @@
 | 3829 | [Design Ride Sharing System](3829-design-ride-sharing-system) | 🟡 MEDIUM | Hash Table, Design, Queue +1 | PY |
 | 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY | Array, String, Simulation | CPP |
 | 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM | Array, Math, Two Pointers +3 | PY |
+| 3870 | [Count Commas In Range](3870-count-commas-in-range) | 🟢 EASY | Math | PY |
 | 3875 | [Construct Uniform Parity Array I](3875-construct-uniform-parity-array-i) | 🟢 EASY | Array, Math | PY |
 | 3876 | [Construct Uniform Parity Array Ii](3876-construct-uniform-parity-array-ii) | 🟡 MEDIUM | Array, Math | PY |
 | 3904 | [Smallest Stable Index Ii](3904-smallest-stable-index-ii) | 🟡 MEDIUM | Array, Prefix Sum | PY |
@@ -1578,14 +1580,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-09-08 03:56:27 UTC_
+_Generated on 2026-09-08 07:41:02 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [3870-count-commas-in-range](https://github.com/chittoralovesh/Leetcode/tree/master/3870-count-commas-in-range) |
-<!---LeetCode Topics End-->
