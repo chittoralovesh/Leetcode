@@ -144,6 +144,9 @@
   "count-commas-in-range": [
     "Math"
   ],
+  "count-commas-in-range-ii": [
+    "Math"
+  ],
   "count-subarrays-with-majority-element-i": [
     "Array",
     "Hash Table",
