@@ -5,15 +5,15 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-208-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-209-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-48-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-103-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-104-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-57-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/PY-153%20solved-3776AB?style=for-the-badge" alt="PY" />
-<img src="https://img.shields.io/badge/CPP-27%20solved-00599C?style=for-the-badge" alt="CPP" />
+<img src="https://img.shields.io/badge/CPP-28%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-17%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
 
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 208 |
+| **Total problems solved** | 209 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (107), `String` (54), `Math` (53), `Dynamic Programming` (46), `Hash Table` (43) |
-| **Last updated** | 2026-09-10 04:01:21 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-09-10 18:04:00 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     48  █████░░░░░░░░░░░░░░░   23.1%
-🟡 Medium  103  ██████████░░░░░░░░░░   49.5%
-🔴 Hard     57  █████░░░░░░░░░░░░░░░   27.4%
+🟢 Easy     48  █████░░░░░░░░░░░░░░░   23.0%
+🟡 Medium  104  ██████████░░░░░░░░░░   49.8%
+🔴 Hard     57  █████░░░░░░░░░░░░░░░   27.3%
 ```
 
 
@@ -594,7 +594,7 @@
 </details>
 
 <details>
-<summary><b>Depth-First Search</b> &nbsp;·&nbsp; 13 problem(s)</summary>
+<summary><b>Depth-First Search</b> &nbsp;·&nbsp; 14 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -607,6 +607,7 @@
 | 0365 | [Water And Jug Problem](0365-water-and-jug-problem) | 🟡 MEDIUM |
 | 0529 | [Minesweeper](0529-minesweeper) | 🟡 MEDIUM |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
+| 2265 | [Count Nodes Equal To Average Of Subtree](2265-count-nodes-equal-to-average-of-subtree) | 🟡 MEDIUM |
 | 2492 | [Minimum Score Of A Path Between Two Cities](2492-minimum-score-of-a-path-between-two-cities) | 🟡 MEDIUM |
 | 2685 | [Count The Number Of Complete Components](2685-count-the-number-of-complete-components) | 🟡 MEDIUM |
 | 3310 | [Remove Methods From Project](3310-remove-methods-from-project) | 🟡 MEDIUM |
@@ -676,6 +677,25 @@
 </details>
 
 <details>
+<summary><b>Tree</b> &nbsp;·&nbsp; 10 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0095 | [Unique Binary Search Trees Ii](0095-unique-binary-search-trees-ii) | 🟡 MEDIUM |
+| 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree) | 🟡 MEDIUM |
+| 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
+| 0103 | [Binary Tree Zigzag Level Order Traversal](0103-binary-tree-zigzag-level-order-traversal) | 🟡 MEDIUM |
+| 0107 | [Binary Tree Level Order Traversal Ii](0107-binary-tree-level-order-traversal-ii) | 🟡 MEDIUM |
+| 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟢 EASY |
+| 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
+| 2265 | [Count Nodes Equal To Average Of Subtree](2265-count-nodes-equal-to-average-of-subtree) | 🟡 MEDIUM |
+| 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
+| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Game Theory</b> &nbsp;·&nbsp; 10 problem(s)</summary>
 
 
@@ -713,24 +733,6 @@
 </details>
 
 <details>
-<summary><b>Tree</b> &nbsp;·&nbsp; 9 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0095 | [Unique Binary Search Trees Ii](0095-unique-binary-search-trees-ii) | 🟡 MEDIUM |
-| 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree) | 🟡 MEDIUM |
-| 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
-| 0103 | [Binary Tree Zigzag Level Order Traversal](0103-binary-tree-zigzag-level-order-traversal) | 🟡 MEDIUM |
-| 0107 | [Binary Tree Level Order Traversal Ii](0107-binary-tree-level-order-traversal-ii) | 🟡 MEDIUM |
-| 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟢 EASY |
-| 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
-| 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
-| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
-
-</details>
-
-<details>
 <summary><b>Simulation</b> &nbsp;·&nbsp; 9 problem(s)</summary>
 
 
@@ -745,6 +747,23 @@
 | 3614 | [Process String With Special Operations Ii](3614-process-string-with-special-operations-ii) | 🔴 HARD |
 | 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY |
 | 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
+
+</details>
+
+<details>
+<summary><b>Binary Tree</b> &nbsp;·&nbsp; 8 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0095 | [Unique Binary Search Trees Ii](0095-unique-binary-search-trees-ii) | 🟡 MEDIUM |
+| 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree) | 🟡 MEDIUM |
+| 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
+| 0103 | [Binary Tree Zigzag Level Order Traversal](0103-binary-tree-zigzag-level-order-traversal) | 🟡 MEDIUM |
+| 0107 | [Binary Tree Level Order Traversal Ii](0107-binary-tree-level-order-traversal-ii) | 🟡 MEDIUM |
+| 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟢 EASY |
+| 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
+| 2265 | [Count Nodes Equal To Average Of Subtree](2265-count-nodes-equal-to-average-of-subtree) | 🟡 MEDIUM |
 
 </details>
 
@@ -861,22 +880,6 @@
 | 0503 | [Next Greater Element Ii](0503-next-greater-element-ii) | 🟡 MEDIUM |
 | 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM |
 | 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Binary Tree</b> &nbsp;·&nbsp; 7 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0095 | [Unique Binary Search Trees Ii](0095-unique-binary-search-trees-ii) | 🟡 MEDIUM |
-| 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree) | 🟡 MEDIUM |
-| 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
-| 0103 | [Binary Tree Zigzag Level Order Traversal](0103-binary-tree-zigzag-level-order-traversal) | 🟡 MEDIUM |
-| 0107 | [Binary Tree Level Order Traversal Ii](0107-binary-tree-level-order-traversal-ii) | 🟡 MEDIUM |
-| 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟢 EASY |
-| 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
 
 </details>
 
@@ -1505,6 +1508,7 @@
 | 2161 | [Partition Array According To Given Pivot](2161-partition-array-according-to-given-pivot) | 🟡 MEDIUM | Array, Two Pointers, Simulation | PY |
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM | Array, Hash Table, Tree +1 | CPP |
 | 2213 | [Longest Substring Of One Repeating Character](2213-longest-substring-of-one-repeating-character) | 🔴 HARD | Array, String, Segment Tree +1 | PY |
+| 2265 | [Count Nodes Equal To Average Of Subtree](2265-count-nodes-equal-to-average-of-subtree) | 🟡 MEDIUM | Tree, Depth-First Search, Binary Tree | CPP |
 | 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD | Array, Binary Search, Queue +4 | PY |
 | 2492 | [Minimum Score Of A Path Between Two Cities](2492-minimum-score-of-a-path-between-two-cities) | 🟡 MEDIUM | Depth-First Search, Breadth-First Search, Union-Find +1 | PY |
 | 2574 | [Left And Right Sum Differences](2574-left-and-right-sum-differences) | 🟢 EASY | Array, Prefix Sum | CPP |
@@ -1582,22 +1586,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-09-10 04:01:21 UTC_
+_Generated on 2026-09-10 18:04:00 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/chittoralovesh/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
-## Depth-First Search
-|  |
-| ------- |
-| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/chittoralovesh/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
-## Binary Tree
-|  |
-| ------- |
-| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/chittoralovesh/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
-<!---LeetCode Topics End-->

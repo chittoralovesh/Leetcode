@@ -147,6 +147,11 @@
   "count-commas-in-range-ii": [
     "Math"
   ],
+  "count-nodes-equal-to-average-of-subtree": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
   "count-subarrays-with-majority-element-i": [
     "Array",
     "Hash Table",
