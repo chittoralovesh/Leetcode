@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-209-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-210-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-48-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-104-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-57-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-58-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-153%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-154%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-28%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-17%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 209 |
+| **Total problems solved** | 210 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (107), `String` (54), `Math` (53), `Dynamic Programming` (46), `Hash Table` (43) |
-| **Last updated** | 2026-09-12 03:59:53 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (108), `String` (54), `Math` (53), `Dynamic Programming` (47), `Hash Table` (43) |
+| **Last updated** | 2026-09-12 12:10:28 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     48  █████░░░░░░░░░░░░░░░   23.0%
-🟡 Medium  104  ██████████░░░░░░░░░░   49.8%
-🔴 Hard     57  █████░░░░░░░░░░░░░░░   27.3%
+🟢 Easy     48  █████░░░░░░░░░░░░░░░   22.9%
+🟡 Medium  104  ██████████░░░░░░░░░░   49.5%
+🔴 Hard     58  ██████░░░░░░░░░░░░░░   27.6%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 107 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 108 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -133,6 +133,7 @@
 | 3116 | [Kth Smallest Amount With Single Denomination Combination](3116-kth-smallest-amount-with-single-denomination-combination) | 🔴 HARD |
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
 | 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD |
+| 3414 | [Maximum Score Of Non Overlapping Intervals](3414-maximum-score-of-non-overlapping-intervals) | 🔴 HARD |
 | 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD |
 | 3471 | [Find The Largest Almost Missing Integer](3471-find-the-largest-almost-missing-integer) | 🟢 EASY |
 | 3501 | [Maximize Active Section With Trade Ii](3501-maximize-active-section-with-trade-ii) | 🔴 HARD |
@@ -288,7 +289,7 @@
 </details>
 
 <details>
-<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 46 problem(s)</summary>
+<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 47 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -331,6 +332,7 @@
 | 1510 | [Stone Game Iv](1510-stone-game-iv) | 🔴 HARD |
 | 1872 | [Stone Game Viii](1872-stone-game-viii) | 🔴 HARD |
 | 3302 | [Find The Lexicographically Smallest Valid Sequence](3302-find-the-lexicographically-smallest-valid-sequence) | 🟡 MEDIUM |
+| 3414 | [Maximum Score Of Non Overlapping Intervals](3414-maximum-score-of-non-overlapping-intervals) | 🔴 HARD |
 | 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
 | 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
@@ -395,7 +397,7 @@
 </details>
 
 <details>
-<summary><b>Sorting</b> &nbsp;·&nbsp; 27 problem(s)</summary>
+<summary><b>Sorting</b> &nbsp;·&nbsp; 28 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -421,6 +423,7 @@
 | 2144 | [Minimum Cost Of Buying Candies With Discount](2144-minimum-cost-of-buying-candies-with-discount) | 🟢 EASY |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](2996-smallest-missing-integer-greater-than-sequential-prefix-sum) | 🟢 EASY |
 | 3016 | [Minimum Number Of Pushes To Type Word Ii](3016-minimum-number-of-pushes-to-type-word-ii) | 🟡 MEDIUM |
+| 3414 | [Maximum Score Of Non Overlapping Intervals](3414-maximum-score-of-non-overlapping-intervals) | 🔴 HARD |
 | 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
 | 3536 | [Maximum Product Of Two Digits](3536-maximum-product-of-two-digits) | 🟢 EASY |
 | 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
@@ -494,7 +497,7 @@
 </details>
 
 <details>
-<summary><b>Binary Search</b> &nbsp;·&nbsp; 18 problem(s)</summary>
+<summary><b>Binary Search</b> &nbsp;·&nbsp; 19 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -510,6 +513,7 @@
 | 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
 | 3116 | [Kth Smallest Amount With Single Denomination Combination](3116-kth-smallest-amount-with-single-denomination-combination) | 🔴 HARD |
 | 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD |
+| 3414 | [Maximum Score Of Non Overlapping Intervals](3414-maximum-score-of-non-overlapping-intervals) | 🔴 HARD |
 | 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD |
 | 3501 | [Maximize Active Section With Trade Ii](3501-maximize-active-section-with-trade-ii) | 🔴 HARD |
 | 3532 | [Path Existence Queries In A Graph I](3532-path-existence-queries-in-a-graph-i) | 🟡 MEDIUM |
@@ -1529,6 +1533,7 @@
 | 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD | Array, Hash Table, Math +5 | CPP |
 | 3345 | [Smallest Divisible Digit Product I](3345-smallest-divisible-digit-product-i) | 🟢 EASY | Math, Enumeration | PY |
 | 3348 | [Smallest Divisible Digit Product Ii](3348-smallest-divisible-digit-product-ii) | 🔴 HARD | Math, String, Backtracking +2 | PY |
+| 3414 | [Maximum Score Of Non Overlapping Intervals](3414-maximum-score-of-non-overlapping-intervals) | 🔴 HARD | Array, Binary Search, Dynamic Programming +1 | PY |
 | 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD | Array, Binary Search, Segment Tree +1 | CPP |
 | 3471 | [Find The Largest Almost Missing Integer](3471-find-the-largest-almost-missing-integer) | 🟢 EASY | Array, Hash Table | PY |
 | 3499 | [Maximize Active Section With Trade I](3499-maximize-active-section-with-trade-i) | 🟡 MEDIUM | String, Enumeration | PY |
@@ -1586,26 +1591,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-09-12 03:59:53 UTC_
+_Generated on 2026-09-12 12:10:28 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/chittoralovesh/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
-## Binary Search
-|  |
-| ------- |
-| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/chittoralovesh/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
-## Dynamic Programming
-|  |
-| ------- |
-| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/chittoralovesh/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
-## Sorting
-|  |
-| ------- |
-| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/chittoralovesh/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
-<!---LeetCode Topics End-->

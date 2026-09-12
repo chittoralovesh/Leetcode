@@ -533,6 +533,12 @@
     "Sorting",
     "Heap (Priority Queue)"
   ],
+  "maximum-score-of-non-overlapping-intervals": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Sorting"
+  ],
   "maximum-total-subarray-value-i": [
     "Array",
     "Greedy"
