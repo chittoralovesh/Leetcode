@@ -1589,3 +1589,23 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-09-12 03:59:53 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/chittoralovesh/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/chittoralovesh/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/chittoralovesh/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/chittoralovesh/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+<!---LeetCode Topics End-->
