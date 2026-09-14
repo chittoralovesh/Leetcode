@@ -1594,3 +1594,19 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-09-14 04:17:14 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/chittoralovesh/Leetcode/tree/master/0289-game-of-life) |
+## Matrix
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/chittoralovesh/Leetcode/tree/master/0289-game-of-life) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/chittoralovesh/Leetcode/tree/master/0289-game-of-life) |
+<!---LeetCode Topics End-->
