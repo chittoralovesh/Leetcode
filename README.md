@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-210-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-211-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-48-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-104-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-105-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-58-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-154%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-155%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-28%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-17%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 210 |
+| **Total problems solved** | 211 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (108), `String` (54), `Math` (53), `Dynamic Programming` (47), `Hash Table` (43) |
-| **Last updated** | 2026-09-14 04:17:14 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (109), `String` (54), `Math` (53), `Dynamic Programming` (47), `Hash Table` (43) |
+| **Last updated** | 2026-09-14 20:52:10 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     48  █████░░░░░░░░░░░░░░░   22.9%
-🟡 Medium  104  ██████████░░░░░░░░░░   49.5%
-🔴 Hard     58  ██████░░░░░░░░░░░░░░   27.6%
+🟢 Easy     48  █████░░░░░░░░░░░░░░░   22.7%
+🟡 Medium  105  ██████████░░░░░░░░░░   49.8%
+🔴 Hard     58  █████░░░░░░░░░░░░░░░   27.5%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 108 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 109 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -78,6 +78,7 @@
 | 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
 | 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
 | 0238 | [Product Of Array Except Self](0238-product-of-array-except-self) | 🟡 MEDIUM |
+| 0289 | [Game Of Life](0289-game-of-life) | 🟡 MEDIUM |
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence) | 🟡 MEDIUM |
 | 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 MEDIUM |
@@ -551,6 +552,30 @@
 </details>
 
 <details>
+<summary><b>Matrix</b> &nbsp;·&nbsp; 15 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
+| 0048 | [Rotate Image](0048-rotate-image) | 🟡 MEDIUM |
+| 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
+| 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
+| 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
+| 0289 | [Game Of Life](0289-game-of-life) | 🟡 MEDIUM |
+| 0407 | [Trapping Rain Water Ii](0407-trapping-rain-water-ii) | 🔴 HARD |
+| 0498 | [Diagonal Traverse](0498-diagonal-traverse) | 🟡 MEDIUM |
+| 0529 | [Minesweeper](0529-minesweeper) | 🟡 MEDIUM |
+| 1260 | [Shift 2D Grid](1260-shift-2d-grid) | 🟢 EASY |
+| 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD |
+| 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
+| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
+| 3546 | [Equal Sum Grid Partition I](3546-equal-sum-grid-partition-i) | 🟡 MEDIUM |
+| 3568 | [Minimum Moves To Clean The Classroom](3568-minimum-moves-to-clean-the-classroom) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Prefix Sum</b> &nbsp;·&nbsp; 15 problem(s)</summary>
 
 
@@ -571,29 +596,6 @@
 | 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
 | 3756 | [Concatenate Non Zero Digits And Multiply By Sum Ii](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) | 🟡 MEDIUM |
 | 3904 | [Smallest Stable Index Ii](3904-smallest-stable-index-ii) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Matrix</b> &nbsp;·&nbsp; 14 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
-| 0048 | [Rotate Image](0048-rotate-image) | 🟡 MEDIUM |
-| 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
-| 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
-| 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
-| 0407 | [Trapping Rain Water Ii](0407-trapping-rain-water-ii) | 🔴 HARD |
-| 0498 | [Diagonal Traverse](0498-diagonal-traverse) | 🟡 MEDIUM |
-| 0529 | [Minesweeper](0529-minesweeper) | 🟡 MEDIUM |
-| 1260 | [Shift 2D Grid](1260-shift-2d-grid) | 🟢 EASY |
-| 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD |
-| 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
-| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
-| 3546 | [Equal Sum Grid Partition I](3546-equal-sum-grid-partition-i) | 🟡 MEDIUM |
-| 3568 | [Minimum Moves To Clean The Classroom](3568-minimum-moves-to-clean-the-classroom) | 🟡 MEDIUM |
 
 </details>
 
@@ -700,6 +702,25 @@
 </details>
 
 <details>
+<summary><b>Simulation</b> &nbsp;·&nbsp; 10 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0289 | [Game Of Life](0289-game-of-life) | 🟡 MEDIUM |
+| 0498 | [Diagonal Traverse](0498-diagonal-traverse) | 🟡 MEDIUM |
+| 1260 | [Shift 2D Grid](1260-shift-2d-grid) | 🟢 EASY |
+| 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM |
+| 2161 | [Partition Array According To Given Pivot](2161-partition-array-according-to-given-pivot) | 🟡 MEDIUM |
+| 3069 | [Distribute Elements Into Two Arrays I](3069-distribute-elements-into-two-arrays-i) | 🟡 MEDIUM |
+| 3612 | [Process String With Special Operations I](3612-process-string-with-special-operations-i) | 🟡 MEDIUM |
+| 3614 | [Process String With Special Operations Ii](3614-process-string-with-special-operations-ii) | 🔴 HARD |
+| 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY |
+| 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Game Theory</b> &nbsp;·&nbsp; 10 problem(s)</summary>
 
 
@@ -733,24 +754,6 @@
 | 2904 | [Shortest And Lexicographically Smallest Beautiful String](2904-shortest-and-lexicographically-smallest-beautiful-string) | 🟡 MEDIUM |
 | 2958 | [Length Of Longest Subarray With At Most K Frequency](2958-length-of-longest-subarray-with-at-most-k-frequency) | 🟡 MEDIUM |
 | 3090 | [Maximum Length Substring With Two Occurrences](3090-maximum-length-substring-with-two-occurrences) | 🟢 EASY |
-
-</details>
-
-<details>
-<summary><b>Simulation</b> &nbsp;·&nbsp; 9 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0498 | [Diagonal Traverse](0498-diagonal-traverse) | 🟡 MEDIUM |
-| 1260 | [Shift 2D Grid](1260-shift-2d-grid) | 🟢 EASY |
-| 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM |
-| 2161 | [Partition Array According To Given Pivot](2161-partition-array-according-to-given-pivot) | 🟡 MEDIUM |
-| 3069 | [Distribute Elements Into Two Arrays I](3069-distribute-elements-into-two-arrays-i) | 🟡 MEDIUM |
-| 3612 | [Process String With Special Operations I](3612-process-string-with-special-operations-i) | 🟡 MEDIUM |
-| 3614 | [Process String With Special Operations Ii](3614-process-string-with-special-operations-ii) | 🔴 HARD |
-| 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY |
-| 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
 
 </details>
 
@@ -1432,6 +1435,7 @@
 | 0233 | [Number Of Digit One](0233-number-of-digit-one) | 🔴 HARD | Math, Dynamic Programming, Recursion | PY |
 | 0238 | [Product Of Array Except Self](0238-product-of-array-except-self) | 🟡 MEDIUM | Array, Prefix Sum | PY |
 | 0262 | [Trips And Users](0262-trips-and-users) | 🔴 HARD | Database | — |
+| 0289 | [Game Of Life](0289-game-of-life) | 🟡 MEDIUM | Array, Matrix, Simulation | PY |
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence) | 🟡 MEDIUM | Array, Binary Search, Dynamic Programming | JAVA |
 | 0328 | [Odd Even Linked List](0328-odd-even-linked-list) | 🟡 MEDIUM | Linked List | JAVA |
 | 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD | Array, String, Depth-First Search +4 | PY |
@@ -1591,22 +1595,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-09-14 04:17:14 UTC_
+_Generated on 2026-09-14 20:52:10 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0289-game-of-life](https://github.com/chittoralovesh/Leetcode/tree/master/0289-game-of-life) |
-## Matrix
-|  |
-| ------- |
-| [0289-game-of-life](https://github.com/chittoralovesh/Leetcode/tree/master/0289-game-of-life) |
-## Simulation
-|  |
-| ------- |
-| [0289-game-of-life](https://github.com/chittoralovesh/Leetcode/tree/master/0289-game-of-life) |
-<!---LeetCode Topics End-->

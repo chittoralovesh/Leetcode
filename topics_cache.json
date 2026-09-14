@@ -314,6 +314,11 @@
   "friend-requests-ii-who-has-the-most-friends": [
     "Database"
   ],
+  "game-of-life": [
+    "Array",
+    "Matrix",
+    "Simulation"
+  ],
   "gas-station": [
     "Array",
     "Greedy"
