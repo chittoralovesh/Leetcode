@@ -520,6 +520,12 @@
     "String",
     "Counting"
   ],
+  "maximum-number-of-non-overlapping-palindrome-substrings": [
+    "Two Pointers",
+    "String",
+    "Dynamic Programming",
+    "Greedy"
+  ],
   "maximum-number-of-robots-within-budget": [
     "Array",
     "Binary Search",

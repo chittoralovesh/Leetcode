@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-211-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-212-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-48-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-105-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-58-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-59-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-155%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-156%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-28%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-17%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 211 |
+| **Total problems solved** | 212 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (109), `String` (54), `Math` (53), `Dynamic Programming` (47), `Hash Table` (43) |
-| **Last updated** | 2026-09-15 04:17:31 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (109), `String` (55), `Math` (53), `Dynamic Programming` (48), `Hash Table` (43) |
+| **Last updated** | 2026-09-15 17:23:20 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     48  █████░░░░░░░░░░░░░░░   22.7%
-🟡 Medium  105  ██████████░░░░░░░░░░   49.8%
-🔴 Hard     58  █████░░░░░░░░░░░░░░░   27.5%
+🟢 Easy     48  █████░░░░░░░░░░░░░░░   22.6%
+🟡 Medium  105  ██████████░░░░░░░░░░   49.5%
+🔴 Hard     59  ██████░░░░░░░░░░░░░░   27.8%
 ```
 
 
@@ -165,7 +165,7 @@
 </details>
 
 <details>
-<summary><b>String</b> &nbsp;·&nbsp; 54 problem(s)</summary>
+<summary><b>String</b> &nbsp;·&nbsp; 55 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -209,6 +209,7 @@
 | 1967 | [Number Of Strings That Appear As Substrings In Word](1967-number-of-strings-that-appear-as-substrings-in-word) | 🟢 EASY |
 | 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM |
 | 2213 | [Longest Substring Of One Repeating Character](2213-longest-substring-of-one-repeating-character) | 🔴 HARD |
+| 2472 | [Maximum Number Of Non Overlapping Palindrome Substrings](2472-maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 HARD |
 | 2904 | [Shortest And Lexicographically Smallest Beautiful String](2904-shortest-and-lexicographically-smallest-beautiful-string) | 🟡 MEDIUM |
 | 3014 | [Minimum Number Of Pushes To Type Word I](3014-minimum-number-of-pushes-to-type-word-i) | 🟢 EASY |
 | 3016 | [Minimum Number Of Pushes To Type Word Ii](3016-minimum-number-of-pushes-to-type-word-ii) | 🟡 MEDIUM |
@@ -290,7 +291,7 @@
 </details>
 
 <details>
-<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 47 problem(s)</summary>
+<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 48 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -332,6 +333,7 @@
 | 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
 | 1510 | [Stone Game Iv](1510-stone-game-iv) | 🔴 HARD |
 | 1872 | [Stone Game Viii](1872-stone-game-viii) | 🔴 HARD |
+| 2472 | [Maximum Number Of Non Overlapping Palindrome Substrings](2472-maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 HARD |
 | 3302 | [Find The Lexicographically Smallest Valid Sequence](3302-find-the-lexicographically-smallest-valid-sequence) | 🟡 MEDIUM |
 | 3414 | [Maximum Score Of Non Overlapping Intervals](3414-maximum-score-of-non-overlapping-intervals) | 🔴 HARD |
 | 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
@@ -435,7 +437,7 @@
 </details>
 
 <details>
-<summary><b>Greedy</b> &nbsp;·&nbsp; 25 problem(s)</summary>
+<summary><b>Greedy</b> &nbsp;·&nbsp; 26 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -455,6 +457,7 @@
 | 1927 | [Sum Game](1927-sum-game) | 🟡 MEDIUM |
 | 2029 | [Stone Game Ix](2029-stone-game-ix) | 🟡 MEDIUM |
 | 2144 | [Minimum Cost Of Buying Candies With Discount](2144-minimum-cost-of-buying-candies-with-discount) | 🟢 EASY |
+| 2472 | [Maximum Number Of Non Overlapping Palindrome Substrings](2472-maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 HARD |
 | 3014 | [Minimum Number Of Pushes To Type Word I](3014-minimum-number-of-pushes-to-type-word-i) | 🟢 EASY |
 | 3016 | [Minimum Number Of Pushes To Type Word Ii](3016-minimum-number-of-pushes-to-type-word-ii) | 🟡 MEDIUM |
 | 3302 | [Find The Lexicographically Smallest Valid Sequence](3302-find-the-lexicographically-smallest-valid-sequence) | 🟡 MEDIUM |
@@ -469,7 +472,7 @@
 </details>
 
 <details>
-<summary><b>Two Pointers</b> &nbsp;·&nbsp; 20 problem(s)</summary>
+<summary><b>Two Pointers</b> &nbsp;·&nbsp; 21 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -488,6 +491,7 @@
 | 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM |
 | 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
 | 2161 | [Partition Array According To Given Pivot](2161-partition-array-according-to-given-pivot) | 🟡 MEDIUM |
+| 2472 | [Maximum Number Of Non Overlapping Palindrome Substrings](2472-maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 HARD |
 | 3302 | [Find The Lexicographically Smallest Valid Sequence](3302-find-the-lexicographically-smallest-valid-sequence) | 🟡 MEDIUM |
 | 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
 | 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
@@ -1518,6 +1522,7 @@
 | 2213 | [Longest Substring Of One Repeating Character](2213-longest-substring-of-one-repeating-character) | 🔴 HARD | Array, String, Segment Tree +1 | PY |
 | 2265 | [Count Nodes Equal To Average Of Subtree](2265-count-nodes-equal-to-average-of-subtree) | 🟡 MEDIUM | Tree, Depth-First Search, Binary Tree | CPP |
 | 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD | Array, Binary Search, Queue +4 | PY |
+| 2472 | [Maximum Number Of Non Overlapping Palindrome Substrings](2472-maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 HARD | Two Pointers, String, Dynamic Programming +1 | PY |
 | 2492 | [Minimum Score Of A Path Between Two Cities](2492-minimum-score-of-a-path-between-two-cities) | 🟡 MEDIUM | Depth-First Search, Breadth-First Search, Union-Find +1 | PY |
 | 2574 | [Left And Right Sum Differences](2574-left-and-right-sum-differences) | 🟢 EASY | Array, Prefix Sum | CPP |
 | 2685 | [Count The Number Of Complete Components](2685-count-the-number-of-complete-components) | 🟡 MEDIUM | Depth-First Search, Breadth-First Search, Union-Find +1 | PY |
@@ -1595,26 +1600,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-09-15 04:17:31 UTC_
+_Generated on 2026-09-15 17:23:20 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/chittoralovesh/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
-## String
-|  |
-| ------- |
-| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/chittoralovesh/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
-## Dynamic Programming
-|  |
-| ------- |
-| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/chittoralovesh/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
-## Greedy
-|  |
-| ------- |
-| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/chittoralovesh/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
-<!---LeetCode Topics End-->
