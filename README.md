@@ -29,7 +29,7 @@
 | **Total problems solved** | 214 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (109), `String` (55), `Math` (54), `Dynamic Programming` (49), `Hash Table` (43) |
-| **Last updated** | 2026-09-16 06:46:45 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-09-16 06:47:02 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
@@ -1607,14 +1607,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-09-16 06:46:45 UTC_
+_Generated on 2026-09-16 06:47:02 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [0092-reverse-linked-list-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0092-reverse-linked-list-ii) |
-<!---LeetCode Topics End-->
