@@ -5,9 +5,9 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-214-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-215-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-48-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-107-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-108-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-59-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 214 |
+| **Total problems solved** | 215 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (109), `String` (55), `Math` (54), `Dynamic Programming` (49), `Hash Table` (43) |
-| **Last updated** | 2026-09-16 06:47:02 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-09-16 06:49:57 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     48  ████░░░░░░░░░░░░░░░░   22.4%
-🟡 Medium  107  ██████████░░░░░░░░░░   50.0%
-🔴 Hard     59  ██████░░░░░░░░░░░░░░   27.6%
+🟢 Easy     48  ████░░░░░░░░░░░░░░░░   22.3%
+🟡 Medium  108  ██████████░░░░░░░░░░   50.2%
+🔴 Hard     59  █████░░░░░░░░░░░░░░░   27.4%
 ```
 
 
@@ -630,6 +630,27 @@
 </details>
 
 <details>
+<summary><b>Database</b> &nbsp;·&nbsp; 12 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0175 | [Combine Two Tables](0175-combine-two-tables) | 🟢 EASY |
+| 0181 | [Employees Earning More Than Their Managers](0181-employees-earning-more-than-their-managers) | 🟢 EASY |
+| 0183 | [Customers Who Never Order](0183-customers-who-never-order) | 🟢 EASY |
+| 0185 | [Department Top Three Salaries](0185-department-top-three-salaries) | 🔴 HARD |
+| 0262 | [Trips And Users](0262-trips-and-users) | 🔴 HARD |
+| 0570 | [Managers With At Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 MEDIUM |
+| 0595 | [Big Countries](0595-big-countries) | 🟢 EASY |
+| 0596 | [Classes With At Least 5 Students](0596-classes-with-at-least-5-students) | 🟢 EASY |
+| 0602 | [Friend Requests Ii Who Has The Most Friends](0602-friend-requests-ii-who-has-the-most-friends) | 🟡 MEDIUM |
+| 0620 | [Not Boring Movies](0620-not-boring-movies) | 🟢 EASY |
+| 1045 | [Customers Who Bought All Products](1045-customers-who-bought-all-products) | 🟡 MEDIUM |
+| 1050 | [Actors And Directors Who Cooperated At Least Three Times](1050-actors-and-directors-who-cooperated-at-least-three-times) | 🟢 EASY |
+
+</details>
+
+<details>
 <summary><b>Heap (Priority Queue)</b> &nbsp;·&nbsp; 12 problem(s)</summary>
 
 
@@ -647,26 +668,6 @@
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
 | 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
 | 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Database</b> &nbsp;·&nbsp; 11 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0175 | [Combine Two Tables](0175-combine-two-tables) | 🟢 EASY |
-| 0181 | [Employees Earning More Than Their Managers](0181-employees-earning-more-than-their-managers) | 🟢 EASY |
-| 0183 | [Customers Who Never Order](0183-customers-who-never-order) | 🟢 EASY |
-| 0185 | [Department Top Three Salaries](0185-department-top-three-salaries) | 🔴 HARD |
-| 0262 | [Trips And Users](0262-trips-and-users) | 🔴 HARD |
-| 0570 | [Managers With At Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 MEDIUM |
-| 0595 | [Big Countries](0595-big-countries) | 🟢 EASY |
-| 0596 | [Classes With At Least 5 Students](0596-classes-with-at-least-5-students) | 🟢 EASY |
-| 0602 | [Friend Requests Ii Who Has The Most Friends](0602-friend-requests-ii-who-has-the-most-friends) | 🟡 MEDIUM |
-| 0620 | [Not Boring Movies](0620-not-boring-movies) | 🟢 EASY |
-| 1050 | [Actors And Directors Who Cooperated At Least Three Times](1050-actors-and-directors-who-cooperated-at-least-three-times) | 🟢 EASY |
 
 </details>
 
@@ -1491,6 +1492,7 @@
 | 0912 | [Sort An Array](0912-sort-an-array) | 🟡 MEDIUM | Array, Divide and Conquer, Sorting +5 | JAVA |
 | 0940 | [Distinct Subsequences Ii](0940-distinct-subsequences-ii) | 🔴 HARD | String, Dynamic Programming | PY |
 | 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY | Math, Dynamic Programming, Brainteaser +1 | CPP |
+| 1045 | [Customers Who Bought All Products](1045-customers-who-bought-all-products) | 🟡 MEDIUM | Database | — |
 | 1050 | [Actors And Directors Who Cooperated At Least Three Times](1050-actors-and-directors-who-cooperated-at-least-three-times) | 🟢 EASY | Database | — |
 | 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM | String, Stack, Greedy +1 | PY |
 | 1140 | [Stone Game Ii](1140-stone-game-ii) | 🟡 MEDIUM | Array, Math, Dynamic Programming +4 | PY |
@@ -1607,14 +1609,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-09-16 06:47:02 UTC_
+_Generated on 2026-09-16 06:49:57 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [1045-customers-who-bought-all-products](https://github.com/chittoralovesh/Leetcode/tree/master/1045-customers-who-bought-all-products) |
-<!---LeetCode Topics End-->
