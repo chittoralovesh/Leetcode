@@ -1603,3 +1603,23 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-09-16 04:13:06 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/chittoralovesh/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/chittoralovesh/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/chittoralovesh/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Prefix Sum
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/chittoralovesh/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+<!---LeetCode Topics End-->
