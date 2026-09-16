@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-213-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-214-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-48-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-106-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-107-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-59-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-157%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-158%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-28%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-17%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 213 |
+| **Total problems solved** | 214 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (109), `String` (55), `Math` (54), `Dynamic Programming` (49), `Hash Table` (43) |
-| **Last updated** | 2026-09-16 06:45:00 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-09-16 06:46:45 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     48  █████░░░░░░░░░░░░░░░   22.5%
-🟡 Medium  106  ██████████░░░░░░░░░░   49.8%
-🔴 Hard     59  ██████░░░░░░░░░░░░░░   27.7%
+🟢 Easy     48  ████░░░░░░░░░░░░░░░░   22.4%
+🟡 Medium  107  ██████████░░░░░░░░░░   50.0%
+🔴 Hard     59  ██████░░░░░░░░░░░░░░   27.6%
 ```
 
 
@@ -850,6 +850,22 @@
 </details>
 
 <details>
+<summary><b>Linked List</b> &nbsp;·&nbsp; 7 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0002 | [Add Two Numbers](0002-add-two-numbers) | 🟡 MEDIUM |
+| 0082 | [Remove Duplicates From Sorted List Ii](0082-remove-duplicates-from-sorted-list-ii) | 🟡 MEDIUM |
+| 0092 | [Reverse Linked List Ii](0092-reverse-linked-list-ii) | 🟡 MEDIUM |
+| 0328 | [Odd Even Linked List](0328-odd-even-linked-list) | 🟡 MEDIUM |
+| 0382 | [Linked List Random Node](0382-linked-list-random-node) | 🟡 MEDIUM |
+| 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM |
+| 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Recursion</b> &nbsp;·&nbsp; 7 problem(s)</summary>
 
 
@@ -926,21 +942,6 @@
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](3720-lexicographically-smallest-permutation-greater-than-target) | 🟡 MEDIUM |
 | 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](3734-lexicographically-smallest-palindromic-permutation-greater-than-target) | 🔴 HARD |
 | 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Linked List</b> &nbsp;·&nbsp; 6 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0002 | [Add Two Numbers](0002-add-two-numbers) | 🟡 MEDIUM |
-| 0082 | [Remove Duplicates From Sorted List Ii](0082-remove-duplicates-from-sorted-list-ii) | 🟡 MEDIUM |
-| 0328 | [Odd Even Linked List](0328-odd-even-linked-list) | 🟡 MEDIUM |
-| 0382 | [Linked List Random Node](0382-linked-list-random-node) | 🟡 MEDIUM |
-| 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM |
-| 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
 
 </details>
 
@@ -1415,6 +1416,7 @@
 | 0082 | [Remove Duplicates From Sorted List Ii](0082-remove-duplicates-from-sorted-list-ii) | 🟡 MEDIUM | Linked List, Two Pointers | PY |
 | 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD | Array, Dynamic Programming, Stack +2 | JAVA |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array) | 🟢 EASY | Array, Two Pointers, Sorting | PY |
+| 0092 | [Reverse Linked List Ii](0092-reverse-linked-list-ii) | 🟡 MEDIUM | Linked List | PY |
 | 0093 | [Restore Ip Addresses](0093-restore-ip-addresses) | 🟡 MEDIUM | String, Backtracking | PY |
 | 0095 | [Unique Binary Search Trees Ii](0095-unique-binary-search-trees-ii) | 🟡 MEDIUM | Dynamic Programming, Backtracking, Tree +2 | PY |
 | 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree) | 🟡 MEDIUM | Tree, Depth-First Search, Binary Search Tree +1 | PY |
@@ -1605,14 +1607,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-09-16 06:45:00 UTC_
+_Generated on 2026-09-16 06:46:45 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [0092-reverse-linked-list-ii](https://github.com/chittoralovesh/Leetcode/tree/master/0092-reverse-linked-list-ii) |
-<!---LeetCode Topics End-->

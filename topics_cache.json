@@ -845,6 +845,9 @@
   "reverse-integer": [
     "Math"
   ],
+  "reverse-linked-list-ii": [
+    "Linked List"
+  ],
   "reverse-pairs": [
     "Array",
     "Binary Search",
