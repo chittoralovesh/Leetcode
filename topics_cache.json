@@ -688,6 +688,12 @@
     "Dynamic Programming",
     "Matrix"
   ],
+  "number-of-sets-of-k-non-overlapping-line-segments": [
+    "Math",
+    "Dynamic Programming",
+    "Combinatorics",
+    "Prefix Sum"
+  ],
   "number-of-strings-that-appear-as-substrings-in-word": [
     "Array",
     "String"

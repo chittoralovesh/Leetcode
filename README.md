@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-212-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-213-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-48-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-105-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-106-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-59-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-156%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-157%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-28%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-17%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 212 |
+| **Total problems solved** | 213 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (109), `String` (55), `Math` (53), `Dynamic Programming` (48), `Hash Table` (43) |
-| **Last updated** | 2026-09-16 04:13:06 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (109), `String` (55), `Math` (54), `Dynamic Programming` (49), `Hash Table` (43) |
+| **Last updated** | 2026-09-16 06:44:07 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     48  █████░░░░░░░░░░░░░░░   22.6%
-🟡 Medium  105  ██████████░░░░░░░░░░   49.5%
-🔴 Hard     59  ██████░░░░░░░░░░░░░░   27.8%
+🟢 Easy     48  █████░░░░░░░░░░░░░░░   22.5%
+🟡 Medium  106  ██████████░░░░░░░░░░   49.8%
+🔴 Hard     59  ██████░░░░░░░░░░░░░░   27.7%
 ```
 
 
@@ -229,7 +229,7 @@
 </details>
 
 <details>
-<summary><b>Math</b> &nbsp;·&nbsp; 53 problem(s)</summary>
+<summary><b>Math</b> &nbsp;·&nbsp; 54 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -260,6 +260,7 @@
 | 1344 | [Angle Between Hands Of A Clock](1344-angle-between-hands-of-a-clock) | 🟡 MEDIUM |
 | 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
 | 1510 | [Stone Game Iv](1510-stone-game-iv) | 🔴 HARD |
+| 1621 | [Number Of Sets Of K Non Overlapping Line Segments](1621-number-of-sets-of-k-non-overlapping-line-segments) | 🟡 MEDIUM |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD |
 | 1872 | [Stone Game Viii](1872-stone-game-viii) | 🔴 HARD |
 | 1927 | [Sum Game](1927-sum-game) | 🟡 MEDIUM |
@@ -291,7 +292,7 @@
 </details>
 
 <details>
-<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 48 problem(s)</summary>
+<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 49 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -332,6 +333,7 @@
 | 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD |
 | 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
 | 1510 | [Stone Game Iv](1510-stone-game-iv) | 🔴 HARD |
+| 1621 | [Number Of Sets Of K Non Overlapping Line Segments](1621-number-of-sets-of-k-non-overlapping-line-segments) | 🟡 MEDIUM |
 | 1872 | [Stone Game Viii](1872-stone-game-viii) | 🔴 HARD |
 | 2472 | [Maximum Number Of Non Overlapping Palindrome Substrings](2472-maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 HARD |
 | 3302 | [Find The Lexicographically Smallest Valid Sequence](3302-find-the-lexicographically-smallest-valid-sequence) | 🟡 MEDIUM |
@@ -556,6 +558,31 @@
 </details>
 
 <details>
+<summary><b>Prefix Sum</b> &nbsp;·&nbsp; 16 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0238 | [Product Of Array Except Self](0238-product-of-array-except-self) | 🟡 MEDIUM |
+| 0525 | [Contiguous Array](0525-contiguous-array) | 🟡 MEDIUM |
+| 1140 | [Stone Game Ii](1140-stone-game-ii) | 🟡 MEDIUM |
+| 1621 | [Number Of Sets Of K Non Overlapping Line Segments](1621-number-of-sets-of-k-non-overlapping-line-segments) | 🟡 MEDIUM |
+| 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY |
+| 1872 | [Stone Game Viii](1872-stone-game-viii) | 🔴 HARD |
+| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
+| 2574 | [Left And Right Sum Differences](2574-left-and-right-sum-differences) | 🟢 EASY |
+| 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD |
+| 3546 | [Equal Sum Grid Partition I](3546-equal-sum-grid-partition-i) | 🟡 MEDIUM |
+| 3699 | [Number Of Zigzag Arrays I](3699-number-of-zigzag-arrays-i) | 🟡 MEDIUM |
+| 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM |
+| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
+| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
+| 3756 | [Concatenate Non Zero Digits And Multiply By Sum Ii](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) | 🟡 MEDIUM |
+| 3904 | [Smallest Stable Index Ii](3904-smallest-stable-index-ii) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Matrix</b> &nbsp;·&nbsp; 15 problem(s)</summary>
 
 
@@ -576,30 +603,6 @@
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
 | 3546 | [Equal Sum Grid Partition I](3546-equal-sum-grid-partition-i) | 🟡 MEDIUM |
 | 3568 | [Minimum Moves To Clean The Classroom](3568-minimum-moves-to-clean-the-classroom) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Prefix Sum</b> &nbsp;·&nbsp; 15 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0238 | [Product Of Array Except Self](0238-product-of-array-except-self) | 🟡 MEDIUM |
-| 0525 | [Contiguous Array](0525-contiguous-array) | 🟡 MEDIUM |
-| 1140 | [Stone Game Ii](1140-stone-game-ii) | 🟡 MEDIUM |
-| 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY |
-| 1872 | [Stone Game Viii](1872-stone-game-viii) | 🔴 HARD |
-| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
-| 2574 | [Left And Right Sum Differences](2574-left-and-right-sum-differences) | 🟢 EASY |
-| 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD |
-| 3546 | [Equal Sum Grid Partition I](3546-equal-sum-grid-partition-i) | 🟡 MEDIUM |
-| 3699 | [Number Of Zigzag Arrays I](3699-number-of-zigzag-arrays-i) | 🟡 MEDIUM |
-| 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM |
-| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
-| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
-| 3756 | [Concatenate Non Zero Digits And Multiply By Sum Ii](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) | 🟡 MEDIUM |
-| 3904 | [Smallest Stable Index Ii](3904-smallest-stable-index-ii) | 🟡 MEDIUM |
 
 </details>
 
@@ -1011,6 +1014,19 @@
 </details>
 
 <details>
+<summary><b>Combinatorics</b> &nbsp;·&nbsp; 4 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 1621 | [Number Of Sets Of K Non Overlapping Line Segments](1621-number-of-sets-of-k-non-overlapping-line-segments) | 🟡 MEDIUM |
+| 3116 | [Kth Smallest Amount With Single Denomination Combination](3116-kth-smallest-amount-with-single-denomination-combination) | 🔴 HARD |
+| 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD |
+| 3518 | [Smallest Palindromic Rearrangement Ii](3518-smallest-palindromic-rearrangement-ii) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Trie</b> &nbsp;·&nbsp; 3 problem(s)</summary>
 
 
@@ -1067,18 +1083,6 @@
 | 0649 | [Dota2 Senate](0649-dota2-senate) | 🟡 MEDIUM |
 | 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
 | 3829 | [Design Ride Sharing System](3829-design-ride-sharing-system) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Combinatorics</b> &nbsp;·&nbsp; 3 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 3116 | [Kth Smallest Amount With Single Denomination Combination](3116-kth-smallest-amount-with-single-denomination-combination) | 🔴 HARD |
-| 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD |
-| 3518 | [Smallest Palindromic Rearrangement Ii](3518-smallest-palindromic-rearrangement-ii) | 🔴 HARD |
 
 </details>
 
@@ -1502,6 +1506,7 @@
 | 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD | Array, Math, Dynamic Programming +3 | PY |
 | 1464 | [Maximum Product Of Two Elements In An Array](1464-maximum-product-of-two-elements-in-an-array) | 🟢 EASY | Array, Sorting, Heap (Priority Queue) | PY |
 | 1510 | [Stone Game Iv](1510-stone-game-iv) | 🔴 HARD | Math, Dynamic Programming, Minimax +4 | PY |
+| 1621 | [Number Of Sets Of K Non Overlapping Line Segments](1621-number-of-sets-of-k-non-overlapping-line-segments) | 🟡 MEDIUM | Math, Dynamic Programming, Combinatorics +1 | PY |
 | 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD | Array, Greedy, Sorting | PY |
 | 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY | Array, Prefix Sum | PY |
 | 1784 | [Check If Binary String Has At Most One Segment Of Ones](1784-check-if-binary-string-has-at-most-one-segment-of-ones) | 🟢 EASY | String | PY |
@@ -1600,26 +1605,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-09-16 04:13:06 UTC_
+_Generated on 2026-09-16 06:44:07 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/chittoralovesh/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
-## Dynamic Programming
-|  |
-| ------- |
-| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/chittoralovesh/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
-## Combinatorics
-|  |
-| ------- |
-| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/chittoralovesh/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
-## Prefix Sum
-|  |
-| ------- |
-| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/chittoralovesh/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
-<!---LeetCode Topics End-->
