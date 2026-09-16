@@ -870,6 +870,9 @@
     "Math",
     "Matrix"
   ],
+  "sales-analysis-iii": [
+    "Database"
+  ],
   "same-tree": [
     "Tree",
     "Depth-First Search",
