@@ -29,7 +29,7 @@
 | **Total problems solved** | 217 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (110), `String` (55), `Math` (54), `Dynamic Programming` (50), `Hash Table` (44) |
-| **Last updated** | 2026-09-17 19:44:52 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-09-17 19:45:50 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
@@ -1617,30 +1617,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-09-17 19:44:52 UTC_
+_Generated on 2026-09-17 19:45:50 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chittoralovesh/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
-## Hash Table
-|  |
-| ------- |
-| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chittoralovesh/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
-## Binary Search
-|  |
-| ------- |
-| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chittoralovesh/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
-## Dynamic Programming
-|  |
-| ------- |
-| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chittoralovesh/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
-## Sliding Window
-|  |
-| ------- |
-| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chittoralovesh/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
-<!---LeetCode Topics End-->
