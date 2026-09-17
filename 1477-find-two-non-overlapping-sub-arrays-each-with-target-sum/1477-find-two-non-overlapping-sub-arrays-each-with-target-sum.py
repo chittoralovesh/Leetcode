@@ -14,4 +14,4 @@ class Solution:
                 min_l = min(min_l, length)
             arr[i] = min_l
             pos[s] = i
-        return -1 if ans == n + 1 else ans 
+        return -1 if ans == n + 1 else ans     
