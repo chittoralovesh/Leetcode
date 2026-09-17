@@ -314,6 +314,13 @@
     "Heap (Priority Queue)",
     "Matrix"
   ],
+  "find-two-non-overlapping-sub-arrays-each-with-target-sum": [
+    "Array",
+    "Hash Table",
+    "Binary Search",
+    "Dynamic Programming",
+    "Sliding Window"
+  ],
   "friend-requests-ii-who-has-the-most-friends": [
     "Database"
   ],

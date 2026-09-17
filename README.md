@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-216-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-217-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-49-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-108-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-109-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-59-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-158%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-159%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-28%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-17%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 216 |
+| **Total problems solved** | 217 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (109), `String` (55), `Math` (54), `Dynamic Programming` (49), `Hash Table` (43) |
-| **Last updated** | 2026-09-17 04:19:55 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (110), `String` (55), `Math` (54), `Dynamic Programming` (50), `Hash Table` (44) |
+| **Last updated** | 2026-09-17 19:44:52 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     49  █████░░░░░░░░░░░░░░░   22.7%
-🟡 Medium  108  ██████████░░░░░░░░░░   50.0%
-🔴 Hard     59  █████░░░░░░░░░░░░░░░   27.3%
+🟢 Easy     49  █████░░░░░░░░░░░░░░░   22.6%
+🟡 Medium  109  ██████████░░░░░░░░░░   50.2%
+🔴 Hard     59  █████░░░░░░░░░░░░░░░   27.2%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 109 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 110 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -111,6 +111,7 @@
 | 1386 | [Cinema Seat Allocation](1386-cinema-seat-allocation) | 🟡 MEDIUM |
 | 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
 | 1464 | [Maximum Product Of Two Elements In An Array](1464-maximum-product-of-two-elements-in-an-array) | 🟢 EASY |
+| 1477 | [Find Two Non Overlapping Sub Arrays Each With Target Sum](1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) | 🟡 MEDIUM |
 | 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD |
 | 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM |
@@ -292,7 +293,7 @@
 </details>
 
 <details>
-<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 49 problem(s)</summary>
+<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 50 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -332,6 +333,7 @@
 | 1278 | [Palindrome Partitioning Iii](1278-palindrome-partitioning-iii) | 🔴 HARD |
 | 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD |
 | 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD |
+| 1477 | [Find Two Non Overlapping Sub Arrays Each With Target Sum](1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) | 🟡 MEDIUM |
 | 1510 | [Stone Game Iv](1510-stone-game-iv) | 🔴 HARD |
 | 1621 | [Number Of Sets Of K Non Overlapping Line Segments](1621-number-of-sets-of-k-non-overlapping-line-segments) | 🟡 MEDIUM |
 | 1872 | [Stone Game Viii](1872-stone-game-viii) | 🔴 HARD |
@@ -350,7 +352,7 @@
 </details>
 
 <details>
-<summary><b>Hash Table</b> &nbsp;·&nbsp; 43 problem(s)</summary>
+<summary><b>Hash Table</b> &nbsp;·&nbsp; 44 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -379,6 +381,7 @@
 | 1345 | [Jump Game Iv](1345-jump-game-iv) | 🔴 HARD |
 | 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM |
 | 1386 | [Cinema Seat Allocation](1386-cinema-seat-allocation) | 🟡 MEDIUM |
+| 1477 | [Find Two Non Overlapping Sub Arrays Each With Target Sum](1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) | 🟡 MEDIUM |
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
 | 2958 | [Length Of Longest Subarray With At Most K Frequency](2958-length-of-longest-subarray-with-at-most-k-frequency) | 🟡 MEDIUM |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](2996-smallest-missing-integer-greater-than-sequential-prefix-sum) | 🟢 EASY |
@@ -504,7 +507,7 @@
 </details>
 
 <details>
-<summary><b>Binary Search</b> &nbsp;·&nbsp; 19 problem(s)</summary>
+<summary><b>Binary Search</b> &nbsp;·&nbsp; 20 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -516,6 +519,7 @@
 | 0400 | [Nth Digit](0400-nth-digit) | 🟡 MEDIUM |
 | 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD |
+| 1477 | [Find Two Non Overlapping Sub Arrays Each With Target Sum](1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) | 🟡 MEDIUM |
 | 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
 | 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
 | 3116 | [Kth Smallest Amount With Single Denomination Combination](3116-kth-smallest-amount-with-single-denomination-combination) | 🔴 HARD |
@@ -673,6 +677,25 @@
 </details>
 
 <details>
+<summary><b>Sliding Window</b> &nbsp;·&nbsp; 10 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters) | 🟡 MEDIUM |
+| 0076 | [Minimum Window Substring](0076-minimum-window-substring) | 🔴 HARD |
+| 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
+| 0480 | [Sliding Window Median](0480-sliding-window-median) | 🔴 HARD |
+| 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM |
+| 1477 | [Find Two Non Overlapping Sub Arrays Each With Target Sum](1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) | 🟡 MEDIUM |
+| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
+| 2904 | [Shortest And Lexicographically Smallest Beautiful String](2904-shortest-and-lexicographically-smallest-beautiful-string) | 🟡 MEDIUM |
+| 2958 | [Length Of Longest Subarray With At Most K Frequency](2958-length-of-longest-subarray-with-at-most-k-frequency) | 🟡 MEDIUM |
+| 3090 | [Maximum Length Substring With Two Occurrences](3090-maximum-length-substring-with-two-occurrences) | 🟢 EASY |
+
+</details>
+
+<details>
 <summary><b>Backtracking</b> &nbsp;·&nbsp; 10 problem(s)</summary>
 
 
@@ -745,24 +768,6 @@
 | 1872 | [Stone Game Viii](1872-stone-game-viii) | 🔴 HARD |
 | 1927 | [Sum Game](1927-sum-game) | 🟡 MEDIUM |
 | 2029 | [Stone Game Ix](2029-stone-game-ix) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Sliding Window</b> &nbsp;·&nbsp; 9 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters) | 🟡 MEDIUM |
-| 0076 | [Minimum Window Substring](0076-minimum-window-substring) | 🔴 HARD |
-| 0220 | [Contains Duplicate Iii](0220-contains-duplicate-iii) | 🔴 HARD |
-| 0480 | [Sliding Window Median](0480-sliding-window-median) | 🔴 HARD |
-| 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM |
-| 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
-| 2904 | [Shortest And Lexicographically Smallest Beautiful String](2904-shortest-and-lexicographically-smallest-beautiful-string) | 🟡 MEDIUM |
-| 2958 | [Length Of Longest Subarray With At Most K Frequency](2958-length-of-longest-subarray-with-at-most-k-frequency) | 🟡 MEDIUM |
-| 3090 | [Maximum Length Substring With Two Occurrences](3090-maximum-length-substring-with-two-occurrences) | 🟢 EASY |
 
 </details>
 
@@ -1511,6 +1516,7 @@
 | 1386 | [Cinema Seat Allocation](1386-cinema-seat-allocation) | 🟡 MEDIUM | Array, Hash Table, Greedy +1 | PY |
 | 1406 | [Stone Game Iii](1406-stone-game-iii) | 🔴 HARD | Array, Math, Dynamic Programming +3 | PY |
 | 1464 | [Maximum Product Of Two Elements In An Array](1464-maximum-product-of-two-elements-in-an-array) | 🟢 EASY | Array, Sorting, Heap (Priority Queue) | PY |
+| 1477 | [Find Two Non Overlapping Sub Arrays Each With Target Sum](1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) | 🟡 MEDIUM | Array, Hash Table, Binary Search +2 | PY |
 | 1510 | [Stone Game Iv](1510-stone-game-iv) | 🔴 HARD | Math, Dynamic Programming, Minimax +4 | PY |
 | 1621 | [Number Of Sets Of K Non Overlapping Line Segments](1621-number-of-sets-of-k-non-overlapping-line-segments) | 🟡 MEDIUM | Math, Dynamic Programming, Combinatorics +1 | PY |
 | 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD | Array, Greedy, Sorting | PY |
@@ -1611,30 +1617,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-09-17 04:19:55 UTC_
+_Generated on 2026-09-17 19:44:52 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chittoralovesh/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
-## Hash Table
-|  |
-| ------- |
-| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chittoralovesh/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
-## Binary Search
-|  |
-| ------- |
-| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chittoralovesh/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
-## Dynamic Programming
-|  |
-| ------- |
-| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chittoralovesh/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
-## Sliding Window
-|  |
-| ------- |
-| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chittoralovesh/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
-<!---LeetCode Topics End-->
