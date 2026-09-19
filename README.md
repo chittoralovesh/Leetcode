@@ -1620,3 +1620,15 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-09-19 04:00:53 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/chittoralovesh/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/chittoralovesh/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+<!---LeetCode Topics End-->
