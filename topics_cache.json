@@ -856,6 +856,10 @@
     "String",
     "Backtracking"
   ],
+  "reverse-degree-of-a-string": [
+    "String",
+    "Simulation"
+  ],
   "reverse-integer": [
     "Math"
   ],
