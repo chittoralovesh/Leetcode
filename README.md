@@ -5,15 +5,15 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-221-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-222-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-50-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-112-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-59-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-60-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/PY-164%20solved-3776AB?style=for-the-badge" alt="PY" />
-<img src="https://img.shields.io/badge/CPP-27%20solved-00599C?style=for-the-badge" alt="CPP" />
+<img src="https://img.shields.io/badge/CPP-28%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-17%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
 
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 221 |
+| **Total problems solved** | 222 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (112), `Math` (56), `String` (56), `Dynamic Programming` (51), `Hash Table` (45) |
-| **Last updated** | 2026-09-23 09:44:12 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (113), `Math` (57), `String` (56), `Dynamic Programming` (51), `Hash Table` (45) |
+| **Last updated** | 2026-09-23 09:45:15 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     50  █████░░░░░░░░░░░░░░░   22.6%
-🟡 Medium  112  ██████████░░░░░░░░░░   50.7%
-🔴 Hard     59  █████░░░░░░░░░░░░░░░   26.7%
+🟢 Easy     50  █████░░░░░░░░░░░░░░░   22.5%
+🟡 Medium  112  ██████████░░░░░░░░░░   50.5%
+🔴 Hard     60  █████░░░░░░░░░░░░░░░   27.0%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 112 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 113 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -141,6 +141,7 @@
 | 3471 | [Find The Largest Almost Missing Integer](3471-find-the-largest-almost-missing-integer) | 🟢 EASY |
 | 3501 | [Maximize Active Section With Trade Ii](3501-maximize-active-section-with-trade-ii) | 🔴 HARD |
 | 3524 | [Find X Value Of Array I](3524-find-x-value-of-array-i) | 🟡 MEDIUM |
+| 3525 | [Find X Value Of Array Ii](3525-find-x-value-of-array-ii) | 🔴 HARD |
 | 3532 | [Path Existence Queries In A Graph I](3532-path-existence-queries-in-a-graph-i) | 🟡 MEDIUM |
 | 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
 | 3546 | [Equal Sum Grid Partition I](3546-equal-sum-grid-partition-i) | 🟡 MEDIUM |
@@ -168,7 +169,7 @@
 </details>
 
 <details>
-<summary><b>Math</b> &nbsp;·&nbsp; 56 problem(s)</summary>
+<summary><b>Math</b> &nbsp;·&nbsp; 57 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -213,6 +214,7 @@
 | 3348 | [Smallest Divisible Digit Product Ii](3348-smallest-divisible-digit-product-ii) | 🔴 HARD |
 | 3518 | [Smallest Palindromic Rearrangement Ii](3518-smallest-palindromic-rearrangement-ii) | 🔴 HARD |
 | 3524 | [Find X Value Of Array I](3524-find-x-value-of-array-i) | 🟡 MEDIUM |
+| 3525 | [Find X Value Of Array Ii](3525-find-x-value-of-array-ii) | 🔴 HARD |
 | 3536 | [Maximum Product Of Two Digits](3536-maximum-product-of-two-digits) | 🟢 EASY |
 | 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
@@ -783,6 +785,24 @@
 </details>
 
 <details>
+<summary><b>Segment Tree</b> &nbsp;·&nbsp; 9 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
+| 2213 | [Longest Substring Of One Repeating Character](2213-longest-substring-of-one-repeating-character) | 🔴 HARD |
+| 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD |
+| 3501 | [Maximize Active Section With Trade Ii](3501-maximize-active-section-with-trade-ii) | 🔴 HARD |
+| 3525 | [Find X Value Of Array Ii](3525-find-x-value-of-array-ii) | 🔴 HARD |
+| 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
+| 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM |
+| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
+| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Binary Tree</b> &nbsp;·&nbsp; 8 problem(s)</summary>
 
 
@@ -847,23 +867,6 @@
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
 | 3568 | [Minimum Moves To Clean The Classroom](3568-minimum-moves-to-clean-the-classroom) | 🟡 MEDIUM |
 | 3702 | [Longest Subsequence With Non Zero Bitwise Xor](3702-longest-subsequence-with-non-zero-bitwise-xor) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Segment Tree</b> &nbsp;·&nbsp; 8 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
-| 2213 | [Longest Substring Of One Repeating Character](2213-longest-substring-of-one-repeating-character) | 🔴 HARD |
-| 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD |
-| 3501 | [Maximize Active Section With Trade Ii](3501-maximize-active-section-with-trade-ii) | 🔴 HARD |
-| 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
-| 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM |
-| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
-| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
 
 </details>
 
@@ -1403,7 +1406,7 @@
 | 0001 | [Two Sum](0001-two-sum) | 🟢 EASY | Array, Hash Table | JAVA |
 | 0002 | [Add Two Numbers](0002-add-two-numbers) | 🟡 MEDIUM | Linked List, Math, Recursion | PY |
 | 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters) | 🟡 MEDIUM | Hash Table, String, Sliding Window | JAVA |
-| 0004 | [Median Of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 HARD | Array, Binary Search, Divide and Conquer | CPP |
+| 0004 | [Median Of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 HARD | Array, Binary Search, Divide and Conquer | PY |
 | 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring) | 🟡 MEDIUM | Two Pointers, String, Dynamic Programming | CPP |
 | 0006 | [Zigzag Conversion](0006-zigzag-conversion) | 🟡 MEDIUM | String | CPP |
 | 0007 | [Reverse Integer](0007-reverse-integer) | 🟡 MEDIUM | Math | CPP |
@@ -1570,7 +1573,7 @@
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM | Array, Breadth-First Search, Graph Theory +3 | CPP |
 | 3302 | [Find The Lexicographically Smallest Valid Sequence](3302-find-the-lexicographically-smallest-valid-sequence) | 🟡 MEDIUM | Two Pointers, String, Dynamic Programming +1 | PY |
 | 3310 | [Remove Methods From Project](3310-remove-methods-from-project) | 🟡 MEDIUM | Depth-First Search, Breadth-First Search, Graph Theory | PY |
-| 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD | Array, Hash Table, Math +5 | PY |
+| 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD | Array, Hash Table, Math +5 | CPP |
 | 3345 | [Smallest Divisible Digit Product I](3345-smallest-divisible-digit-product-i) | 🟢 EASY | Math, Enumeration | PY |
 | 3348 | [Smallest Divisible Digit Product Ii](3348-smallest-divisible-digit-product-ii) | 🔴 HARD | Math, String, Backtracking +2 | PY |
 | 3414 | [Maximum Score Of Non Overlapping Intervals](3414-maximum-score-of-non-overlapping-intervals) | 🔴 HARD | Array, Binary Search, Dynamic Programming +1 | PY |
@@ -1581,6 +1584,7 @@
 | 3501 | [Maximize Active Section With Trade Ii](3501-maximize-active-section-with-trade-ii) | 🔴 HARD | Array, String, Binary Search +1 | PY |
 | 3518 | [Smallest Palindromic Rearrangement Ii](3518-smallest-palindromic-rearrangement-ii) | 🔴 HARD | Hash Table, Math, String +2 | PY |
 | 3524 | [Find X Value Of Array I](3524-find-x-value-of-array-i) | 🟡 MEDIUM | Array, Math, Dynamic Programming | PY |
+| 3525 | [Find X Value Of Array Ii](3525-find-x-value-of-array-ii) | 🔴 HARD | Array, Math, Segment Tree | PY |
 | 3532 | [Path Existence Queries In A Graph I](3532-path-existence-queries-in-a-graph-i) | 🟡 MEDIUM | Array, Hash Table, Binary Search +2 | PY |
 | 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD | Array, Two Pointers, Binary Search +5 | PY |
 | 3536 | [Maximum Product Of Two Digits](3536-maximum-product-of-two-digits) | 🟢 EASY | Math, Sorting | PY |
@@ -1593,7 +1597,7 @@
 | 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD | Array, Binary Search, Dynamic Programming +4 | CPP |
 | 3622 | [Check Divisibility By Digit Sum And Product](3622-check-divisibility-by-digit-sum-and-product) | 🟢 EASY | Math | PY |
 | 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM | Array, Hash Table, Math +2 | PY |
-| 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY | Array, Two Pointers, Binary Search +2 | PY |
+| 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY | Array, Two Pointers, Binary Search +2 | CPP |
 | 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM | Array, Two Pointers, Binary Search +2 | CPP |
 | 3658 | [Gcd Of Odd And Even Sums](3658-gcd-of-odd-and-even-sums) | 🟢 EASY | Math, Number Theory | PY |
 | 3660 | [Jump Game Ix](3660-jump-game-ix) | 🟡 MEDIUM | Array, Dynamic Programming | PY |
@@ -1633,22 +1637,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-09-23 09:44:12 UTC_
+_Generated on 2026-09-23 09:45:15 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3525-find-x-value-of-array-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
-## Math
-|  |
-| ------- |
-| [3525-find-x-value-of-array-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
-## Segment Tree
-|  |
-| ------- |
-| [3525-find-x-value-of-array-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
-<!---LeetCode Topics End-->

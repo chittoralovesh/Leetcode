@@ -330,6 +330,11 @@
     "Math",
     "Dynamic Programming"
   ],
+  "find-x-value-of-array-ii": [
+    "Array",
+    "Math",
+    "Segment Tree"
+  ],
   "friend-requests-ii-who-has-the-most-friends": [
     "Database"
   ],
