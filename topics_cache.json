@@ -640,6 +640,13 @@
     "Sorting",
     "Counting"
   ],
+  "minimum-operations-to-reduce-x-to-zero": [
+    "Array",
+    "Hash Table",
+    "Binary Search",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
   "minimum-score-of-a-path-between-two-cities": [
     "Depth-First Search",
     "Breadth-First Search",
