@@ -1636,3 +1636,19 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-09-23 09:44:12 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
+## Math
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/chittoralovesh/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
+<!---LeetCode Topics End-->
