@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-222-5865F2?style=for-the-badge" alt="Total Solved" />
-<img src="https://img.shields.io/badge/Easy-50-2ECC71?style=for-the-badge" alt="Easy" />
+<img src="https://img.shields.io/badge/Total%20Solved-223-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Easy-51-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-112-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-60-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-165%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-166%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-27%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-17%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 222 |
+| **Total problems solved** | 223 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (113), `Math` (57), `String` (56), `Dynamic Programming` (51), `Hash Table` (45) |
-| **Last updated** | 2026-09-24 04:05:38 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (114), `Math` (58), `String` (56), `Dynamic Programming` (51), `Hash Table` (45) |
+| **Last updated** | 2026-09-24 17:50:29 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     50  █████░░░░░░░░░░░░░░░   22.5%
-🟡 Medium  112  ██████████░░░░░░░░░░   50.5%
-🔴 Hard     60  █████░░░░░░░░░░░░░░░   27.0%
+🟢 Easy     51  █████░░░░░░░░░░░░░░░   22.9%
+🟡 Medium  112  ██████████░░░░░░░░░░   50.2%
+🔴 Hard     60  █████░░░░░░░░░░░░░░░   26.9%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 113 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 114 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -145,6 +145,7 @@
 | 3532 | [Path Existence Queries In A Graph I](3532-path-existence-queries-in-a-graph-i) | 🟡 MEDIUM |
 | 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
 | 3546 | [Equal Sum Grid Partition I](3546-equal-sum-grid-partition-i) | 🟡 MEDIUM |
+| 3550 | [Smallest Index With Digit Sum Equal To Index](3550-smallest-index-with-digit-sum-equal-to-index) | 🟢 EASY |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
 | 3568 | [Minimum Moves To Clean The Classroom](3568-minimum-moves-to-clean-the-classroom) | 🟡 MEDIUM |
 | 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
@@ -169,7 +170,7 @@
 </details>
 
 <details>
-<summary><b>Math</b> &nbsp;·&nbsp; 57 problem(s)</summary>
+<summary><b>Math</b> &nbsp;·&nbsp; 58 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -216,6 +217,7 @@
 | 3524 | [Find X Value Of Array I](3524-find-x-value-of-array-i) | 🟡 MEDIUM |
 | 3525 | [Find X Value Of Array Ii](3525-find-x-value-of-array-ii) | 🔴 HARD |
 | 3536 | [Maximum Product Of Two Digits](3536-maximum-product-of-two-digits) | 🟢 EASY |
+| 3550 | [Smallest Index With Digit Sum Equal To Index](3550-smallest-index-with-digit-sum-equal-to-index) | 🟢 EASY |
 | 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
 | 3622 | [Check Divisibility By Digit Sum And Product](3622-check-divisibility-by-digit-sum-and-product) | 🟢 EASY |
@@ -1589,6 +1591,7 @@
 | 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD | Array, Two Pointers, Binary Search +5 | PY |
 | 3536 | [Maximum Product Of Two Digits](3536-maximum-product-of-two-digits) | 🟢 EASY | Math, Sorting | PY |
 | 3546 | [Equal Sum Grid Partition I](3546-equal-sum-grid-partition-i) | 🟡 MEDIUM | Array, Matrix, Enumeration +1 | PY |
+| 3550 | [Smallest Index With Digit Sum Equal To Index](3550-smallest-index-with-digit-sum-equal-to-index) | 🟢 EASY | Array, Math | PY |
 | 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM | Math, Tree, Depth-First Search | CPP |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD | Array, Math, Dynamic Programming +3 | CPP |
 | 3568 | [Minimum Moves To Clean The Classroom](3568-minimum-moves-to-clean-the-classroom) | 🟡 MEDIUM | Array, Hash Table, Bit Manipulation +2 | PY |
@@ -1637,18 +1640,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-09-24 04:05:38 UTC_
+_Generated on 2026-09-24 17:50:29 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chittoralovesh/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
-## Math
-|  |
-| ------- |
-| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chittoralovesh/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
-<!---LeetCode Topics End-->

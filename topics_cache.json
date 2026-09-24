@@ -952,6 +952,10 @@
     "Greedy",
     "Number Theory"
   ],
+  "smallest-index-with-digit-sum-equal-to-index": [
+    "Array",
+    "Math"
+  ],
   "smallest-missing-integer-greater-than-sequential-prefix-sum": [
     "Array",
     "Hash Table",
