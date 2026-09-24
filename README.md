@@ -1640,3 +1640,15 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-09-24 04:05:38 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chittoralovesh/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Math
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chittoralovesh/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+<!---LeetCode Topics End-->
