@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-224-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-225-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-51-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-112-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-113-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-61-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-167%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-168%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-27%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-17%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 224 |
+| **Total problems solved** | 225 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (114), `Math` (58), `String` (57), `Dynamic Programming` (51), `Hash Table` (46) |
-| **Last updated** | 2026-09-25 13:28:47 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-09-25 13:35:09 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     51  █████░░░░░░░░░░░░░░░   22.8%
-🟡 Medium  112  ██████████░░░░░░░░░░   50.0%
-🔴 Hard     61  █████░░░░░░░░░░░░░░░   27.2%
+🟢 Easy     51  █████░░░░░░░░░░░░░░░   22.7%
+🟡 Medium  113  ██████████░░░░░░░░░░   50.2%
+🔴 Hard     61  █████░░░░░░░░░░░░░░░   27.1%
 ```
 
 
@@ -628,12 +628,13 @@
 </details>
 
 <details>
-<summary><b>Depth-First Search</b> &nbsp;·&nbsp; 14 problem(s)</summary>
+<summary><b>Depth-First Search</b> &nbsp;·&nbsp; 15 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
 |---|---|---|
 | 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree) | 🟡 MEDIUM |
+| 0099 | [Recover Binary Search Tree](0099-recover-binary-search-tree) | 🟡 MEDIUM |
 | 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
 | 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟢 EASY |
 | 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
@@ -734,6 +735,26 @@
 </details>
 
 <details>
+<summary><b>Tree</b> &nbsp;·&nbsp; 11 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0095 | [Unique Binary Search Trees Ii](0095-unique-binary-search-trees-ii) | 🟡 MEDIUM |
+| 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree) | 🟡 MEDIUM |
+| 0099 | [Recover Binary Search Tree](0099-recover-binary-search-tree) | 🟡 MEDIUM |
+| 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
+| 0103 | [Binary Tree Zigzag Level Order Traversal](0103-binary-tree-zigzag-level-order-traversal) | 🟡 MEDIUM |
+| 0107 | [Binary Tree Level Order Traversal Ii](0107-binary-tree-level-order-traversal-ii) | 🟡 MEDIUM |
+| 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟢 EASY |
+| 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
+| 2265 | [Count Nodes Equal To Average Of Subtree](2265-count-nodes-equal-to-average-of-subtree) | 🟡 MEDIUM |
+| 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
+| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Simulation</b> &nbsp;·&nbsp; 11 problem(s)</summary>
 
 
@@ -754,25 +775,6 @@
 </details>
 
 <details>
-<summary><b>Tree</b> &nbsp;·&nbsp; 10 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0095 | [Unique Binary Search Trees Ii](0095-unique-binary-search-trees-ii) | 🟡 MEDIUM |
-| 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree) | 🟡 MEDIUM |
-| 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
-| 0103 | [Binary Tree Zigzag Level Order Traversal](0103-binary-tree-zigzag-level-order-traversal) | 🟡 MEDIUM |
-| 0107 | [Binary Tree Level Order Traversal Ii](0107-binary-tree-level-order-traversal-ii) | 🟡 MEDIUM |
-| 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟢 EASY |
-| 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
-| 2265 | [Count Nodes Equal To Average Of Subtree](2265-count-nodes-equal-to-average-of-subtree) | 🟡 MEDIUM |
-| 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM |
-| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
-
-</details>
-
-<details>
 <summary><b>Game Theory</b> &nbsp;·&nbsp; 10 problem(s)</summary>
 
 
@@ -788,6 +790,24 @@
 | 1872 | [Stone Game Viii](1872-stone-game-viii) | 🔴 HARD |
 | 1927 | [Sum Game](1927-sum-game) | 🟡 MEDIUM |
 | 2029 | [Stone Game Ix](2029-stone-game-ix) | 🟡 MEDIUM |
+
+</details>
+
+<details>
+<summary><b>Binary Tree</b> &nbsp;·&nbsp; 9 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0095 | [Unique Binary Search Trees Ii](0095-unique-binary-search-trees-ii) | 🟡 MEDIUM |
+| 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree) | 🟡 MEDIUM |
+| 0099 | [Recover Binary Search Tree](0099-recover-binary-search-tree) | 🟡 MEDIUM |
+| 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
+| 0103 | [Binary Tree Zigzag Level Order Traversal](0103-binary-tree-zigzag-level-order-traversal) | 🟡 MEDIUM |
+| 0107 | [Binary Tree Level Order Traversal Ii](0107-binary-tree-level-order-traversal-ii) | 🟡 MEDIUM |
+| 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟢 EASY |
+| 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
+| 2265 | [Count Nodes Equal To Average Of Subtree](2265-count-nodes-equal-to-average-of-subtree) | 🟡 MEDIUM |
 
 </details>
 
@@ -823,23 +843,6 @@
 | 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM |
 | 1096 | [Brace Expansion Ii](1096-brace-expansion-ii) | 🔴 HARD |
 | 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Binary Tree</b> &nbsp;·&nbsp; 8 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0095 | [Unique Binary Search Trees Ii](0095-unique-binary-search-trees-ii) | 🟡 MEDIUM |
-| 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree) | 🟡 MEDIUM |
-| 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
-| 0103 | [Binary Tree Zigzag Level Order Traversal](0103-binary-tree-zigzag-level-order-traversal) | 🟡 MEDIUM |
-| 0107 | [Binary Tree Level Order Traversal Ii](0107-binary-tree-level-order-traversal-ii) | 🟡 MEDIUM |
-| 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟢 EASY |
-| 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
-| 2265 | [Count Nodes Equal To Average Of Subtree](2265-count-nodes-equal-to-average-of-subtree) | 🟡 MEDIUM |
 
 </details>
 
@@ -1081,6 +1084,18 @@
 </details>
 
 <details>
+<summary><b>Binary Search Tree</b> &nbsp;·&nbsp; 3 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0095 | [Unique Binary Search Trees Ii](0095-unique-binary-search-trees-ii) | 🟡 MEDIUM |
+| 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree) | 🟡 MEDIUM |
+| 0099 | [Recover Binary Search Tree](0099-recover-binary-search-tree) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Geometry</b> &nbsp;·&nbsp; 3 problem(s)</summary>
 
 
@@ -1125,17 +1140,6 @@
 | 0649 | [Dota2 Senate](0649-dota2-senate) | 🟡 MEDIUM |
 | 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
 | 3829 | [Design Ride Sharing System](3829-design-ride-sharing-system) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Binary Search Tree</b> &nbsp;·&nbsp; 2 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0095 | [Unique Binary Search Trees Ii](0095-unique-binary-search-trees-ii) | 🟡 MEDIUM |
-| 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree) | 🟡 MEDIUM |
 
 </details>
 
@@ -1450,6 +1454,7 @@
 | 0093 | [Restore Ip Addresses](0093-restore-ip-addresses) | 🟡 MEDIUM | String, Backtracking | PY |
 | 0095 | [Unique Binary Search Trees Ii](0095-unique-binary-search-trees-ii) | 🟡 MEDIUM | Dynamic Programming, Backtracking, Tree +2 | PY |
 | 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree) | 🟡 MEDIUM | Tree, Depth-First Search, Binary Search Tree +1 | PY |
+| 0099 | [Recover Binary Search Tree](0099-recover-binary-search-tree) | 🟡 MEDIUM | Tree, Depth-First Search, Binary Search Tree +1 | PY |
 | 0100 | [Same Tree](0100-same-tree) | 🟢 EASY | Tree, Depth-First Search, Breadth-First Search +1 | CPP |
 | 0103 | [Binary Tree Zigzag Level Order Traversal](0103-binary-tree-zigzag-level-order-traversal) | 🟡 MEDIUM | Tree, Breadth-First Search, Binary Tree | PY |
 | 0107 | [Binary Tree Level Order Traversal Ii](0107-binary-tree-level-order-traversal-ii) | 🟡 MEDIUM | Tree, Breadth-First Search, Binary Tree | PY |
@@ -1647,26 +1652,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-09-25 13:28:47 UTC_
+_Generated on 2026-09-25 13:35:09 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0099-recover-binary-search-tree](https://github.com/chittoralovesh/Leetcode/tree/master/0099-recover-binary-search-tree) |
-## Depth-First Search
-|  |
-| ------- |
-| [0099-recover-binary-search-tree](https://github.com/chittoralovesh/Leetcode/tree/master/0099-recover-binary-search-tree) |
-## Binary Search Tree
-|  |
-| ------- |
-| [0099-recover-binary-search-tree](https://github.com/chittoralovesh/Leetcode/tree/master/0099-recover-binary-search-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [0099-recover-binary-search-tree](https://github.com/chittoralovesh/Leetcode/tree/master/0099-recover-binary-search-tree) |
-<!---LeetCode Topics End-->

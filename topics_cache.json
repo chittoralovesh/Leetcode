@@ -859,6 +859,12 @@
     "Heap (Priority Queue)",
     "Eulerian Circuit"
   ],
+  "recover-binary-search-tree": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
   "regular-expression-matching": [
     "String",
     "Dynamic Programming",
