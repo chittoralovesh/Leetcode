@@ -1643,3 +1643,31 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-09-25 04:20:09 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/chittoralovesh/Leetcode/tree/master/1096-brace-expansion-ii) |
+## String
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/chittoralovesh/Leetcode/tree/master/1096-brace-expansion-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/chittoralovesh/Leetcode/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/chittoralovesh/Leetcode/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/chittoralovesh/Leetcode/tree/master/1096-brace-expansion-ii) |
+## Sorting
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/chittoralovesh/Leetcode/tree/master/1096-brace-expansion-ii) |
+<!---LeetCode Topics End-->
