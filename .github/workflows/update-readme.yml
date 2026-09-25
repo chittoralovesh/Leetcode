@@ -15,10 +15,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v6
         with:
           python-version: '3.10'
 
@@ -28,9 +28,29 @@ jobs:
       - name: Generate README stats
         run: python scripts/generate_readme.py
 
+      # LeetHub pushes several commits per submission, so several runs of this
+      # workflow race to push. If main moved underneath us, regenerate on top of
+      # the latest main and try again instead of failing.
       - name: Commit and push changes
         run: |
           git config user.email "281591568+chittoralovesh@users.noreply.github.com"
           git config user.name "Lovesh Chittora"
-          git add README.md topics_cache.json
-          git diff --cached --quiet || (git commit -m "Auto-update README with LeetCode stats [skip ci]" && git push)
+          for attempt in 1 2 3 4 5; do
+            git add README.md topics_cache.json
+            # Skip commits where only the timestamp lines changed.
+            if git diff --cached --quiet -I 'Last updated|Generated on'; then
+              echo "No meaningful changes to commit."
+              exit 0
+            fi
+            git commit -m "Auto-update README with LeetCode stats [skip ci]"
+            if git push; then
+              exit 0
+            fi
+            echo "Push rejected (attempt $attempt), rebuilding on latest main..."
+            sleep $((attempt * 5))
+            git fetch origin main
+            git reset --hard origin/main
+            python scripts/generate_readme.py
+          done
+          echo "Could not push after 5 attempts."
+          exit 1
