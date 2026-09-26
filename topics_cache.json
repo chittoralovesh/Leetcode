@@ -273,6 +273,11 @@
     "Enumeration",
     "Prefix Sum"
   ],
+  "evaluate-the-bracket-pairs-of-a-string": [
+    "Array",
+    "Hash Table",
+    "String"
+  ],
   "execution-of-all-suffix-instructions-staying-in-a-grid": [
     "String",
     "Simulation"

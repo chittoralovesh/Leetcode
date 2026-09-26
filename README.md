@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-225-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-226-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-51-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-113-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-114-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-61-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-168%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-169%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-27%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-17%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 225 |
+| **Total problems solved** | 226 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (114), `Math` (58), `String` (57), `Dynamic Programming` (51), `Hash Table` (46) |
-| **Last updated** | 2026-09-25 13:35:09 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (115), `Math` (58), `String` (58), `Dynamic Programming` (51), `Hash Table` (47) |
+| **Last updated** | 2026-09-26 18:21:39 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     51  █████░░░░░░░░░░░░░░░   22.7%
-🟡 Medium  113  ██████████░░░░░░░░░░   50.2%
-🔴 Hard     61  █████░░░░░░░░░░░░░░░   27.1%
+🟢 Easy     51  █████░░░░░░░░░░░░░░░   22.6%
+🟡 Medium  114  ██████████░░░░░░░░░░   50.4%
+🔴 Hard     61  █████░░░░░░░░░░░░░░░   27.0%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 114 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 115 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -115,6 +115,7 @@
 | 1658 | [Minimum Operations To Reduce X To Zero](1658-minimum-operations-to-reduce-x-to-zero) | 🟡 MEDIUM |
 | 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD |
 | 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY |
+| 1807 | [Evaluate The Bracket Pairs Of A String](1807-evaluate-the-bracket-pairs-of-a-string) | 🟡 MEDIUM |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD |
 | 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM |
@@ -237,7 +238,7 @@
 </details>
 
 <details>
-<summary><b>String</b> &nbsp;·&nbsp; 57 problem(s)</summary>
+<summary><b>String</b> &nbsp;·&nbsp; 58 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -278,6 +279,7 @@
 | 1278 | [Palindrome Partitioning Iii](1278-palindrome-partitioning-iii) | 🔴 HARD |
 | 1358 | [Number Of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters) | 🟡 MEDIUM |
 | 1784 | [Check If Binary String Has At Most One Segment Of Ones](1784-check-if-binary-string-has-at-most-one-segment-of-ones) | 🟢 EASY |
+| 1807 | [Evaluate The Bracket Pairs Of A String](1807-evaluate-the-bracket-pairs-of-a-string) | 🟡 MEDIUM |
 | 1927 | [Sum Game](1927-sum-game) | 🟡 MEDIUM |
 | 1967 | [Number Of Strings That Appear As Substrings In Word](1967-number-of-strings-that-appear-as-substrings-in-word) | 🟢 EASY |
 | 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM |
@@ -363,7 +365,7 @@
 </details>
 
 <details>
-<summary><b>Hash Table</b> &nbsp;·&nbsp; 46 problem(s)</summary>
+<summary><b>Hash Table</b> &nbsp;·&nbsp; 47 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -395,6 +397,7 @@
 | 1386 | [Cinema Seat Allocation](1386-cinema-seat-allocation) | 🟡 MEDIUM |
 | 1477 | [Find Two Non Overlapping Sub Arrays Each With Target Sum](1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) | 🟡 MEDIUM |
 | 1658 | [Minimum Operations To Reduce X To Zero](1658-minimum-operations-to-reduce-x-to-zero) | 🟡 MEDIUM |
+| 1807 | [Evaluate The Bracket Pairs Of A String](1807-evaluate-the-bracket-pairs-of-a-string) | 🟡 MEDIUM |
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
 | 2958 | [Length Of Longest Subarray With At Most K Frequency](2958-length-of-longest-subarray-with-at-most-k-frequency) | 🟡 MEDIUM |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](2996-smallest-missing-integer-greater-than-sequential-prefix-sum) | 🟢 EASY |
@@ -1553,6 +1556,7 @@
 | 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD | Array, Greedy, Sorting | PY |
 | 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude) | 🟢 EASY | Array, Prefix Sum | PY |
 | 1784 | [Check If Binary String Has At Most One Segment Of Ones](1784-check-if-binary-string-has-at-most-one-segment-of-ones) | 🟢 EASY | String | PY |
+| 1807 | [Evaluate The Bracket Pairs Of A String](1807-evaluate-the-bracket-pairs-of-a-string) | 🟡 MEDIUM | Array, Hash Table, String | PY |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM | Array, Greedy, Sorting +1 | PY |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD | Array, Math, Sorting | PY |
 | 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM | Array, Greedy, Sorting | JAVA |
@@ -1652,22 +1656,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-09-25 13:35:09 UTC_
+_Generated on 2026-09-26 18:21:39 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chittoralovesh/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
-## Hash Table
-|  |
-| ------- |
-| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chittoralovesh/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
-## String
-|  |
-| ------- |
-| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chittoralovesh/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
-<!---LeetCode Topics End-->
