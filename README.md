@@ -1655,3 +1655,19 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-09-25 13:35:09 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chittoralovesh/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chittoralovesh/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+## String
+|  |
+| ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chittoralovesh/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+<!---LeetCode Topics End-->
