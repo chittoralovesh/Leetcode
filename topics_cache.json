@@ -911,6 +911,11 @@
     "Merge Sort",
     "Ordered Set"
   ],
+  "reverse-substrings-between-each-pair-of-parentheses": [
+    "String",
+    "Stack",
+    "Bracket Sequences"
+  ],
   "roman-to-integer": [
     "Hash Table",
     "Math",
