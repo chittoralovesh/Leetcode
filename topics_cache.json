@@ -552,6 +552,11 @@
     "String",
     "Sliding Window"
   ],
+  "maximum-nesting-depth-of-the-parentheses": [
+    "String",
+    "Stack",
+    "Bracket Sequences"
+  ],
   "maximum-number-of-balloons": [
     "Hash Table",
     "String",
