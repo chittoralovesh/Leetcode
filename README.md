@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-228-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-229-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-51-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-116-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-61-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-62-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-171%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-172%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-27%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-17%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 228 |
+| **Total problems solved** | 229 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (115), `String` (60), `Math` (58), `Dynamic Programming` (51), `Hash Table` (47) |
-| **Last updated** | 2026-09-28 15:19:23 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (116), `String` (60), `Math` (58), `Dynamic Programming` (52), `Hash Table` (47) |
+| **Last updated** | 2026-09-29 18:16:55 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     51  ████░░░░░░░░░░░░░░░░   22.4%
-🟡 Medium  116  ██████████░░░░░░░░░░   50.9%
-🔴 Hard     61  █████░░░░░░░░░░░░░░░   26.8%
+🟢 Easy     51  ████░░░░░░░░░░░░░░░░   22.3%
+🟡 Medium  116  ██████████░░░░░░░░░░   50.7%
+🔴 Hard     62  █████░░░░░░░░░░░░░░░   27.1%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 115 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 116 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -127,6 +127,7 @@
 | 2161 | [Partition Array According To Given Pivot](2161-partition-array-according-to-given-pivot) | 🟡 MEDIUM |
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
 | 2213 | [Longest Substring Of One Repeating Character](2213-longest-substring-of-one-repeating-character) | 🔴 HARD |
+| 2267 | [Check If There Is A Valid Parentheses String Path](2267-check-if-there-is-a-valid-parentheses-string-path) | 🔴 HARD |
 | 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
 | 2574 | [Left And Right Sum Differences](2574-left-and-right-sum-differences) | 🟢 EASY |
 | 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
@@ -307,7 +308,7 @@
 </details>
 
 <details>
-<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 51 problem(s)</summary>
+<summary><b>Dynamic Programming</b> &nbsp;·&nbsp; 52 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -351,6 +352,7 @@
 | 1510 | [Stone Game Iv](1510-stone-game-iv) | 🔴 HARD |
 | 1621 | [Number Of Sets Of K Non Overlapping Line Segments](1621-number-of-sets-of-k-non-overlapping-line-segments) | 🟡 MEDIUM |
 | 1872 | [Stone Game Viii](1872-stone-game-viii) | 🔴 HARD |
+| 2267 | [Check If There Is A Valid Parentheses String Path](2267-check-if-there-is-a-valid-parentheses-string-path) | 🔴 HARD |
 | 2472 | [Maximum Number Of Non Overlapping Palindrome Substrings](2472-maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 HARD |
 | 3302 | [Find The Lexicographically Smallest Valid Sequence](3302-find-the-lexicographically-smallest-valid-sequence) | 🟡 MEDIUM |
 | 3414 | [Maximum Score Of Non Overlapping Intervals](3414-maximum-score-of-non-overlapping-intervals) | 🔴 HARD |
@@ -609,7 +611,7 @@
 </details>
 
 <details>
-<summary><b>Matrix</b> &nbsp;·&nbsp; 15 problem(s)</summary>
+<summary><b>Matrix</b> &nbsp;·&nbsp; 16 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -625,6 +627,7 @@
 | 0529 | [Minesweeper](0529-minesweeper) | 🟡 MEDIUM |
 | 1260 | [Shift 2D Grid](1260-shift-2d-grid) | 🟢 EASY |
 | 1301 | [Number Of Paths With Max Score](1301-number-of-paths-with-max-score) | 🔴 HARD |
+| 2267 | [Check If There Is A Valid Parentheses String Path](2267-check-if-there-is-a-valid-parentheses-string-path) | 🔴 HARD |
 | 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
 | 3546 | [Equal Sum Grid Partition I](3546-equal-sum-grid-partition-i) | 🟡 MEDIUM |
@@ -1028,6 +1031,19 @@
 </details>
 
 <details>
+<summary><b>Bracket Sequences</b> &nbsp;·&nbsp; 4 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0022 | [Generate Parentheses](0022-generate-parentheses) | 🟡 MEDIUM |
+| 1190 | [Reverse Substrings Between Each Pair Of Parentheses](1190-reverse-substrings-between-each-pair-of-parentheses) | 🟡 MEDIUM |
+| 1614 | [Maximum Nesting Depth Of The Parentheses](1614-maximum-nesting-depth-of-the-parentheses) | 🟡 MEDIUM |
+| 2267 | [Check If There Is A Valid Parentheses String Path](2267-check-if-there-is-a-valid-parentheses-string-path) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Monotonic Stack</b> &nbsp;·&nbsp; 4 problem(s)</summary>
 
 
@@ -1075,18 +1091,6 @@
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix) | 🟢 EASY |
 | 0139 | [Word Break](0139-word-break) | 🟡 MEDIUM |
 | 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Bracket Sequences</b> &nbsp;·&nbsp; 3 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0022 | [Generate Parentheses](0022-generate-parentheses) | 🟡 MEDIUM |
-| 1190 | [Reverse Substrings Between Each Pair Of Parentheses](1190-reverse-substrings-between-each-pair-of-parentheses) | 🟡 MEDIUM |
-| 1614 | [Maximum Nesting Depth Of The Parentheses](1614-maximum-nesting-depth-of-the-parentheses) | 🟡 MEDIUM |
 
 </details>
 
@@ -1581,6 +1585,7 @@
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM | Array, Hash Table, Tree +1 | CPP |
 | 2213 | [Longest Substring Of One Repeating Character](2213-longest-substring-of-one-repeating-character) | 🔴 HARD | Array, String, Segment Tree +1 | PY |
 | 2265 | [Count Nodes Equal To Average Of Subtree](2265-count-nodes-equal-to-average-of-subtree) | 🟡 MEDIUM | Tree, Depth-First Search, Binary Tree | CPP |
+| 2267 | [Check If There Is A Valid Parentheses String Path](2267-check-if-there-is-a-valid-parentheses-string-path) | 🔴 HARD | Array, Dynamic Programming, Matrix +1 | PY |
 | 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD | Array, Binary Search, Queue +4 | PY |
 | 2472 | [Maximum Number Of Non Overlapping Palindrome Substrings](2472-maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 HARD | Two Pointers, String, Dynamic Programming +1 | PY |
 | 2492 | [Minimum Score Of A Path Between Two Cities](2492-minimum-score-of-a-path-between-two-cities) | 🟡 MEDIUM | Depth-First Search, Breadth-First Search, Union-Find +1 | PY |
@@ -1664,26 +1669,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-09-28 15:19:23 UTC_
+_Generated on 2026-09-29 18:16:55 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chittoralovesh/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
-## Dynamic Programming
-|  |
-| ------- |
-| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chittoralovesh/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
-## Matrix
-|  |
-| ------- |
-| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chittoralovesh/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
-## Bracket Sequences
-|  |
-| ------- |
-| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chittoralovesh/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
-<!---LeetCode Topics End-->

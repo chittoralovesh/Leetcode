@@ -90,6 +90,12 @@
   "check-if-binary-string-has-at-most-one-segment-of-ones": [
     "String"
   ],
+  "check-if-there-is-a-valid-parentheses-string-path": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix",
+    "Bracket Sequences"
+  ],
   "cinema-seat-allocation": [
     "Array",
     "Hash Table",
