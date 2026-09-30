@@ -563,6 +563,11 @@
     "Stack",
     "Bracket Sequences"
   ],
+  "maximum-nesting-depth-of-two-valid-parentheses-strings": [
+    "String",
+    "Stack",
+    "Bracket Sequences"
+  ],
   "maximum-number-of-balloons": [
     "Hash Table",
     "String",

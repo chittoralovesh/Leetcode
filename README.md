@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-229-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-230-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-51-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-116-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-117-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-62-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-172%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-173%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-27%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-17%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 229 |
+| **Total problems solved** | 230 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (116), `String` (60), `Math` (58), `Dynamic Programming` (52), `Hash Table` (47) |
-| **Last updated** | 2026-09-29 18:16:55 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (116), `String` (61), `Math` (58), `Dynamic Programming` (52), `Hash Table` (47) |
+| **Last updated** | 2026-09-30 19:16:39 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     51  ████░░░░░░░░░░░░░░░░   22.3%
-🟡 Medium  116  ██████████░░░░░░░░░░   50.7%
-🔴 Hard     62  █████░░░░░░░░░░░░░░░   27.1%
+🟢 Easy     51  ████░░░░░░░░░░░░░░░░   22.2%
+🟡 Medium  117  ██████████░░░░░░░░░░   50.9%
+🔴 Hard     62  █████░░░░░░░░░░░░░░░   27.0%
 ```
 
 
@@ -172,7 +172,7 @@
 </details>
 
 <details>
-<summary><b>String</b> &nbsp;·&nbsp; 60 problem(s)</summary>
+<summary><b>String</b> &nbsp;·&nbsp; 61 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -209,6 +209,7 @@
 | 0940 | [Distinct Subsequences Ii](0940-distinct-subsequences-ii) | 🔴 HARD |
 | 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM |
 | 1096 | [Brace Expansion Ii](1096-brace-expansion-ii) | 🔴 HARD |
+| 1111 | [Maximum Nesting Depth Of Two Valid Parentheses Strings](1111-maximum-nesting-depth-of-two-valid-parentheses-strings) | 🟡 MEDIUM |
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY |
 | 1190 | [Reverse Substrings Between Each Pair Of Parentheses](1190-reverse-substrings-between-each-pair-of-parentheses) | 🟡 MEDIUM |
 | 1278 | [Palindrome Partitioning Iii](1278-palindrome-partitioning-iii) | 🔴 HARD |
@@ -743,6 +744,26 @@
 </details>
 
 <details>
+<summary><b>Stack</b> &nbsp;·&nbsp; 11 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
+| 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟢 EASY |
+| 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM |
+| 0496 | [Next Greater Element I](0496-next-greater-element-i) | 🟢 EASY |
+| 0503 | [Next Greater Element Ii](0503-next-greater-element-ii) | 🟡 MEDIUM |
+| 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM |
+| 1096 | [Brace Expansion Ii](1096-brace-expansion-ii) | 🔴 HARD |
+| 1111 | [Maximum Nesting Depth Of Two Valid Parentheses Strings](1111-maximum-nesting-depth-of-two-valid-parentheses-strings) | 🟡 MEDIUM |
+| 1190 | [Reverse Substrings Between Each Pair Of Parentheses](1190-reverse-substrings-between-each-pair-of-parentheses) | 🟡 MEDIUM |
+| 1614 | [Maximum Nesting Depth Of The Parentheses](1614-maximum-nesting-depth-of-the-parentheses) | 🟡 MEDIUM |
+| 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Tree</b> &nbsp;·&nbsp; 11 problem(s)</summary>
 
 
@@ -779,25 +800,6 @@
 | 3614 | [Process String With Special Operations Ii](3614-process-string-with-special-operations-ii) | 🔴 HARD |
 | 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY |
 | 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Stack</b> &nbsp;·&nbsp; 10 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
-| 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟢 EASY |
-| 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM |
-| 0496 | [Next Greater Element I](0496-next-greater-element-i) | 🟢 EASY |
-| 0503 | [Next Greater Element Ii](0503-next-greater-element-ii) | 🟡 MEDIUM |
-| 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM |
-| 1096 | [Brace Expansion Ii](1096-brace-expansion-ii) | 🔴 HARD |
-| 1190 | [Reverse Substrings Between Each Pair Of Parentheses](1190-reverse-substrings-between-each-pair-of-parentheses) | 🟡 MEDIUM |
-| 1614 | [Maximum Nesting Depth Of The Parentheses](1614-maximum-nesting-depth-of-the-parentheses) | 🟡 MEDIUM |
-| 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
 
 </details>
 
@@ -1003,6 +1005,20 @@
 </details>
 
 <details>
+<summary><b>Bracket Sequences</b> &nbsp;·&nbsp; 5 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0022 | [Generate Parentheses](0022-generate-parentheses) | 🟡 MEDIUM |
+| 1111 | [Maximum Nesting Depth Of Two Valid Parentheses Strings](1111-maximum-nesting-depth-of-two-valid-parentheses-strings) | 🟡 MEDIUM |
+| 1190 | [Reverse Substrings Between Each Pair Of Parentheses](1190-reverse-substrings-between-each-pair-of-parentheses) | 🟡 MEDIUM |
+| 1614 | [Maximum Nesting Depth Of The Parentheses](1614-maximum-nesting-depth-of-the-parentheses) | 🟡 MEDIUM |
+| 2267 | [Check If There Is A Valid Parentheses String Path](2267-check-if-there-is-a-valid-parentheses-string-path) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Minimax</b> &nbsp;·&nbsp; 5 problem(s)</summary>
 
 
@@ -1027,19 +1043,6 @@
 | 1510 | [Stone Game Iv](1510-stone-game-iv) | 🔴 HARD |
 | 1872 | [Stone Game Viii](1872-stone-game-viii) | 🔴 HARD |
 | 2029 | [Stone Game Ix](2029-stone-game-ix) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Bracket Sequences</b> &nbsp;·&nbsp; 4 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0022 | [Generate Parentheses](0022-generate-parentheses) | 🟡 MEDIUM |
-| 1190 | [Reverse Substrings Between Each Pair Of Parentheses](1190-reverse-substrings-between-each-pair-of-parentheses) | 🟡 MEDIUM |
-| 1614 | [Maximum Nesting Depth Of The Parentheses](1614-maximum-nesting-depth-of-the-parentheses) | 🟡 MEDIUM |
-| 2267 | [Check If There Is A Valid Parentheses String Path](2267-check-if-there-is-a-valid-parentheses-string-path) | 🔴 HARD |
 
 </details>
 
@@ -1544,6 +1547,7 @@
 | 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM | String, Stack, Greedy +1 | PY |
 | 1084 | [Sales Analysis Iii](1084-sales-analysis-iii) | 🟢 EASY | Database | — |
 | 1096 | [Brace Expansion Ii](1096-brace-expansion-ii) | 🔴 HARD | Hash Table, String, Backtracking +3 | PY |
+| 1111 | [Maximum Nesting Depth Of Two Valid Parentheses Strings](1111-maximum-nesting-depth-of-two-valid-parentheses-strings) | 🟡 MEDIUM | String, Stack, Bracket Sequences | PY |
 | 1140 | [Stone Game Ii](1140-stone-game-ii) | 🟡 MEDIUM | Array, Math, Dynamic Programming +4 | PY |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD | Array, Binary Search, Dynamic Programming +1 | PY |
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY | Hash Table, String, Counting | PY |
@@ -1669,22 +1673,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-09-29 18:16:55 UTC_
+_Generated on 2026-09-30 19:16:39 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/chittoralovesh/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
-## Stack
-|  |
-| ------- |
-| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/chittoralovesh/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
-## Bracket Sequences
-|  |
-| ------- |
-| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/chittoralovesh/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
-<!---LeetCode Topics End-->
