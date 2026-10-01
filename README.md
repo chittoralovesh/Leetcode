@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-230-5865F2?style=for-the-badge" alt="Total Solved" />
-<img src="https://img.shields.io/badge/Easy-51-2ECC71?style=for-the-badge" alt="Easy" />
+<img src="https://img.shields.io/badge/Total%20Solved-231-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Easy-52-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-117-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-62-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-173%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-174%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-27%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-17%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 230 |
+| **Total problems solved** | 231 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (116), `String` (61), `Math` (58), `Dynamic Programming` (52), `Hash Table` (47) |
-| **Last updated** | 2026-09-30 19:16:39 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (116), `String` (62), `Math` (58), `Dynamic Programming` (52), `Hash Table` (47) |
+| **Last updated** | 2026-10-01 17:43:20 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     51  ████░░░░░░░░░░░░░░░░   22.2%
-🟡 Medium  117  ██████████░░░░░░░░░░   50.9%
-🔴 Hard     62  █████░░░░░░░░░░░░░░░   27.0%
+🟢 Easy     52  █████░░░░░░░░░░░░░░░   22.5%
+🟡 Medium  117  ██████████░░░░░░░░░░   50.6%
+🔴 Hard     62  █████░░░░░░░░░░░░░░░   26.8%
 ```
 
 
@@ -172,7 +172,7 @@
 </details>
 
 <details>
-<summary><b>String</b> &nbsp;·&nbsp; 61 problem(s)</summary>
+<summary><b>String</b> &nbsp;·&nbsp; 62 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -186,6 +186,7 @@
 | 0013 | [Roman To Integer](0013-roman-to-integer) | 🟢 EASY |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix) | 🟢 EASY |
 | 0017 | [Letter Combinations Of A Phone Number](0017-letter-combinations-of-a-phone-number) | 🟡 MEDIUM |
+| 0020 | [Valid Parentheses](0020-valid-parentheses) | 🟢 EASY |
 | 0022 | [Generate Parentheses](0022-generate-parentheses) | 🟡 MEDIUM |
 | 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD |
 | 0049 | [Group Anagrams](0049-group-anagrams) | 🟡 MEDIUM |
@@ -683,6 +684,27 @@
 </details>
 
 <details>
+<summary><b>Stack</b> &nbsp;·&nbsp; 12 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0020 | [Valid Parentheses](0020-valid-parentheses) | 🟢 EASY |
+| 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
+| 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟢 EASY |
+| 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM |
+| 0496 | [Next Greater Element I](0496-next-greater-element-i) | 🟢 EASY |
+| 0503 | [Next Greater Element Ii](0503-next-greater-element-ii) | 🟡 MEDIUM |
+| 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM |
+| 1096 | [Brace Expansion Ii](1096-brace-expansion-ii) | 🔴 HARD |
+| 1111 | [Maximum Nesting Depth Of Two Valid Parentheses Strings](1111-maximum-nesting-depth-of-two-valid-parentheses-strings) | 🟡 MEDIUM |
+| 1190 | [Reverse Substrings Between Each Pair Of Parentheses](1190-reverse-substrings-between-each-pair-of-parentheses) | 🟡 MEDIUM |
+| 1614 | [Maximum Nesting Depth Of The Parentheses](1614-maximum-nesting-depth-of-the-parentheses) | 🟡 MEDIUM |
+| 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Heap (Priority Queue)</b> &nbsp;·&nbsp; 12 problem(s)</summary>
 
 
@@ -740,26 +762,6 @@
 | 0679 | [24 Game](0679-24-game) | 🔴 HARD |
 | 1096 | [Brace Expansion Ii](1096-brace-expansion-ii) | 🔴 HARD |
 | 3348 | [Smallest Divisible Digit Product Ii](3348-smallest-divisible-digit-product-ii) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Stack</b> &nbsp;·&nbsp; 11 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
-| 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟢 EASY |
-| 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM |
-| 0496 | [Next Greater Element I](0496-next-greater-element-i) | 🟢 EASY |
-| 0503 | [Next Greater Element Ii](0503-next-greater-element-ii) | 🟡 MEDIUM |
-| 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM |
-| 1096 | [Brace Expansion Ii](1096-brace-expansion-ii) | 🔴 HARD |
-| 1111 | [Maximum Nesting Depth Of Two Valid Parentheses Strings](1111-maximum-nesting-depth-of-two-valid-parentheses-strings) | 🟡 MEDIUM |
-| 1190 | [Reverse Substrings Between Each Pair Of Parentheses](1190-reverse-substrings-between-each-pair-of-parentheses) | 🟡 MEDIUM |
-| 1614 | [Maximum Nesting Depth Of The Parentheses](1614-maximum-nesting-depth-of-the-parentheses) | 🟡 MEDIUM |
-| 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
 
 </details>
 
@@ -990,6 +992,21 @@
 </details>
 
 <details>
+<summary><b>Bracket Sequences</b> &nbsp;·&nbsp; 6 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0020 | [Valid Parentheses](0020-valid-parentheses) | 🟢 EASY |
+| 0022 | [Generate Parentheses](0022-generate-parentheses) | 🟡 MEDIUM |
+| 1111 | [Maximum Nesting Depth Of Two Valid Parentheses Strings](1111-maximum-nesting-depth-of-two-valid-parentheses-strings) | 🟡 MEDIUM |
+| 1190 | [Reverse Substrings Between Each Pair Of Parentheses](1190-reverse-substrings-between-each-pair-of-parentheses) | 🟡 MEDIUM |
+| 1614 | [Maximum Nesting Depth Of The Parentheses](1614-maximum-nesting-depth-of-the-parentheses) | 🟡 MEDIUM |
+| 2267 | [Check If There Is A Valid Parentheses String Path](2267-check-if-there-is-a-valid-parentheses-string-path) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Union-Find</b> &nbsp;·&nbsp; 6 problem(s)</summary>
 
 
@@ -1001,20 +1018,6 @@
 | 2685 | [Count The Number Of Complete Components](2685-count-the-number-of-complete-components) | 🟡 MEDIUM |
 | 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
 | 3532 | [Path Existence Queries In A Graph I](3532-path-existence-queries-in-a-graph-i) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Bracket Sequences</b> &nbsp;·&nbsp; 5 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0022 | [Generate Parentheses](0022-generate-parentheses) | 🟡 MEDIUM |
-| 1111 | [Maximum Nesting Depth Of Two Valid Parentheses Strings](1111-maximum-nesting-depth-of-two-valid-parentheses-strings) | 🟡 MEDIUM |
-| 1190 | [Reverse Substrings Between Each Pair Of Parentheses](1190-reverse-substrings-between-each-pair-of-parentheses) | 🟡 MEDIUM |
-| 1614 | [Maximum Nesting Depth Of The Parentheses](1614-maximum-nesting-depth-of-the-parentheses) | 🟡 MEDIUM |
-| 2267 | [Check If There Is A Valid Parentheses String Path](2267-check-if-there-is-a-valid-parentheses-string-path) | 🔴 HARD |
 
 </details>
 
@@ -1449,6 +1452,7 @@
 | 0016 | [3Sum Closest](0016-3sum-closest) | 🟡 MEDIUM | Array, Two Pointers, Sorting | PY |
 | 0017 | [Letter Combinations Of A Phone Number](0017-letter-combinations-of-a-phone-number) | 🟡 MEDIUM | Hash Table, String, Backtracking | PY |
 | 0018 | [4Sum](0018-4sum) | 🟡 MEDIUM | Array, Two Pointers, Sorting | PY |
+| 0020 | [Valid Parentheses](0020-valid-parentheses) | 🟢 EASY | String, Stack, Bracket Sequences | PY |
 | 0022 | [Generate Parentheses](0022-generate-parentheses) | 🟡 MEDIUM | String, Dynamic Programming, Backtracking +1 | PY |
 | 0031 | [Next Permutation](0031-next-permutation) | 🟡 MEDIUM | Array, Two Pointers | PY |
 | 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD | Array, Hash Table, Backtracking +1 | PY |
@@ -1673,22 +1677,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-09-30 19:16:39 UTC_
+_Generated on 2026-10-01 17:43:20 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/chittoralovesh/Leetcode/tree/master/0020-valid-parentheses) |
-## Stack
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/chittoralovesh/Leetcode/tree/master/0020-valid-parentheses) |
-## Bracket Sequences
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/chittoralovesh/Leetcode/tree/master/0020-valid-parentheses) |
-<!---LeetCode Topics End-->

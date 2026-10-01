@@ -1158,6 +1158,11 @@
     "Binary Search Tree",
     "Binary Tree"
   ],
+  "valid-parentheses": [
+    "String",
+    "Stack",
+    "Bracket Sequences"
+  ],
   "validate-binary-search-tree": [
     "Tree",
     "Depth-First Search",
