@@ -5,9 +5,9 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-231-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-232-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-52-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-117-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-118-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-62-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 231 |
+| **Total problems solved** | 232 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (116), `String` (62), `Math` (58), `Dynamic Programming` (52), `Hash Table` (47) |
-| **Last updated** | 2026-10-02 14:46:22 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-10-02 14:47:29 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     52  █████░░░░░░░░░░░░░░░   22.5%
-🟡 Medium  117  ██████████░░░░░░░░░░   50.6%
-🔴 Hard     62  █████░░░░░░░░░░░░░░░   26.8%
+🟢 Easy     52  ████░░░░░░░░░░░░░░░░   22.4%
+🟡 Medium  118  ██████████░░░░░░░░░░   50.9%
+🔴 Hard     62  █████░░░░░░░░░░░░░░░   26.7%
 ```
 
 
@@ -662,7 +662,7 @@
 </details>
 
 <details>
-<summary><b>Database</b> &nbsp;·&nbsp; 13 problem(s)</summary>
+<summary><b>Database</b> &nbsp;·&nbsp; 14 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -680,6 +680,7 @@
 | 1045 | [Customers Who Bought All Products](1045-customers-who-bought-all-products) | 🟡 MEDIUM |
 | 1050 | [Actors And Directors Who Cooperated At Least Three Times](1050-actors-and-directors-who-cooperated-at-least-three-times) | 🟢 EASY |
 | 1084 | [Sales Analysis Iii](1084-sales-analysis-iii) | 🟢 EASY |
+| 1164 | [Product Price At A Given Date](1164-product-price-at-a-given-date) | 🟡 MEDIUM |
 
 </details>
 
@@ -1553,6 +1554,7 @@
 | 1096 | [Brace Expansion Ii](1096-brace-expansion-ii) | 🔴 HARD | Hash Table, String, Backtracking +3 | PY |
 | 1111 | [Maximum Nesting Depth Of Two Valid Parentheses Strings](1111-maximum-nesting-depth-of-two-valid-parentheses-strings) | 🟡 MEDIUM | String, Stack, Bracket Sequences | PY |
 | 1140 | [Stone Game Ii](1140-stone-game-ii) | 🟡 MEDIUM | Array, Math, Dynamic Programming +4 | PY |
+| 1164 | [Product Price At A Given Date](1164-product-price-at-a-given-date) | 🟡 MEDIUM | Database | — |
 | 1187 | [Make Array Strictly Increasing](1187-make-array-strictly-increasing) | 🔴 HARD | Array, Binary Search, Dynamic Programming +1 | PY |
 | 1189 | [Maximum Number Of Balloons](1189-maximum-number-of-balloons) | 🟢 EASY | Hash Table, String, Counting | PY |
 | 1190 | [Reverse Substrings Between Each Pair Of Parentheses](1190-reverse-substrings-between-each-pair-of-parentheses) | 🟡 MEDIUM | String, Stack, Bracket Sequences | PY |
@@ -1677,14 +1679,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-10-02 14:46:22 UTC_
+_Generated on 2026-10-02 14:47:29 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [1164-product-price-at-a-given-date](https://github.com/chittoralovesh/Leetcode/tree/master/1164-product-price-at-a-given-date) |
-<!---LeetCode Topics End-->
