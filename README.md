@@ -29,7 +29,7 @@
 | **Total problems solved** | 231 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (116), `String` (62), `Math` (58), `Dynamic Programming` (52), `Hash Table` (47) |
-| **Last updated** | 2026-10-01 17:43:20 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-10-02 14:46:22 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
@@ -1677,26 +1677,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-10-01 17:43:20 UTC_
+_Generated on 2026-10-02 14:46:22 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0022-generate-parentheses](https://github.com/chittoralovesh/Leetcode/tree/master/0022-generate-parentheses) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0022-generate-parentheses](https://github.com/chittoralovesh/Leetcode/tree/master/0022-generate-parentheses) |
-## Backtracking
-|  |
-| ------- |
-| [0022-generate-parentheses](https://github.com/chittoralovesh/Leetcode/tree/master/0022-generate-parentheses) |
-## Bracket Sequences
-|  |
-| ------- |
-| [0022-generate-parentheses](https://github.com/chittoralovesh/Leetcode/tree/master/0022-generate-parentheses) |
-<!---LeetCode Topics End-->
