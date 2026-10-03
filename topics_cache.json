@@ -505,6 +505,12 @@
     "String",
     "Sliding Window"
   ],
+  "longest-valid-parentheses": [
+    "String",
+    "Dynamic Programming",
+    "Stack",
+    "Bracket Sequences"
+  ],
   "make-array-strictly-increasing": [
     "Array",
     "Binary Search",
