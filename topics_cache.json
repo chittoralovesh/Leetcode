@@ -1172,6 +1172,13 @@
     "Stack",
     "Bracket Sequences"
   ],
+  "valid-parenthesis-string": [
+    "String",
+    "Dynamic Programming",
+    "Stack",
+    "Greedy",
+    "Bracket Sequences"
+  ],
   "validate-binary-search-tree": [
     "Tree",
     "Depth-First Search",
