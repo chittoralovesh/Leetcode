@@ -1693,3 +1693,19 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-10-04 18:55:59 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/chittoralovesh/Leetcode/tree/master/0856-score-of-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/chittoralovesh/Leetcode/tree/master/0856-score-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/chittoralovesh/Leetcode/tree/master/0856-score-of-parentheses) |
+<!---LeetCode Topics End-->
