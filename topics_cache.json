@@ -960,6 +960,11 @@
     "Breadth-First Search",
     "Binary Tree"
   ],
+  "score-of-parentheses": [
+    "String",
+    "Stack",
+    "Bracket Sequences"
+  ],
   "separate-squares-ii": [
     "Array",
     "Binary Search",
