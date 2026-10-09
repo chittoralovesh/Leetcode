@@ -920,6 +920,11 @@
     "Linked List",
     "Two Pointers"
   ],
+  "remove-invalid-parentheses": [
+    "String",
+    "Backtracking",
+    "Breadth-First Search"
+  ],
   "remove-methods-from-project": [
     "Depth-First Search",
     "Breadth-First Search",

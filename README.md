@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-238-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-239-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-53-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-122-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-63-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-64-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-180%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-181%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-27%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-17%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 238 |
+| **Total problems solved** | 239 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (116), `String` (68), `Math` (58), `Dynamic Programming` (54), `Hash Table` (47) |
-| **Last updated** | 2026-10-09 07:34:01 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (116), `String` (69), `Math` (58), `Dynamic Programming` (54), `Hash Table` (47) |
+| **Last updated** | 2026-10-09 07:34:55 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     53  ████░░░░░░░░░░░░░░░░   22.3%
-🟡 Medium  122  ██████████░░░░░░░░░░   51.3%
-🔴 Hard     63  █████░░░░░░░░░░░░░░░   26.5%
+🟢 Easy     53  ████░░░░░░░░░░░░░░░░   22.2%
+🟡 Medium  122  ██████████░░░░░░░░░░   51.0%
+🔴 Hard     64  █████░░░░░░░░░░░░░░░   26.8%
 ```
 
 
@@ -172,7 +172,7 @@
 </details>
 
 <details>
-<summary><b>String</b> &nbsp;·&nbsp; 68 problem(s)</summary>
+<summary><b>String</b> &nbsp;·&nbsp; 69 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -199,6 +199,7 @@
 | 0132 | [Palindrome Partitioning Ii](0132-palindrome-partitioning-ii) | 🔴 HARD |
 | 0139 | [Word Break](0139-word-break) | 🟡 MEDIUM |
 | 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
+| 0301 | [Remove Invalid Parentheses](0301-remove-invalid-parentheses) | 🔴 HARD |
 | 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
 | 0392 | [Is Subsequence](0392-is-subsequence) | 🟢 EASY |
 | 0405 | [Convert A Number To Hexadecimal](0405-convert-a-number-to-hexadecimal) | 🟢 EASY |
@@ -571,6 +572,34 @@
 </details>
 
 <details>
+<summary><b>Breadth-First Search</b> &nbsp;·&nbsp; 19 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
+| 0103 | [Binary Tree Zigzag Level Order Traversal](0103-binary-tree-zigzag-level-order-traversal) | 🟡 MEDIUM |
+| 0107 | [Binary Tree Level Order Traversal Ii](0107-binary-tree-level-order-traversal-ii) | 🟡 MEDIUM |
+| 0127 | [Word Ladder](0127-word-ladder) | 🔴 HARD |
+| 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
+| 0301 | [Remove Invalid Parentheses](0301-remove-invalid-parentheses) | 🔴 HARD |
+| 0365 | [Water And Jug Problem](0365-water-and-jug-problem) | 🟡 MEDIUM |
+| 0407 | [Trapping Rain Water Ii](0407-trapping-rain-water-ii) | 🔴 HARD |
+| 0529 | [Minesweeper](0529-minesweeper) | 🟡 MEDIUM |
+| 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
+| 1096 | [Brace Expansion Ii](1096-brace-expansion-ii) | 🔴 HARD |
+| 1345 | [Jump Game Iv](1345-jump-game-iv) | 🔴 HARD |
+| 2492 | [Minimum Score Of A Path Between Two Cities](2492-minimum-score-of-a-path-between-two-cities) | 🟡 MEDIUM |
+| 2685 | [Count The Number Of Complete Components](2685-count-the-number-of-complete-components) | 🟡 MEDIUM |
+| 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
+| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
+| 3310 | [Remove Methods From Project](3310-remove-methods-from-project) | 🟡 MEDIUM |
+| 3568 | [Minimum Moves To Clean The Classroom](3568-minimum-moves-to-clean-the-classroom) | 🟡 MEDIUM |
+| 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Stack</b> &nbsp;·&nbsp; 18 problem(s)</summary>
 
 
@@ -594,33 +623,6 @@
 | 1541 | [Minimum Insertions To Balance A Parentheses String](1541-minimum-insertions-to-balance-a-parentheses-string) | 🟡 MEDIUM |
 | 1614 | [Maximum Nesting Depth Of The Parentheses](1614-maximum-nesting-depth-of-the-parentheses) | 🟡 MEDIUM |
 | 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Breadth-First Search</b> &nbsp;·&nbsp; 18 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0100 | [Same Tree](0100-same-tree) | 🟢 EASY |
-| 0103 | [Binary Tree Zigzag Level Order Traversal](0103-binary-tree-zigzag-level-order-traversal) | 🟡 MEDIUM |
-| 0107 | [Binary Tree Level Order Traversal Ii](0107-binary-tree-level-order-traversal-ii) | 🟡 MEDIUM |
-| 0127 | [Word Ladder](0127-word-ladder) | 🔴 HARD |
-| 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
-| 0365 | [Water And Jug Problem](0365-water-and-jug-problem) | 🟡 MEDIUM |
-| 0407 | [Trapping Rain Water Ii](0407-trapping-rain-water-ii) | 🔴 HARD |
-| 0529 | [Minesweeper](0529-minesweeper) | 🟡 MEDIUM |
-| 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
-| 1096 | [Brace Expansion Ii](1096-brace-expansion-ii) | 🔴 HARD |
-| 1345 | [Jump Game Iv](1345-jump-game-iv) | 🔴 HARD |
-| 2492 | [Minimum Score Of A Path Between Two Cities](2492-minimum-score-of-a-path-between-two-cities) | 🟡 MEDIUM |
-| 2685 | [Count The Number Of Complete Components](2685-count-the-number-of-complete-components) | 🟡 MEDIUM |
-| 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
-| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
-| 3310 | [Remove Methods From Project](3310-remove-methods-from-project) | 🟡 MEDIUM |
-| 3568 | [Minimum Moves To Clean The Classroom](3568-minimum-moves-to-clean-the-classroom) | 🟡 MEDIUM |
-| 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM |
 
 </details>
 
@@ -723,6 +725,27 @@
 </details>
 
 <details>
+<summary><b>Backtracking</b> &nbsp;·&nbsp; 12 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0017 | [Letter Combinations Of A Phone Number](0017-letter-combinations-of-a-phone-number) | 🟡 MEDIUM |
+| 0022 | [Generate Parentheses](0022-generate-parentheses) | 🟡 MEDIUM |
+| 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
+| 0051 | [N Queens](0051-n-queens) | 🔴 HARD |
+| 0052 | [N Queens Ii](0052-n-queens-ii) | 🔴 HARD |
+| 0093 | [Restore Ip Addresses](0093-restore-ip-addresses) | 🟡 MEDIUM |
+| 0095 | [Unique Binary Search Trees Ii](0095-unique-binary-search-trees-ii) | 🟡 MEDIUM |
+| 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
+| 0301 | [Remove Invalid Parentheses](0301-remove-invalid-parentheses) | 🔴 HARD |
+| 0679 | [24 Game](0679-24-game) | 🔴 HARD |
+| 1096 | [Brace Expansion Ii](1096-brace-expansion-ii) | 🔴 HARD |
+| 3348 | [Smallest Divisible Digit Product Ii](3348-smallest-divisible-digit-product-ii) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Bracket Sequences</b> &nbsp;·&nbsp; 12 problem(s)</summary>
 
 
@@ -781,26 +804,6 @@
 | 2904 | [Shortest And Lexicographically Smallest Beautiful String](2904-shortest-and-lexicographically-smallest-beautiful-string) | 🟡 MEDIUM |
 | 2958 | [Length Of Longest Subarray With At Most K Frequency](2958-length-of-longest-subarray-with-at-most-k-frequency) | 🟡 MEDIUM |
 | 3090 | [Maximum Length Substring With Two Occurrences](3090-maximum-length-substring-with-two-occurrences) | 🟢 EASY |
-
-</details>
-
-<details>
-<summary><b>Backtracking</b> &nbsp;·&nbsp; 11 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0017 | [Letter Combinations Of A Phone Number](0017-letter-combinations-of-a-phone-number) | 🟡 MEDIUM |
-| 0022 | [Generate Parentheses](0022-generate-parentheses) | 🟡 MEDIUM |
-| 0037 | [Sudoku Solver](0037-sudoku-solver) | 🔴 HARD |
-| 0051 | [N Queens](0051-n-queens) | 🔴 HARD |
-| 0052 | [N Queens Ii](0052-n-queens-ii) | 🔴 HARD |
-| 0093 | [Restore Ip Addresses](0093-restore-ip-addresses) | 🟡 MEDIUM |
-| 0095 | [Unique Binary Search Trees Ii](0095-unique-binary-search-trees-ii) | 🟡 MEDIUM |
-| 0212 | [Word Search Ii](0212-word-search-ii) | 🔴 HARD |
-| 0679 | [24 Game](0679-24-game) | 🔴 HARD |
-| 1096 | [Brace Expansion Ii](1096-brace-expansion-ii) | 🔴 HARD |
-| 3348 | [Smallest Divisible Digit Product Ii](3348-smallest-divisible-digit-product-ii) | 🔴 HARD |
 
 </details>
 
@@ -1527,6 +1530,7 @@
 | 0262 | [Trips And Users](0262-trips-and-users) | 🔴 HARD | Database | — |
 | 0289 | [Game Of Life](0289-game-of-life) | 🟡 MEDIUM | Array, Matrix, Simulation | PY |
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence) | 🟡 MEDIUM | Array, Binary Search, Dynamic Programming | JAVA |
+| 0301 | [Remove Invalid Parentheses](0301-remove-invalid-parentheses) | 🔴 HARD | String, Backtracking, Breadth-First Search | PY |
 | 0328 | [Odd Even Linked List](0328-odd-even-linked-list) | 🟡 MEDIUM | Linked List | JAVA |
 | 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD | Array, String, Depth-First Search +4 | PY |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 MEDIUM | Array, Hash Table, Divide and Conquer +5 | JAVA |
@@ -1708,22 +1712,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-10-09 07:34:01 UTC_
+_Generated on 2026-10-09 07:34:55 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0301-remove-invalid-parentheses](https://github.com/chittoralovesh/Leetcode/tree/master/0301-remove-invalid-parentheses) |
-## Backtracking
-|  |
-| ------- |
-| [0301-remove-invalid-parentheses](https://github.com/chittoralovesh/Leetcode/tree/master/0301-remove-invalid-parentheses) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0301-remove-invalid-parentheses](https://github.com/chittoralovesh/Leetcode/tree/master/0301-remove-invalid-parentheses) |
-<!---LeetCode Topics End-->
