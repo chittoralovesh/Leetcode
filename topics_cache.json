@@ -925,6 +925,11 @@
     "Breadth-First Search",
     "Graph Theory"
   ],
+  "remove-outermost-parentheses": [
+    "String",
+    "Stack",
+    "Bracket Sequences"
+  ],
   "restore-ip-addresses": [
     "String",
     "Backtracking"
