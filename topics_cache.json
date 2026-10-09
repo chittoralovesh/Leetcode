@@ -654,6 +654,12 @@
     "Greedy",
     "Sorting"
   ],
+  "minimum-insertions-to-balance-a-parentheses-string": [
+    "String",
+    "Stack",
+    "Greedy",
+    "Bracket Sequences"
+  ],
   "minimum-jumps-to-reach-end-via-prime-teleportation": [
     "Array",
     "Hash Table",
