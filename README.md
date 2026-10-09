@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-236-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-237-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-52-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-121-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-122-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-63-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-178%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-179%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-27%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-17%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 236 |
+| **Total problems solved** | 237 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (116), `String` (66), `Math` (58), `Dynamic Programming` (54), `Hash Table` (47) |
-| **Last updated** | 2026-10-09 07:31:07 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (116), `String` (67), `Math` (58), `Dynamic Programming` (54), `Hash Table` (47) |
+| **Last updated** | 2026-10-09 07:32:38 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     52  ████░░░░░░░░░░░░░░░░   22.0%
-🟡 Medium  121  ██████████░░░░░░░░░░   51.3%
-🔴 Hard     63  █████░░░░░░░░░░░░░░░   26.7%
+🟢 Easy     52  ████░░░░░░░░░░░░░░░░   21.9%
+🟡 Medium  122  ██████████░░░░░░░░░░   51.5%
+🔴 Hard     63  █████░░░░░░░░░░░░░░░   26.6%
 ```
 
 
@@ -172,7 +172,7 @@
 </details>
 
 <details>
-<summary><b>String</b> &nbsp;·&nbsp; 66 problem(s)</summary>
+<summary><b>String</b> &nbsp;·&nbsp; 67 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -210,6 +210,7 @@
 | 0678 | [Valid Parenthesis String](0678-valid-parenthesis-string) | 🟡 MEDIUM |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 | 0856 | [Score Of Parentheses](0856-score-of-parentheses) | 🟡 MEDIUM |
+| 0921 | [Minimum Add To Make Parentheses Valid](0921-minimum-add-to-make-parentheses-valid) | 🟡 MEDIUM |
 | 0940 | [Distinct Subsequences Ii](0940-distinct-subsequences-ii) | 🔴 HARD |
 | 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM |
 | 1096 | [Brace Expansion Ii](1096-brace-expansion-ii) | 🔴 HARD |
@@ -433,6 +434,44 @@
 </details>
 
 <details>
+<summary><b>Greedy</b> &nbsp;·&nbsp; 29 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0011 | [Container With Most Water](0011-container-with-most-water) | 🟡 MEDIUM |
+| 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD |
+| 0055 | [Jump Game](0055-jump-game) | 🟡 MEDIUM |
+| 0134 | [Gas Station](0134-gas-station) | 🟡 MEDIUM |
+| 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
+| 0502 | [Ipo](0502-ipo) | 🔴 HARD |
+| 0649 | [Dota2 Senate](0649-dota2-senate) | 🟡 MEDIUM |
+| 0678 | [Valid Parenthesis String](0678-valid-parenthesis-string) | 🟡 MEDIUM |
+| 0921 | [Minimum Add To Make Parentheses Valid](0921-minimum-add-to-make-parentheses-valid) | 🟡 MEDIUM |
+| 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM |
+| 1386 | [Cinema Seat Allocation](1386-cinema-seat-allocation) | 🟡 MEDIUM |
+| 1541 | [Minimum Insertions To Balance A Parentheses String](1541-minimum-insertions-to-balance-a-parentheses-string) | 🟡 MEDIUM |
+| 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD |
+| 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM |
+| 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM |
+| 1927 | [Sum Game](1927-sum-game) | 🟡 MEDIUM |
+| 2029 | [Stone Game Ix](2029-stone-game-ix) | 🟡 MEDIUM |
+| 2144 | [Minimum Cost Of Buying Candies With Discount](2144-minimum-cost-of-buying-candies-with-discount) | 🟢 EASY |
+| 2472 | [Maximum Number Of Non Overlapping Palindrome Substrings](2472-maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 HARD |
+| 3014 | [Minimum Number Of Pushes To Type Word I](3014-minimum-number-of-pushes-to-type-word-i) | 🟢 EASY |
+| 3016 | [Minimum Number Of Pushes To Type Word Ii](3016-minimum-number-of-pushes-to-type-word-ii) | 🟡 MEDIUM |
+| 3302 | [Find The Lexicographically Smallest Valid Sequence](3302-find-the-lexicographically-smallest-valid-sequence) | 🟡 MEDIUM |
+| 3348 | [Smallest Divisible Digit Product Ii](3348-smallest-divisible-digit-product-ii) | 🔴 HARD |
+| 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
+| 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
+| 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
+| 3689 | [Maximum Total Subarray Value I](3689-maximum-total-subarray-value-i) | 🟡 MEDIUM |
+| 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
+| 3720 | [Lexicographically Smallest Permutation Greater Than Target](3720-lexicographically-smallest-permutation-greater-than-target) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Sorting</b> &nbsp;·&nbsp; 29 problem(s)</summary>
 
 
@@ -467,43 +506,6 @@
 | 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
 | 3731 | [Find Missing Elements](3731-find-missing-elements) | 🟢 EASY |
 | 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Greedy</b> &nbsp;·&nbsp; 28 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0011 | [Container With Most Water](0011-container-with-most-water) | 🟡 MEDIUM |
-| 0044 | [Wildcard Matching](0044-wildcard-matching) | 🔴 HARD |
-| 0055 | [Jump Game](0055-jump-game) | 🟡 MEDIUM |
-| 0134 | [Gas Station](0134-gas-station) | 🟡 MEDIUM |
-| 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
-| 0502 | [Ipo](0502-ipo) | 🔴 HARD |
-| 0649 | [Dota2 Senate](0649-dota2-senate) | 🟡 MEDIUM |
-| 0678 | [Valid Parenthesis String](0678-valid-parenthesis-string) | 🟡 MEDIUM |
-| 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM |
-| 1386 | [Cinema Seat Allocation](1386-cinema-seat-allocation) | 🟡 MEDIUM |
-| 1541 | [Minimum Insertions To Balance A Parentheses String](1541-minimum-insertions-to-balance-a-parentheses-string) | 🟡 MEDIUM |
-| 1665 | [Minimum Initial Energy To Finish Tasks](1665-minimum-initial-energy-to-finish-tasks) | 🔴 HARD |
-| 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM |
-| 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM |
-| 1927 | [Sum Game](1927-sum-game) | 🟡 MEDIUM |
-| 2029 | [Stone Game Ix](2029-stone-game-ix) | 🟡 MEDIUM |
-| 2144 | [Minimum Cost Of Buying Candies With Discount](2144-minimum-cost-of-buying-candies-with-discount) | 🟢 EASY |
-| 2472 | [Maximum Number Of Non Overlapping Palindrome Substrings](2472-maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 HARD |
-| 3014 | [Minimum Number Of Pushes To Type Word I](3014-minimum-number-of-pushes-to-type-word-i) | 🟢 EASY |
-| 3016 | [Minimum Number Of Pushes To Type Word Ii](3016-minimum-number-of-pushes-to-type-word-ii) | 🟡 MEDIUM |
-| 3302 | [Find The Lexicographically Smallest Valid Sequence](3302-find-the-lexicographically-smallest-valid-sequence) | 🟡 MEDIUM |
-| 3348 | [Smallest Divisible Digit Product Ii](3348-smallest-divisible-digit-product-ii) | 🔴 HARD |
-| 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
-| 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
-| 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
-| 3689 | [Maximum Total Subarray Value I](3689-maximum-total-subarray-value-i) | 🟡 MEDIUM |
-| 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
-| 3720 | [Lexicographically Smallest Permutation Greater Than Target](3720-lexicographically-smallest-permutation-greater-than-target) | 🟡 MEDIUM |
 
 </details>
 
@@ -595,6 +597,32 @@
 </details>
 
 <details>
+<summary><b>Stack</b> &nbsp;·&nbsp; 17 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0020 | [Valid Parentheses](0020-valid-parentheses) | 🟢 EASY |
+| 0032 | [Longest Valid Parentheses](0032-longest-valid-parentheses) | 🔴 HARD |
+| 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
+| 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟢 EASY |
+| 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM |
+| 0496 | [Next Greater Element I](0496-next-greater-element-i) | 🟢 EASY |
+| 0503 | [Next Greater Element Ii](0503-next-greater-element-ii) | 🟡 MEDIUM |
+| 0678 | [Valid Parenthesis String](0678-valid-parenthesis-string) | 🟡 MEDIUM |
+| 0856 | [Score Of Parentheses](0856-score-of-parentheses) | 🟡 MEDIUM |
+| 0921 | [Minimum Add To Make Parentheses Valid](0921-minimum-add-to-make-parentheses-valid) | 🟡 MEDIUM |
+| 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM |
+| 1096 | [Brace Expansion Ii](1096-brace-expansion-ii) | 🔴 HARD |
+| 1111 | [Maximum Nesting Depth Of Two Valid Parentheses Strings](1111-maximum-nesting-depth-of-two-valid-parentheses-strings) | 🟡 MEDIUM |
+| 1190 | [Reverse Substrings Between Each Pair Of Parentheses](1190-reverse-substrings-between-each-pair-of-parentheses) | 🟡 MEDIUM |
+| 1541 | [Minimum Insertions To Balance A Parentheses String](1541-minimum-insertions-to-balance-a-parentheses-string) | 🟡 MEDIUM |
+| 1614 | [Maximum Nesting Depth Of The Parentheses](1614-maximum-nesting-depth-of-the-parentheses) | 🟡 MEDIUM |
+| 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Prefix Sum</b> &nbsp;·&nbsp; 17 problem(s)</summary>
 
 
@@ -617,31 +645,6 @@
 | 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
 | 3756 | [Concatenate Non Zero Digits And Multiply By Sum Ii](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) | 🟡 MEDIUM |
 | 3904 | [Smallest Stable Index Ii](3904-smallest-stable-index-ii) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Stack</b> &nbsp;·&nbsp; 16 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0020 | [Valid Parentheses](0020-valid-parentheses) | 🟢 EASY |
-| 0032 | [Longest Valid Parentheses](0032-longest-valid-parentheses) | 🔴 HARD |
-| 0085 | [Maximal Rectangle](0085-maximal-rectangle) | 🔴 HARD |
-| 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟢 EASY |
-| 0155 | [Min Stack](0155-min-stack) | 🟡 MEDIUM |
-| 0496 | [Next Greater Element I](0496-next-greater-element-i) | 🟢 EASY |
-| 0503 | [Next Greater Element Ii](0503-next-greater-element-ii) | 🟡 MEDIUM |
-| 0678 | [Valid Parenthesis String](0678-valid-parenthesis-string) | 🟡 MEDIUM |
-| 0856 | [Score Of Parentheses](0856-score-of-parentheses) | 🟡 MEDIUM |
-| 1081 | [Smallest Subsequence Of Distinct Characters](1081-smallest-subsequence-of-distinct-characters) | 🟡 MEDIUM |
-| 1096 | [Brace Expansion Ii](1096-brace-expansion-ii) | 🔴 HARD |
-| 1111 | [Maximum Nesting Depth Of Two Valid Parentheses Strings](1111-maximum-nesting-depth-of-two-valid-parentheses-strings) | 🟡 MEDIUM |
-| 1190 | [Reverse Substrings Between Each Pair Of Parentheses](1190-reverse-substrings-between-each-pair-of-parentheses) | 🟡 MEDIUM |
-| 1541 | [Minimum Insertions To Balance A Parentheses String](1541-minimum-insertions-to-balance-a-parentheses-string) | 🟡 MEDIUM |
-| 1614 | [Maximum Nesting Depth Of The Parentheses](1614-maximum-nesting-depth-of-the-parentheses) | 🟡 MEDIUM |
-| 2130 | [Maximum Twin Sum Of A Linked List](2130-maximum-twin-sum-of-a-linked-list) | 🟡 MEDIUM |
 
 </details>
 
@@ -779,6 +782,26 @@
 </details>
 
 <details>
+<summary><b>Bracket Sequences</b> &nbsp;·&nbsp; 11 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0020 | [Valid Parentheses](0020-valid-parentheses) | 🟢 EASY |
+| 0022 | [Generate Parentheses](0022-generate-parentheses) | 🟡 MEDIUM |
+| 0032 | [Longest Valid Parentheses](0032-longest-valid-parentheses) | 🔴 HARD |
+| 0678 | [Valid Parenthesis String](0678-valid-parenthesis-string) | 🟡 MEDIUM |
+| 0856 | [Score Of Parentheses](0856-score-of-parentheses) | 🟡 MEDIUM |
+| 0921 | [Minimum Add To Make Parentheses Valid](0921-minimum-add-to-make-parentheses-valid) | 🟡 MEDIUM |
+| 1111 | [Maximum Nesting Depth Of Two Valid Parentheses Strings](1111-maximum-nesting-depth-of-two-valid-parentheses-strings) | 🟡 MEDIUM |
+| 1190 | [Reverse Substrings Between Each Pair Of Parentheses](1190-reverse-substrings-between-each-pair-of-parentheses) | 🟡 MEDIUM |
+| 1541 | [Minimum Insertions To Balance A Parentheses String](1541-minimum-insertions-to-balance-a-parentheses-string) | 🟡 MEDIUM |
+| 1614 | [Maximum Nesting Depth Of The Parentheses](1614-maximum-nesting-depth-of-the-parentheses) | 🟡 MEDIUM |
+| 2267 | [Check If There Is A Valid Parentheses String Path](2267-check-if-there-is-a-valid-parentheses-string-path) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Tree</b> &nbsp;·&nbsp; 11 problem(s)</summary>
 
 
@@ -815,25 +838,6 @@
 | 3614 | [Process String With Special Operations Ii](3614-process-string-with-special-operations-ii) | 🔴 HARD |
 | 3838 | [Weighted Word Mapping](3838-weighted-word-mapping) | 🟢 EASY |
 | 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Bracket Sequences</b> &nbsp;·&nbsp; 10 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0020 | [Valid Parentheses](0020-valid-parentheses) | 🟢 EASY |
-| 0022 | [Generate Parentheses](0022-generate-parentheses) | 🟡 MEDIUM |
-| 0032 | [Longest Valid Parentheses](0032-longest-valid-parentheses) | 🔴 HARD |
-| 0678 | [Valid Parenthesis String](0678-valid-parenthesis-string) | 🟡 MEDIUM |
-| 0856 | [Score Of Parentheses](0856-score-of-parentheses) | 🟡 MEDIUM |
-| 1111 | [Maximum Nesting Depth Of Two Valid Parentheses Strings](1111-maximum-nesting-depth-of-two-valid-parentheses-strings) | 🟡 MEDIUM |
-| 1190 | [Reverse Substrings Between Each Pair Of Parentheses](1190-reverse-substrings-between-each-pair-of-parentheses) | 🟡 MEDIUM |
-| 1541 | [Minimum Insertions To Balance A Parentheses String](1541-minimum-insertions-to-balance-a-parentheses-string) | 🟡 MEDIUM |
-| 1614 | [Maximum Nesting Depth Of The Parentheses](1614-maximum-nesting-depth-of-the-parentheses) | 🟡 MEDIUM |
-| 2267 | [Check If There Is A Valid Parentheses String Path](2267-check-if-there-is-a-valid-parentheses-string-path) | 🔴 HARD |
 
 </details>
 
@@ -1564,6 +1568,7 @@
 | 0856 | [Score Of Parentheses](0856-score-of-parentheses) | 🟡 MEDIUM | String, Stack, Bracket Sequences | PY |
 | 0877 | [Stone Game](0877-stone-game) | 🟡 MEDIUM | Array, Math, Dynamic Programming +1 | PY |
 | 0912 | [Sort An Array](0912-sort-an-array) | 🟡 MEDIUM | Array, Divide and Conquer, Sorting +5 | JAVA |
+| 0921 | [Minimum Add To Make Parentheses Valid](0921-minimum-add-to-make-parentheses-valid) | 🟡 MEDIUM | String, Stack, Greedy +1 | PY |
 | 0940 | [Distinct Subsequences Ii](0940-distinct-subsequences-ii) | 🔴 HARD | String, Dynamic Programming | PY |
 | 1025 | [Divisor Game](1025-divisor-game) | 🟢 EASY | Math, Dynamic Programming, Brainteaser +1 | CPP |
 | 1045 | [Customers Who Bought All Products](1045-customers-who-bought-all-products) | 🟡 MEDIUM | Database | — |
@@ -1699,26 +1704,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-10-09 07:31:07 UTC_
+_Generated on 2026-10-09 07:32:38 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0921-minimum-add-to-make-parentheses-valid](https://github.com/chittoralovesh/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
-## Stack
-|  |
-| ------- |
-| [0921-minimum-add-to-make-parentheses-valid](https://github.com/chittoralovesh/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
-## Greedy
-|  |
-| ------- |
-| [0921-minimum-add-to-make-parentheses-valid](https://github.com/chittoralovesh/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
-## Bracket Sequences
-|  |
-| ------- |
-| [0921-minimum-add-to-make-parentheses-valid](https://github.com/chittoralovesh/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
-<!---LeetCode Topics End-->

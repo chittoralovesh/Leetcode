@@ -644,6 +644,12 @@
     "Breadth-First Search",
     "Matrix"
   ],
+  "minimum-add-to-make-parentheses-valid": [
+    "String",
+    "Stack",
+    "Greedy",
+    "Bracket Sequences"
+  ],
   "minimum-cost-of-buying-candies-with-discount": [
     "Array",
     "Greedy",
