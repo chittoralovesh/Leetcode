@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-239-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-240-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-53-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-122-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-64-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-65-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-181%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-182%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-27%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-17%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 239 |
+| **Total problems solved** | 240 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (116), `String` (69), `Math` (58), `Dynamic Programming` (54), `Hash Table` (47) |
-| **Last updated** | 2026-10-09 07:34:55 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (117), `String` (69), `Math` (58), `Dynamic Programming` (54), `Hash Table` (48) |
+| **Last updated** | 2026-10-12 18:41:21 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     53  ████░░░░░░░░░░░░░░░░   22.2%
-🟡 Medium  122  ██████████░░░░░░░░░░   51.0%
-🔴 Hard     64  █████░░░░░░░░░░░░░░░   26.8%
+🟢 Easy     53  ████░░░░░░░░░░░░░░░░   22.1%
+🟡 Medium  122  ██████████░░░░░░░░░░   50.8%
+🔴 Hard     65  █████░░░░░░░░░░░░░░░   27.1%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 116 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 117 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -131,6 +131,7 @@
 | 2398 | [Maximum Number Of Robots Within Budget](2398-maximum-number-of-robots-within-budget) | 🔴 HARD |
 | 2574 | [Left And Right Sum Differences](2574-left-and-right-sum-differences) | 🟢 EASY |
 | 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
+| 2897 | [Apply Operations On Array To Maximize Sum Of Squares](2897-apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 HARD |
 | 2958 | [Length Of Longest Subarray With At Most K Frequency](2958-length-of-longest-subarray-with-at-most-k-frequency) | 🟡 MEDIUM |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](2996-smallest-missing-integer-greater-than-sequential-prefix-sum) | 🟢 EASY |
 | 3020 | [Find The Maximum Number Of Elements In Subset](3020-find-the-maximum-number-of-elements-in-subset) | 🟡 MEDIUM |
@@ -380,7 +381,7 @@
 </details>
 
 <details>
-<summary><b>Hash Table</b> &nbsp;·&nbsp; 47 problem(s)</summary>
+<summary><b>Hash Table</b> &nbsp;·&nbsp; 48 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -414,6 +415,7 @@
 | 1658 | [Minimum Operations To Reduce X To Zero](1658-minimum-operations-to-reduce-x-to-zero) | 🟡 MEDIUM |
 | 1807 | [Evaluate The Bracket Pairs Of A String](1807-evaluate-the-bracket-pairs-of-a-string) | 🟡 MEDIUM |
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
+| 2897 | [Apply Operations On Array To Maximize Sum Of Squares](2897-apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 HARD |
 | 2958 | [Length Of Longest Subarray With At Most K Frequency](2958-length-of-longest-subarray-with-at-most-k-frequency) | 🟡 MEDIUM |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](2996-smallest-missing-integer-greater-than-sequential-prefix-sum) | 🟢 EASY |
 | 3016 | [Minimum Number Of Pushes To Type Word Ii](3016-minimum-number-of-pushes-to-type-word-ii) | 🟡 MEDIUM |
@@ -436,7 +438,7 @@
 </details>
 
 <details>
-<summary><b>Greedy</b> &nbsp;·&nbsp; 29 problem(s)</summary>
+<summary><b>Greedy</b> &nbsp;·&nbsp; 30 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -460,6 +462,7 @@
 | 2029 | [Stone Game Ix](2029-stone-game-ix) | 🟡 MEDIUM |
 | 2144 | [Minimum Cost Of Buying Candies With Discount](2144-minimum-cost-of-buying-candies-with-discount) | 🟢 EASY |
 | 2472 | [Maximum Number Of Non Overlapping Palindrome Substrings](2472-maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 HARD |
+| 2897 | [Apply Operations On Array To Maximize Sum Of Squares](2897-apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 HARD |
 | 3014 | [Minimum Number Of Pushes To Type Word I](3014-minimum-number-of-pushes-to-type-word-i) | 🟢 EASY |
 | 3016 | [Minimum Number Of Pushes To Type Word Ii](3016-minimum-number-of-pushes-to-type-word-ii) | 🟡 MEDIUM |
 | 3302 | [Find The Lexicographically Smallest Valid Sequence](3302-find-the-lexicographically-smallest-valid-sequence) | 🟡 MEDIUM |
@@ -885,6 +888,24 @@
 </details>
 
 <details>
+<summary><b>Bit Manipulation</b> &nbsp;·&nbsp; 9 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0405 | [Convert A Number To Hexadecimal](0405-convert-a-number-to-hexadecimal) | 🟢 EASY |
+| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
+| 1386 | [Cinema Seat Allocation](1386-cinema-seat-allocation) | 🟡 MEDIUM |
+| 2897 | [Apply Operations On Array To Maximize Sum Of Squares](2897-apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 HARD |
+| 3116 | [Kth Smallest Amount With Single Denomination Combination](3116-kth-smallest-amount-with-single-denomination-combination) | 🔴 HARD |
+| 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
+| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
+| 3568 | [Minimum Moves To Clean The Classroom](3568-minimum-moves-to-clean-the-classroom) | 🟡 MEDIUM |
+| 3702 | [Longest Subsequence With Non Zero Bitwise Xor](3702-longest-subsequence-with-non-zero-bitwise-xor) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Segment Tree</b> &nbsp;·&nbsp; 9 problem(s)</summary>
 
 
@@ -933,23 +954,6 @@
 | 3518 | [Smallest Palindromic Rearrangement Ii](3518-smallest-palindromic-rearrangement-ii) | 🔴 HARD |
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](3720-lexicographically-smallest-permutation-greater-than-target) | 🟡 MEDIUM |
 | 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Bit Manipulation</b> &nbsp;·&nbsp; 8 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0405 | [Convert A Number To Hexadecimal](0405-convert-a-number-to-hexadecimal) | 🟢 EASY |
-| 0464 | [Can I Win](0464-can-i-win) | 🟡 MEDIUM |
-| 1386 | [Cinema Seat Allocation](1386-cinema-seat-allocation) | 🟡 MEDIUM |
-| 3116 | [Kth Smallest Amount With Single Denomination Combination](3116-kth-smallest-amount-with-single-denomination-combination) | 🔴 HARD |
-| 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
-| 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
-| 3568 | [Minimum Moves To Clean The Classroom](3568-minimum-moves-to-clean-the-classroom) | 🟡 MEDIUM |
-| 3702 | [Longest Subsequence With Non Zero Bitwise Xor](3702-longest-subsequence-with-non-zero-bitwise-xor) | 🟡 MEDIUM |
 
 </details>
 
@@ -1635,6 +1639,7 @@
 | 2574 | [Left And Right Sum Differences](2574-left-and-right-sum-differences) | 🟢 EASY | Array, Prefix Sum | CPP |
 | 2685 | [Count The Number Of Complete Components](2685-count-the-number-of-complete-components) | 🟡 MEDIUM | Depth-First Search, Breadth-First Search, Union-Find +1 | PY |
 | 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM | Array, Binary Search, Breadth-First Search +3 | PY |
+| 2897 | [Apply Operations On Array To Maximize Sum Of Squares](2897-apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 HARD | Array, Hash Table, Greedy +1 | PY |
 | 2904 | [Shortest And Lexicographically Smallest Beautiful String](2904-shortest-and-lexicographically-smallest-beautiful-string) | 🟡 MEDIUM | String, Sliding Window | PY |
 | 2958 | [Length Of Longest Subarray With At Most K Frequency](2958-length-of-longest-subarray-with-at-most-k-frequency) | 🟡 MEDIUM | Array, Hash Table, Sliding Window | PY |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](2996-smallest-missing-integer-greater-than-sequential-prefix-sum) | 🟢 EASY | Array, Hash Table, Sorting | PY |
@@ -1712,26 +1717,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-10-09 07:34:55 UTC_
+_Generated on 2026-10-12 18:41:21 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/chittoralovesh/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
-## Hash Table
-|  |
-| ------- |
-| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/chittoralovesh/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
-## Greedy
-|  |
-| ------- |
-| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/chittoralovesh/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
-## Bit Manipulation
-|  |
-| ------- |
-| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/chittoralovesh/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
-<!---LeetCode Topics End-->

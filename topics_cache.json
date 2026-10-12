@@ -30,6 +30,12 @@
   "angle-between-hands-of-a-clock": [
     "Math"
   ],
+  "apply-operations-on-array-to-maximize-sum-of-squares": [
+    "Array",
+    "Hash Table",
+    "Greedy",
+    "Bit Manipulation"
+  ],
   "arithmetic-slices-ii-subsequence": [
     "Array",
     "Dynamic Programming"
