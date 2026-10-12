@@ -1715,3 +1715,23 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-10-09 07:34:55 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/chittoralovesh/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Hash Table
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/chittoralovesh/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Greedy
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/chittoralovesh/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/chittoralovesh/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+<!---LeetCode Topics End-->
