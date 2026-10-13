@@ -549,6 +549,11 @@
     "Binary Search",
     "Segment Tree"
   ],
+  "maximum-alternating-sum-of-squares": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
   "maximum-building-height": [
     "Array",
     "Math",

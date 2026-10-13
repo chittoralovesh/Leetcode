@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-240-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-241-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-53-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-122-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-123-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-65-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-182%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-183%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-27%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-17%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 240 |
+| **Total problems solved** | 241 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (117), `String` (69), `Math` (58), `Dynamic Programming` (54), `Hash Table` (48) |
-| **Last updated** | 2026-10-12 18:41:21 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (118), `String` (69), `Math` (58), `Dynamic Programming` (54), `Hash Table` (48) |
+| **Last updated** | 2026-10-13 20:27:45 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     53  ████░░░░░░░░░░░░░░░░   22.1%
-🟡 Medium  122  ██████████░░░░░░░░░░   50.8%
-🔴 Hard     65  █████░░░░░░░░░░░░░░░   27.1%
+🟢 Easy     53  ████░░░░░░░░░░░░░░░░   22.0%
+🟡 Medium  123  ██████████░░░░░░░░░░   51.0%
+🔴 Hard     65  █████░░░░░░░░░░░░░░░   27.0%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 117 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 118 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -161,6 +161,7 @@
 | 3702 | [Longest Subsequence With Non Zero Bitwise Xor](3702-longest-subsequence-with-non-zero-bitwise-xor) | 🟡 MEDIUM |
 | 3718 | [Smallest Missing Multiple Of K](3718-smallest-missing-multiple-of-k) | 🟡 MEDIUM |
 | 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM |
+| 3727 | [Maximum Alternating Sum Of Squares](3727-maximum-alternating-sum-of-squares) | 🟡 MEDIUM |
 | 3731 | [Find Missing Elements](3731-find-missing-elements) | 🟢 EASY |
 | 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
 | 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
@@ -438,7 +439,7 @@
 </details>
 
 <details>
-<summary><b>Greedy</b> &nbsp;·&nbsp; 30 problem(s)</summary>
+<summary><b>Greedy</b> &nbsp;·&nbsp; 31 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -473,11 +474,12 @@
 | 3689 | [Maximum Total Subarray Value I](3689-maximum-total-subarray-value-i) | 🟡 MEDIUM |
 | 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](3720-lexicographically-smallest-permutation-greater-than-target) | 🟡 MEDIUM |
+| 3727 | [Maximum Alternating Sum Of Squares](3727-maximum-alternating-sum-of-squares) | 🟡 MEDIUM |
 
 </details>
 
 <details>
-<summary><b>Sorting</b> &nbsp;·&nbsp; 29 problem(s)</summary>
+<summary><b>Sorting</b> &nbsp;·&nbsp; 30 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -509,6 +511,7 @@
 | 3536 | [Maximum Product Of Two Digits](3536-maximum-product-of-two-digits) | 🟢 EASY |
 | 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
 | 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
+| 3727 | [Maximum Alternating Sum Of Squares](3727-maximum-alternating-sum-of-squares) | 🟡 MEDIUM |
 | 3731 | [Find Missing Elements](3731-find-missing-elements) | 🟢 EASY |
 | 3867 | [Sum Of Gcd Of Formed Pairs](3867-sum-of-gcd-of-formed-pairs) | 🟡 MEDIUM |
 
@@ -1689,6 +1692,7 @@
 | 3718 | [Smallest Missing Multiple Of K](3718-smallest-missing-multiple-of-k) | 🟡 MEDIUM | Array, Hash Table | PY |
 | 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM | Array, Hash Table, Divide and Conquer +2 | PY |
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](3720-lexicographically-smallest-permutation-greater-than-target) | 🟡 MEDIUM | Hash Table, String, Greedy +2 | PY |
+| 3727 | [Maximum Alternating Sum Of Squares](3727-maximum-alternating-sum-of-squares) | 🟡 MEDIUM | Array, Greedy, Sorting | PY |
 | 3731 | [Find Missing Elements](3731-find-missing-elements) | 🟢 EASY | Array, Hash Table, Sorting | PY |
 | 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](3734-lexicographically-smallest-palindromic-permutation-greater-than-target) | 🔴 HARD | Two Pointers, String, Enumeration | PY |
 | 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM | Array, Hash Table, Divide and Conquer +4 | PY |
@@ -1717,22 +1721,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-10-12 18:41:21 UTC_
+_Generated on 2026-10-13 20:27:45 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3727-maximum-alternating-sum-of-squares](https://github.com/chittoralovesh/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
-## Greedy
-|  |
-| ------- |
-| [3727-maximum-alternating-sum-of-squares](https://github.com/chittoralovesh/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
-## Sorting
-|  |
-| ------- |
-| [3727-maximum-alternating-sum-of-squares](https://github.com/chittoralovesh/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
-<!---LeetCode Topics End-->
