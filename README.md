@@ -1724,3 +1724,23 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-10-13 20:27:45 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/chittoralovesh/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Hash Table
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/chittoralovesh/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/chittoralovesh/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/chittoralovesh/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+<!---LeetCode Topics End-->
