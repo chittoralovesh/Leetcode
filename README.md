@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-241-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-242-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-53-2ECC71?style=for-the-badge" alt="Easy" />
 <img src="https://img.shields.io/badge/Medium-123-F1C40F?style=for-the-badge" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-65-E74C3C?style=for-the-badge" alt="Hard" />
+<img src="https://img.shields.io/badge/Hard-66-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-183%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-184%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-27%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-17%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 241 |
+| **Total problems solved** | 242 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (118), `String` (69), `Math` (58), `Dynamic Programming` (54), `Hash Table` (48) |
-| **Last updated** | 2026-10-13 20:27:45 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (119), `String` (69), `Math` (58), `Dynamic Programming` (54), `Hash Table` (49) |
+| **Last updated** | 2026-10-16 19:54:29 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     53  ████░░░░░░░░░░░░░░░░   22.0%
-🟡 Medium  123  ██████████░░░░░░░░░░   51.0%
-🔴 Hard     65  █████░░░░░░░░░░░░░░░   27.0%
+🟢 Easy     53  ████░░░░░░░░░░░░░░░░   21.9%
+🟡 Medium  123  ██████████░░░░░░░░░░   50.8%
+🔴 Hard     66  █████░░░░░░░░░░░░░░░   27.3%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 118 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 119 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -132,6 +132,7 @@
 | 2574 | [Left And Right Sum Differences](2574-left-and-right-sum-differences) | 🟢 EASY |
 | 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
 | 2897 | [Apply Operations On Array To Maximize Sum Of Squares](2897-apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 HARD |
+| 2916 | [Subarrays Distinct Element Sum Of Squares Ii](2916-subarrays-distinct-element-sum-of-squares-ii) | 🔴 HARD |
 | 2958 | [Length Of Longest Subarray With At Most K Frequency](2958-length-of-longest-subarray-with-at-most-k-frequency) | 🟡 MEDIUM |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](2996-smallest-missing-integer-greater-than-sequential-prefix-sum) | 🟢 EASY |
 | 3020 | [Find The Maximum Number Of Elements In Subset](3020-find-the-maximum-number-of-elements-in-subset) | 🟡 MEDIUM |
@@ -382,7 +383,7 @@
 </details>
 
 <details>
-<summary><b>Hash Table</b> &nbsp;·&nbsp; 48 problem(s)</summary>
+<summary><b>Hash Table</b> &nbsp;·&nbsp; 49 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -417,6 +418,7 @@
 | 1807 | [Evaluate The Bracket Pairs Of A String](1807-evaluate-the-bracket-pairs-of-a-string) | 🟡 MEDIUM |
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions) | 🟡 MEDIUM |
 | 2897 | [Apply Operations On Array To Maximize Sum Of Squares](2897-apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 HARD |
+| 2916 | [Subarrays Distinct Element Sum Of Squares Ii](2916-subarrays-distinct-element-sum-of-squares-ii) | 🔴 HARD |
 | 2958 | [Length Of Longest Subarray With At Most K Frequency](2958-length-of-longest-subarray-with-at-most-k-frequency) | 🟡 MEDIUM |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](2996-smallest-missing-integer-greater-than-sequential-prefix-sum) | 🟢 EASY |
 | 3016 | [Minimum Number Of Pushes To Type Word Ii](3016-minimum-number-of-pushes-to-type-word-ii) | 🟡 MEDIUM |
@@ -873,6 +875,25 @@
 </details>
 
 <details>
+<summary><b>Segment Tree</b> &nbsp;·&nbsp; 10 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
+| 2213 | [Longest Substring Of One Repeating Character](2213-longest-substring-of-one-repeating-character) | 🔴 HARD |
+| 2916 | [Subarrays Distinct Element Sum Of Squares Ii](2916-subarrays-distinct-element-sum-of-squares-ii) | 🔴 HARD |
+| 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD |
+| 3501 | [Maximize Active Section With Trade Ii](3501-maximize-active-section-with-trade-ii) | 🔴 HARD |
+| 3525 | [Find X Value Of Array Ii](3525-find-x-value-of-array-ii) | 🔴 HARD |
+| 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
+| 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM |
+| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
+| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Binary Tree</b> &nbsp;·&nbsp; 9 problem(s)</summary>
 
 
@@ -905,24 +926,6 @@
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
 | 3568 | [Minimum Moves To Clean The Classroom](3568-minimum-moves-to-clean-the-classroom) | 🟡 MEDIUM |
 | 3702 | [Longest Subsequence With Non Zero Bitwise Xor](3702-longest-subsequence-with-non-zero-bitwise-xor) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Segment Tree</b> &nbsp;·&nbsp; 9 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
-| 2213 | [Longest Substring Of One Repeating Character](2213-longest-substring-of-one-repeating-character) | 🔴 HARD |
-| 3454 | [Separate Squares Ii](3454-separate-squares-ii) | 🔴 HARD |
-| 3501 | [Maximize Active Section With Trade Ii](3501-maximize-active-section-with-trade-ii) | 🔴 HARD |
-| 3525 | [Find X Value Of Array Ii](3525-find-x-value-of-array-ii) | 🔴 HARD |
-| 3691 | [Maximum Total Subarray Value Ii](3691-maximum-total-subarray-value-ii) | 🟡 MEDIUM |
-| 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i) | 🟡 MEDIUM |
-| 3737 | [Count Subarrays With Majority Element I](3737-count-subarrays-with-majority-element-i) | 🟡 MEDIUM |
-| 3739 | [Count Subarrays With Majority Element Ii](3739-count-subarrays-with-majority-element-ii) | 🔴 HARD |
 
 </details>
 
@@ -1229,6 +1232,17 @@
 </details>
 
 <details>
+<summary><b>Binary Indexed Tree</b> &nbsp;·&nbsp; 2 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
+| 2916 | [Subarrays Distinct Element Sum Of Squares Ii](2916-subarrays-distinct-element-sum-of-squares-ii) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Counting Sort</b> &nbsp;·&nbsp; 2 problem(s)</summary>
 
 
@@ -1378,16 +1392,6 @@
 | # | Problem | Difficulty |
 |---|---|---|
 | 0480 | [Sliding Window Median](0480-sliding-window-median) | 🔴 HARD |
-
-</details>
-
-<details>
-<summary><b>Binary Indexed Tree</b> &nbsp;·&nbsp; 1 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0493 | [Reverse Pairs](0493-reverse-pairs) | 🔴 HARD |
 
 </details>
 
@@ -1644,6 +1648,7 @@
 | 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM | Array, Binary Search, Breadth-First Search +3 | PY |
 | 2897 | [Apply Operations On Array To Maximize Sum Of Squares](2897-apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 HARD | Array, Hash Table, Greedy +1 | PY |
 | 2904 | [Shortest And Lexicographically Smallest Beautiful String](2904-shortest-and-lexicographically-smallest-beautiful-string) | 🟡 MEDIUM | String, Sliding Window | PY |
+| 2916 | [Subarrays Distinct Element Sum Of Squares Ii](2916-subarrays-distinct-element-sum-of-squares-ii) | 🔴 HARD | Array, Hash Table, Binary Indexed Tree +1 | PY |
 | 2958 | [Length Of Longest Subarray With At Most K Frequency](2958-length-of-longest-subarray-with-at-most-k-frequency) | 🟡 MEDIUM | Array, Hash Table, Sliding Window | PY |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](2996-smallest-missing-integer-greater-than-sequential-prefix-sum) | 🟢 EASY | Array, Hash Table, Sorting | PY |
 | 3014 | [Minimum Number Of Pushes To Type Word I](3014-minimum-number-of-pushes-to-type-word-i) | 🟢 EASY | Math, String, Greedy | PY |
@@ -1721,26 +1726,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-10-13 20:27:45 UTC_
+_Generated on 2026-10-16 19:54:29 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/chittoralovesh/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
-## Hash Table
-|  |
-| ------- |
-| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/chittoralovesh/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
-## Binary Indexed Tree
-|  |
-| ------- |
-| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/chittoralovesh/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
-## Segment Tree
-|  |
-| ------- |
-| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/chittoralovesh/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
-<!---LeetCode Topics End-->
