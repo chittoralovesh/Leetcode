@@ -469,6 +469,9 @@
     "Reservoir Sampling",
     "Randomized"
   ],
+  "list-the-products-ordered-in-a-period": [
+    "Database"
+  ],
   "longest-balanced-subarray-i": [
     "Array",
     "Hash Table",
