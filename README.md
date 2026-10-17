@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-242-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-243-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-53-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-123-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-124-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-66-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-184%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-185%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-27%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-17%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 242 |
+| **Total problems solved** | 243 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (119), `String` (69), `Math` (58), `Dynamic Programming` (54), `Hash Table` (49) |
-| **Last updated** | 2026-10-16 19:54:29 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (120), `String` (69), `Math` (58), `Dynamic Programming` (54), `Hash Table` (50) |
+| **Last updated** | 2026-10-17 10:16:31 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     53  ████░░░░░░░░░░░░░░░░   21.9%
-🟡 Medium  123  ██████████░░░░░░░░░░   50.8%
-🔴 Hard     66  █████░░░░░░░░░░░░░░░   27.3%
+🟢 Easy     53  ████░░░░░░░░░░░░░░░░   21.8%
+🟡 Medium  124  ██████████░░░░░░░░░░   51.0%
+🔴 Hard     66  █████░░░░░░░░░░░░░░░   27.2%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 119 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 120 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -150,6 +150,7 @@
 | 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
 | 3546 | [Equal Sum Grid Partition I](3546-equal-sum-grid-partition-i) | 🟡 MEDIUM |
 | 3550 | [Smallest Index With Digit Sum Equal To Index](3550-smallest-index-with-digit-sum-equal-to-index) | 🟢 EASY |
+| 3551 | [Minimum Swaps To Sort By Digit Sum](3551-minimum-swaps-to-sort-by-digit-sum) | 🟡 MEDIUM |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
 | 3568 | [Minimum Moves To Clean The Classroom](3568-minimum-moves-to-clean-the-classroom) | 🟡 MEDIUM |
 | 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
@@ -383,7 +384,7 @@
 </details>
 
 <details>
-<summary><b>Hash Table</b> &nbsp;·&nbsp; 49 problem(s)</summary>
+<summary><b>Hash Table</b> &nbsp;·&nbsp; 50 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -428,6 +429,7 @@
 | 3471 | [Find The Largest Almost Missing Integer](3471-find-the-largest-almost-missing-integer) | 🟢 EASY |
 | 3518 | [Smallest Palindromic Rearrangement Ii](3518-smallest-palindromic-rearrangement-ii) | 🔴 HARD |
 | 3532 | [Path Existence Queries In A Graph I](3532-path-existence-queries-in-a-graph-i) | 🟡 MEDIUM |
+| 3551 | [Minimum Swaps To Sort By Digit Sum](3551-minimum-swaps-to-sort-by-digit-sum) | 🟡 MEDIUM |
 | 3568 | [Minimum Moves To Clean The Classroom](3568-minimum-moves-to-clean-the-classroom) | 🟡 MEDIUM |
 | 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM |
 | 3718 | [Smallest Missing Multiple Of K](3718-smallest-missing-multiple-of-k) | 🟡 MEDIUM |
@@ -481,7 +483,7 @@
 </details>
 
 <details>
-<summary><b>Sorting</b> &nbsp;·&nbsp; 30 problem(s)</summary>
+<summary><b>Sorting</b> &nbsp;·&nbsp; 31 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -511,6 +513,7 @@
 | 3414 | [Maximum Score Of Non Overlapping Intervals](3414-maximum-score-of-non-overlapping-intervals) | 🔴 HARD |
 | 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
 | 3536 | [Maximum Product Of Two Digits](3536-maximum-product-of-two-digits) | 🟢 EASY |
+| 3551 | [Minimum Swaps To Sort By Digit Sum](3551-minimum-swaps-to-sort-by-digit-sum) | 🟡 MEDIUM |
 | 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY |
 | 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM |
 | 3727 | [Maximum Alternating Sum Of Squares](3727-maximum-alternating-sum-of-squares) | 🟡 MEDIUM |
@@ -1677,6 +1680,7 @@
 | 3536 | [Maximum Product Of Two Digits](3536-maximum-product-of-two-digits) | 🟢 EASY | Math, Sorting | PY |
 | 3546 | [Equal Sum Grid Partition I](3546-equal-sum-grid-partition-i) | 🟡 MEDIUM | Array, Matrix, Enumeration +1 | PY |
 | 3550 | [Smallest Index With Digit Sum Equal To Index](3550-smallest-index-with-digit-sum-equal-to-index) | 🟢 EASY | Array, Math | PY |
+| 3551 | [Minimum Swaps To Sort By Digit Sum](3551-minimum-swaps-to-sort-by-digit-sum) | 🟡 MEDIUM | Array, Hash Table, Sorting | PY |
 | 3558 | [Number Of Ways To Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i) | 🟡 MEDIUM | Math, Tree, Depth-First Search | CPP |
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD | Array, Math, Dynamic Programming +3 | CPP |
 | 3568 | [Minimum Moves To Clean The Classroom](3568-minimum-moves-to-clean-the-classroom) | 🟡 MEDIUM | Array, Hash Table, Bit Manipulation +2 | PY |
@@ -1726,22 +1730,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-10-16 19:54:29 UTC_
+_Generated on 2026-10-17 10:16:31 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/chittoralovesh/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
-## Hash Table
-|  |
-| ------- |
-| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/chittoralovesh/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
-## Sorting
-|  |
-| ------- |
-| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/chittoralovesh/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
-<!---LeetCode Topics End-->
