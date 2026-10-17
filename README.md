@@ -1733,3 +1733,11 @@ LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 _Generated on 2026-10-17 10:16:31 UTC_
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/chittoralovesh/Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
+<!---LeetCode Topics End-->
