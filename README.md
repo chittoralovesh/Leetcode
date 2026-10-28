@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-185%20solved-3776AB?style=for-the-badge" alt="PY" />
-<img src="https://img.shields.io/badge/CPP-27%20solved-00599C?style=for-the-badge" alt="CPP" />
-<img src="https://img.shields.io/badge/JAVA-17%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
+<img src="https://img.shields.io/badge/PY-186%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/CPP-28%20solved-00599C?style=for-the-badge" alt="CPP" />
+<img src="https://img.shields.io/badge/JAVA-15%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
 
 
@@ -29,7 +29,7 @@
 | **Total problems solved** | 244 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (120), `String` (69), `Math` (58), `Dynamic Programming` (54), `Hash Table` (50) |
-| **Last updated** | 2026-10-17 10:18:40 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-10-28 04:57:45 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
@@ -1630,11 +1630,11 @@
 | 1807 | [Evaluate The Bracket Pairs Of A String](1807-evaluate-the-bracket-pairs-of-a-string) | 🟡 MEDIUM | Array, Hash Table, String | PY |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM | Array, Greedy, Sorting +1 | PY |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD | Array, Math, Sorting | PY |
-| 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM | Array, Greedy, Sorting | JAVA |
+| 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM | Array, Greedy, Sorting | PY |
 | 1872 | [Stone Game Viii](1872-stone-game-viii) | 🔴 HARD | Array, Math, Dynamic Programming +4 | PY |
 | 1927 | [Sum Game](1927-sum-game) | 🟡 MEDIUM | Math, String, Greedy +1 | PY |
 | 1967 | [Number Of Strings That Appear As Substrings In Word](1967-number-of-strings-that-appear-as-substrings-in-word) | 🟢 EASY | Array, String | JAVA |
-| 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array) | 🟢 EASY | Array, Math, Number Theory | JAVA |
+| 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array) | 🟢 EASY | Array, Math, Number Theory | PY |
 | 2029 | [Stone Game Ix](2029-stone-game-ix) | 🟡 MEDIUM | Array, Math, Greedy +5 | PY |
 | 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM | Linked List, Two Pointers | PY |
 | 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM | String, Simulation | PY |
@@ -1691,7 +1691,7 @@
 | 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD | Array, Binary Search, Dynamic Programming +4 | CPP |
 | 3622 | [Check Divisibility By Digit Sum And Product](3622-check-divisibility-by-digit-sum-and-product) | 🟢 EASY | Math | PY |
 | 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation) | 🟡 MEDIUM | Array, Hash Table, Math +2 | PY |
-| 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY | Array, Two Pointers, Binary Search +2 | PY |
+| 3633 | [Earliest Finish Time For Land And Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i) | 🟢 EASY | Array, Two Pointers, Binary Search +2 | CPP |
 | 3635 | [Earliest Finish Time For Land And Water Rides Ii](3635-earliest-finish-time-for-land-and-water-rides-ii) | 🟡 MEDIUM | Array, Two Pointers, Binary Search +2 | CPP |
 | 3658 | [Gcd Of Odd And Even Sums](3658-gcd-of-odd-and-even-sums) | 🟢 EASY | Math, Number Theory | PY |
 | 3660 | [Jump Game Ix](3660-jump-game-ix) | 🟡 MEDIUM | Array, Dynamic Programming | PY |
@@ -1732,6 +1732,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-10-17 10:18:40 UTC_
+_Generated on 2026-10-28 04:57:45 UTC_
 
 </div>
