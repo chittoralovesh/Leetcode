@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-187%20solved-3776AB?style=for-the-badge" alt="PY" />
-<img src="https://img.shields.io/badge/CPP-26%20solved-00599C?style=for-the-badge" alt="CPP" />
+<img src="https://img.shields.io/badge/PY-185%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/CPP-28%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-16%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
 
@@ -29,7 +29,7 @@
 | **Total problems solved** | 244 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (120), `String` (69), `Math` (58), `Dynamic Programming` (54), `Hash Table` (50) |
-| **Last updated** | 2026-10-29 05:10:03 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-11-06 05:54:27 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
@@ -1479,7 +1479,7 @@
 | 0001 | [Two Sum](0001-two-sum) | 🟢 EASY | Array, Hash Table | JAVA |
 | 0002 | [Add Two Numbers](0002-add-two-numbers) | 🟡 MEDIUM | Linked List, Math, Recursion | PY |
 | 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters) | 🟡 MEDIUM | Hash Table, String, Sliding Window | JAVA |
-| 0004 | [Median Of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 HARD | Array, Binary Search, Divide and Conquer | PY |
+| 0004 | [Median Of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 HARD | Array, Binary Search, Divide and Conquer | CPP |
 | 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring) | 🟡 MEDIUM | Two Pointers, String, Dynamic Programming | CPP |
 | 0006 | [Zigzag Conversion](0006-zigzag-conversion) | 🟡 MEDIUM | String | CPP |
 | 0007 | [Reverse Integer](0007-reverse-integer) | 🟡 MEDIUM | Math | CPP |
@@ -1665,7 +1665,7 @@
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM | Array, Breadth-First Search, Graph Theory +3 | CPP |
 | 3302 | [Find The Lexicographically Smallest Valid Sequence](3302-find-the-lexicographically-smallest-valid-sequence) | 🟡 MEDIUM | Two Pointers, String, Dynamic Programming +1 | PY |
 | 3310 | [Remove Methods From Project](3310-remove-methods-from-project) | 🟡 MEDIUM | Depth-First Search, Breadth-First Search, Graph Theory | PY |
-| 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD | Array, Hash Table, Math +5 | PY |
+| 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD | Array, Hash Table, Math +5 | CPP |
 | 3345 | [Smallest Divisible Digit Product I](3345-smallest-divisible-digit-product-i) | 🟢 EASY | Math, Enumeration | PY |
 | 3348 | [Smallest Divisible Digit Product Ii](3348-smallest-divisible-digit-product-ii) | 🔴 HARD | Math, String, Backtracking +2 | PY |
 | 3414 | [Maximum Score Of Non Overlapping Intervals](3414-maximum-score-of-non-overlapping-intervals) | 🔴 HARD | Array, Binary Search, Dynamic Programming +1 | PY |
@@ -1732,6 +1732,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-10-29 05:10:03 UTC_
+_Generated on 2026-11-06 05:54:27 UTC_
 
 </div>
