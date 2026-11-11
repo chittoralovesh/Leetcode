@@ -5,14 +5,14 @@
 ### A continuously growing, auto-tracked collection of solved problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-244-5865F2?style=for-the-badge" alt="Total Solved" />
+<img src="https://img.shields.io/badge/Total%20Solved-245-5865F2?style=for-the-badge" alt="Total Solved" />
 <img src="https://img.shields.io/badge/Easy-54-2ECC71?style=for-the-badge" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-124-F1C40F?style=for-the-badge" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-125-F1C40F?style=for-the-badge" alt="Medium" />
 <img src="https://img.shields.io/badge/Hard-66-E74C3C?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PY-185%20solved-3776AB?style=for-the-badge" alt="PY" />
+<img src="https://img.shields.io/badge/PY-186%20solved-3776AB?style=for-the-badge" alt="PY" />
 <img src="https://img.shields.io/badge/CPP-28%20solved-00599C?style=for-the-badge" alt="CPP" />
 <img src="https://img.shields.io/badge/JAVA-16%20solved-ED8B00?style=for-the-badge" alt="JAVA" />
 </p>
@@ -26,17 +26,17 @@
 
 | | |
 |---|---|
-| **Total problems solved** | 244 |
+| **Total problems solved** | 245 |
 | **Languages used** | CPP, JAVA, PY |
-| **Most-practiced topics** | `Array` (120), `String` (69), `Math` (58), `Dynamic Programming` (54), `Hash Table` (50) |
-| **Last updated** | 2026-11-06 05:54:27 UTC (auto via GitHub Actions) |
+| **Most-practiced topics** | `Array` (121), `String` (70), `Math` (58), `Dynamic Programming` (54), `Hash Table` (50) |
+| **Last updated** | 2026-11-11 07:19:08 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
 ```text
-🟢 Easy     54  ████░░░░░░░░░░░░░░░░   22.1%
-🟡 Medium  124  ██████████░░░░░░░░░░   50.8%
-🔴 Hard     66  █████░░░░░░░░░░░░░░░   27.0%
+🟢 Easy     54  ████░░░░░░░░░░░░░░░░   22.0%
+🟡 Medium  125  ██████████░░░░░░░░░░   51.0%
+🔴 Hard     66  █████░░░░░░░░░░░░░░░   26.9%
 ```
 
 
@@ -47,7 +47,7 @@
 <sub>Click a topic to expand its problem list.</sub>
 
 <details>
-<summary><b>Array</b> &nbsp;·&nbsp; 120 problem(s)</summary>
+<summary><b>Array</b> &nbsp;·&nbsp; 121 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -83,6 +83,7 @@
 | 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 MEDIUM |
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD |
+| 0399 | [Evaluate Division](0399-evaluate-division) | 🟡 MEDIUM |
 | 0407 | [Trapping Rain Water Ii](0407-trapping-rain-water-ii) | 🔴 HARD |
 | 0446 | [Arithmetic Slices Ii Subsequence](0446-arithmetic-slices-ii-subsequence) | 🔴 HARD |
 | 0480 | [Sliding Window Median](0480-sliding-window-median) | 🔴 HARD |
@@ -176,7 +177,7 @@
 </details>
 
 <details>
-<summary><b>String</b> &nbsp;·&nbsp; 69 problem(s)</summary>
+<summary><b>String</b> &nbsp;·&nbsp; 70 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -206,6 +207,7 @@
 | 0301 | [Remove Invalid Parentheses](0301-remove-invalid-parentheses) | 🔴 HARD |
 | 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
 | 0392 | [Is Subsequence](0392-is-subsequence) | 🟢 EASY |
+| 0399 | [Evaluate Division](0399-evaluate-division) | 🟡 MEDIUM |
 | 0405 | [Convert A Number To Hexadecimal](0405-convert-a-number-to-hexadecimal) | 🟢 EASY |
 | 0409 | [Longest Palindrome](0409-longest-palindrome) | 🟢 EASY |
 | 0466 | [Count The Repetitions](0466-count-the-repetitions) | 🔴 HARD |
@@ -583,7 +585,7 @@
 </details>
 
 <details>
-<summary><b>Breadth-First Search</b> &nbsp;·&nbsp; 19 problem(s)</summary>
+<summary><b>Breadth-First Search</b> &nbsp;·&nbsp; 20 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -595,6 +597,7 @@
 | 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
 | 0301 | [Remove Invalid Parentheses](0301-remove-invalid-parentheses) | 🔴 HARD |
 | 0365 | [Water And Jug Problem](0365-water-and-jug-problem) | 🟡 MEDIUM |
+| 0399 | [Evaluate Division](0399-evaluate-division) | 🟡 MEDIUM |
 | 0407 | [Trapping Rain Water Ii](0407-trapping-rain-water-ii) | 🔴 HARD |
 | 0529 | [Minesweeper](0529-minesweeper) | 🟡 MEDIUM |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
@@ -689,7 +692,7 @@
 </details>
 
 <details>
-<summary><b>Depth-First Search</b> &nbsp;·&nbsp; 15 problem(s)</summary>
+<summary><b>Depth-First Search</b> &nbsp;·&nbsp; 16 problem(s)</summary>
 
 
 | # | Problem | Difficulty |
@@ -701,6 +704,7 @@
 | 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
 | 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
 | 0365 | [Water And Jug Problem](0365-water-and-jug-problem) | 🟡 MEDIUM |
+| 0399 | [Evaluate Division](0399-evaluate-division) | 🟡 MEDIUM |
 | 0529 | [Minesweeper](0529-minesweeper) | 🟡 MEDIUM |
 | 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
 | 2265 | [Count Nodes Equal To Average Of Subtree](2265-count-nodes-equal-to-average-of-subtree) | 🟡 MEDIUM |
@@ -916,6 +920,24 @@
 </details>
 
 <details>
+<summary><b>Graph Theory</b> &nbsp;·&nbsp; 9 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
+| 0399 | [Evaluate Division](0399-evaluate-division) | 🟡 MEDIUM |
+| 2492 | [Minimum Score Of A Path Between Two Cities](2492-minimum-score-of-a-path-between-two-cities) | 🟡 MEDIUM |
+| 2685 | [Count The Number Of Complete Components](2685-count-the-number-of-complete-components) | 🟡 MEDIUM |
+| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
+| 3310 | [Remove Methods From Project](3310-remove-methods-from-project) | 🟡 MEDIUM |
+| 3532 | [Path Existence Queries In A Graph I](3532-path-existence-queries-in-a-graph-i) | 🟡 MEDIUM |
+| 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
+| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Bit Manipulation</b> &nbsp;·&nbsp; 9 problem(s)</summary>
 
 
@@ -930,23 +952,6 @@
 | 3559 | [Number Of Ways To Assign Edge Weights Ii](3559-number-of-ways-to-assign-edge-weights-ii) | 🔴 HARD |
 | 3568 | [Minimum Moves To Clean The Classroom](3568-minimum-moves-to-clean-the-classroom) | 🟡 MEDIUM |
 | 3702 | [Longest Subsequence With Non Zero Bitwise Xor](3702-longest-subsequence-with-non-zero-bitwise-xor) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Graph Theory</b> &nbsp;·&nbsp; 8 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0332 | [Reconstruct Itinerary](0332-reconstruct-itinerary) | 🔴 HARD |
-| 2492 | [Minimum Score Of A Path Between Two Cities](2492-minimum-score-of-a-path-between-two-cities) | 🟡 MEDIUM |
-| 2685 | [Count The Number Of Complete Components](2685-count-the-number-of-complete-components) | 🟡 MEDIUM |
-| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
-| 3310 | [Remove Methods From Project](3310-remove-methods-from-project) | 🟡 MEDIUM |
-| 3532 | [Path Existence Queries In A Graph I](3532-path-existence-queries-in-a-graph-i) | 🟡 MEDIUM |
-| 3534 | [Path Existence Queries In A Graph Ii](3534-path-existence-queries-in-a-graph-ii) | 🔴 HARD |
-| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
 
 </details>
 
@@ -1016,6 +1021,22 @@
 </details>
 
 <details>
+<summary><b>Union-Find</b> &nbsp;·&nbsp; 7 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
+| 0399 | [Evaluate Division](0399-evaluate-division) | 🟡 MEDIUM |
+| 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
+| 2492 | [Minimum Score Of A Path Between Two Cities](2492-minimum-score-of-a-path-between-two-cities) | 🟡 MEDIUM |
+| 2685 | [Count The Number Of Complete Components](2685-count-the-number-of-complete-components) | 🟡 MEDIUM |
+| 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
+| 3532 | [Path Existence Queries In A Graph I](3532-path-existence-queries-in-a-graph-i) | 🟡 MEDIUM |
+
+</details>
+
+<details>
 <summary><b>Number Theory</b> &nbsp;·&nbsp; 7 problem(s)</summary>
 
 
@@ -1044,21 +1065,6 @@
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](3720-lexicographically-smallest-permutation-greater-than-target) | 🟡 MEDIUM |
 | 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](3734-lexicographically-smallest-palindromic-permutation-greater-than-target) | 🔴 HARD |
 | 3751 | [Total Waviness Of Numbers In Range I](3751-total-waviness-of-numbers-in-range-i) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Union-Find</b> &nbsp;·&nbsp; 6 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 0200 | [Number Of Islands](0200-number-of-islands) | 🟡 MEDIUM |
-| 0839 | [Similar String Groups](0839-similar-string-groups) | 🔴 HARD |
-| 2492 | [Minimum Score Of A Path Between Two Cities](2492-minimum-score-of-a-path-between-two-cities) | 🟡 MEDIUM |
-| 2685 | [Count The Number Of Complete Components](2685-count-the-number-of-complete-components) | 🟡 MEDIUM |
-| 2812 | [Find The Safest Path In A Grid](2812-find-the-safest-path-in-a-grid) | 🟡 MEDIUM |
-| 3532 | [Path Existence Queries In A Graph I](3532-path-existence-queries-in-a-graph-i) | 🟡 MEDIUM |
 
 </details>
 
@@ -1202,6 +1208,18 @@
 </details>
 
 <details>
+<summary><b>Shortest Path</b> &nbsp;·&nbsp; 3 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0399 | [Evaluate Division](0399-evaluate-division) | 🟡 MEDIUM |
+| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
+| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
+
+</details>
+
+<details>
 <summary><b>Queue</b> &nbsp;·&nbsp; 3 problem(s)</summary>
 
 
@@ -1265,17 +1283,6 @@
 |---|---|---|
 | 1510 | [Stone Game Iv](1510-stone-game-iv) | 🔴 HARD |
 | 2029 | [Stone Game Ix](2029-stone-game-ix) | 🟡 MEDIUM |
-
-</details>
-
-<details>
-<summary><b>Shortest Path</b> &nbsp;·&nbsp; 2 problem(s)</summary>
-
-
-| # | Problem | Difficulty |
-|---|---|---|
-| 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM |
-| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways) | 🔴 HARD |
 
 </details>
 
@@ -1376,6 +1383,26 @@
 | # | Problem | Difficulty |
 |---|---|---|
 | 0382 | [Linked List Random Node](0382-linked-list-random-node) | 🟡 MEDIUM |
+
+</details>
+
+<details>
+<summary><b>Bellman–Ford Algorithm</b> &nbsp;·&nbsp; 1 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0399 | [Evaluate Division](0399-evaluate-division) | 🟡 MEDIUM |
+
+</details>
+
+<details>
+<summary><b>Floyd–Warshall Algorithm</b> &nbsp;·&nbsp; 1 problem(s)</summary>
+
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 0399 | [Evaluate Division](0399-evaluate-division) | 🟡 MEDIUM |
 
 </details>
 
@@ -1554,6 +1581,7 @@
 | 0382 | [Linked List Random Node](0382-linked-list-random-node) | 🟡 MEDIUM | Linked List, Math, Reservoir Sampling +1 | PY |
 | 0391 | [Perfect Rectangle](0391-perfect-rectangle) | 🔴 HARD | Array, Hash Table, Math +2 | PY |
 | 0392 | [Is Subsequence](0392-is-subsequence) | 🟢 EASY | Two Pointers, String, Dynamic Programming | PY |
+| 0399 | [Evaluate Division](0399-evaluate-division) | 🟡 MEDIUM | Array, String, Depth-First Search +6 | PY |
 | 0400 | [Nth Digit](0400-nth-digit) | 🟡 MEDIUM | Math, Binary Search | PY |
 | 0405 | [Convert A Number To Hexadecimal](0405-convert-a-number-to-hexadecimal) | 🟢 EASY | Math, String, Bit Manipulation | PY |
 | 0407 | [Trapping Rain Water Ii](0407-trapping-rain-water-ii) | 🔴 HARD | Array, Breadth-First Search, Heap (Priority Queue) +1 | PY |
@@ -1732,46 +1760,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-11-06 05:54:27 UTC_
+_Generated on 2026-11-11 07:19:08 UTC_
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0399-evaluate-division](https://github.com/chittoralovesh/Leetcode/tree/master/0399-evaluate-division) |
-## String
-|  |
-| ------- |
-| [0399-evaluate-division](https://github.com/chittoralovesh/Leetcode/tree/master/0399-evaluate-division) |
-## Depth-First Search
-|  |
-| ------- |
-| [0399-evaluate-division](https://github.com/chittoralovesh/Leetcode/tree/master/0399-evaluate-division) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0399-evaluate-division](https://github.com/chittoralovesh/Leetcode/tree/master/0399-evaluate-division) |
-## Union-Find
-|  |
-| ------- |
-| [0399-evaluate-division](https://github.com/chittoralovesh/Leetcode/tree/master/0399-evaluate-division) |
-## Graph Theory
-|  |
-| ------- |
-| [0399-evaluate-division](https://github.com/chittoralovesh/Leetcode/tree/master/0399-evaluate-division) |
-## Shortest Path
-|  |
-| ------- |
-| [0399-evaluate-division](https://github.com/chittoralovesh/Leetcode/tree/master/0399-evaluate-division) |
-## Bellman–Ford Algorithm
-|  |
-| ------- |
-| [0399-evaluate-division](https://github.com/chittoralovesh/Leetcode/tree/master/0399-evaluate-division) |
-## Floyd–Warshall Algorithm
-|  |
-| ------- |
-| [0399-evaluate-division](https://github.com/chittoralovesh/Leetcode/tree/master/0399-evaluate-division) |
-<!---LeetCode Topics End-->

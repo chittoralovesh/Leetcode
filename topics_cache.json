@@ -285,6 +285,17 @@
     "Enumeration",
     "Prefix Sum"
   ],
+  "evaluate-division": [
+    "Array",
+    "String",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory",
+    "Shortest Path",
+    "Bellman\u2013Ford Algorithm",
+    "Floyd\u2013Warshall Algorithm"
+  ],
   "evaluate-the-bracket-pairs-of-a-string": [
     "Array",
     "Hash Table",
