@@ -29,7 +29,7 @@
 | **Total problems solved** | 245 |
 | **Languages used** | CPP, JAVA, PY |
 | **Most-practiced topics** | `Array` (121), `String` (70), `Math` (58), `Dynamic Programming` (54), `Hash Table` (50) |
-| **Last updated** | 2026-11-21 06:29:23 UTC (auto via GitHub Actions) |
+| **Last updated** | 2026-11-22 05:58:14 UTC (auto via GitHub Actions) |
 
 ### Difficulty split
 
@@ -1506,7 +1506,7 @@
 | 0001 | [Two Sum](0001-two-sum) | 🟢 EASY | Array, Hash Table | JAVA |
 | 0002 | [Add Two Numbers](0002-add-two-numbers) | 🟡 MEDIUM | Linked List, Math, Recursion | PY |
 | 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters) | 🟡 MEDIUM | Hash Table, String, Sliding Window | JAVA |
-| 0004 | [Median Of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 HARD | Array, Binary Search, Divide and Conquer | CPP |
+| 0004 | [Median Of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 HARD | Array, Binary Search, Divide and Conquer | PY |
 | 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring) | 🟡 MEDIUM | Two Pointers, String, Dynamic Programming | CPP |
 | 0006 | [Zigzag Conversion](0006-zigzag-conversion) | 🟡 MEDIUM | String | CPP |
 | 0007 | [Reverse Integer](0007-reverse-integer) | 🟡 MEDIUM | Math | CPP |
@@ -1658,11 +1658,11 @@
 | 1807 | [Evaluate The Bracket Pairs Of A String](1807-evaluate-the-bracket-pairs-of-a-string) | 🟡 MEDIUM | Array, Hash Table, String | PY |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars) | 🟡 MEDIUM | Array, Greedy, Sorting +1 | PY |
 | 1840 | [Maximum Building Height](1840-maximum-building-height) | 🔴 HARD | Array, Math, Sorting | PY |
-| 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM | Array, Greedy, Sorting | PY |
+| 1846 | [Maximum Element After Decreasing And Rearranging](1846-maximum-element-after-decreasing-and-rearranging) | 🟡 MEDIUM | Array, Greedy, Sorting | JAVA |
 | 1872 | [Stone Game Viii](1872-stone-game-viii) | 🔴 HARD | Array, Math, Dynamic Programming +4 | PY |
 | 1927 | [Sum Game](1927-sum-game) | 🟡 MEDIUM | Math, String, Greedy +1 | PY |
 | 1967 | [Number Of Strings That Appear As Substrings In Word](1967-number-of-strings-that-appear-as-substrings-in-word) | 🟢 EASY | Array, String | JAVA |
-| 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array) | 🟢 EASY | Array, Math, Number Theory | JAVA |
+| 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array) | 🟢 EASY | Array, Math, Number Theory | PY |
 | 2029 | [Stone Game Ix](2029-stone-game-ix) | 🟡 MEDIUM | Array, Math, Greedy +5 | PY |
 | 2095 | [Delete The Middle Node Of A Linked List](2095-delete-the-middle-node-of-a-linked-list) | 🟡 MEDIUM | Linked List, Two Pointers | PY |
 | 2120 | [Execution Of All Suffix Instructions Staying In A Grid](2120-execution-of-all-suffix-instructions-staying-in-a-grid) | 🟡 MEDIUM | String, Simulation | PY |
@@ -1693,7 +1693,7 @@
 | 3286 | [Find A Safe Walk Through A Grid](3286-find-a-safe-walk-through-a-grid) | 🟡 MEDIUM | Array, Breadth-First Search, Graph Theory +3 | CPP |
 | 3302 | [Find The Lexicographically Smallest Valid Sequence](3302-find-the-lexicographically-smallest-valid-sequence) | 🟡 MEDIUM | Two Pointers, String, Dynamic Programming +1 | PY |
 | 3310 | [Remove Methods From Project](3310-remove-methods-from-project) | 🟡 MEDIUM | Depth-First Search, Breadth-First Search, Graph Theory | PY |
-| 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD | Array, Hash Table, Math +5 | PY |
+| 3312 | [Sorted Gcd Pair Queries](3312-sorted-gcd-pair-queries) | 🔴 HARD | Array, Hash Table, Math +5 | CPP |
 | 3345 | [Smallest Divisible Digit Product I](3345-smallest-divisible-digit-product-i) | 🟢 EASY | Math, Enumeration | PY |
 | 3348 | [Smallest Divisible Digit Product Ii](3348-smallest-divisible-digit-product-ii) | 🔴 HARD | Math, String, Backtracking +2 | PY |
 | 3414 | [Maximum Score Of Non Overlapping Intervals](3414-maximum-score-of-non-overlapping-intervals) | 🔴 HARD | Array, Binary Search, Dynamic Programming +1 | PY |
@@ -1760,6 +1760,6 @@ This file is regenerated automatically by a GitHub Actions workflow every time a
 solution is pushed (and on a daily schedule). Topic tags are pulled live from
 LeetCode's API and cached in `topics_cache.json` so repeat runs are fast.
 
-_Generated on 2026-11-21 06:29:23 UTC_
+_Generated on 2026-11-22 05:58:14 UTC_
 
 </div>
